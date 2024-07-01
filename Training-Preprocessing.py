@@ -4,6 +4,7 @@ import numpy as np
 import re
 import string
 
+import nltk
 from nltk.tokenize import WordPunctTokenizer
 from nltk.data import LazyLoader
 from nltk.stem.porter import PorterStemmer
@@ -19,12 +20,12 @@ from utils.featureutils import FeatureProcessor, find_closest
 warnings.filterwarnings('ignore')
 
 def main():
-     # Download NLTK stopwords
+    # Download NLTK stopwords
     nltk.download('stopwords')
     
     # Set up paths and configurations
     current_directory = os.getcwd()
-    root = os.path.join(current_directory, "Data_Training_Minutes")
+    root = os.path.join(current_directory, "Minutes")
     word_tokenizer = WordPunctTokenizer()
     sent_tokenizer = LazyLoader("tokenizers/punkt/english.pickle")
     category_pattern = r'(\d{4})/*'
