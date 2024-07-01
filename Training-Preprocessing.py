@@ -12,30 +12,19 @@ from nltk.corpus import stopwords
 from sklearn.decomposition import LatentDirichletAllocation
 from sklearn.feature_extraction.text import CountVectorizer
 import warnings
-import sys
+
+from utils.corpusutils import CorpusPreProcess
+from utils.featureutils import FeatureProcessor, find_closest
 
 warnings.filterwarnings('ignore')
 
-# Adjust Python path to include the utils directory and the project directory
-sys.path.append('/content/drive/MyDrive/Capstone - NY FED/Final-Capstone-FEDNY')
-sys.path.append('/content/drive/MyDrive/Capstone - NY FED/Final-Capstone-FEDNY/utils')
-
-# Verify the files in the utils directory
-utils_path = '/content/drive/MyDrive/Capstone - NY FED/Final-Capstone-FEDNY/utils'
-print("Files in utils directory:")
-print(os.listdir(utils_path))
-
-# Import necessary utilities
-from corpusutils import CorpusPreProcess, Document, Corpus
-from featureutils import FeatureProcessor, find_closest
-
 def main():
-    # Download NLTK stopwords
+     # Download NLTK stopwords
     nltk.download('stopwords')
     
     # Set up paths and configurations
     current_directory = os.getcwd()
-    root = os.path.join(current_directory, "Minutes")
+    root = os.path.join(current_directory, "Data_Training_Minutes")
     word_tokenizer = WordPunctTokenizer()
     sent_tokenizer = LazyLoader("tokenizers/punkt/english.pickle")
     category_pattern = r'(\d{4})/*'
