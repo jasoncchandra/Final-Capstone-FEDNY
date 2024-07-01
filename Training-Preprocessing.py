@@ -19,6 +19,9 @@ from utils.featureutils import FeatureProcessor, find_closest
 warnings.filterwarnings('ignore')
 
 def main():
+     # Download NLTK stopwords
+    nltk.download('stopwords')
+    
     # Set up paths and configurations
     current_directory = os.getcwd()
     root = os.path.join(current_directory, "Data_Training_Minutes")
