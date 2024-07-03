@@ -1,0 +1,7 @@
+Flask
+pyngrok
+pandas
+nltk
+scikit-learn
+requests
+streamlit
