@@ -3,7 +3,6 @@ import re
 import string
 from nltk.tokenize import WordPunctTokenizer
 from nltk.data import LazyLoader
-from nltk.stem import PorterStemmer
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
 
@@ -18,9 +17,9 @@ def preprocess_text(text):
     # Initialize NLP tools
     word_tokenizer = WordPunctTokenizer()
     sent_tokenizer = LazyLoader("tokenizers/punkt/english.pickle")
-    stemmer = PorterStemmer()
     lemmatizer = WordNetLemmatizer()
-    stop_words = set(stopwords.words('english') + list(string.punctuation) + ['u','.','s','--','-','."',',"','.)',')-','".','—','),'])
+    stop_words = set(stopwords.words('english')) - {'.'}
+    punctuation = set(string.punctuation) - {'.'}
 
     # Tokenize sentences
     sentences = sent_tokenizer.tokenize(text)
@@ -30,11 +29,10 @@ def preprocess_text(text):
         # Tokenize words
         words = word_tokenizer.tokenize(sentence)
         
-        # Remove stop words and punctuation
-        words = [word for word in words if word.lower() not in stop_words]
+        # Remove stop words and punctuation (except full stops)
+        words = [word for word in words if word.lower() not in stop_words and word not in punctuation]
         
-        # Stemming and lemmatization
-        words = [stemmer.stem(word) for word in words]
+        # Lemmatization
         words = [lemmatizer.lemmatize(word) for word in words]
         
         cleaned_sentences.append(" ".join(words))
