@@ -3,6 +3,8 @@ import re
 import os
 import string
 import joblib
+import matplotlib.pyplot as plt
+import seaborn as sns
 from nltk.tokenize import WordPunctTokenizer
 from nltk.data import LazyLoader
 from nltk.stem import WordNetLemmatizer
@@ -64,6 +66,41 @@ def infer_topics(text):
     topic_distribution = lda_model.transform(text_vectorized)
     return topic_distribution
 
+def plot_topic_distribution(topic_distribution, topic_dict):
+    # Bar plot for topic distribution
+    topics = list(topic_dict.values())
+    scores = topic_distribution[0]
+
+    fig, ax = plt.subplots()
+    sns.barplot(x=scores, y=topics, ax=ax)
+    ax.set_title('Topic Distribution')
+    ax.set_xlabel('Score')
+    ax.set_ylabel('Topics')
+
+    st.pyplot(fig)
+
+def plot_word_clouds(lda_model, vectorizer, topic_dict):
+    from wordcloud import WordCloud
+
+    feature_names = vectorizer.get_feature_names_out()
+    fig, axes = plt.subplots(1, 3, figsize=(15, 5), sharex=True, sharey=True)
+
+    for idx, topic in enumerate(topic_dict.keys()):
+        wordcloud = WordCloud(
+            width=800,
+            height=400,
+            background_color='white',
+            max_words=10,
+            contour_color='steelblue'
+        ).generate_from_frequencies(
+            {feature_names[i]: lda_model.components_[topic, i] for i in lda_model.components_[topic].argsort()[:-11:-1]}
+        )
+        axes[idx].imshow(wordcloud, interpolation='bilinear')
+        axes[idx].set_title(topic_dict[topic])
+        axes[idx].axis('off')
+
+    st.pyplot(fig)
+
 # Streamlit app
 st.title('Text Preprocessing and Topic Modeling App')
 
@@ -97,6 +134,13 @@ if uploaded_file is not None:
 
         for idx, score in enumerate(topic_distribution[0]):
             st.write(f"Topic {idx} ({topic_dict.get(idx, 'Unknown')}): {score:.4f}")
+
+        # Plot topic distribution
+        plot_topic_distribution(topic_distribution, topic_dict)
+
+        # Plot word clouds for each topic
+        st.subheader('Word Clouds for Each Topic')
+        plot_word_clouds(lda_model, vectorizer, topic_dict)
 
     except Exception as e:
         st.error(f"An error occurred while processing the file: {e}")
