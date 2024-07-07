@@ -101,48 +101,117 @@ def plot_word_clouds(lda_model, vectorizer, topic_dict):
 
     st.pyplot(fig)
 
+def plot_coherence_scores(coherence_scores):
+    num_topics = list(coherence_scores.keys())
+    scores = list(coherence_scores.values())
+
+    fig, ax = plt.subplots()
+    ax.plot(num_topics, scores, marker='o')
+    ax.set_title('Coherence Scores by Number of Topics')
+    ax.set_xlabel('Number of Topics')
+    ax.set_ylabel('Coherence Score')
+    ax.grid(True)
+
+    st.pyplot(fig)
+
 # Streamlit app
-st.title('Text Preprocessing and Topic Modeling App')
+st.title('VIX Predictor via Text')
 
-# File uploader
-uploaded_file = st.file_uploader("Upload a text file", type=["txt"])
+# Sidebar for navigation
+st.sidebar.title('Navigation')
+page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'Topic Inference'])
 
-if uploaded_file is not None:
-    try:
-        # Read file
-        text = uploaded_file.read().decode("utf-8")
+# Introduction Page
+if page == 'Introduction':
+    st.header('Welcome to the VIX Predictor via Text')
+    st.write('This application uses Latent Dirichlet Allocation (LDA) to perform topic modeling on textual data. '
+             'It helps in understanding the themes present in the text and how they relate to different economic indicators, '
+             'financial institutions, and monetary policies.')
 
-        # Preprocess text
-        cleaned_text = preprocess_text(text)
+# Training Process Page
+elif page == 'Training Process':
+    st.header('Training Process')
+    st.write('We use Latent Dirichlet Allocation (LDA) to identify topics in the text data. Here are the coherence scores for different numbers of topics:')
 
-        # Infer topics
-        topic_distribution = infer_topics(text)
+    coherence_scores = {
+        3: 0.09004151822108149,
+        4: 0.0046645116832365555,
+        5: -0.0045957082288738925,
+        6: 0.0017441943397127069,
+        7: 0.008529514229556334,
+        8: 0.01629442206421782,
+        9: -0.011536801725663837
+    }
 
-        # Display cleaned text
-        st.subheader('Cleaned Text')
-        st.write(cleaned_text)
+    for num_topics, score in coherence_scores.items():
+        st.write(f"Num Topics = {num_topics}, Coherence Score = {score}")
 
-        # Display topic distribution
-        st.subheader('Topic Distribution')
+    st.write("Based on the coherence scores, we decided to use 3 topics. Here are the topics and their top words:")
 
-        # Assuming you have a mapping of topics for the 3-topic model
-        topic_dict = {
-            0: 'Economic Indicators',
-            1: 'Financial Institutions',
-            2: 'Monetary Policy'
-        }
+    topics_3 = {
+        "Topic 0": ['inflation', 'rate', 'committee', 'economic', 'price', 'participant', 'policy', 'federal', 'growth', 'quarter'],
+        "Topic 1": ['bank', 'financial', 'risk', 'reserve', 'federal', 'banking', 'institution', 'credit', 'community', 'capital'],
+        "Topic 2": ['rate', 'policy', 'inflation', 'price', 'economy', 'growth', 'monetary', 'economic', 'productivity', 'term']
+    }
 
-        for idx, score in enumerate(topic_distribution[0]):
-            st.write(f"Topic {idx} ({topic_dict.get(idx, 'Unknown')}): {score:.4f}")
+    for topic, words in topics_3.items():
+        st.write(f"{topic}: {', '.join(words)}")
 
-        # Plot topic distribution
-        plot_topic_distribution(topic_distribution, topic_dict)
+    # Plot coherence scores
+    st.subheader('Coherence Scores Graph')
+    plot_coherence_scores(coherence_scores)
 
-        # Plot word clouds for each topic
-        st.subheader('Word Clouds for Each Topic')
-        plot_word_clouds(lda_model, vectorizer, topic_dict)
+    # Plot word clouds for each topic
+    st.subheader('Word Clouds for Each Topic')
+    topic_dict = {0: 'Economic Indicators', 1: 'Financial Institutions', 2: 'Monetary Policy'}
+    plot_word_clouds(lda_model, vectorizer, topic_dict)
 
-    except Exception as e:
-        st.error(f"An error occurred while processing the file: {e}")
-else:
-    st.info("Please upload a text file to preprocess.")
+# Topic Inference Page
+elif page == 'Topic Inference':
+    st.header('Topic Inference')
+
+    # File uploader with progress bar
+    uploaded_file = st.file_uploader("Upload a text file", type=["txt"])
+    progress_bar = st.progress(0)
+
+    if uploaded_file is not None:
+        try:
+            # Read file
+            progress_bar.progress(10)
+            text = uploaded_file.read().decode("utf-8")
+            progress_bar.progress(30)
+
+            # Preprocess text
+            cleaned_text = preprocess_text(text)
+            progress_bar.progress(50)
+
+            # Infer topics
+            topic_distribution = infer_topics(text)
+            progress_bar.progress(70)
+
+            # Display cleaned text
+            st.subheader('Cleaned Text')
+            st.write(cleaned_text)
+            progress_bar.progress(80)
+
+            # Display topic distribution
+            st.subheader('Topic Distribution')
+
+            topic_dict = {
+                0: 'Economic Indicators',
+                1: 'Financial Institutions',
+                2: 'Monetary Policy'
+            }
+
+            for idx, score in enumerate(topic_distribution[0]):
+                st.write(f"Topic {idx} ({topic_dict.get(idx, 'Unknown')}): {score:.4f}")
+
+            # Plot topic distribution
+            plot_topic_distribution(topic_distribution, topic_dict)
+            progress_bar.progress(100)
+
+        except Exception as e:
+            st.error(f"An error occurred while processing the file: {e}")
+            progress_bar.empty()
+    else:
+        st.info("Please upload a text file to preprocess.")
