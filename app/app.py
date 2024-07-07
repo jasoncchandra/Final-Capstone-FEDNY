@@ -5,6 +5,8 @@ import string
 import joblib
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pandas as pd
+import plotly.express as px
 from nltk.tokenize import WordPunctTokenizer
 from nltk.data import LazyLoader
 from nltk.stem import WordNetLemmatizer
@@ -114,12 +116,23 @@ def plot_coherence_scores(coherence_scores):
 
     st.pyplot(fig)
 
+# Function to plot VIX data
+def plot_vix_data():
+    current_dir = os.path.dirname(__file__)
+    vix_file_path = os.path.join(current_dir, 'data', 'VIX_History.csv')
+
+    vix_data = pd.read_csv(vix_file_path, parse_dates=['DATE'])
+    vix_data.set_index('DATE', inplace=True)
+
+    fig = px.line(vix_data, x=vix_data.index, y='CLOSE', title='Historical VIX Data')
+    st.plotly_chart(fig)
+
 # Streamlit app
 st.title('VIX Predictor via Text')
 
 # Sidebar for navigation
 st.sidebar.title('Navigation')
-page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'Topic Inference'])
+page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'Topic Inference', 'VIX Historical Data'])
 
 # Introduction Page
 if page == 'Introduction':
@@ -215,3 +228,9 @@ elif page == 'Topic Inference':
             progress_bar.empty()
     else:
         st.info("Please upload a text file to preprocess.")
+
+# VIX Historical Data Page
+elif page == 'VIX Historical Data':
+    st.header('Historical VIX Data')
+    st.write('Below is an interactive chart of historical VIX data.')
+    plot_vix_data()
