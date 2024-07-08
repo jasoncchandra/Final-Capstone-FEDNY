@@ -67,7 +67,6 @@ def infer_topics(sentences):
     topic_distributions = lda_model.transform(text_vectorized)
     return topic_distributions
 
-
 def plot_topic_distribution(topic_distribution, topic_dict):
     # Bar plot for topic distribution
     topics = list(topic_dict.values())
@@ -126,6 +125,23 @@ def plot_vix_data():
 
     fig = px.line(vix_data, x=vix_data.index, y='CLOSE', title='Historical VIX Data')
     st.plotly_chart(fig)
+
+def display_key_sentences(sentences, topic_distributions, topic_dict, top_n=5):
+    dominant_topics = topic_distributions.argmax(axis=1)
+    topic_sentences = {topic: [] for topic in topic_dict.keys()}
+
+    for i, topic in enumerate(dominant_topics):
+        topic_sentences[topic].append((sentences[i], topic_distributions[i][topic]))
+
+    for topic, sentences in topic_sentences.items():
+        sentences = sorted(sentences, key=lambda x: -x[1])[:top_n]
+        with st.expander(f"Key Sentences for Topic {topic} ({topic_dict[topic]}):"):
+            for sentence, score in sentences:
+                st.write(f"{sentence} (Score: {score:.4f})")
+
+def search_sentences(sentences, query):
+    results = [sentence for sentence in sentences if query.lower() in sentence.lower()]
+    return results
 
 # Streamlit app
 st.title('VIX Predictor via Text')
@@ -187,6 +203,8 @@ elif page == 'Topic Inference':
     uploaded_file = st.file_uploader("Upload a text file", type=["txt"])
     progress_bar = st.progress(0)
 
+    sentences = []
+
     if uploaded_file is not None:
         try:
             # Read file
@@ -227,6 +245,10 @@ elif page == 'Topic Inference':
 
             # Plot topic distribution
             plot_topic_distribution(topic_distributions, topic_dict)
+            progress_bar.progress(90)
+
+            # Display key sentences
+            display_key_sentences(sentences, topic_distributions, topic_dict)
             progress_bar.progress(100)
 
         except Exception as e:
@@ -234,6 +256,15 @@ elif page == 'Topic Inference':
             progress_bar.empty()
     else:
         st.info("Please upload a text file to preprocess.")
+
+    # Add a search box in the Topic Inference Page
+    st.subheader('Search Sentences')
+    query = st.text_input('Enter a term to search for:')
+    if query:
+        search_results = search_sentences(sentences, query)
+        st.write(f"Found {len(search_results)} sentences containing '{query}':")
+        for result in search_results:
+            st.write(result)
 
 # VIX Historical Data Page
 elif page == 'VIX Historical Data':
