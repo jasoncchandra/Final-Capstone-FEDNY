@@ -35,7 +35,6 @@ try:
 except FileNotFoundError as e:
     st.error(f"LDA model file not found: {e}")
 
-# Define the preprocessing function
 def preprocess_text(text):
     # Initialize NLP tools
     word_tokenizer = WordPunctTokenizer()
@@ -60,23 +59,24 @@ def preprocess_text(text):
         
         cleaned_sentences.append(" ".join(words))
 
-    return " ".join(cleaned_sentences)
+    return cleaned_sentences
 
-def infer_topics(text):
-    preprocessed_text = preprocess_text(text)
-    text_vectorized = vectorizer.transform([preprocessed_text])
-    topic_distribution = lda_model.transform(text_vectorized)
-    return topic_distribution
+def infer_topics(sentences):
+    preprocessed_sentences = [sentence for sentence in sentences if sentence]  # Ensure no empty sentences
+    text_vectorized = vectorizer.transform(preprocessed_sentences)
+    topic_distributions = lda_model.transform(text_vectorized)
+    return topic_distributions
+
 
 def plot_topic_distribution(topic_distribution, topic_dict):
     # Bar plot for topic distribution
     topics = list(topic_dict.values())
-    scores = topic_distribution[0]
+    scores = topic_distribution.mean(axis=0)  # Average scores for all sentences
 
     fig, ax = plt.subplots()
     sns.barplot(x=scores, y=topics, ax=ax)
     ax.set_title('Topic Distribution')
-    ax.set_xlabel('Score')
+    ax.set_xlabel('Average Score')
     ax.set_ylabel('Topics')
 
     st.pyplot(fig)
@@ -194,21 +194,27 @@ elif page == 'Topic Inference':
             text = uploaded_file.read().decode("utf-8")
             progress_bar.progress(30)
 
-            # Preprocess text
-            cleaned_text = preprocess_text(text)
+            # Preprocess text into sentences
+            sentences = preprocess_text(text)
             progress_bar.progress(50)
 
-            # Infer topics
-            topic_distribution = infer_topics(text)
+            # Infer topics for each sentence
+            topic_distributions = infer_topics(sentences)
             progress_bar.progress(70)
+
+            # Determine the dominant topic for each sentence
+            dominant_topics = topic_distributions.argmax(axis=1)
+
+            # Aggregate topic counts
+            topic_counts = pd.Series(dominant_topics).value_counts(normalize=True).sort_index()
 
             # Display cleaned text
             st.subheader('Cleaned Text')
-            st.write(cleaned_text)
+            st.write(" ".join(sentences))
             progress_bar.progress(80)
 
             # Display topic distribution
-            st.subheader('Topic Distribution')
+            st.subheader('Sentence-Level Topic Distribution')
 
             topic_dict = {
                 0: 'Economic Indicators',
@@ -216,11 +222,11 @@ elif page == 'Topic Inference':
                 2: 'Monetary Policy'
             }
 
-            for idx, score in enumerate(topic_distribution[0]):
-                st.write(f"Topic {idx} ({topic_dict.get(idx, 'Unknown')}): {score:.4f}")
+            for idx, count in topic_counts.items():
+                st.write(f"Topic {idx} ({topic_dict.get(idx, 'Unknown')}): {count:.2%}")
 
             # Plot topic distribution
-            plot_topic_distribution(topic_distribution, topic_dict)
+            plot_topic_distribution(topic_distributions, topic_dict)
             progress_bar.progress(100)
 
         except Exception as e:
