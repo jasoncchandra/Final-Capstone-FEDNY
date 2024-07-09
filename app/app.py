@@ -11,6 +11,8 @@ from nltk.tokenize import WordPunctTokenizer
 from nltk.data import LazyLoader
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import stopwords
+from transformers import AutoTokenizer, AutoModelForSequenceClassification
+import numpy as np
 
 # Download necessary NLTK data
 import nltk
@@ -35,49 +37,44 @@ try:
 except FileNotFoundError as e:
     st.error(f"LDA model file not found: {e}")
 
+# Load FinBERT model for sentiment analysis
+tokenizer = AutoTokenizer.from_pretrained("ProsusAI/finbert")
+model = AutoModelForSequenceClassification.from_pretrained("ProsusAI/finbert")
+
+# Define the preprocessing function
 def preprocess_text(text):
-    # Initialize NLP tools
     word_tokenizer = WordPunctTokenizer()
     sent_tokenizer = LazyLoader("tokenizers/punkt/english.pickle")
     lemmatizer = WordNetLemmatizer()
     stop_words = set(stopwords.words('english')) - {'.'}
     punctuation = set(string.punctuation) - {'.'}
-
-    # Tokenize sentences
+    
     sentences = sent_tokenizer.tokenize(text)
     cleaned_sentences = []
 
     for sentence in sentences:
-        # Tokenize words
         words = word_tokenizer.tokenize(sentence)
-        
-        # Remove stop words and punctuation (except full stops)
         words = [word for word in words if word.lower() not in stop_words and word not in punctuation]
-        
-        # Lemmatization
         words = [lemmatizer.lemmatize(word) for word in words]
-        
         cleaned_sentences.append(" ".join(words))
 
     return cleaned_sentences
 
 def infer_topics(sentences):
-    preprocessed_sentences = [sentence for sentence in sentences if sentence]  # Ensure no empty sentences
+    preprocessed_sentences = [sentence for sentence in sentences if sentence]
     text_vectorized = vectorizer.transform(preprocessed_sentences)
     topic_distributions = lda_model.transform(text_vectorized)
     return topic_distributions
 
 def plot_topic_distribution(topic_distribution, topic_dict):
-    # Bar plot for topic distribution
     topics = list(topic_dict.values())
-    scores = topic_distribution.mean(axis=0)  # Average scores for all sentences
+    scores = topic_distribution.mean(axis=0)
 
     fig, ax = plt.subplots()
     sns.barplot(x=scores, y=topics, ax=ax)
     ax.set_title('Topic Distribution')
     ax.set_xlabel('Average Score')
     ax.set_ylabel('Topics')
-
     st.pyplot(fig)
 
 def plot_word_clouds(lda_model, vectorizer, topic_dict):
@@ -112,18 +109,32 @@ def plot_coherence_scores(coherence_scores):
     ax.set_xlabel('Number of Topics')
     ax.set_ylabel('Coherence Score')
     ax.grid(True)
-
     st.pyplot(fig)
 
-# Function to plot VIX data
-def plot_vix_data():
-    current_dir = os.path.dirname(__file__)
-    vix_file_path = os.path.join(current_dir, 'data', 'VIX_History.csv')
+def analyze_sentiment(text):
+    inputs = tokenizer(text, return_tensors='pt', truncation=True, padding=True, max_length=512)
+    outputs = model(**inputs)
+    logits = outputs.logits.detach().numpy()
+    sentiment = logits[0].argmax()
+    sentiment_mapping = {0: -1, 1: 0, 2: 1}
+    return sentiment_mapping[sentiment]
 
-    vix_data = pd.read_csv(vix_file_path, parse_dates=['DATE'])
-    vix_data.set_index('DATE', inplace=True)
+def aggregate_sentiment_by_topic(sentences, topic_distributions, sentiments, num_topics):
+    aggregated_sentiment = {f"Topic_{i}": [] for i in range(num_topics)}
 
-    fig = px.line(vix_data, x=vix_data.index, y='CLOSE', title='Historical VIX Data')
+    for sentence, topic_dist, sentiment in zip(sentences, topic_distributions, sentiments):
+        for topic_idx in range(num_topics):
+            topic_weight = topic_dist[topic_idx]
+            aggregated_sentiment[f"Topic_{topic_idx}"].append(sentiment * topic_weight)
+
+    avg_sentiment = {topic: np.mean(scores) if scores else 0 for topic, scores in aggregated_sentiment.items()}
+    return avg_sentiment
+
+# Function to plot VIX historical data
+def plot_vix_data(file_path):
+    vix_data = pd.read_csv(file_path)
+    vix_data['Date'] = pd.to_datetime(vix_data['Date'])
+    fig = px.line(vix_data, x='Date', y='VIX Close', title='Historical VIX Data')
     st.plotly_chart(fig)
 
 def display_key_sentences(sentences, topic_distributions, topic_dict, top_n=5):
@@ -148,7 +159,7 @@ st.title('VIX Predictor via Text')
 
 # Sidebar for navigation
 st.sidebar.title('Navigation')
-page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'Topic Inference', 'VIX Historical Data'])
+page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'Topic Modeling & Sentiment Analysis', 'VIX Historical Data'])
 
 # Introduction Page
 if page == 'Introduction':
@@ -195,9 +206,9 @@ elif page == 'Training Process':
     topic_dict = {0: 'Economic Indicators', 1: 'Financial Institutions', 2: 'Monetary Policy'}
     plot_word_clouds(lda_model, vectorizer, topic_dict)
 
-# Topic Inference Page
-elif page == 'Topic Inference':
-    st.header('Topic Inference')
+# Topic Modeling & Sentiment Analysis Page
+elif page == 'Topic Modeling & Sentiment Analysis':
+    st.header('Topic Modeling & Sentiment Analysis')
 
     # File uploader with progress bar
     uploaded_file = st.file_uploader("Upload a text file", type=["txt"])
@@ -250,6 +261,23 @@ elif page == 'Topic Inference':
             # Display key sentences
             display_key_sentences(sentences, topic_distributions, topic_dict)
             progress_bar.progress(100)
+
+            # Button to perform sentiment analysis
+            if st.button('Perform Sentiment Analysis'):
+                progress_bar = st.progress(0)
+                sentiments = []
+                for sentence in sentences:
+                    sentiment = analyze_sentiment(sentence)
+                    sentiments.append(sentiment)
+                progress_bar.progress(50)
+
+                avg_sentiment_by_topic = aggregate_sentiment_by_topic(sentences, topic_distributions, sentiments, num_topics=3)
+                progress_bar.progress(100)
+
+                # Display average sentiment by topic
+                st.subheader('Sentiment Analysis by Topic')
+                for topic, avg_sentiment in avg_sentiment_by_topic.items():
+                    st.write(f"Average sentiment for {topic_dict[int(topic.split('_')[1])]}: {avg_sentiment:.2f}")
 
         except Exception as e:
             st.error(f"An error occurred while processing the file: {e}")
