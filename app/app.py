@@ -26,13 +26,13 @@ st.write("Files in current directory:", os.listdir(os.getcwd()))
 
 # Load the vectorizer and LDA model
 try:
-    vectorizer = joblib.load('vectorizer.pkl')
+    vectorizer = joblib.load('vectorizer_v8.pkl')
     st.success("Vectorizer loaded successfully.")
 except FileNotFoundError as e:
     st.error(f"Vectorizer file not found: {e}")
 
 try:
-    lda_model = joblib.load('lda_model.pkl')
+    lda_model = joblib.load('lda_model_8.pkl')
     st.success("LDA model loaded successfully.")
 except FileNotFoundError as e:
     st.error(f"LDA model file not found: {e}")
@@ -81,7 +81,7 @@ def plot_word_clouds(lda_model, vectorizer, topic_dict):
     from wordcloud import WordCloud
 
     feature_names = vectorizer.get_feature_names_out()
-    fig, axes = plt.subplots(1, 3, figsize=(15, 5), sharex=True, sharey=True)
+    fig, axes = plt.subplots(2, 4, figsize=(20, 10), sharex=True, sharey=True)
 
     for idx, topic in enumerate(topic_dict.keys()):
         wordcloud = WordCloud(
@@ -93,9 +93,10 @@ def plot_word_clouds(lda_model, vectorizer, topic_dict):
         ).generate_from_frequencies(
             {feature_names[i]: lda_model.components_[topic, i] for i in lda_model.components_[topic].argsort()[:-11:-1]}
         )
-        axes[idx].imshow(wordcloud, interpolation='bilinear')
-        axes[idx].set_title(topic_dict[topic])
-        axes[idx].axis('off')
+        ax = axes[idx // 4, idx % 4]
+        ax.imshow(wordcloud, interpolation='bilinear')
+        ax.set_title(topic_dict[topic])
+        ax.axis('off')
 
     st.pyplot(fig)
 
@@ -133,8 +134,9 @@ def aggregate_sentiment_by_topic(sentences, topic_distributions, sentiments, num
 # Function to plot VIX historical data
 def plot_vix_data(file_path):
     vix_data = pd.read_csv(file_path)
-    vix_data['Date'] = pd.to_datetime(vix_data['Date'])
-    fig = px.line(vix_data, x='Date', y='VIX Close', title='Historical VIX Data')
+    vix_data.columns = [col.strip() for col in vix_data.columns]
+    vix_data['DATE'] = pd.to_datetime(vix_data['DATE'])
+    fig = px.line(vix_data, x='DATE', y='CLOSE', title='Historical VIX Data')
     st.plotly_chart(fig)
 
 def display_key_sentences(sentences, topic_distributions, topic_dict, top_n=5):
@@ -144,11 +146,14 @@ def display_key_sentences(sentences, topic_distributions, topic_dict, top_n=5):
     for i, topic in enumerate(dominant_topics):
         topic_sentences[topic].append((sentences[i], topic_distributions[i][topic]))
 
-    for topic, sentences in topic_sentences.items():
-        sentences = sorted(sentences, key=lambda x: -x[1])[:top_n]
+    for topic in topic_dict.keys():
+        sentences = sorted(topic_sentences[topic], key=lambda x: -x[1])[:top_n]
         with st.expander(f"Key Sentences for Topic {topic} ({topic_dict[topic]}):"):
-            for sentence, score in sentences:
-                st.write(f"{sentence} (Score: {score:.4f})")
+            if sentences:
+                for sentence, score in sentences:
+                    st.write(f"{sentence} (Score: {score:.4f})")
+            else:
+                st.write("No sentences found for this topic.")
 
 def search_sentences(sentences, query):
     results = [sentence for sentence in sentences if query.lower() in sentence.lower()]
@@ -171,7 +176,7 @@ if page == 'Introduction':
 # Training Process Page
 elif page == 'Training Process':
     st.header('Training Process')
-    st.write('We use Latent Dirichlet Allocation (LDA) to identify topics in the text data. Here are the coherence scores for different numbers of topics:')
+    st.write('We experimented with different numbers of topics to find the most relevant ones. It was a judgment call to select the optimal number of topics, balancing the need for distinct features with the desire to avoid having too many topics. Here are the coherence scores for different numbers of topics:')
 
     coherence_scores = {
         3: 0.09004151822108149,
@@ -180,30 +185,44 @@ elif page == 'Training Process':
         6: 0.0017441943397127069,
         7: 0.008529514229556334,
         8: 0.01629442206421782,
-        9: -0.011536801725663837
+        9: -0.011536801725663837,
+        10: -0.1372346118130309,
+        11: -0.1595829856257721,
+        12: -0.15113393781221862,
+        13: -0.1431670808158615,
+        14: -0.15929615987573326,
+        15: -0.15891563765618963,
+        16: -0.1583665063308525,
+        17: -0.15529978708000322,
+        18: -0.15851683435827796,
+        19: -0.1515668846175406
     }
-
-    for num_topics, score in coherence_scores.items():
-        st.write(f"Num Topics = {num_topics}, Coherence Score = {score}")
-
-    st.write("Based on the coherence scores, we decided to use 3 topics. Here are the topics and their top words:")
-
-    topics_3 = {
-        "Topic 0": ['inflation', 'rate', 'committee', 'economic', 'price', 'participant', 'policy', 'federal', 'growth', 'quarter'],
-        "Topic 1": ['bank', 'financial', 'risk', 'reserve', 'federal', 'banking', 'institution', 'credit', 'community', 'capital'],
-        "Topic 2": ['rate', 'policy', 'inflation', 'price', 'economy', 'growth', 'monetary', 'economic', 'productivity', 'term']
-    }
-
-    for topic, words in topics_3.items():
-        st.write(f"{topic}: {', '.join(words)}")
 
     # Plot coherence scores
     st.subheader('Coherence Scores Graph')
     plot_coherence_scores(coherence_scores)
 
+    st.write("Based on the coherence scores, we decided to use 8 topics. Here are the topics and their top words:")
+
+    topics_8 = {
+        "Topic 0": ['payment', 'bank', 'reserve', 'service', 'federal', 'financial', 'check', 'currency', 'electronic', 'consumer'],
+        "Topic 1": ['financial', 'crisis', 'liquidity', 'capital', 'stress', 'firm', 'asset', 'fund', 'requirement', 'regulation'],
+        "Topic 2": ['friedman', 'gold', 'schwartz', 'hayek', 'carolina', '1929', 'charlotte', 'north', '1928', '1931'],
+        "Topic 3": ['rate', 'price', 'economy', 'growth', 'policy', 'inflation', 'economic', 'productivity', 'country', 'capital'],
+        "Topic 4": ['policy', 'financial', 'bank', 'reserve', 'federal', 'community', 'monetary', 'inflation', 'data', 'rate'],
+        "Topic 5": ['inflation', 'price', 'growth', 'rate', 'economic', 'quarter', 'committee', 'policy', 'increase', 'recent'],
+        "Topic 6": ['bank', 'risk', 'financial', 'banking', 'capital', 'management', 'institution', 'credit', 'organization', 'business'],
+        "Topic 7": ['rate', 'participant', 'inflation', 'committee', 'economic', 'federal', 'policy', 'term', 'condition', 'security']
+    }
+
+    for topic, words in topics_8.items():
+        st.write(f"{topic}: {', '.join(words)}")
+
     # Plot word clouds for each topic
     st.subheader('Word Clouds for Each Topic')
-    topic_dict = {0: 'Economic Indicators', 1: 'Financial Institutions', 2: 'Monetary Policy'}
+    topic_dict = {0: 'Payment Systems and Services', 1: 'Financial Crisis and Liquidity', 2: 'Historical Economic Figures',
+                  3: 'Economic Growth and Policy', 4: 'Monetary Policy and Inflation', 5: 'Inflation and Economic Growth',
+                  6: 'Banking and Risk Management', 7: 'Federal Reserve and Monetary Policy'}
     plot_word_clouds(lda_model, vectorizer, topic_dict)
 
 # Topic Modeling & Sentiment Analysis Page
@@ -237,21 +256,27 @@ elif page == 'Topic Modeling & Sentiment Analysis':
             # Aggregate topic counts
             topic_counts = pd.Series(dominant_topics).value_counts(normalize=True).sort_index()
 
-            # Display cleaned text
+            # Display cleaned text in a scrollable box
             st.subheader('Cleaned Text')
-            st.write(" ".join(sentences))
+            st.text_area("", "\n".join(sentences), height=200)
             progress_bar.progress(80)
 
             # Display topic distribution
             st.subheader('Sentence-Level Topic Distribution')
 
             topic_dict = {
-                0: 'Economic Indicators',
-                1: 'Financial Institutions',
-                2: 'Monetary Policy'
+                0: 'Payment Systems and Services',
+                1: 'Financial Crisis and Liquidity',
+                2: 'Historical Economic Figures',
+                3: 'Economic Growth and Policy',
+                4: 'Monetary Policy and Inflation',
+                5: 'Inflation and Economic Growth',
+                6: 'Banking and Risk Management',
+                7: 'Federal Reserve and Monetary Policy'
             }
 
-            for idx, count in topic_counts.items():
+            for idx in range(8):  # Ensure all topics are displayed
+                count = topic_counts.get(idx, 0)
                 st.write(f"Topic {idx} ({topic_dict.get(idx, 'Unknown')}): {count:.2%}")
 
             # Plot topic distribution
@@ -262,22 +287,31 @@ elif page == 'Topic Modeling & Sentiment Analysis':
             display_key_sentences(sentences, topic_distributions, topic_dict)
             progress_bar.progress(100)
 
-            # Button to perform sentiment analysis
-            if st.button('Perform Sentiment Analysis'):
-                progress_bar = st.progress(0)
+            # Button to display sentiment analysis
+            if st.button('Display Sentiment Analysis'):
+                sentiment_progress = st.progress(0)
                 sentiments = []
-                for sentence in sentences:
+                for i, sentence in enumerate(sentences):
                     sentiment = analyze_sentiment(sentence)
                     sentiments.append(sentiment)
-                progress_bar.progress(50)
+                    sentiment_progress.progress((i + 1) / len(sentences))
 
-                avg_sentiment_by_topic = aggregate_sentiment_by_topic(sentences, topic_distributions, sentiments, num_topics=3)
-                progress_bar.progress(100)
+                avg_sentiment_by_topic = aggregate_sentiment_by_topic(sentences, topic_distributions, sentiments, num_topics=8)
 
                 # Display average sentiment by topic
                 st.subheader('Sentiment Analysis by Topic')
                 for topic, avg_sentiment in avg_sentiment_by_topic.items():
                     st.write(f"Average sentiment for {topic_dict[int(topic.split('_')[1])]}: {avg_sentiment:.2f}")
+
+                # Explanation of Sentiment Analysis
+                st.subheader('Sentiment Analysis Primer')
+                st.write('''
+                The sentiment analysis is performed at the sentence level using the FinBERT model, which is fine-tuned for financial text. 
+                Each sentence is assigned a sentiment score: -1 for negative, 0 for neutral, and 1 for positive. 
+
+                We aggregate the sentiment scores for each topic, assigning higher weights to sentences with higher similarity scores to the topic. 
+                This ensures that sentences more relevant to a topic have a greater influence on the overall sentiment score for that topic.
+                ''')
 
         except Exception as e:
             st.error(f"An error occurred while processing the file: {e}")
@@ -298,4 +332,4 @@ elif page == 'Topic Modeling & Sentiment Analysis':
 elif page == 'VIX Historical Data':
     st.header('Historical VIX Data')
     st.write('Below is an interactive chart of historical VIX data.')
-    plot_vix_data()
+    plot_vix_data('data/vix_data.csv')
