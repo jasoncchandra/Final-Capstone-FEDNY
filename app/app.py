@@ -254,12 +254,12 @@ elif page == 'Topic Modeling & Sentiment Analysis':
             st.subheader('Dominant Topic Sentence-Level Distribution')
 
             topic_dict = {
-                0: 'Quarterly Economic Performance and Loans',
-                1: 'Inflation and Monetary Policy',
-                2: 'Price Levels and Labor Market',
-                3: 'Economic Growth and Forecasts',
-                4: 'Market Conditions and Financial Stability',
-                5: 'Business Activities and Consumer Spending'
+                0: 'Quarterly Economic Performance',
+                1: 'Committee Deliberations and Policies',
+                2: 'Inflation and Prices',
+                3: 'Economic Growth and Business Activity',
+                4: 'Credit Markets and Financial Conditions',
+                5: 'Economic Forecasts and Projections​'
             }
 
             # Calculate and display the topic percentages based on average topic distribution
