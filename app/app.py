@@ -172,27 +172,27 @@ elif page == 'Training Process':
              'We used Latent Dirichlet Allocation (LDA) for topic modeling. Here are the identified topics and their descriptions:')
 
     topic_descriptions = {
-        "Topic 0": "Quarterly Economic Performance and Loans\n\n"
+        "Topic 0": "Quarterly Economic Performance\n\n"
                    "Representation: Discussions about quarterly economic performance, loan activities, and credit markets.\n"
                    "Justification: The FOMC reviews quarterly economic data and considers the state of the credit markets for economic stability and growth.",
 
-        "Topic 1": "Inflation and Monetary Policy\n\n"
+        "Topic 1": "Committee Deliberations and Policies​\n\n"
                    "Representation: Focus on inflation and the committee's policy decisions.\n"
                    "Justification: Inflation control is a primary objective of the FOMC, involving policy measures to manage inflation.",
 
-        "Topic 2": "Price Levels and Labor Market\n\n"
+        "Topic 2": "Inflation and Prices​\n\n"
                    "Representation: Covers price levels, inflation measurements, and labor market conditions.\n"
                    "Justification: Monitoring price levels and labor market conditions helps assess economic health and inflationary pressures.",
 
-        "Topic 3": "Economic Growth and Forecasts\n\n"
+        "Topic 3": "Economic Growth and Business Activity​\n\n"
                    "Representation: Related to overall economic growth, forecasts, and projections.\n"
                    "Justification: Economic forecasts and growth projections are essential for planning and adjusting monetary policy.",
 
-        "Topic 4": "Market Conditions and Financial Stability\n\n"
+        "Topic 4": "Credit Markets and Financial Conditions\n\n"
                    "Representation: Focus on market conditions and financial stability.\n"
                    "Justification: Ensuring stable market conditions and a sound financial system is a core responsibility of the FOMC.",
 
-        "Topic 5": "Business Activities and Consumer Spending\n\n"
+        "Topic 5": "Economic Forecasts and Projections​\n\n"
                    "Representation: Covers business activities and consumer spending.\n"
                    "Justification: Understanding business activities and consumer spending patterns helps gauge economic momentum and support sustainable growth."
     }
