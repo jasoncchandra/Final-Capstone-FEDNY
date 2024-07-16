@@ -17,6 +17,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from corpusutils import CorpusPreProcess, Document, Corpus
 from featureutils import FeatureProcessor, find_closest
 import streamlit.components.v1 as components
+import tempfile
 
 # Download necessary NLTK data
 nltk.download('punkt')
@@ -49,7 +50,7 @@ st.title('VIX Predictor via Text')
 
 # Sidebar for navigation
 st.sidebar.title('Navigation')
-page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'VIX Historical Data', 'Topic Modelling LDA Interaction', 'Historical Sentiment by Topic', 'FED Minutes Analysis'])
+page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'VIX Historical Data', 'Topic Modelling LDA Interaction', 'Historical Sentiment by Topic', 'FED Minutes Analysis', 'Feature Vectors'])
 
 # Introduction Page
 if page == 'Introduction':
@@ -121,18 +122,18 @@ elif page == 'VIX Historical Data':
             st.error(f"VIX data file not found: {e}")
 
     plot_vix_data('data/vix_data.csv')
-    
+
 # Topic Modelling LDA Interaction
 elif page == 'Topic Modelling LDA Interaction':
     st.header('Topic Modelling LDA')
     st.write('Below is an interactive chart of how we split up the topic model')
 
-        # Load the HTML file and display it
+    # Load the HTML file and display it
     with open('data/lda_vis.html', 'r') as f:
         html_data = f.read()
         
     components.html(html_data, width=1200, height=800, scrolling=True)
-    
+
 # New Streamlit Tab for Sentiment by Topic
 elif page == 'Historical Sentiment by Topic':
     st.header('Sentiment by Topic Over Time')
@@ -167,7 +168,6 @@ elif page == 'Historical Sentiment by Topic':
 
     st.pyplot(fig)
 
-    
 # FED Minutes Analysis Page
 elif page == 'FED Minutes Analysis':
     st.title("FED Minutes Analysis")
@@ -337,6 +337,10 @@ elif page == 'FED Minutes Analysis':
         except Exception as e:
             st.error(f"Error converting file_id to datetime: {e}")
 
+        # Save the DataFrame to a temporary file
+        temp_file_path = os.path.join(tempfile.gettempdir(), 'latest_stats_df.pkl')
+        joblib.dump(latest_stats_df, temp_file_path)
+
         # Plot using matplotlib
         st.header('Average net-tone per topic for all files')
         fig, ax = plt.subplots()
@@ -354,3 +358,65 @@ elif page == 'FED Minutes Analysis':
             st.balloons()
 
         output_analysis()
+
+# Additional Page for Displaying and Inputting Feature Vectors
+elif page == 'Feature Vectors':
+    st.header('Feature Vectors')
+
+    # Define the topic_dict here for use in this page
+    topic_dict = {
+        0: "Quarterly Economic Performance",
+        1: "Committee Deliberations and Policies",
+        2: "Inflation and Prices",
+        3: "Economic Growth and Business Activity",
+        4: "Credit Markets and Financial Conditions",
+        5: "Economic Forecasts and Projections"
+    }
+
+    # Option to use the most recent results or input new ones
+    use_recent = st.radio("Select Option:", ("Use Most Recent Results", "Input New Results"))
+
+    if use_recent == "Use Most Recent Results":
+        st.subheader('Most Recent Feature Vectors')
+        try:
+            latest_stats_df = joblib.load(os.path.join(tempfile.gettempdir(), 'latest_stats_df.pkl'))
+            st.dataframe(latest_stats_df)
+        except Exception as e:
+            st.error(f"Error loading recent feature vectors: {e}")
+    else:
+        st.subheader('Input Your Feature Vectors')
+
+        # Define input fields
+        input_category_id = st.text_input("Category ID")
+        input_file_id = st.text_input("File ID (in YYYYMMDD format)")
+        input_features = {}
+        for topic in topic_dict.values():
+            input_features[topic] = st.number_input(f"{topic} Feature Value", value=0.0)
+
+        # Button to submit input
+        if st.button("Submit Feature Vector"):
+            # Create a new dataframe row with the input values
+            new_data = {
+                'category_id': input_category_id,
+                'file_id': input_file_id,
+                **input_features
+            }
+
+            new_df = pd.DataFrame([new_data])
+
+            # Remove file extensions before converting to datetime
+            new_df['file_id'] = new_df['file_id'].str.replace('.txt', '')
+
+            # Convert file_id to datetime
+            try:
+                new_df['month'] = pd.to_datetime(new_df['file_id'], format='%Y%m%d').dt.to_period('M')
+                new_df.set_index(['month'], inplace=True)
+
+                # Append new data to existing dataframe and display it
+                latest_stats_df = joblib.load(os.path.join(tempfile.gettempdir(), 'latest_stats_df.pkl'))
+                latest_stats_df = pd.concat([latest_stats_df, new_df])
+                joblib.dump(latest_stats_df, os.path.join(tempfile.gettempdir(), 'latest_stats_df.pkl'))
+                st.success("Feature vector added successfully.")
+                st.dataframe(latest_stats_df)
+            except Exception as e:
+                st.error(f"Error converting file_id to datetime: {e}")
