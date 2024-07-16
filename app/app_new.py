@@ -16,6 +16,7 @@ from sklearn.decomposition import LatentDirichletAllocation
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 from corpusutils import CorpusPreProcess, Document, Corpus
 from featureutils import FeatureProcessor, find_closest
+import streamlit.components.v1 as components
 
 # Download necessary NLTK data
 nltk.download('punkt')
@@ -48,7 +49,7 @@ st.title('VIX Predictor via Text')
 
 # Sidebar for navigation
 st.sidebar.title('Navigation')
-page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'VIX Historical Data', 'FED Minutes Analysis'])
+page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'VIX Historical Data', 'Topic Modelling LDA Interaction', 'Historical Sentiment by Topic', 'FED Minutes Analysis'])
 
 # Introduction Page
 if page == 'Introduction':
@@ -120,6 +121,52 @@ elif page == 'VIX Historical Data':
             st.error(f"VIX data file not found: {e}")
 
     plot_vix_data('data/vix_data.csv')
+    
+# Topic Modelling LDA Interaction
+elif page == 'Topic Modelling LDA Interaction':
+    st.header('Topic Modelling LDA')
+    st.write('Below is an interactive chart of how we split up the topic model')
+
+        # Load the HTML file and display it
+    with open('data/lda_vis.html', 'r') as f:
+        html_data = f.read()
+        
+    components.html(html_data, width=1200, height=800, scrolling=True)
+    
+# New Streamlit Tab for Sentiment by Topic
+elif page == 'Historical Sentiment by Topic':
+    st.header('Sentiment by Topic Over Time')
+
+    # Load the CSV file
+    file_path = 'data/Final Sentiment by Topic.csv'
+    try:
+        sentiment_data = pd.read_csv(file_path)
+        st.success("Sentiment data loaded successfully.")
+    except FileNotFoundError as e:
+        st.error(f"Sentiment data file not found: {e}")
+
+    # Display the first few rows of the dataframe to understand its structure
+    st.write("Preview of the Sentiment Data:")
+    st.write(sentiment_data.head())
+
+    # Set the 'month' column as the index for time series plotting
+    sentiment_data['month'] = pd.to_datetime(sentiment_data['month'])
+    sentiment_data.set_index('month', inplace=True)
+
+    # Plotting the sentiment scores for each topic
+    fig, ax = plt.subplots(figsize=(14, 8))
+
+    for column in sentiment_data.columns[2:]:
+        ax.plot(sentiment_data.index, sentiment_data[column], label=column)
+
+    ax.set_title('Sentiment Scores by Topic Over Time')
+    ax.set_xlabel('Time')
+    ax.set_ylabel('Sentiment Score')
+    ax.legend(loc='upper right')
+    ax.grid(True)
+
+    st.pyplot(fig)
+
     
 # FED Minutes Analysis Page
 elif page == 'FED Minutes Analysis':
