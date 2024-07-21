@@ -1,0 +1,415 @@
+The pace has become truly remarkable.
+These technology-based developments have so expanded the breadth and depth of markets that governments, even reluctant ones, increasingly have felt they have had little alternative but to deregulate and free up internal credit and financial markets.
+In recent years global economic integration has accelerated on a multitude of fronts.
+While trade liberalization, which has been ongoing for a longer period, has continued, more dramatic changes have occurred in the financial sphere.
+World financial markets undoubtedly are far more efficient today than ever before.
+Changes in communications and information technology, and the new instruments and risk- management techniques they have made possible, enable an ever wider range of financial and nonfinancial firms today to manage their financial risks more effectively.
+As a consequence, they can now concentrate on managing the economic risks associated with their primary businesses.
+The solid profitability of new financial products in the face of their huge proliferation attests to the increasing effectiveness of financial markets in facilitating the flow of trade and direct investment, which are so patently contributing to ever higher standards of living around the world.
+Complex financial instruments--derivative instruments, in one form or another--are being developed to take advantage of the gains in communications and information technology.
+Such instruments would not have flourished as they have without the technological advances of the past several decades.
+They could not be priced properly, the markets they involve could not be arbitraged properly, and the risks they give rise to could not be managed at all, to say nothing of properly, without high-powered data processing and communications capabilities.
+Still, for central bankers with responsibilities for financial market stability, the new technologies and new instruments have presented new challenges.
+Some argue that market dynamics have been altered in ways that increase the likelihood of significant market disruptions.
+Whatever the merits of this argument, there is a clear sense that the new technologies, and the financial instruments and techniques they have made possible, have strengthened interdependencies between markets and market participants, both within and across national boundaries.
+As a result, a disturbance in one market segment or one country is likely to be transmitted far more rapidly throughout the world economy than was evident in previous eras.
+In earlier generations information moved slowly, constrained by the primitive state of communications.
+Financial crises in the early nineteenth century, for example, particularly those associated with the Napoleonic Wars, were often related to military and other events in faraway places.
+An investor's speculative position could be wiped out by a military setback, and he might not even know about it for days or even weeks, which, from the perspective of central banking today, might be considered bliss.
+As the nineteenth century unfolded, communications speeded up.
+By the turn of the century events moved more rapidly, but their speed was at most a crawl by the standard of today's financial markets.
+The environment now facing the world's central banks--and, of course, private participants in financial markets as well--is characterized by instant communication.
+This morning I should like to take a few minutes to trace the roots of this extraordinary expansion of global finance, endeavor to assess its benefits and risks, and suggest some avenues that can usefully be explored in order to contain some of its potentially adverse consequences.
+A global financial system, of course, is not an end in itself.
+It is the institutional structure that has been developed over the centuries to facilitate the production of goods and services.
+Accordingly, we can better understand the evolution of today's burgeoning global financial markets by parsing the extraordinary changes that have emerged, in the past century or more, in what we conventionally call the real side of economies: the production of goods and services.
+The same technological forces currently driving finance were first evident in the production process and have had a profound effect on what we produce, how we produce it, and how it is financed.
+Technological change or, more generally, ideas have significantly altered the nature of output so that it has become increasingly conceptual and less physical.
+A much smaller proportion of the measured real gross domestic product constitutes physical bulk today than in past generations.
+The increasing substitution of concepts for physical effort in the creation of economic value also has affected how we produce that economic output; computer-assisted design systems, machine tools, and inventory control systems provide examples.
+Offices are now routinely outfitted with high-speed information-processing technology.
+Because the accretion of knowledge is, with rare exceptions, irreversible, this trend almost surely will continue into the twenty-first century and beyond.
+Value creation at the turn of the twenty-first century will surely involve the transmission of information and ideas, generally over complex telecommunication networks.
+This will create considerably greater flexibility of where services are produced and where employees do their work.
+The transmission of ideas, or more broadly information, places it where it can be employed in maximum value creation.
+A century earlier, transportation of goods to their most value creating locations served the same purpose for an economy whose value creation still rested heavily on physical, bulky output.
+Not unexpectedly, as goods and services have moved across borders, the necessity to finance them has increased dramatically.
+But what is particularly startling is how large the expansion in cross-border finance has become, relative to the trade it finances.
+To be sure, much cross-border finance supports investment portfolios, doubtless some largely speculative.
+But at bottom, even they are part of the support systems for efficient international movement of goods and services.
+The rapid expansion in cross-border banking and finance should not be surprising given the extent to which low-cost information processing and communications technology have improved the ability of customers in one part of the world to avail themselves of borrowing, depositing, or risk-management opportunities offered anywhere in the world on a real-time basis.
+These developments enhance the process whereby an excess of saving over investment in one country finds an appropriate outlet in another.
+In short, they facilitate the drive to equate risk-adjusted rates of return on investments worldwide.
+They thereby improve the worldwide allocation of scarce capital and, in the process, engender a huge increase in risk dispersion and hedging opportunities.
+But there is still evidence of less than full arbitrage of risk adjusted rates of return on a worldwide basis.
+This suggests the potential for a far larger world financial system than currently exists.
+If we can resist protectionist pressures in our societies in the financial arena as well as in the interchange of goods and services, we can look forward to the benefits of the international division of labor on a much larger scale in the twenty-first century.
+What we don't know for sure, but strongly suspect, is that the accelerating expansion of global finance may be indispensable to the continued rapid growth in world trade in goods and services.
+It is becoming increasingly evident that many layers of financial intermediation will be required if we are to capture the full benefits of our advances in finance.
+Certainly, the emergence of a highly liquid foreign exchange market has facilitated basic forex transactions, and the availability of more complex hedging strategies enables producers and investors to achieve their desired risk positions.
+This owes largely to the ability of modern financial products to unbundle complex risks in ways that enable each counterparty to choose the combination of risks necessary to advance its business strategy, and to eschew those that do not.
+This process enhances cross-border trade in goods and services, facilitates cross-border portfolio investment strategies, enhances the lower-cost financing of real capital formation on a worldwide basis, and, hence, leads to an expansion of international trade and rising standards of living.
+But achieving those benefits surely will require the maintenance of a stable macroeconomic environment.
+An environment conducive to stable product prices and to maintaining sustainable economic growth has become a prime responsibility of governments and, of course, central banks.
+It was not always thus.
+In the last comparable period of open international trade a century ago the gold standard prevailed.
+The roles of central banks, where they existed (remember the United States did not have one), were then quite different from today.
+International stabilization was implemented by more or less automatic gold flows from those financial markets where conditions were lax, to those where liquidity was in short supply.
+To some, myself included, the system appears to have worked rather well.
+To others, the gold standard was perceived as too rigid or unstable, and in any event the inability to finance discretionary policy, both monetary and fiscal, led first to a further compromise of the gold standard system after World War I, and by the 1930s it had been essentially abandoned.
+The fiat money systems that emerged have given considerable power and responsibility to central banks to manage the sovereign credit of nations.
+Under a gold standard, money creation was at the limit tied to changes in gold reserves.
+The discretionary range of monetary policy was relatively narrow.
+Today's central banks have the capability of creating or destroying unlimited supplies of money and credit.
+Clearly, how well we take our responsibilities in this modern world has profound implications for participants in financial markets.
+We provide the backdrop against which individual market participants make their decisions.
+As a consequence, it is incumbent upon us to endeavor to produce the same noninflationary environment as existed a century ago, if we seek maximum sustainable growth.
+In this regard, doubtless, the most important development that has occurred in recent years has been the shift from an environment of inflationary expectations built into both business planning and financial contracts toward an environment of lower inflation.
+It is important that that progress continue and that we maintain a credible long-run commitment to price stability.
+While there can be little doubt that the extraordinary changes in global finance on balance have been beneficial in facilitating significant improvements in economic structures and living standards throughout the world, they also have the potential for some negative consequences.
+In fact, while the speed of transmission of positive economic events has been an important plus for the world economy in recent years, it is becoming increasingly obvious, as evidenced by recent events in Thailand and its neighbors and several years ago in Mexico, that significant macroeconomic policy mistakes also reverberate around the world at a prodigious pace.
+In any event, technological progress is not reversible.
+We must learn to live with it.
+In the context of rapid changes affecting financial markets, disruptions are inevitable.
+The turmoil in the European Exchange Rate mechanism in 1992, the plunge in the exchange value of the Mexican peso at the end of 1994 and early 1995, and the recent sharp exchange rate adjustments in a number of Asian economies have shown how the new world of financial trading can punish policy misalignments, actual or perceived, with amazing alacrity.
+This is new.
+Even as recently as fifteen or twenty years ago, the size of the international financial system was a fraction of what it is today.
+Contagion effects were more limited, and, thus, breakdowns carried fewer negative consequences.
+In both new and old environments, the economic consequences of disruptions are minimized if they are not further compounded by financial instability associated with underlying inflation trends.
+The recent financial turmoil in some Asian financial markets, and similar events elsewhere previously, confirm that in a world of increasing capital mobility there is a premium on governments maintaining sound macroeconomic policies and allowing exchange rates to provide appropriate signals for the broader pricing structure of the economy.
+These countries became vulnerable as markets became increasingly aware of a buildup of excesses, including overvalued exchange rates, bulging current account deficits, and sharp increases in asset values.
+In many cases, these were the consequence of poor investment judgments in seeking to employ huge increases in portfolios for investment.
+In some cases, these excesses were fed by unsound real estate and other lending activity by various financial institutions in these countries, which, in turn, undermined the soundness of these countries' financial systems.
+As a consequence, these countries lost the confidence of both domestic and international investors, with resulting disturbances in their financial markets.
+The resort to capital controls to deal with financial market disturbances of the sort a number of emerging economies have experienced would be a step backwards from the trend toward financial market liberalization, and in the end would not be effective.
+The maintenance of financial stability in an environment of global capital markets, therefore, calls for greater attention by governments to the soundness of public policy.
+Governments are beginning to recognize that the release of timely and accurate economic and financial data is a critical element to the maintenance of financial stability.
+We do not know what the appropriate amount of disclosure is, but it is pretty clear from the Mexican experience in 1994 and the recent Thai experience that the level of disclosure was too little.
+More comprehensive public information on the financial condition of a country, including current data on commitments by governments to buy or sell currencies in the future and on nonperforming loans of a country's financial institutions, would allow investors--both domestic and international--to make more rational investment decisions.
+Such disclosure would help to avoid sudden and sharp reversals in the investment positions of investors once they become aware of the true status of a country's and a banking system's financial health.
+More timely and more comprehensive disclosure of financial data also would help sensitize the principal economic policymakers of a country to the potential emerging threats to its financial stability.
+Thus, as international financial markets continue to expand, central banks have twin objectives: achieving macroeconomic stability and a safe and sound financial system that can take advantage of stability while exploiting the inevitable new technological advances.
+The changing dynamics of modern global financial systems also require that central banks address the inevitable increase of systemic risk.
+It is probably fair to say that the very efficiency of global financial markets, engendered by the rapid proliferation of financial products, also has the capability of transmitting mistakes at a far faster pace throughout the financial system in ways that were unknown a generation ago, and not even remotely imagined in the nineteenth century.
+Today's technology enables single individuals to initiate massive transactions with very rapid execution.
+Clearly, not only has the productivity of global finance increased markedly, but so, obviously, has the ability to generate losses at a previously inconceivable rate.
+Moreover, increasing global financial efficiency, by creating the mechanisms for mistakes to ricochet throughout the global financial system, has patently increased the potential for systemic risk.
+Why not then, one might ask, bar or contain the expansion of global finance by capital controls, transaction taxes, or other market inhibiting initiatives?
+Why not return to the less hectic and seemingly less threatening markets of, say, the 1950s?
+Endeavoring to thwart technological advance and new knowledge and innovation through the erection of barriers to the spread of knowledge would, as history amply demonstrates, have large, often adverse, unintended consequences.
+Suppressed markets in one location would be rapidly displaced by others outside the reach of government controls and taxes.
+Of greater importance, risk taking, so indispensable to the creation of wealth, would undoubtedly be curbed, to the detriment of rising living standards.
+We cannot turn back the clock on technology--and we should not try to do so.
+Rather, we should recognize that, if it is technology that has imparted the current stress to markets, technology can be employed to contain it.
+Enhancements to financial institutions' internal risk-management systems arguably constitute the most effective countermeasure to the increased potential instability of the global financial system.
+Improving the efficiency of the world's payment systems is clearly another.
+The availability of new technology and new derivative financial instruments clearly has facilitated new, more rigorous approaches to the conceptualization, measurement, and management of risk for such systems.
+There are, however, limitations to the statistical models used in such systems owing to the necessity of overly simplifying assumptions.
+Hence, human judgments, based on analytically looser but far more realistic evaluations of what the future may hold, are of critical importance in risk management.
+
+Our businesses and workers are confronting a dynamic set of forces that will influence our nation's ability to compete worldwide in the years ahead.
+Our success in preparing workers and managers to harness those forces will be an important element in the outcome.
+One of the most central dynamic forces is the accelerated expansion of computer and telecommunications technologies, which can be reasonably expected to appreciably raise our standard of living in the twenty-first century.
+In the short run, however, fast-paced technological change creates an environment in which the stock of plant and equipment with which most managers and workers interact is turning over more rapidly, creating a perception that human skills are becoming obsolete at a rate perhaps unprecedented in American history.
+I shall endeavor to place this most unusual phenomenon in the context of the broader changes in our economy and, I hope, to explain why education, especially to enhance advanced skills, is so vital to the future growth of our economy.
+Wealth has always been created, virtually by definition, when individuals use their growing knowledge to interact with an expanding capital stock to produce goods and services of value.
+Assisted by the whole array of market prices, entrepreneurs seek to identify the types of products and services that individuals will value.
+More specifically, they seek the added value that customers place on products and services tailored to their particular needs, delivered in shorter time frames, or improved in quality.
+A century ago, much, if not most, of our effort was expended in producing food, clothing, and shelter.
+Only when crop yields increased, steam power was developed, and textile fabrication became more efficient were available work hours freed for the production and consumption of more discretionary goods and services.
+We manufactured cars and refrigerators and learned how to produce them with ever less human effort.
+As those products found their way into most homes, human effort moved on to the creation of values that were less constrained by limits of physical bulk, such as smaller, transistor-based electronics, and beyond to a wide variety of impalpable services--medical care, education, entertainment, and travel, to name just a few.
+The demand for a virtually infinite array of impalpable values is, to a first approximation, insatiable.
+Understandably, today's efforts to create new values for consumers concentrates on these impalpables, which offer the highest potential value-added relative to costs in physical resources and human effort.
+Unbundling the particular characteristics of each good or service facilitates maximizing its value to each individual.
+Some individuals place more value on, and are willing to pay more for, style y rather than style x, whereas others prefer x.
+Producing both x and y enhances overall consumer well-being.
+Fifty years ago, only x was feasible.
+This striving to expand the options for satisfying the particular needs of individuals inevitably results in a shift toward value created through the exploitation of ideas and concepts--or, more generally, information--from the more straightforward utilization of physical resources and manual labor.
+Thus, it should come as no surprise that, over the past century, by far the largest part of the growth in America's real gross domestic product is the result of new insights and, more broadly, new information about how to rearrange physical reality to achieve ever-higher standards of living.
+The amount of physical input into our real GDP, measured in bulk or weight, has contributed only modestly to economic growth since the turn of the century.
+We have, for example, dramatically reduced the physical bulk of our radios, by substituting transistors for vacuum tubes.
+Thin fiber optic cable has replaced huge tonnages of copper wire.
+New architectural, engineering, and materials technologies have enabled the construction of buildings enclosing the same amount of space, but with far less physical material than was required, say, 50 or 100 years ago.
+Most recently, mobile phones have become significantly downsized as they have been improved.
+As it became technologically possible to differentiate output to meet the increasingly calibrated choices that consumers now regularly make, the value of information creation and its transfer was expanded.
+Hence, it is understandable that our advanced computer and telecommunications products have been accorded particularly high value and, thus, why computer and telecommunications companies that successfully innovate in this field exhibit particularly elevated stock market values.
+Breakthroughs in all areas of technology are continually adding to the growing list of almost wholly conceptual elements in our economic output.
+These developments are affecting how we produce output and are demanding greater specialized knowledge.
+We could expect the widespread and effective application of information and other technologies to significantly increase productivity and reduce business costs.
+Certainly, we can already see dramatic improvements in quality control that have sharply reduced costly product rejects and lost time, while computer and satellite technology has markedly improved the efficiencies of moving goods through even more sophisticated, just-in-time, inventory systems.
+With computer-assisted design, experiments can be evaluated in a virtual reality setting, where mistakes can be readily corrected without the misuse of time and materials.
+And new technologies have had extensive applications in the services sector--for example, in health services, where improvements in both diagnosis and treatment have been singularly impressive; in airline efficiency and safety; and in secretarial services now dominated by word processing, faxes, and voice and electronic mail.
+The accelerated pace of technological advance has also interacted with the rapid rise in financial innovation, with the result that business services and financial transactions now are transmitted almost instantaneously across global networks.
+Financial instruments have become increasingly diverse, products more customized, and markets more intensely competitive.
+The scope and size of our financial sector has grown rapidly because of its ability to facilitate the financing of products and services that are themselves valued highly in the marketplace.
+Our nation's financial institutions, as a consequence, are endeavoring to find more effective and efficient ways to deliver their services.
+In this environment, America's prospects for economic growth will depend greatly on our capacity to develop and to apply new technology.
+Unfortunately, we have found that we never can predict with any precision which particular technology or synergies of technologies will add significantly to our knowledge and our ability to gain from that knowledge.
+For instance, Alexander Graham Bell initially viewed the telephone solely as a business instrument--merely an enhancement of the telegraph for use in transmitting very specific messages.
+Indeed, he offered to sell his telephone patent to Western Union for only $100,000, but he was turned down.
+Similarly, Marconi, at first, overlooked the radio's value as a public broadcast medium, instead believing its principal application would be in the transmission of point-to-point messages, such as ship-to-ship, where communication by wire was infeasible.
+Moreover, we must recognize that an innovation's full potential may be realized only after extensive improvements or after complementary innovations in other fields of science.
+According to Charles Townes, a Nobel Prize winner for his work on the laser, the attorneys for Bell Labs initially, in the late 1960s, refused to patent the laser because they believed it had no applications in the field of telecommunications.
+Only in the 1980s, after extensive improvements in fiber optics technology, did the laser's importance for telecommunications become apparent.
+America's continued success in garnering the benefits of technological advance will depend on the ability of our businesses to deal with risk and uncertainty.
+Moreover, our ability to remain in the forefront of new ideas and products will be ever more difficult because of the rapid international diffusion of technology.
+Nonetheless, to date, we have not fallen behind in converting scientific and technological breakthroughs into viable commercial products.
+Even if the most recent, tentative indications that productivity growth may be speeding up were to turn out to be less than we had hoped, it is possible that the big increases in efficiency growing out of the introduction of computers and communications systems may still lie ahead.
+Past innovations, such as the advent of electricity or the invention of the gasoline-powered motor, required the development of considerable infrastructure before their full potential could be realized.
+Electricity, when it substituted for steam power late last century, was applied to production processes that had been developed for steam.
+For example, gravity was used to move goods vertically in the steam environment, and that setup did not initially change with the advent of electric power.
+Only much later--when horizontal factories, newly designed for optimal use of electric power, began to dominate our industrial system--did productivity clearly accelerate.
+Similarly, only when highways and gasoline service stations became extensive was the lower cost of motor vehicle transportation achieved.
+In addition, full effectiveness in realizing the gains from technological advance will require a considerable amount of human investment on the part of managers and workers who have to implement new processes and who must be prepared to adapt, over their lifetimes, to the ongoing change that innovations bring.
+The growth of the conceptual component of output has brought with it accelerating demands for workers who are equipped not simply with technical know-how, but with the ability to create, analyze, and transform information and to interact effectively with others.
+A popular term for the type of human capital that firms are today employing to a greater degree is "functional literacy,"1 which perhaps sounds deceptively simple when one considers the complex of attributes necessary to transform information into economic value.
+Indeed, the debate about whether the introduction of technology would upgrade or "deskill" the workforce is as old as Adam Smith.
+Certainly, one can point to some very routine types of jobs, such as those for telephone operators, that have lower skill requirements in today's world of automated communications systems than when more labor-intensive manual phone systems were in place.
+But, on the whole, the evidence suggests that across a wide range of industries, employers have upgraded their skill mix.2 Importantly, these changes represent not simply a shift in the occupational mix, but, to a larger degree, an upgrading of skill requirements of individual jobs for which the range and complexity of tasks and the scope for problem-solving and decisionmaking has expanded.
+This process appears to have occurred more rapidly in those businesses with greater computer utilization.3 However, this is not to argue that growing use of technology alone can explain the accelerated demand for more skilled workers.
+A 1994 survey of employers conducted by the Census Bureau for the National Center on the Educational Quality of the Workforce found that rising skill requirements also are more common in firms that have introduced more flexible production systems, adopted team management practices, or reduced the layers of management in the organization.
+More generally, at the root of both the rise in the demand for workers who embody greater human capital and the increasing application of technology is the realization by businesses that remaining competitive in today's world requires unprecedented flexibility to adapt to change.
+Traditionally, broader human capital skills have been associated with higher education, and, accordingly, the demand for college-trained workers has been increasing rapidly.
+The result is that, over the past 15 years, a wide gap has opened up between the earnings of college graduates and those of workers who stopped their formal schooling with a high-school diploma or less.
+But the dispersion of pay outcomes has also increased within groups of workers with the same levels of education, which suggests that broader cognitive skills and conceptual abilities have become increasingly important on a wide scale, and that basic credentials, by themselves, are not enough to ensure success in the workplace.
+Clearly our educational institutions will continue to play an important role in preparing workers to meet these demands.
+And, responding to the strong signals that the returns to formal education have been rising, the supply of college-trained labor has been increasing.
+School enrollment rates among traditional college-age young people, which were little changed in the 1970s, have moved up sharply since then.
+At the same time, enrollment rates have picked up noticeably among individuals aged 25 and over.
+Presumably, many of these older students are striving to keep pace with the new demands evolving in the job market.
+Indeed, an important aspect of the changing nature of jobs appears to be that an increasing number of workers are facing the likelihood that they will need retooling during their careers.
+The notion that formal degree programs at any level can be crafted to fully support the requirements of one's lifework is being challenged.
+As a result, education is increasingly becoming a lifelong activity; businesses are now looking for employees who are prepared to continue learning, and workers and managers in many kinds of pursuits have begun to recognize that maintaining their human capital will require persistent hard work and flexibility.
+Economists have long argued that more than half of the market human capital produced in a worker's lifetime is produced on the job.4 Several decades ago, much of that on-the-job training was acquired through work experience; today we are seeing greater emphasis on the value of formal education and training programs for workers.
+Developing human capital is perceived by many corporations as adding to shareholder value.
+If idea creation is increasingly the factor that engenders value-added, then training and education are crucial to the growth of company value-added and profitability.
+In the private sector, a number of major corporations have invested in their own internal training centers--so-called corporate universities.
+Some labor unions have done the same.
+More broadly, recent surveys by the Bureau of Labor Statistics and by the Department of Education indicate that the provision of education on the job has risen markedly in recent years.
+In 1995, the BLS report showed that 70 percent of workers in establishments with 50 or more employees received some formal training during the twelve months preceding the survey.
+Most often this training was conducted in house by company personnel, but larger firms also relied to a great extent on educational institutions.
+The information collected by the Department of Education indicated that the percentage of employed individuals who took courses specifically to improve their current job skills rose between 1991 and 1995; by 1995, four of every ten full-time workers aged 35 to 54 had sought to upgrade their skills.
+The survey shows that growing proportions of workers with a high-school education or less and of those in production and craft jobs sought additional training; however, college graduates and those in professional occupations still reported the highest incidence of additional coursework--almost 50 percent.
+Thus, learning does seem to beget perhaps both a capacity as well as a desire for more learning.
+This finding should underscore the need to begin the learning process as early as possible.
+In the long run, better child-rearing and better basic education at the elementary and secondary school levels are essential to providing the foundation for a lifetime of learning.
+At the same time, we must be alert to the need to improve the skills and earning power of those who appear to be falling behind.
+We must also develop strategies to overcome the education deficiencies of all too many of our young people and to renew the skills of workers who have not kept up with the changing demands of the workplace.
+The recognition that more productive workers and learning go hand-in-hand is becoming ever more visible in schools and in the workplace.
+Expanded linkages between business and education should be encouraged at all levels of our education system.
+Building bridges between our educational institutions and the private business sector should have payoffs in how well graduates are prepared to meet the challenges of an increasingly knowledge-based global economy.
+Indeed, a recent study argues that we need not rely on colleges and universities to teach "the new basic skills" to prepare workers for jobs in a knowledge-based economy; that foundation could be built in high schools if only more high schools were to ensure that graduates left with not only essential basic reading and computational skills, but also with training in how to solve semi-structured problems, how to make oral presentations, and how to work in diverse groups.5 Those researchers argue for a better connection between secondary school curricula and business needs--"vocational education" in a very broad sense rather than the traditional narrow one.
+While many debate how to make our elementary and secondary schools more effective in preparing students--particularly compared with those in other developed countries--there is little question about the quality of our university system, which for decades has attracted growing numbers of students from abroad.
+The payoff to advanced training remains high, and even with higher rates of enrollment, the supply of college-trained labor does not appear likely to outstrip the growing demands of a rapidly changing economy.
+The linkages between the private sector and our colleges and universities have a long tradition, and many schools are endeavoring to extend those connections.
+Your university's plans for the Connecticut Information Technology Institute embodies this reality.
+You and your partners in the business community clearly appreciate the mutual benefits that will accrue as technologically advanced learning is grounded in real-world curricula--beginning with students and continuing for workers seeking to renew their skills.
+The advent of the twenty-first century will certainly bring new challenges and new possibilities for our businesses, our workers, and our educational system.
+We cannot know the precise directions in which technological change will take us.
+
+As a result, forecasting and modeling the national economic developments and the conduct of domestic policy has increasingly required more careful attention to the global context.
+My focus is on how globalization has affected the conduct of U.S. monetary policy.
+I begin by documenting the trend toward increased openness of the U.S. economy.
+With that background in place, I turn to the implications of increased openness for the conduct of U.S. monetary policy.
+The views I present here about the conduct of monetary policy are my own.
+They should not be interpreted as official policy positions of the Board of Governors or the FOMC.
+Some of the questions that I address along the way are: Does an open economy introduce either new objectives or new instruments for monetary policy?
+How does an open economy affect the monetary policy transmission mechanism?
+Does the rapid growth in cross-border capital flows limit or even eliminate the ability of domestic monetary policy to affect domestic interest rates?
+How does U.S. monetary policy affect economic conditions in other countries?
+How does globalization affect the cyclical properties of the U.S. economy, the inflation process, and longer-term trends in the economy?
+My conclusion is that, while the increasing openness has resulted in some important changes to how the U.S. economy operates, it has not fundamentally altered the determination of output and inflation, introduced new objectives of monetary policy, or offered new instruments to pursue those objectives.
+Nevertheless, it has importantly affected the monetary policy transmission mechanism and increasingly subjected the domestic economy to the effects of changes in economic conditions abroad.
+Documenting the trend toward increased openness of the U.S. economy The increased openness has two dimensions -- expanded trade in goods and services and expanded cross-border capital flows.
+A related indicator of openness is the volume of foreign exchange transactions, since both goods and financial asset transactions typically are preceded by currency conversions.
+U.S. trade in goods and services has increased about twice as fast as the growth in U.S. GDP over the last 3 ½ decades.
+This reflects the effect of both trade liberalization and technological advance, as well as the rapid growth of emerging markets recently.
+Trade liberalization -- including both a series of multi-lateral efforts through GATT and regional efforts such as NAFTA -- has involved both reduction in tariffs and the elimination of many non-tariff barriers to trade.
+Technological gains have reduced transportation costs and improved the flow of information about goods around the world.
+A measure of the openness of the U.S. economy in terms of trade in goods and services is the ratio of the sum of U.S. imports and exports to U.S. GDP.
+This ratio has almost tripled over the last 3 1/2 decades, from 9% in 1960 to 24% in 1996.
+Even more striking is the expansion of international capital flows.
+Financial liberalization, deregulation, and technology, including the information revolution, have contributed to the globalization of asset markets.
+A measure of the net result of cross-border capital flows, the combined U.S. holdings of foreign securities and foreign holdings of U.S. securities, has increased more than tenfold just from 1980 to 1996.
+Foreigners now hold 33% of U.S. government securities, 17% of U.S. corporate bonds, and 7% of U.S. corporate stocks.
+U.S. holdings of foreign securities have also increased.
+Foreign stocks now make up about 10% of U.S. residents' equity holdings and foreign bonds make up about 4% of U.S. bond holdings.
+While the increase in cross-border capital flows is impressive, it is nevertheless clear that "home bias," the concentration of domestic wealth in domestic assets, still exists.
+Another indicator of the increased openness of the U.S. and other economies is the volume of foreign exchange transactions, since these transactions are often the first step in effecting both foreign trade and cross-border capital flows.
+The daily volume of foreign exchange transactions surveyed in major financial centers doubled over the period from 1989 to 1995 to about $1.2 trillion, and more than 4/5 of these transactions involve dollars.
+The daily volume of foreign exchange transactions, however, is an imperfect measure of openness of the U.S. economy, because many transactions among other countries involve dollars.
+Monetary policy in a global economy: responding to external shocks One implication of a global economy is that external shocks, those arising from outside the country, become an additional source of disturbance to the U.S. economy and therefore an additional challenge to which monetary policy must respond.
+I will consider three types of external shocks: demand, supply, and exchange rate shocks.
+An example of a demand shock would be an unexpected change in the overall level of economic activity abroad, which would affect the demand for U.S. exports.
+For example, in the early 1970s, the latter 1970s, and late 1980s, global expansions and the resulting sharp increase in world commodity prices and demand for U.S. exports contributed to the mounting inflationary pressures and overheating in the United States.
+In the three episodes just noted, commodity price booms were exacerbated by a run-up in oil prices resulting from the disruption of supplies from the Middle East.
+In the mid-1980s, oil prices plummeted, contributing to a transitory decline in inflation and easing of monetary conditions.
+Such changes in world oil prices are an example of a supply shock, a change in the price of goods unrelated to the balance between supply and demand in the domestic market.
+Energy and food prices, in particular, are subject to volatile swings, due to political decisions, weather, or other developments unrelated to overall domestic economic conditions.
+The United States is vulnerable to oil price shocks both because we have a very high consumption of oil and because we import about 50% of crude petroleum.
+The rise in oil prices not only has a sharp effect on overall prices in the United States, but, given the relatively inelastic demand for energy, results in an increase in real imports and hence a decline in aggregate demand for domestic output.
+Even much smaller shocks have had clearly visible effects on the U.S. economy, including the $5 dollar a barrel increase over 1996 and the $5 decline over 1997.
+Exchange rates move in response to both domestic and foreign economic developments and at times appear to move for reasons not clearly linked to economic fundamentals.
+The movements that are tied to changes in domestic economic fundamentals are part of the process of income and price determination in open economies, and I will have something to say about this below.
+But movements related to developments abroad or movements not clearly tied to economic fundamentals are another source of shock to national economies.
+This is especially important because the empirical linkages between exchange rates and fundamentals are weak, or not as well understood as we might like, so that movements in exchange rates often appear to be exaggerated relative to or seemingly unrelated to changes in fundamentals.
+Do cross-border capital flows reduce the effectiveness of monetary policy?
+One of the dimensions of increased openness is the rapid increase in the volume of cross-border capital flows.
+If foreign and domestic securities are perfect substitutes, the liberalization of cross-border financial transactions could, in principle, result in a single world financial market.
+This might appear to imply that the interest rate at which citizens and governments of a nation could borrow and lend would then be set on world markets, with little or at least limited influence by national policymakers.
+A small country, for example, would have no ability to influence world interest rates in this case.
+A very large country, such as the U.S., would retain some influence, but the influence would be diminished relative to the closed-economy case and would result from its ability to affect the world interest rate.
+If a country's exchange rate is pegged to the currency of another country (or countries), then its interest rates will move closely in line with those in the country or group of countries to which it is pegged.
+But for countries with flexible exchange rates, domestic interest rates can move quite independently of interest rates abroad.
+However, if countries care about the level of their exchange rates, which have implications for aggregate demand and inflation, and adjust monetary policy accordingly, interest rates will, to a degree, move in common across countries.
+Greater integration of global capital markets does in fact mean that expected returns for holding different assets, with appropriate compensation for differences in risk, should increasingly converge.
+However, as long as exchange rates can adjust, this does not imply that interest rates across countries must move together.
+Instead, it is movements in exchange rates which insure convergence of holding period yields across the countries.
+Before turning to the connection between interest rates and exchange rates, let me note that the evidence does not confirm an increase in correlations in interest rate movements across world asset markets, at least in the 1990s compared to the 1980s.
+It is true that the levels of long-term interest rates in major industrial countries have tended to converge since the early 1980s.
+But this is largely accounted for by a convergence of inflation rates.
+On the other hand, there is little evidence to suggest that correlations between changes in long-term interest rates across these countries have increased over this period.
+These correlations are a little higher in the 1980s and 1990s than they were in the 1970s, but again have shown no tendency to increase since the early 1980s.
+At any rate, the correlations between U.S. interest rates and those of major industrial countries suggest that there remains ample room for real interest rates to move differently across the world financial markets and implies that domestic monetary policies remain important tools of macroeconomic policy, at least in countries with flexible exchange rates.
+While the correlations among changes in interest rates have not increased, changes in interest rates between the U.S. and major industrial counties are correlated.
+Correlations tend to be about 0.5.
+This leaves open the question of causality and source of the correlations.
+It does not mean that higher U.S. interest rates directly raise foreign interest rates by this amount.
+First, some of the co-movement could reflect synchronous business cycles.
+Second, some of the co-movement could reflect the spillover effects of a cycle in one country on aggregate demand and hence interest rates in the other countries.
+In addition, some of the correlation may reflect the effect of the response of monetary policy to exchange rate developments.
+Perhaps reflecting the latter influence, the correlation between interest rates in the United States and Canada is higher, about 0.8, while that between the United States and Europe is lower, about 0.4.
+The transmission mechanism in a open economy While cross-border capital flows do not interfere with the ability of U.S. monetary policy to influence the broad spectrum of interest rates in the United States, they do quickly transmit pressures from changes in U.S. interest rates to the exchange rate and thereby broaden the channels through which monetary policy affects aggregate demand.
+In the closed economy setting, the transmission mechanism runs from increases in the federal funds rate, the short-term interest rate targeted by monetary policy, first to longer term interest rates and equity prices and then to aggregate demand.
+Several components of aggregate demand depend importantly on interest rates, particularly longer-term interest rates (specifically, business fixed investment, housing, spending on consumer durables); consumer spending also depends on the net wealth of households and is therefore affected by equity prices.
+Under floating exchange rates, net exports become another interest sensitive component of aggregate demand.
+Higher U.S. (real) interest rates, relative to foreign rates, raise the demand for dollar-denominated assets, and bring about an appreciation of the dollar which, in turn, stimulates imports and restrains exports.
+Net exports as a result become inversely related to U.S. interest rates.
+Evidence suggests that the response of net exports to interest rates (via exchange rates) has become larger over time.
+The open economy version of the monetary policy transmission mechanism involves three steps: from U.S. interest rates to nominal exchange rates; from nominal exchange rates to the absolute and relative prices of imports and exports; and from the prices of imports and exports to the real volumes of imports and exports and domestic prices.
+From U.S. interest rates to the exchange rate We begin with the link between interest rates in the U.S. and exchange rates.
+A policy-initiated increase in U.S. short-term rates would, as noted above, generally result in higher U.S. long-term interest rates.
+At initial levels of foreign interest rates and equity prices, the movement in U.S. rates would make dollar-denominated assets more attractive compared to foreign currency-denominated assets, resulting in shifts in asset demands and either incipient or actual cross-boarder capital inflows to the U.S. and outflows from foreign economies.
+These shifts result in an appreciation of the dollar.
+Indeed, the single most important determinant of short-term movements in exchange rates is the change in real interest rate differentials across countries.
+A 1% point increase in U.S. long-term (10-year) interest rates, with unchanged foreign rates, will typically induce a 10% increase in the U.S. trade-weighted exchange rate.
+After the initial jump in the dollar, there will be an expectation of a decline in the dollar by about 1% each year for the next 10 years.
+The result of the rise in the dollar and the expectations of gradual reversal is what is referred to as international interest rate parity.
+The holding period yields of U.S. and foreign assets, each denominated in their home currency, are thereby equated, eliminating the incentive for further changes in asset demands or capital flows.
+That is, the higher interest rate yield on U.S. assets (measured in dollars) is just offset by the expected depreciation in the value of the asset, measured in the foreign currency.
+This is the mechanism by which holding period yields are equated across countries via international capital flows.
+By the end of the 10-year period, according to this framework, both interest rates and exchange rate would have returned to their original levels.
+Evidence suggests that the response of the exchange rate to changes in U.S. interest rates (relative to foreign rates) has increased over time.
+This likely reflects the removal of capital controls by many major industrial countries during the 1970s and early 1980s that in turn contributed the sharp rise in international capital flows documented above.
+So increased integration of financial markets across countries appears to have had a more important effect in raising the responsiveness of exchange rates to interest rate developments than in directly connecting interest rates across countries.
+From the exchange rate to the relative prices of imports and exports The next step in the transmission mechanism is the pass-through of the exchange rate to the dollar prices of imports and the foreign currency price of U.S. exports.
+The evidence suggests that the pass-through is much more complete for U.S. exports than for imports, but there is no evidence that these pass-throughs have changed over time.
+An appreciation of the dollar will be gradually partially passed through over time to the price of imports, lowering their price relative to U.S. produced goods.
+The corresponding depreciation in other countries currencies will result in a gradual increase in the foreign currency price of U.S. exports, compared to the prices of foreign produced goods.
+The result is movements in relative prices that encourage imports and discourage exports.
+From relative prices to real import and export volumes The final step in the process is from the relative price of imports and exports to the volumes of real imports and exports.
+This depends on the elasticity of the demands for imports and exports with respect to their relative prices and the size of trade flows relative to GDP.
+The elasticities of imports and exports with respect to their respective relative prices are estimated to be about unity, and there is no evidence of a shift in this elasticity over the past several decades.
+A one percentage point increase in the real exchange rate would increase real imports by one percentage point over a three year period and decrease real exports by a similar percentage.
+The absolute effect on aggregate demand also depends on initial levels of imports and exports.
+As import and export volumes have been increasing rapidly, the absolute effect of exchange rate changes on aggregate demand and the contribution of the exchange rate channel to the monetary transmission mechanism has been growing over time.
+Trends in interest sensitivity If the magnitude of other channels in the transmission mechanism remained unchanged, the growing importance of imports and exports and the increase in the responsiveness of exchange rates to interest rate differentials would have raised the overall responsiveness of aggregate demand to interest rates.
+However, it appears that the interest sensitivity of residential construction has moderated over time, beginning with the repeal of Regulation Q, and continuing with innovations in housing finance, including adjustable rate mortgages, the broadening of the sources of mortgage lending, and the development of securitization and secondary markets for mortgages.
+The net result is that the interest responsiveness of aggregate demand appears to have remained reasonably stable over time, although the sectoral distribution of the overall effect of interest rates has shifted toward net exports and away from housing.
+The response of net exports to changes in U.S. interest rates, via exchange rates, contributes about one-third of the total interest sensitivity of U.S. aggregate demand over both a one-year and three-year interval.
+It is therefore a very important part of the monetary policy transmission mechanism.
+How does U.S. monetary policy affect other countries?
+Just as developments abroad affect the U.S. economy, changes in U.S. economic conditions impact on foreign economies, although the effects are not necessarily symmetric.
+Because of the large relative size of the U.S. economy, changes in U.S. economic conditions have relatively larger effects on foreign economies, compared to the effect of changing conditions in any one country abroad on the U.S. economy.
+A change in U.S. monetary policy affects foreign economies in three ways -- via exchange rates, interest rates, and income in the United States.
+The effects depend critically on the nature of the foreign exchange regime in the foreign country.
+If the foreign country's currency is pegged to the dollar, for example, there will, of course, be no exchange rate effect vis-à-vis the United States.
+An increase in U.S. interest rates, however, would put downward pressure on the foreign currency and require the country to raise domestic interest rates to maintain the fixed exchange rate.
+Therefore, foreign interest rates are very likely to have to rise with U.S. rates in this case.
+The restraining effect of the rise in foreign interest rates will be reinforced by the effect of the deceleration in U.S. demand for foreign goods induced by the slowdown in U.S. income.
+As a result, a tightening of monetary policy is likely to have an unambiguously restrictive impact on those countries whose exchange rates are pegged to the dollar.
+For countries with floating exchange rates, on the other hand, the exchange rate and income effects of rising U.S. interest rates are likely to be offsetting.
+The appreciation of the dollar, of course, implies a depreciation in other countries' exchange rates; the depreciation will stimulate foreign aggregate demand by raising net exports.
+Offsetting this will be the effect of the decline in U.S. income on the demand for foreign countries' exports.
+The net effect, for countries with floating exchange rates, is likely to be small.
+That is, floating exchange rates tend to insulate a country from monetary shocks abroad.
+Other effects of globalization on the U.S. economy The increased openness of the U.S. economy has also focused attention on the possible effects of globalization on the macroeconomic performance of the U.S. economy, beyond the effects on the transmission of monetary policy that I have already addressed.
+I want to focus my attention in this section on the implications of globalization for wage-price dynamics because this has a direct bearing on the conduct of monetary policy.
+Some have argued that increased global competition has made the United States (and presumably other countries) less inflation prone, so that the U.S. economy can operate at a higher degree of resource utilization without the threat of rising inflation.
+It is useful to distinguish three ways in which global developments might recently be contributing to restraining inflation in the United States.
+First, the significant appreciation of the dollar over the last two years has clearly had an important restraining effect on U.S. inflation, both via the direct effect on the prices of imported goods and on the pricing power of domestic firms producing import-competing goods.
+Second, the absence of synchronous expansions among the major industrial countries - specifically the much weaker expansions in continental Europe and the still weaker condition of the Japanese economy - has prevented the pressures on worldwide commodity markets that often accompany U.S. expansions and has perhaps also encouraged greater price competitiveness than would otherwise have been the case.
+Third, increased international competitive pressures, associated with growing openness of the U.S. economy, might be restraining inflation.
+But I wonder whether we would be talking about the contribution of globalization to U.S. inflation performance if the dollar had been stable for the last several years and the expansions in Europe and Japan were as robust as in the U.S.
+I doubt it.
+Are there additional objectives for monetary policy in a global environment?
+An interesting question is whether the increased openness of the U.S. and other economies suggests new objectives for domestic monetary policies.
+It is certainly true that increased globalization has encouraged a proliferation of information-sharing exercises around the world and some increased attention to the coordination of policies across counties.
+I will comment on this briefly below.
+Let's start with objectives appropriate in the closed economy context.
+Congress has set dual objectives for monetary policy in the Federal Reserve Act: price stability and full employment.
+These objectives relate directly to the performance of the domestic economy and they are also objectives that monetary policy has the ability to pursue in the closed economy setting.
+The first question is whether the open economy environment reduces the ability of domestic monetary policy to achieve these objectives.
+I have argued that globalization has not reduced the ability of countries with flexible exchange rates to carry out independent monetary policies and therefore pursue domestic objectives.
+On the other hand, countries that fix exchange rates do give up much of the independence in their domestic monetary policies.
+The second issue is whether the open economy setting introduces new objectives, beyond those that motivate policy in the closed economy context.
+Three possibilities come to mind: the current account and/or trade balance, the exchange rate (or pattern in exchange rates around the world), and economic performance abroad.
+Even thinking of the external measures as domestic objectives raises questions.
+With respect to the current account, we should begin by separating cyclical and structural movements.
+Cyclical movements in net exports contribute the economy's built-in stability and are therefore quite desirable.
+Changes in the structural current account balance may contribute to or interfere with broader domestic objectives, depending on circumstances.
+The fundamental source of a structural current account deficit is domestic spending in excess of domestic production.
+Is this good or bad?
+The answer is: it depends.
+An excess of spending over production used to finance business fixed investment could have a payoff in terms of higher future output large enough to service the increased international indebtedness and still leave the country better off.
+An increase in the current account deficit as a result of increased private or public consumption would, in contrast, require lower future consumption as some of future production would have to be used to service the higher level of foreign debt.
+In addition, there is an issue of sustainability.
+International indebtedness can become so large in relation to current production, depending in part on the relationship between the real interest rate on foreign debt and the economy's trend rate of growth, that the current account deficit could increase explosively.
+If the current account is an objective, durable changes in the structural deficit can only be achieved by fiscal policy.
+A cut in the structural federal budget deficit for example would increase national saving, lower real interest rates, lead to a depreciation of the dollar, boost net exports, and lower the current account deficit.
+It is even more difficult to talk about the exchange rate as an objective.
+The exchange rate is, after all, basically a relative price.
+We might say that we prefer that an exchange rate that reflect fundamentals.
+But other than that the exchange rate is a symptom, rather than an outcome.
+If the current account deficit is wide because of a high dollar, the appropriate question is why is the dollar so high.
+If the answer is because the federal budget structural deficit is high and has raised real interest rates in the U.S., the offender is not the exchange rate, but the federal budget deficit.
+If the problem with exchange rates is fundamentals, then it is the fundamentals that need to be changed.
+Monetary policy can, via its effect on interest rates, influence exchange rates in the short run.
+But, for monetary policy to target exchange rates, it must give reduced weight to its domestic objectives.
+When fundamentals are the issue, it is the mix of monetary and fiscal policies that must answer the call.
+Stabilization policy, for example, calls for a level of aggregate demand consistent with full employment.
+That level of aggregate demand can be produced by a variety of combinations of monetary and fiscal policies, varying from a very tight fiscal and loose monetary policy to a tight monetary and loose fiscal policy.
+The difference among these options is interest rates.
+If fiscal policy, for example, moves to a higher deficit, monetary policy will have to offset the effect on aggregate demand by tightening.
+The result is higher interest rate, a higher dollar, and ultimately a wider current account deficit.
+If this outcome is viewed as undesirable, the way to unwind it is by lowering the deficit, accompanied by more accommodative monetary policy.
+It takes two to do this tango!
+But I always view fiscal policy as having the first move.
+Monetary policy's job is to follow the lead of fiscal, so that the resulting mix is appropriate to the requirements of stabilization policy.
+I am occasionally asked whether I worry about the effect on other countries of changes in U.S. monetary policy.
+While I do keep in mind the potential international repercussions of U.S. monetary policy actions, I believe that the best way for the U.S. to contribute to the health of the world economy is to pursue prudent domestic policy and achieve maximum sustainable employment and price stability and accommodate the maximum sustainable growth in the U.S. economy.
+Are there new policy instruments in a global economy?
+Another question about the conduct of monetary policy in an open economy is whether the open economy offers monetary policy a new instrument that it did not have in the closed economy world.
+In a closed economy context, monetary policy has a single instrument: open market operations, used to target a short-term interest rate.
+The obvious candidate for an additional instrument in the open economy case is the exchange rate.
+I have already argued that monetary policy cannot be used to target the exchange rate.
+The issue here is whether there are opportunities to exercise direct control of the exchange rate.
+The obvious option is intervention.
+Intervention refers to a government buying or selling foreign currency in order to influence the exchange rate.
+One can identify two reasons for intervening.
+The first is to calm disorderly markets.
+That is, an increase in volatility in the foreign exchange market might be damped by intervention.
+However, most intervention is about affecting the level of the exchange rate, not its volatility, though the rhetoric of disorderly markets often is employed to justify the action.
+Actions to affect the level can be intended to prevent a further decline (or increase) or to encourage a change in the level.
+With a daily volume of $1.2 trillion in the foreign exchange markets, and underlying stocks of financial assets that are substantially larger, there is ground for skepticism that intervention, which seldom ranges into the billions of dollars in daily volume, can have more than a marginal and transitory effect.
+Still, there are examples of modest "successes," especially when intervention is coordinated across countries and well timed.
+The major opportunity for intervention to succeed is when the exchange rate has diverged to a significant degree from fundamentals and the intervention induces a reconsideration of the market or a refocus of the market on fundamentals.
+The management of foreign exchange interventions varies around the world.
+In the United States, this management is shared by the Federal Reserve System and the Treasury Department.
+In principle, intervention can be initiated by either party, although when the Treasury opts to intervene it is the Federal Reserve Bank of New York that actually does the buying or selling of foreign currency, albeit from an account held in the name of Treasury and at the direction of Treasury.
+Similarly, when the FOMC makes a decision to intervene, it directs the Federal Reserve Bank of New York to do so, from the account in the name of the Federal Reserve System.
+The traditional practice is that U.S. intervention exercises are carried out jointly, half from the Federal Reserve's account and half from the Treasury's account.
+However, in principle, either party could intervene on its own.
+International information exchange, policy coordination, and crisis management Give the growing interdependence of national economies and macroeconomic policies, the coordination of (or more accurately, mutual consultation about) these policies has taken on increased importance.
+

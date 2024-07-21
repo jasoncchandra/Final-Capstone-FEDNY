@@ -1,0 +1,162 @@
+I am honored to be on a panel with such esteemed colleagues.
+My remarks will touch on the latest developments with the Basel II capital revisions, including the U.S. implementation process and progress on home-host issues.
+Background As some of you know, we are in our seventh year working on Basel II, and still several years away from full implementation.
+Some might bemoan this long formative period, but we must all remember that an international undertaking of this magnitude takes substantial time to complete.
+Part of the reason for the long gestation period is that we have been purposely transparent about the proposals, taken substantial time to listen to industry and other public comments, and worked diligently to make the framework better in response to those comments.
+In addition, this is an international agreement for which a certain "common denominator" had to be found to accommodate the variety of banking and financial systems involved.
+From the perspective of the Federal Reserve, we consider the work to be well worth it, given the objectives.
+As you know, in the United States we have decided to implement only the advanced approaches of Basel II and make it mandatory for only the largest, internationally-active banks.
+We are moving along a parallel path to amend current Basel I rules for the vast majority of U.S. financial institutions.
+Broadly speaking, in developing Basel II we are striving to establish higher standards for internal risk management at complex banking organizations, including capital adequacy, and to improve both the supervisors' and the public's understanding of banks' risk taking and risk management.
+Indeed, one of the main reasons we started down the Basel II path was to better align regulatory capital with what banks are actually doing in practice to manage risks and the level of risk exposures.
+Over the past two decades, major banking organizations have become ever larger and more complex; most national banking systems look quite different than they did nearly two decades ago when Basel I was developed.
+Market changes and increased sophistication in risk-management techniques require that we now update that initial Basel framework, as it applies to the largest institutions.
+A fundamental premise of Basel II is that, for these major banks, neither supervisory nor market discipline can be effective unless banks' own systems can be relied upon to measure and manage risk taking and capital adequacy.
+One sometimes hears that the advanced approaches of Basel II are "too complex" for anyone to understand, and the mathematical formulas in various drafts of the framework can look like a foreign language to some readers.
+But remember the complexity in Basel II reflects today's sophisticated risk-management practices that employ advanced quantitative methods.
+Most of you in this room understand that mathematics and statistics are an integral part of how you manage your businesses.
+Thus, it is only sensible to implement a framework at our largest institutions that is in line with what bankers themselves are doing.
+And since those practices change rapidly, it is necessary to have flexibility for incorporating new and better practices without having to conduct fundamental restructuring.
+I believe the framework provides a useful and credible basis for improving risk-management practices today and allowing for future improvements.
+We consider this vitally important because banking will remain a highly dynamic industry.
+Supervisors will have to be especially attentive to changing practices and ensure that Basel II does not inhibit adoption of new banking practices and financial instruments.
+Basel II Developments in the United States You are most likely aware that over the past several months the U.S. banking agencies have been conducting additional analysis of the results from the fourth Quantitative Impact Study--known as QIS4.
+As the interagency statement issued on April 29 indicated, results from QIS4 were more widely dispersed and showed a larger overall drop in regulatory capital requirements for the QIS4 population of banks than the agencies had expected.
+The agencies' reaction to the QIS4 results, taking additional time to understand and react to the information provided by the banks, shows how seriously we are taking Basel II implementation.
+This was the impetus for deciding to delay the notice of proposed rulemaking (NPR) for Basel II.
+Analyzing the data used in QIS4 is vitally important, because ultimately the success of Basel II will depend on the quality of data and models that banks use to implement the framework.
+I would like to point out that QIS4 was the most recent in a series of assessments about the framework's potential impact.
+In conducting QIS4, we understood that banks lacked full information about what will eventually be expected of them--one example is lack of precision about downturn estimates for LGD (loss given default).
+Understandably, the results were less than perfect.
+But we commend the bankers for their extensive efforts and thank them for their patience in producing results under less-than-perfect circumstances.
+In the future, we expect to have better assessments of the framework's impact on U.S. banks before it is fully implemented.
+And as we move forward in this process, we expect that additional information provided by U.S. supervisors--through rulemaking and guidance--would allow bankers to produce regulatory capital results that are more accurate and likely more in line with our expectations.
+One of the most important findings from QIS4, obviously, relates to the overall decline in regulatory capital requirements.
+Capital serves as an important backstop against risk-taking and we need to ensure that an adequate level of capital is produced by the Basel II framework.
+To be frank, the Federal Reserve would not be comfortable qualifying any bank based on the results of QIS4, if Basel II were to be applied today.
+But as I noted above, QIS4 does not represent the final version of Basel II in the United States and we realize that bank data and risk-management systems required by Basel II are not yet fully developed and implemented as expected by the framework.
+To be sure, by the time that Basel II "goes live," bankers would have significantly more information regarding our expectations and more robust default and loss-severity data.
+Banks will also have to adhere to the qualification standards set by supervisors.
+But given some of the uncertainty that still remains about the impact of Basel II, it is important that we continue to effectively use the safeguards designed in the Basel II process.
+As I just mentioned, QIS4 was one of a series of studies conducted with banks to test the methodology and identify implementation issues.
+The process also requires banks to successfully complete four quarters of running their Basel II systems in parallel with the capital requirements of Basel I, before they can qualify for the next stage.
+The current framework then requires banks to demonstrate continued reliability of their process for two years, during which floors on minimum regulatory capital exist to prevent an unintended drop in capital.
+The public comment process and transparency in our implementation process would provide added checks and balances.
+I would also like to emphasize that market participants are also expected to play an important role as Basel II is implemented.
+Not just supervisors will be expected to evaluate information provided by institutions.
+As Basel II rolls out, bankers would be expected to disclose where their institution is in its stages of implementation, how the institution assesses and manages risk, and relevant information for third parties to ascertain the effectiveness of the bank's risk management.
+Pillar 3 market discipline, therefore, will complement supervisory efforts to maintain adequate capital.
+So where do we go from here?
+The U.S. agencies learned some valuable information from the follow-up work pertaining to QIS4 results this summer.
+Right now we are still evaluating the results from this follow-up work, discussing the options to respond to those findings, and determining how the implementation process will proceed in the United States.
+Obviously, we understand that the industry and others are interested in details about the next steps in the United States, and we hope to provide a public communication sometime in October.
+Additionally, the agencies are moving forward on an advanced notice of proposed rulemaking for revisions to Basel I rules, the details of which should be publicly available very soon.
+We expect that the timeframe to adopt revisions to current rules will overlap with the Basel II proposals, so that the industry can review them side-by-side.
+Progress on Home-Host Issues With such a large group of international bankers in attendance, I would be remiss in not offering a few thoughts on home-host issues relating to Basel II implementation.
+Understandably, internationally active banks are keenly interested in cooperative arrangements among supervisors for evaluating capital adequacy under Basel II.
+Several years ago, the Accord Implementation Group (AIG) was formed as a subcommittee of the Basel Committee for supervisors to discuss the tactical issues associated with cross-border supervision.
+Most recently, and in cooperation with the representatives of the Core Principles Liaison Group (non-Group of Ten supervisors), a joint working group was established to consider enhancing guidelines for information sharing among home and host supervisors.
+This working group is looking to clarify the roles and responsibilities of home and host supervisors as well as supervisory expectations of banks with regard to communications between their head office and their foreign offices.
+The working group is also hoping to address communications between home and host supervisors about enterprise-wide risk models and their use in assessing capital adequacy in host jurisdictions, as well as mechanisms for supervisors to work together for consistency and to avoid duplication.
+Obviously, whatever guidance is issued would be supplemented further as implementation plans and qualification processes become more fully developed.
+I do think it is also helpful to remember that a number of the home-host issues pertaining to Basel II are actually variations of long-standing challenges faced by bankers and supervisors in the context of cross-border banking.
+That is, many of the issues under discussion are not necessarily new, but just made more complicated by the framework.
+However, we do understand the concerns of bankers surrounding Basel II and how it will actually be applied in various jurisdictions.
+The good news is that supervisors are already building upon their existing relationships to accommodate differences in national jurisdictions and minimize the burdens placed on banks.
+The Federal Reserve has a long history of working constructively with other national supervisors.
+To date, we have met many times about Basel II implementation and how proposed rules and practices might be reconciled.
+While such cooperation and information sharing can go a long way to reducing the burden placed on bankers, at the end of the day we must still realize that national jurisdictions still matter.
+We can work to harmonize differences, but it is probably not practical to imagine that they will be eliminated entirely.
+Conclusion I hope that I have offered some useful information today about Basel II implementation in the United States and the Federal Reserve's position on certain issues.
+Clearly, the QIS4 results have generated some concerns and an element of uncertainty still exists about the full impact of Basel II in the United States.
+We at the Federal Reserve clearly see some important issues that will require further analysis, but believe they would be best resolved by gathering better-quality data and information that can only come as banks progress in implementation of Basel II requirements.
+To facilitate that progress, it is important that the United States move forward with the Basel II NPR to provide greater clarity with respect to expectations.
+Additionally, QIS4 estimates were not based on the finished models that banks will use to implement Basel II, and several years lie between now and when U.S. banks would operate under Basel II.
+Perhaps more importantly, the Federal Reserve is unequivocally committed to maintaining adequate levels of capital in our banking system and at individual institutions, in order to maintain safety and soundness.
+One of the most important aspects of Basel II pertains to improved risk management, and having banks move forward in that area can only bring benefits.
+
+However, we are well aware that the broader economic impact is only a part of the human misery left in the wake of these events.
+* * * In my remarks today, I plan, in addition, to focus on one of the key factors driving the U.S. economy in recent years: the sharp rise in housing valuations and the associated buildup in mortgage debt.
+Over the past decade, the market value of the stock of owner-occupied homes1 has risen annually by approximately 9 percent on average, from $8 trillion at the end of 1995 to $18 trillion at the end of June of this year.
+Home mortgage debt linked to these structures has risen at a somewhat faster rate.
+This enormous increase in housing values and mortgage debt has been spurred by the decline in mortgage interest rates, which remain historically low.
+Indeed, the thirty-year fixed-rate mortgage, currently around 5-3/4 percent, is about 1/2 percentage point below its level of late spring 2004, just before the Federal Open Market Committee (FOMC) embarked on the current cycle of policy tightening.
+This decline in mortgage rates and other long-term interest rates in the context of a concurrent rise in the federal funds rate is without precedent in recent U.S. experience.
+Some of the decade-long decline can be ascribed to expectations of lower inflation, a reduced risk premium resulting from less inflation volatility, and a smaller real term premium that seems to be due to a moderation of the business cycle over the past few decades.
+Besides these factors, the worldwide trend reduction in long-term yields presumably reflects an excess of intended saving over intended investment.
+Since the mid-1990s, worldwide saving has been boosted by a significant increase in the share of world output produced by economies with persistently above-average saving--predominantly the emerging economies of Asia.
+This impetus to saving has been supplemented by shifts in income toward the oil-exporting countries, which more recently have built surpluses because of steep increases in oil prices.
+Softness in intended investment, however, is also part of the story.
+In the United States, for example, capital expenditures have been restrained for some time relative to the very substantial level of corporate cash flow.
+That development likely reflects the business caution that was apparent in the wake of the stock market decline and the corporate scandals early this decade.
+In similar fashion, Japanese investment exhibited prolonged restraint following the bursting of Japan's speculative bubble in the early 1990s, and investment in emerging Asia, excluding China, fell appreciably after the Asian financial crisis in the late 1990s.
+The economic forces driving the global saving-investment balance have been becoming manifest over the past decade, so the steepness of the recent decline in long-term yields suggests that something more may have been at work over the past year.
+According to estimates prepared by the staff of the Federal Reserve Board, a significant portion of the more recent decline appears to have resulted from a fall in term premiums.
+Such estimates are subject to considerable uncertainty; nevertheless, they suggest that a perceived increase in economic stability in recent years has encouraged risk-takers to reach out to more-distant time horizons.
+Regardless of the precise mix of factors that explains the decline in interest rates, the associated run-up in housing values has left households with a substantial pool of available home equity.
+According to data recently developed by Jim Kennedy of the Federal Reserve Board staff, and me, discretionary extraction of home equity accounts for about four-fifths of the rise in home mortgage debt.2 Our data splits home equity extraction net of closing costs, and hence debt increase on existing homes, into extraction from three sources: (1) that associated with home turnover--that is, mortgage originations of buyers of existing homes less the associated debt cancellation of sellers, (2) refinancing cash-outs, and (3) increases in home equity loans.
+The size of equity extraction owing to turnover closely parallels and presumably finances the realized capital gains on homes, whereas cash-outs and home equity loans generally extract as-yet-unrealized capital gains.
+What share of the financed capital gains are spent on consumer goods and services, thereby reducing the saving rate, is uncertain.3 Survey data suggest that approximately a fourth to a third of the value of home equity loans and cash-outs finances personal consumption expenditures directly.4 Another fourth funds repayment of nonmortgage debt that had been used, in effect, as bridge financing, predominantly of personal consumption expenditures.5 Home mortgage debt is thus the final source of funding of some consumer outlays originally financed by extensions of credit card and other consumer debt.
+Although there are no comparable surveys of the disposition of equity extracted by sellers of homes beyond amounts applied as a down payment on a subsequent home purchase or outright cash purchases, plausibly they would exhibit similar propensities.
+If indeed this is the case, the implied increase over the past decade in consumption expenditures financed by home equity extraction, rather than by income and other assets, would account for much of the decline in the personal saving rate since 1995.
+However, a significantly different approach to separating the proportion of consumer spending financed out of income from that financed out of wealth, though one that is similarly robust, concludes that the decline in the saving rate over the past decade can be explained by the decline in interest rates and by the increase in overall household wealth.
+That wealth, however, includes nonhousing wealth, most importantly stock market wealth.
+Thus, we have two approaches, both of which would seem capable of explaining much or all of the decline in the personal saving rate.
+Of course, both cannot be true, for if they were, we would have explained a greater drop in personal saving than actually occurred.
+Obviously, this issue will remain an area of active research interest.
+Nonetheless, it is difficult to dismiss the conclusion that a significant amount of consumption is driven by capital gains on some combination of both stocks and residences, with the latter being financed predominantly by home equity extraction.
+If so, leaving aside the effect of equity prices on consumption, should mortgage interest rates rise or home affordability be further stretched, home turnover and mortgage refinancing cash-outs would decline as would equity extraction and, presumably, consumption expenditure growth.
+The personal saving rate, accordingly, would rise.
+Carrying the hypothesis further, imports of consumer goods would surely decline as would those imported intermediate products that support them.
+And one would assume that the U.S. trade and current account deficits would shrink as well, all else being equal.
+How significant and disruptive such adjustments turn out to be is an open question.
+Nonetheless, as I have pointed out in previous commentary, their economic effect will, to a large extent, depend on the flexibility inherent in our economy.
+In a highly flexible economy, such as the United States, shocks should be largely absorbed by changes in prices, interest rates, and exchange rates, rather than by wrenching declines in output and employment, a more likely outcome in a less flexible economy.
+* * * To judge the size of a hypothetical decline in home turnover and cash-outs, we need to examine more closely the composition of sales of homes and the possible future path of home prices.
+Although we do not have comprehensive data on the split between sales to owner-occupants and those to purchasers of second homes, especially investors, enough data are available to draw some conclusions, however tentative.
+As I noted earlier, we can have little doubt that the exceptionally low level of home mortgage interest rates has been a major driver of the recent surge of homebuilding and home turnover and the steep climb in home prices.
+Indeed, home prices have been rising sharply in many countries around the world.
+In the United States, signs of froth have clearly emerged in some local markets where home prices seem to have risen to unsustainable levels.
+It is still too early to judge whether the froth will become evident on a widening geographic scale, or whether recent indications of some easing of speculative pressures signal the onset of a moderating trend.
+The housing market in the United States is quite heterogeneous, and it does not facilitate the easy diffusion of local excesses.
+Instead, we have a collection of local markets only loosely connected by such factors as mortgage interest rates and, over the longer term, migration and construction capacity.
+As a consequence, the behavior of home prices varies widely across the nation.
+Speculation in homes is also largely local, especially for owner-occupied residences.
+For homeowners to realize accumulated capital gains on a residence--a precondition of a speculative market--they must move.
+Another formidable barrier to speculative activity is that home sales involve significant commissions, taxes, points, and other fees, which average in the neighborhood of 9 percent of the sales price.
+Where sales by owner-occupants predominate, speculative turnover of homes is difficult.
+But in recent years, the pace of turnover of existing homes has quickened.
+Apparently, a substantial part of the acceleration in turnover reflects the purchase of second homes--mainly for investment or vacation purposes.
+According to data collected under the Home Mortgage Disclosure Act (HMDA), mortgage originations for second-home purchases rose from 7 percent of total purchase originations in 2000 to twice that at the end of last year.
+Anecdotal evidence suggests that the share may currently be even higher.
+Because down payments on second homes appear to be larger, on average, than they are on homes bought for owner occupancy, and because a larger share of second homes appear to be paid for wholly in cash, second homes presumably represent a larger fraction of total purchases than of loan originations, and arguably are at historically unprecedented levels.
+Transactions in second homes, of course, are not restrained to the same degree as sales of primary residences--an individual can sell without having to move.
+This suggests that speculative activity may have had a greater role in generating the recent price increases than it customarily has had in the past.
+* * * The apparent froth in housing markets may have spilled over into mortgage markets.
+The dramatic increase in the prevalence of interest-only loans, as well as the introduction of other, more-exotic forms of adjustable-rate mortgages, are developments that bear close scrutiny.
+To be sure, these financing vehicles have their appropriate uses.
+But to the extent that some households may be employing these instruments to purchase a home that would otherwise be unaffordable, their use is adding to the pressures in the marketplace.
+Over the past few years, a great deal of attention has focused on the growing range of loan choices available to mortgage borrowers.
+The menu, as you know, now features a long list of novel mortgage products, not only interest-only mortgages but also mortgages with forty-year amortization schedules and option ARMs, which allow for a limited amount of negative amortization.
+These products could be cause for some concern both because they expose borrowers to more interest-rate and house-price risk than the standard thirty-year, fixed-rate mortgage and because they are seen as vehicles that enable marginally qualified, highly leveraged borrowers to purchase homes at inflated prices.
+In the event of widespread cooling in house prices, these borrowers, and the institutions that service them, could be exposed to significant losses.
+Although the aggregate loan-to-value ratio (LTV) for single-family residences, condominiums and cooperatives has been about flat since early 2003, this flatness could mask increases in the number of very highly leveraged home purchasers.
+Using data for individual mortgage loans and other information, members of the Board staff have estimated the distribution of the remaining mortgage principal to the current home value for a very large set of U.S. households.
+The loans factored into this calculation include first mortgage liens and most types of second liens.
+The results show that, as of mid-2005, less than 5 percent of borrowers had current LTVs exceeding 90 percent.
+In large part, this share was small because the recent growth in house prices has rapidly pushed down the effective LTV for many homeowners.
+Only the most recent, and the most highly leveraged, home purchasers have high LTVs.
+Highly leveraged home purchasers tend to use so-called piggyback mortgages; that is, second liens originated at the time of purchase.
+These loans are popular, in significant part, because they avoid the non-deductible private mortgage insurance payments required on larger, single loans.
+If piggyback loans are more common in states in which house price appreciation has been particularly rapid over the past five years, one might worry that homebuyers are especially exposed to reversals in house prices.
+However, data collected for 2004, the first year of coverage in HMDA, show that the use of piggyback loans was not particularly correlated with strong appreciation of prices.
+Among mortgages tracked by HMDA, piggyback loan use was particularly high in Texas, California, Utah, Oregon, and Colorado.
+The presence of California on this list is probably no surprise, but home prices in the other four states have not grown particularly rapidly.
+Of course, the HMDA data do not track mortgages made by all institutions or open-ended loans such as home equity lines of credit (HELOCs).
+Anecdotal reports suggest that some homebuyers are using HELOCs as piggyback mortgages, and so we probably do not have a full accounting of all mortgage debt.
+Nonetheless, combining the newly available data on piggybacks from HMDA with other information, we can construct a reasonably comprehensive measure of the degree of leverage of mortgages used to purchase homes, by state, in 2004.
+These estimated LTVs are highest in states that have experienced relatively little house price appreciation, and lowest in states in which prices have appreciated the most, such as California and Massachusetts.
+The main reason for this negative relationship is likely that most people buying a home in California are probably also selling a home in California and using at least part of their accumulated home equity capital gains as a down payment on their new house.
+Apparently, many households are forgoing some consumption to lower their new mortgage balances.
+In summary, it is encouraging to find that, despite the rapid growth of mortgage debt, only a small fraction of households across the country have loan-to-value ratios greater than 90 percent.
+

@@ -1,0 +1,406 @@
+There is a famous play by the Italian playwright Luigi Pirandello entitled "Six Characters in Search of an Author."
+Today, I would like to discuss three themes for which I have been in search of a forum.
+These themes are the result of several events of the last two weeks.
+First, Congress left town without finally passing H.R.
+10.
+Second, I have traveled literally around the globe involved in discussions of the Year 2000 problem or millennium bug.
+Third, the Federal Reserve took the unusual move of adjusting the federal funds target rate and the discount rate at a time other than a regular meeting.
+I would like to share some thoughts on each of these current events.
+Life after H.R.
+10 Congress missed perhaps the best opportunity in 50 years to reform the Glass-Steagall Act.
+However, to paraphrase a famous author, the reports of the demise of H.R.
+10 are exaggerated.
+I say that because, by the last week of the Congressional session, H.R.
+10 had garnered quite a lot of support among bankers, securities firms, insurance companies, and insurance agents as a result of compromises that were brokered in the couple of weeks after the Senate Banking Committee markup.
+It seems that what held up H.R.
+10 was a fight over CRA provisions that had been widely accepted by the banking industry.
+So it seems incorrect to think that H.R.
+10 hasn't succeeded based on its merits.
+And it remains the only bill reforming the Glass-Steagall Act to ever pass the full House.
+Chairman Leach has already publicly announced that he will reintroduce H.R.
+10, perhaps with the compromises reached in the Senate, early in the new Congress.
+That suggests that, rather than being dead, H.R.
+10 is really in hibernation.
+Clearly the pressure from the market will continue to mount for reform of our laws governing the financial industry.
+There has been doubt about the wisdom of the Glass-Steagall Act from the start--even Senator Glass led a repeal effort within 3 years of the Act's initial passage.
+And the evolution of the markets during the past two decades has confirmed those doubts.
+The financial markets are evolving and have blurred the distinctions between banking products, securities, insurance and other financial instruments.
+As the products blur, the distinction between providers does as well.
+As long as our statutes do not evolve, these market changes will increase pressure on banking organizations to exploit loopholes in order to stay competitive.
+Similarly, regulators are forced to interpret old laws that were drafted under different times and may not be sufficiently flexible to cover today's circumstances.
+The result of this ad hoc approach to modernizing the legal structure is an unlevel playing field that helps the most aggressive and that, for all, is mined with legal uncertainties.
+It also means that different players will gain different advantages, depending on the aggressiveness of their functional regulator in interpreting the law.
+Only Congress has the ability to fix the over-arching framework in a way that is fair to all of the industry players.
+The difficulties over the past year in reaching the compromises in H.R.
+10 show that this is not an easy task.
+That is why you may not hear many people saying that H.R.
+10 is the perfect bill from their individual point of view.
+But maybe that is what makes it the perfect bill overall.
+In short, Congress missed an historic opportunity to enact H.R.
+10.
+It did so once before in another banking area--interstate banking.
+Hopefully, Congress will do as it did there, and quickly enact legislation upon its return.
+Year 2000 Problem The Year 2000 problem has been much discussed, but I believe that it now requires a renewed focus, particularly, in light of the current global financial turmoil.
+Some have suggested that, against the backdrop of the current global financial uncertainties, the Year 2000 problem could tip the balance toward global recession in year 2000.
+I think that it is a possible scenario, but not the most probable scenario.
+However, to minimize the risk of major disruptions, business, government, and technical leaders must not allow the current financial turmoil, or in certain countries, the introduction of the euro, to distract them from the important job of Year 2000 preparedness.
+The current market turmoil, in addition to being an inhospitable background for serious technical work, reminds us of how interdependent global markets have become.
+As you know, a currency and current account crisis in Thailand a little more than a year ago initiated a series of events with profound effect on the financial markets and on the world's strongest economies.
+A few themes come to mind following my worldwide discussions of Year 2000.
+First, as I traveled there were many questions of what governments and international agencies will do to fix the problem.
+The reality is that we in the official sector have important roles to play, but the primary responsibility rests with the private sector.
+Private firms have the obligation to fix this problem.
+They must maintain Year 2000 as a top management priority, or quickly raise it to that level, if needed.
+At these various meetings, I was all too frequently met by the technicians asking me to help them to get senior management involved in solving this problem.
+Senior managers in internationally active firms and institutions must give sufficient attention to ensure that their firms are ready for the century date change.
+As my colleague, Bill McDonough of the Federal Reserve Bank of New York, has said, "The Year 2000 problem is an issue for every country, firm, organization, government agency, bank, and piece of critical infrastructure in the world."
+The second responsibility of the private sector is to engage in full disclosure and information sharing with counterparties.
+This sharing should be either pursuant to officially-mandated standards or voluntary.
+Markets function most smoothly when full information is shared.
+The lack of full disclosure may lead to a vacuum in which inaccurate information can thrive.
+Soon financial markets will make Year 2000 preparedness an element in counter party credit risk assessment.
+Those firms not ready or those perceived not to be ready may find access to credit more difficult to obtain.
+One industry group in the private sector--the public infrastructure--has a particularly pressing need for fuller disclosure and information sharing.
+The public infrastructure sector is an important dependency upon which financial firms rely.
+These infrastructure providers, including telecommunication, power, and water utilities, have been noticeably reticent to share their degree of preparedness with others.
+The Year 2000 disclosure bill recently signed by the President reduces the risk of litigation for firms that share in information in good faith on the status of their Year 2000 preparations.
+All organizations should be more forthcoming to maintain public trust.
+The final obligation of the private sector is to engage in company-based contingency planning.
+We all hope that the century date change will be seamless.
+However, we know that with any system change for which the fix is so time consuming and labor intensive, and for which the deadline offers no extension, there will certainly be some transitions that are not as faultless as we would like.
+Therefore, contingency planning should not be seen as an admission of failure.
+Rather it is a responsible part of any system conversion.
+The public sector has its own set of responsibilities.
+First, all financial regulators must work hard at the oversight function.
+It is our obligation to hold the private sector participants that we supervise to the highest level of preparedness.
+We are not guarantors of private performance, but we do have a public obligation.
+I believe that the Federal Reserve is performing this function well.
+Also, it is critical that financial regulators worldwide continue to follow better practices in regulatory oversight of the Year 2000 problem.
+Additionally, my regulatory colleagues worldwide need to raise the level of cross-border planning.
+Year 2000 presents a novel problem that requires novel solutions, not bureaucratic dithering.
+Finally, governments, everywhere need to disclose as much accurate information on preparedness as they can, particularly the elements of government that provide service directly to the public.
+Monetary Policy Last week, the FOMC reached a consensus to lower the target federal funds rate by twenty-five basis points, and the Board of Governors decided to cut the discount rate by a similar amount.
+This move, coming between normally scheduled meetings, has received a bit of media attention.
+As we said in our press release, "growing caution by lenders and unsettled conditions in financial markets more generally are likely to be restraining aggregate demand in the future."
+The world's financial markets are in turmoil with risk being repriced rapidly and some markets showing an unusual lack of liquidity.
+Although we see few strong signs of it in the data at present, it is unlikely that real economic activity could maintain growth at or near trend if our financial markets are strained--at least not without some offsetting easing of monetary policy.
+Moreover, this financial situation in the United States emerges as several countries that are important trading partners for us face economic weakness; problems abroad have already had an impact on the growth of demand in the goods, commodities, and manufacturing sectors of our economy.
+It is unlikely that the economy will come through this period unaffected, and most forecasters foresee significant slowdown.
+For me, this combination of factors was sufficient to justify last week's movement.
+Many have asked, "What does the Fed know that we don't?"
+The answer to this question now, as in nearly every situation in which we change policy, is--"very little, if anything."
+The statement we released reflected the consensus that emerged from internal discussions and summarized the most salient elements of the discussion.
+We based our decision on our analysis of the general tenor of financial markets and their likely effects on the economy, not on foreknowledge of a major financial disaster, as some have speculated.
+I would not presume to predict the future trend of interest rates.
+I, as one policy maker, will take into consideration incoming data from the real and financial sectors.
+I do believe that, with inflation already quite low, the Federal Reserve should be as vigilant and forward looking as possible to offset as best we can shortfalls in aggregate demand just as we are vigilant to maintain price stability.
+
+The central challenge of promoting the stability of the global banking system is sometimes viewed as bringing banking systems around the world up to best practice standards, as exemplified in the supervisory and regulatory frameworks of advanced industrial economies.
+While this is, to be sure, a priority--at least for internationally active banks around the world--let me offer a more comprehensive framework for thinking about enhancing the stability of the global banking system.
+First, best practices is a dynamic, not a static concept.
+The rapid change in banking markets and practices, and more generally in financial markets and instruments, challenges supervisors and regulators around the world to adapt in order to maintain the effectiveness of regulatory standards and supervisory practices.
+Best practices simply must get better over time or they will soon not be good enough.
+Second, best practices may not be the same for all banking organizations.
+It is time to think about not only enhancing the contributions of market discipline, reforming capital standards and enhancing supervisory practice at the largest and most complex banking organizations, but also about differentiating how we regulate and supervise these institutions relative to small and medium sized banks.
+Third, we have to continue to work on appropriate global norms and make greater progress in achieving greater convergence to best practices--including, perhaps, different best practices for different classes of institutions--around the world.
+This means appropriate investments in developing the standards, in technical assistance, and in monitoring compliance.
+I am going to apply this broader perspective on global banking to three pillars of an efficient and effective supervisory and regulatory framework for banking: market discipline, regulation, and supervision.
+First, I will discuss the potential for enhanced disclosure and improved incentives to increase the effectiveness of market discipline in controlling risk-taking by banks.
+Second, I will discuss the importance of reforming our international capital standards as an example of dynamic best practices.
+Third, I want to emphasize the important role for bank supervision.
+I.
+Market Discipline: Information and Incentives There appears to be a renaissance in appreciation of the contribution of market discipline in banking.
+This undoubtedly reflects a growing awareness that recent developments in banking and financial markets have made regulatory standards less effective and supervision more challenging, that it may be simply impossible to adapt regulatory standards and supervisory practices fast enough to keep pace with market developments.
+Of course, market discipline does not come easy to banking.
+We start by establishing a safety net for banks, including deposit insurance, access to a lender of last resort, and payment system guarantees.
+This immediately reduces the incentives of market participants to monitor the risk-taking of banks and, in turn, encourages excessive risk-taking by banks.
+We then put in place a regulatory and supervisory framework to counter these moral hazard incentives.
+And, when we are done, we complain about the absence of market discipline.
+I appreciate that this sounds just a bit contradictory.
+I could be more consistent and perhaps more appreciated at this institute if I urged the dismantling of the federal safety net and the full return to reliance on market discipline.
+But it is clear that society has made one of those irreversible choices and will not choose to eliminate deposit insurance, the discount window, a Federal Reserve payments system, or bank supervision and regulation.
+Moreover, my reading of history suggests that, despite the strong indications of the success of market discipline, the cost of the associated financial market disturbances on real economic activity are too high for market discipline to be the sole regulator of banking.
+I understand opinions differ on this, just as they must when supervisors and regulators make judgments to act at specific times.
+But, what is worth understanding is that there is now general agreement that moral hazard is a significant problem, that the markets are increasingly complex--making it more difficult for supervisors and regulators--and that supervision and regulation have significant costs and inefficiencies.
+As a result, we must begin to increase our reliance on market discipline both as a governor and as an indicator.
+When I talk about market discipline, some hear a call for a substitution of more market discipline for less regulation and supervision.
+Listen more closely.
+My concern is that the task of regulation and supervision has become more challenging and we therefore have to increase the effectiveness of our overall regulatory and supervisory framework to keep pace.
+I am referring here to the increased size, breadth and geographic scope of banking and to its increased globalization and complexity.
+I want to achieve this increased effectiveness by enhancing market discipline, modifying our regulatory standards, and adapting supervisory practice.
+We also want an efficient regulatory framework, one that achieves its objectives at the lowest cost.
+Where there are opportunities to achieve the same degree of stability through increased reliance on markets and reduced emphasis on regulation and supervision, we should, of course, do so.
+But right now, my focus is on increasing the overall effectiveness of the framework and in relying as much as possible on market discipline and improved capital standards to get this job done.
+It is one thing to extol the virtue of markets and another thing to find ways to make them work more effectively in controlling risk-taking in banking, at least in the presence of the safety net.
+The time has come to move beyond rhetoric to specific actions.
+Within the Federal Reserve System we have a variety of working groups and committees working to this end.
+We also have the benefit of ongoing work and recent reports by the Basle Supervisors Committee and the Group of 22.
+I expect that these efforts will result in concrete proposals soon.
+Market discipline is about information and incentives.
+Market participants must have access to reliable and timely information on the financial conditions and prospects of banking firms, and both the market participants and the firms must have incentives to respond to this information.
+With respect to information, we need to consider what additional disclosure would contribute to enhanced market discipline.
+Providing incentives is important because such incentives can encourage banks to provide voluntarily the information the market demands.
+I have not come with a specific set of recommendations for improved disclosure.
+But two common principles apply here as well as to issues related to regulatory reform and adaptation of supervisory practice.
+Banking systems in emerging economies have a long way to go to catch up to global norms with respect to disclosure.
+Banks that want to play in global markets should meet international standards with respect to transparency and disclosure.
+Banking systems in developed economies, in turn, should not be resting on their laurels when it comes to transparency and disclosure.
+Here again "best practices" has to be understood as a dynamic process.
+The increased complexity of banking, the speed with which risk positions can change, and the increased size and breadth of banking organizations all seem to point to the usefulness of improving disclosure to provide the raw material the markets need to continuously reevaluate changing risk profiles.
+Improved disclosures about risk management practices, risk profiles, and risk management performance--coupled with disclosures about regulatory capital and its components, risk weighted assets and related matters--could provide transparency that will facilitate market discipline.
+Timely disclosure of this information would enable market participants and supervisors to better assess how institutions maintain sound capital in relation to their changing risk exposures.
+Some of these types of disclosures are among those set forth in the recent Basle Committee paper on Enhancing Bank Transparency.
+International disclosure standards should include, for example, guidelines for reporting non-performing loans, for provisioning for non-performing loans, and for classifying the quality of loans.
+Upgrading international banking statistics to provide more detailed data on international exposures would enhance the ability of both supervisors and market participants to assess the vulnerability of domestic banking systems to financial shocks from abroad.
+It would also be useful to provide better information about the complex activities of the largest, internationally active banks, such as securitizations, credit risk modeling and credit derivatives.
+The second foundation of market discipline is incentives.
+One promising direction might be to require at least the largest and most complex banks to issue minimum amounts of subordinated debt as a way of enhancing market discipline.
+To a degree I view this as a metaphor for specific steps to enhance market discipline, to emphasize that we have to move beyond rhetorical praise for markets to specific steps to harness the role of markets in monitoring risk-taking by banks.
+There may be other approaches that can accomplish this task, as well or better than subordinated debt.
+But, right now, I do believe there is considerable promise in a subordinated debt requirement.
+An appealing aspect of this approach is that subordinated debt holders, so long as they are not bank "insiders," face only downside risk, and thus their risk preferences are very close to those of the FDIC.
+Subordinated debt holders would therefore be expected to impose market discipline on the bank that is quite consistent with what bank supervisors are trying to do, including encouraging banks to disclose more information about their financial conditions.
+Observed risk premiums on subordinated debt could perhaps be used to help the FDIC set more accurate risk-based deposit insurance premiums, and such debt would provide an extra cushion of protection to taxpayers.
+An additional benefit of having subordinated debt traded on the open market, at least if the market for subordinated debt was sufficiently liquid, is that price movements would provide a clear signal of the market evaluation of the bank's financial condition that would serve as an early warning signal to aid supervisors.
+Such an approach would most likely be limited to the largest banks for at least two reasons.
+First, it is the increased size of banking organizations and the financial innovations of the largest and most sophisticated banks that are challenging the effectiveness of the current regulatory and supervisory framework.
+Second, it is unclear just how deep and liquid a market for bank subordinated debt would be and what access small and medium sized banks would have to this market.
+This suggests that an operationally feasible program of mandatory subordinated debt would require a considerable amount of further thought.
+II.
+Reforming Capital Standards Market discipline, as I noted, is a complement to the regulation and supervision required by the safety net.
+The foundation for bank regulation has long been capital standards.
+Since 1998, these have been international standards as embodied in the Basle Accord.
+Capital standards can be thought of as a way of reinforcing market discipline, because they shift more of the risk to shareholders relative to taxpayers.
+In this way, capital is the closest relative to market discipline among bank regulations.
+That is the good news about capital standards.
+The bad news is they are becoming increasingly less meaningful and progressively undermined as a result of regulatory capital arbitrage.
+Regulatory capital arbitrage refers to the gaming of the capital standards, the exploitation of loopholes that allows banking organizations to lower the amount of capital for a given level of risk.
+Regulatory capital arbitrage has been encouraged by the limitations of and excessive rigidity in the current capital standards.
+To be sure, it serves as a kind of safety valve, preventing the capital rules from distorting bank behavior in non-economic ways.
+But capital arbitrage also undermines the effectiveness of our capital rules and creates some economic distortions.
+Banks engage in regulatory capital arbitrage mainly through securitizations and credit derivatives.
+These vehicles offer improved opportunities for banks to manage their risks and liquidity.
+Securitizations allow banks to transfer the risk of an underlying loan pool to capital markets, retaining their role in the origination of loans, but transferring more of the ultimate funding to the capital markets.
+Credit derivatives are another vehicle for shifting some of the risk of the underlying loan pool, while avoiding disclosure of an effective loan sale and possibly harming a customer relationship.
+There are two problems with the use of securitization and credit derivatives.
+First, banks often use these vehicles to reduce capital charges by more than they reduce the risk associated with the underlying loan pool.
+This is the problem of limited transference of risk.
+Banks generally retain the risk of "first dollar" or "second dollar" loss on the underlying assets via various credit enhancements.
+Indeed, through devices such as "remote origination" and "indirect credit enhancements" the regulatory capital associated with retained risks can be very low, even zero.
+As a result, some refinement in the capital treatment of securitizations and credit derivatives is needed to better match the capital with the retained risk by banking organizations.
+But the second problem is the more difficult one.
+Securitizations and credit derivatives are basically exercises in cherry picking.
+That is, they allow banks to transfer the high quality assets out of their banking book.
+Banks do so for good reason, to be sure.
+They do so because our current capital standards apply the same risk weight to all non-mortgage loans, and the regulatory capital charges for the highest quality loans are often well in excess of the economic capital that banks internally allocate to such loans.
+In a world of increased competition, banks have to use every opportunity to manage their risks and capital to best advantage.
+And that means either not originating such high quality loans or finding ways to make the regulatory capital converge to their estimate of the economic capital of such loans.
+Regulatory capital arbitrage is a safety valve because it allows banks to stay in the business of making such high quality loans.
+The main problem here is not the reduction in capital charges against the high quality loans, although this does raise tension with prevailing international capital standards.
+The most serious problem is the increased risk of the residual loan portfolio, the portfolio that has been effectively stripped of its high quality assets for which regulatory capital exceeds economic capital.
+The remaining loans, to the extent this process has been carried out to its logical conclusion, all have economic capital equal to or in excess of the regulatory capital charges.
+The 8 percent capital charge for the average loan portfolio may, as a result, be quite inadequate for the residual higher-risk loan portfolio.
+On the other hand, the 8 percent risk-based capital standard may still be adequate for banks that do not engage in cherry picking via securitizations and credit derivatives.
+Therefore, as we move toward reform of the international capital standards, we should not necessarily apply the same capital standards to all banks.
+The point here is not to blame banks for engaging in regulatory capital arbitrage.
+The fact is that regulatory capital arbitrage is an outgrowth of the considerable resources that banks have devoted to better measuring, pricing and managing risk.
+And it is also a response to serious shortcomings in our international capital standards.
+The solution is not to reign in banks, but to catch up to banks, specifically to reform our international capital standards in a way that takes advantage of some of the advances in credit risk measurement and management in the industry.
+I am not going to be more specific at this point.
+Here too the Federal Reserve has been actively engaged in analyzing the emerging tensions between bank practices and regulatory rules and has been working toward recommendations for reform.
+As you know, regulatory capital standards, at least those that apply to internationally active banks, require international consensus.
+The Basle Supervisors Committee, under the leadership of William McDonough, President of the Federal Reserve Bank of New York, is moving toward active discussion of reform of the Basle Accord and the Federal Reserve will be an important contributor to this deliberation.
+Without laying out the specifics of a reform effort, the direction must be to ensure that regulatory capital charges, especially those related to the banking book, better match economic risks.
+The Federal Reserve Board's web site (federalreserve.gov) has several excellent staff papers on these issues that I call to your attention.
+Today the same capital charge is assessed against a loan to a AAA-rated company as to a loan to a junk-rated company.
+As a result, banks tend to have very similar regulatory capital ratios despite the fact that they have quite different risk profiles.
+Fortunately, the largest and most sophisticated banks can and do differentiate between their loans for the purpose of assigning internal economic capital as part of credit risk management.
+Regulators have to take advantage of the same improvements in credit risk measurement and management to achieve this improved matching of capital to underlying risks.
+The problem is that, at this point, there is a considerable diversity in the quality of such risk measurement and management across banks and some serious limitations to the robustness of internal risk measurement models.
+So we need to encourage both continued advances in risk measurement and management and convergence toward best practice within the industry, at least for the largest, most complex and internationally active banks.
+The fact is, we may not yet be where we need to be in terms of credit risk measurement and management to implement a new capital standard that effectively resolves problems associated with regulatory capital arbitrage.
+So as we move toward a reform of international capital standards that harnesses the risk measurement improvements in banking, we need parallel efforts in credit risk measurement and management within the banking industry.
+If we can match these two efforts, we will hopefully be able to achieve meaningful reform of our capital standards.
+This would hopefully allow us to eliminate or at least significantly reduce incentives for regulatory capital arbitrage, ensure that risk-based capital ratios are more meaningful, and enhance the role of capital standards as the foundation for bank regulation.
+III.
+The Importance of Supervision At its best, regulation is a rather blunt instrument and, as a result, in the U.S. great emphasis has been placed on bank-by-bank supervision, including on-site examinations.
+Historically, U.S. examiners focussed almost solely on uncovering deteriorated or troubled risk positions; in effect, they carried out a "classified assets" review.
+But we recognize now that good supervision is proactive.
+It is, of course, important to force banks to recognize problems promptly when they occur; it is even better to make sure that the probability of a problem occurring is contained to begin with.
+To this end U.S. supervisors now conduct examinations of bank risk measurement and management processes, not just examinations of bank assets.
+This also reflects the new dynamics of bank risk-taking, the prospect of rapid change in underlying risk because of the changed nature of bank practices, changes in the technology that speed changes through markets, and changes in financial instruments.
+The old approach was more like taking a snapshot of troubled assets at a point in time and returning the following year for another picture.
+The new approach is one that features monitoring of the systems and procedures used to measure risk by the bank on a continuous basis, with the details of the examination process tailored to the complexity of the transactions and to the areas within a banking organization where the greatest risks are concentrated.
+The pace at which financial innovation is occurring is leaving gaps in banking regulation, which will take time to fill.
+There is no alternative but for supervisors, during this interval, to be more alert and to recognize the greater role for supervisory discretion.
+In a recent supervisory letter, for example, the Federal Reserve encouraged its supervisors to be sure that the robustness of a bank's credit risk management was scaled appropriately to the complexity of its operations.
+Specifically, banks that aggressively participate in cherry picking via securitizations and credit derivatives should be expected to have in place a credible system of internal credit risk rating and should be prepared to assess the economic capital appropriate to the residual banking portfolio.
+Having said all this, we have been reminded over and over again that some things change, but others stay the same.
+It is important to recognize, as recent experience has forced us to, that new financial instruments often involve the same old types of risk.
+A good example is derivatives.
+U.S. banks, for example, hedged positions in rubles without adequately considering the credit quality of the hedge counterparties, specifically the Russian banks that were the counterparties to foreign exchange hedges.
+In the case of derivative positions that banks had with hedge funds, the risk was not so much the potential for rapid change in the value of the underlying position, given that banks insist on collateral backing on contracts for which they are in the money and also generally hedge these positions.
+However, assessment of the risk of the counterparties remains an important task, because when a counterparty defaults banks lose one end of their hedged positions and must quickly replenish such positions in volatile and illiquid markets.
+And, of course, in Asia, Russia, and elsewhere banks lent to domestic businesses with poor underlying financials, sometimes because of encouragement of the government, sometimes as a result of a system of connected lending, and often because of expectations that domestic governments would bail out the important businesses.
+Put differently, banks most often still lose money the old fashioned way--poor credit judgments and bad luck.
+We should not lose sight of this as we adopt new procedures and techniques.
+Whether for the old or new techniques and problems, the culture of on-site supervision is much less strong in other countries and in some cases is almost non-existent.
+Indeed, in some cases, supervision consists entirely of reviewing publicly available financial statements to determine compliance with prudential regulations.
+This is another area where convergence is badly needed.
+IV.
+Conclusion Banks in emerging economies are increasingly becoming players in global banking.
+To maintain the stability of the global banking system it is important that these banks converge toward best practice standards and that the regulatory and supervisory infrastructure in these economies similarly meet global norms.
+There is an important role in this process for international standard setting, technical assistance, and monitoring compliance with these standards.
+
+I am particularly pleased to be here with my friend Congressman John LaFalce, who brings such energy and good sense to the Congress, especially to the hard work of the Banking Committee, which is where I see him most frequently.
+I want to talk with you this morning about the turmoil in the world economy and what it might mean for us here in the United States.
+Why should people in upstate New York care about the economy of Thailand or Russia or Brazil?
+What can we do to keep our own economy strong?
+We are all used to the cliche that the world is getting smaller, that the electronic age has brought us closer and put us in instant touch with remote parts of the globe.
+We know that cross-border trade and investment have increased enormously in recent years, bringing both greater prosperity and greater interdependence.
+Still, when bad news from Asian economies began flashing across our screens in the summer of 1997, it didn't seem to have much to do with us.
+Currencies with odd names, like the baht and the ringgit were said to be plunging, stocks prices on the Hang Seng or the Nikkei were falling, by the end of the year Korean banks were negotiating with their creditors.
+But here at home the economy was doing better than it had in a generation.
+The news from Asia seemed like a small dark cloud appearing on the horizon in the middle of a sunny day at an outdoor festivity.
+It might mean rain, but with any luck it would go away.
+We have been enjoying a truly extraordinary performance of the U.S. economy.
+Since the beginning of the 1990s, we have had a long period of growth that didn't seem to be sputtering out.
+In fact, growth accelerated in 1997 and early 1998, which is not the usual pattern for a "mature" business cycle.
+We have seen few signs of strain or imbalance.
+Although some areas, including Upstate New York, have lagged, we have experienced mostly good growth across the country and across sectors of the economy.
+Unemployment has been very low -- lower than most economists thought it could remain for long without igniting inflation.
+Wages have been increasing, but not so fast that the rise caused rapid escalation of costs.
+The slowdown in the rise of health benefit costs has held total compensation increases to moderate levels.
+Productivity increases have been offsetting compensation growth, keeping profits growing, at least until quite recently.
+Most remarkable of all, inflation has been falling and not showing any clear evidence of accelerating again.
+Even the Asian crisis at first seemed an ill-wind whose timing was actually blowing us some good.
+Some Americans felt the negative impact early, especially manufacturers whose exports to Asia declined and farmers who saw their prices drop on world markets as Asian demand fell off.
+At the national level, however, our economy was clearly growing at an unsustainable rate, and some slowdown was actually welcome.
+We were in danger of running out of workers.
+Sooner or later cost pressures would lead to inflation.
+The primary economic risk seemed to be overheating, not slow growth.
+Indeed, the Federal Reserve was concerned enough to tap the brakes by raising the short term interest rate in March 1997 before the Asian crisis hit that summer.
+We would probably have felt called on to raise rates again later in 1997, but by then it seemed likely that slower growth in Asia would cut US net exports, and restrain our economy enough to avoid inflation and any pressures.
+Good productivity performance, falling commodity prices, combined with low inflation expectations and the high value of the dollar, all made it less risky to wait and reduced the necessity of the Federal Reserve taking preemptive action against inflation by raising rates again.
+The stock market's remarkable rise both reflected and perpetuated the general good feeling about the U.S. economy.
+Even the Asian crisis raised the price of U.S. stocks, as investors took their money out of Asian markets and bought U.S. securities instead.
+To be sure, U.S. equity values were outrunning reasonable expectations of profits, especially if, as many forecasters expected, the economy slowed down.
+But increased wealth of consumers stimulated consumption and the low cost of equity stimulated investments, so chances of future profits were enhanced.
+Some worried that high equity values were a bubble that would inevitably burst, but this concern was mitigated by: (1) lack of strong evidence that stock prices were part of a wider speculative phenomenon that included real estate and other assets, as in some previous boom periods; (2) the apparent new maturity of small investors, who talked and acted as though they were in the equity market for the long haul.
+All in all, it was a sunny day at the fair.
+All of this good news generated an occasionally silly debate about whether the U.S. was in "new era" in which all the old rules had been suddenly repealed, or whether there was a "new paradigm," which usually seemed to mean "no paradigm," or "the sky's the limit."
+The more sensible version of the discussion went something like this.
+There are lots of reasons why the economy might be both more productive and less inflation prone than it used to be: more global competition deregulation of airlines, trucking, telecommunications; decline of barriers among financial services the computer and telecommunication revolution (finally) making cost savings possible, not just in manufacturing, but in services more flexibility and incentives built into wages, less unionization, out-sourcing of specialized services, use of temporary and part-time employees high levels of investment, including human investment -- on-the-job and other skill training.
+In economists' terms, there was hope that productivity might have moved onto a higher growth trend.
+Faster productivity growth would mean a higher standard of living for Americans in the future.
+It would mean that growth could be faster without setting off inflation (perhaps closer to 3 percent a year than 2 percent) and that unemployment could be lower without inflationary consequences.
+That would be very good news.
+It was too soon to be sure that the apparent productivity trend increase would hold up or that less inflation was becoming the norm.
+It was certainly true that some elements of the unusual combination of favorable inflation factors were likely to reverse.
+Health cost increases might accelerate again; the dollar might weaken and cause import prices to rise; oil and commodity prices might go up again.
+Still, the U.S. economy seemed to be performing remarkably well.
+Then ill-wind from Asia turned to a gale, sweeping through currency and asset markets all around the world and affecting our own financial markets as well.
+The stock market dropped 5 percent in one day in August, then bounced wildly around.
+A general "flight to quality" drove long-term interest rates down on Treasuries, but rates on riskier financial instruments went up.
+The market mood changed to pessimism and risk aversion.
+In Japan, the Asian crisis had a much greater impact and came at a much worse time.
+Japan is closely involved with other Asian countries and suffered both financial reversals and loss of markets for Japanese goods.
+They were already struggling with slow growth, a banking system in need of overhaul and a political party structure in need of rejuvenation.
+The Asian crisis precipitated deep recession in Japan.
+The world economic turmoil could not have come at a moment when the Japanese were less able to deal with it.
+Meanwhile, across the Atlantic, the initial storm warnings from Asia, were also first dismissed by many Europeans as far away and not their problem -- distant thunder on another shore.
+European economies are less heavily involved with Asia than we are and, besides, the ill-wind was blowing them some good in the form of lower oil and other commodity prices.
+The major countries on the continent were working hard on the details of monetary union and organizing a multi-national central bank; they were struggling earnestly to get deficits and inflation down.
+The basically simple idea of having a common currency and a common central bank proved very difficult to achieve technically and politically, but they had done it.
+Growth rates were finally picking up and even high French and Germany unemployment rates were beginning to recede.
+Europeans were optimistic that the common currency, and the increased competition and deepening capital markets it was likely to engender, would energize their economies even more and lead to higher growth.
+This unpleasant weather on the horizon seemed at first a minor distraction.
+But the lightening bolt in August of Russian devaluation was more difficult to ignore; it was right there on their borders.
+In the last few months, we have learned so much about the downside of an increasingly interdependent world that it is important to remind ourselves that the upside is enormous.
+Increasing volumes of trade and cross-border investment have raised the standard of living in many emerging countries at an astonishing rate.
+Trade and foreign investment have moved the countries of Southeast Asia in less than a generation from traditional agriculture to modern industrial societies with far less poverty, much more skilled work forces and rising standards of living.
+At the same time, we and other industrial countries have benefitted from growing markets for our exports, higher profits on our capital and lower prices for the wide variety of goods we import.
+When things are going well in an interlinked world, one country's prosperity reinforces another's.
+The rapid growth of emerging market countries, especially in Asia, in the last couple of decades, led to greatly increased trade among them as well as with industrial countries.
+The self-reinforcing growth seemed so positive that investors began to view investing in emerging markets as not much more risky than investing in their own more familiar industrial country markets.
+Capital flowed freely to finance projects in emerging market countries with lenders demanding only slightly higher interest rates than they would have required to lend at home.
+But the downside of interdependence is that when something goes wrong, the impact also spreads quickly from one country to another, through trade channels, prices and asset markets.
+Asian countries in trouble quickly cut their imports from each other and from the industrial world.
+The reduced Asian demand for food, oil and raw materials was felt by farmers in the U.S. and Canada, Australia and New Zealand; by producers of oil in Mexico and Venezuela, Nigeria and Russia and the Middle East; by copper producers in Chile and exporters of industrial raw materials in Africa and elsewhere.
+Companies in Rochester and Buffalo found their sales falling.
+As the contagion spread, investments in many emerging market countries began to look less promising.
+Investors became generally more cautious and began looking for safe places to put their money -- like buying U.S. government bonds -- even at low rates of return.
+As they saw U.S. companies affected, they became less eager to finance them as well.
+We've learned a lot in the last few months about the power of contagious loss of confidence in an interlinked world.
+The meltdown in Russia was the clearest case.
+Russia is not an important economic and trading power in itself.
+Losses to major money center banks, here and in Europe, though magnified by unexpected interrelations with hedge funds and other operations, were not in themselves destabilizing.
+But what apparently mattered was the surprise, both of the suddenness and unpleasantness of the Russian default and of the fact that the Western "powers" were so powerless.
+No one thought the U.S. and its allies would take the political risk of letting Russia fall apart.
+In the end, there was nothing they could do to stop it.
+The Russian collapse led investors to pull back just about everywhere.
+Some who had borrowed to invest in Russia had to sell assets in other markets to cover losses.
+Others simply said to themselves, "If it can happen in Russia, it can happen anywhere; I had better get my money to a safe place."
+The result was plummeting markets in Latin America, South Africa, Asia and elsewhere, more difficulties for the countries struggling to recover.
+It is now clear that the Asian crisis that started in Thailand in the summer of 1997 -- and seemed like a remote event of no great significance to most Americans -- has set off a chain reaction reaching around the world.
+Much of Asia is in deep recession, the Russian economy has collapsed with negative repercussions for many of its neighbors, growth is slowing in Latin America.
+Risk aversion of investors has made it difficult for any country, company or venture perceived as at all risky to get capital or to borrow, even at high rates.
+Countries like Brazil, Mexico and Argentina, considered quite strong a few months ago, are under mounting pressure.
+Brazil has had to raise interest rates, use much of its foreign exchange reserves to keep its currency from depreciating; the high interest rates, in turn, have greatly exacerbated Brazil's budget deficit, and the deteriorating outlook has led to fears that investors will pull their capital out and bankers refuse to roll over debts.
+Economic collapse in Brazil, which is Latin America's largest economy, could precipitate serious trouble in other Latin American countries and then reverberate back around the globe to deepen the trouble of Asia, including Hong Kong, China and Japan.
+Another round of deepening deterioration would surely put intense downward pressure on the U.S. economy by cutting our exports, depressing equity markets and weakening investor and consumer confidence.
+As Chairman Alan Greenspan has said, we cannot expect to be an "oasis of prosperity" in a deteriorating world economy.
+Even if we could stay prosperous alone, we should not want to take the risk that deteriorating economies in the rest of the world would augment unrest, terrorism and international conflict that could engulf the United States.
+What's to be done?
+In the near term there are clearly two priorities: Stop the contagion so that emerging market countries can begin to get back on their feet.
+Keep the world's largest economy from slowing down too much -- for our own sake and the world's.
+There is no easy, simple answer to stopping contagion, if indeed there is any answer.
+What would be the elements of a plan?
+First, countries most in danger of being the next to fall have to be willing to face up to their vulnerability quickly.
+(There is no point in moaning, "It's not our fault, we didn't do anything wrong; we just got caught in the world backwash."
+That's partly true, but not helpful.)
+They have to be willing to call in their creditors to negotiate rollovers, ask the IMF for conditional loans, offer significant and credible internal reforms in return.
+Nowhere is this easy.
+Second, private creditors have to see their long-run interest in hanging in, even on concessional terms, rather than joining a stampede for the exits.
+Third, the international financial institutions and the industrial countries have to find more funding to tide these countries over the crises if they give evidence of willingness to accept strict conditions.
+Congress' passage of the IMF quota increase and the New Arrangements to Borrow remove a major uncertainty about the effectiveness of collective action and should do a lot to restore confidence that the chain reaction of economic deterioration can be stopped.
+Keeping our own economy growing would be important even if the rest of the world were not depending on us so much.
+Slower growth and rising U.S. unemployment would mean fewer opportunities for Americans to earn income and move to higher skilled and better paid jobs, less chance for families to move out of poverty and from welfare to work.
+Slow growth or recession in U.S. would also have serious consequences for the rest of the world, reducing our ability to buy and invest abroad and exacerbating economic downturn everywhere.
+At present, the chance of recession in the U.S. does not seem high.
+Recent growth has been strong and balanced with few indications of strains and speculative excesses that typically go with boom/bust cycles.
+Most forecasters expect the U.S. economy to slow; the hope is that it will not slow too much.
+The Federal Reserve, recognizing that the balance of risks has shifted from overheating to cooling off, has cut short term interest rates twice.
+Other industrial countries may follow our lead (Canada already has); although the major continental European countries feel easing is less appropriate for them as they consummate their monetary union.
+It is clearly important for the Japanese to get their economy moving again -- to stop being part of the problem and be part of the solution -- as Americans and Europeans have been pointing out, none too politely, for months.
+The Japanese were not shy, when they were riding high in the ‘70s and ‘80s, to offer advice to the Western industrialized countries about modernizing our manufacturing and management practices, working harder, getting budget deficits down.
+So there may be a payback element to the U.S. and European shrillness about how important it is for the Japanese to use aggressive fiscal stimulus to get their economy going again and to restore confidence by drastic and immediate restructuring of their banking system.
+Neither is going well.
+A series of stimulus announcements, mostly focussed on increasing government spending for public works has not yet succeeded in stemming the economic slide.
+A next step might be a significant tax cut, but with Japanese consumers and investors both feeling anxious about the future, there is no guarantee that even a large tax cut would result in much near term spending.
+Japanese banking system restructuring is going slowly, although it does seem to be moving toward resolution.
+We are fine ones to talk, since we let our much smaller savings and loan crisis fester for a long time before facing up to it.
+With hindsight, the Japanese could have restructured their banks much more easily three or four years ago.
+The worst time to restructure failing banks is when macroeconomic conditions are reducing the value of their assets even further.
+Drastic action now may make the recession worse in the short run, but it may also be the only hope for restoring confidence and financial health in the future.
+Let's suppose this crisis turns around: the contagion is stopped, Asian and other emerging market countries begin to grow again; Japan pulls out of recession and begins to contribute with its recovery to recovery of its neighbors; North America and Europe sustain healthy economies.
+Then the big question is: how to avoid such a costly episode happening again.
+The real costs are not monetary; they are disrupted human lives and hopes.
+Millions of people in emerging market countries are suddenly without jobs, food, basic necessities, children are not going to school, young people are not learning skills, and are facing uncertain futures.
+We won't be able to avoid crises altogether.
+But in the new era of huge capital flows and instant communication, the amplitude and severity and cross border reach of crises are magnified.
+Can we at least make crises less frequent and mitigate the damage?
+What we should not try to do is retreat to isolation and self-sufficient economies that don't trade or invest in each other.
+The simple reason is: we'd all be a lot poorer.
+That solution is like saying: We don't like power failures, so let's all stop using electricity or make sure that everyone has a generator in the backyard, so we don't have to depend on the power company.
+What we can strive for is more cautious better informed investing and lending, better early warning systems and ways of heading off deepening trouble once it begins.
+Better information would help: All countries giving complete information on their foreign exchange reserves in as close to real time as possible.
+Better information on budgets and government finances, e.g., what real deficits are.
+Companies and banks revealing more clearly what their assets, liabilities and profits are.
+More effective, better supervised financial systems are essential: Prudential regulation of banks More carefully supervised securities markets.
+Accounting standards, enforced.
+One idea is that a country's financial systems could be graded by its peers in other countries; somewhat in the manner that universities or hospitals are accredited in the United States and the results published.
+The concern should not be just with borrowing countries and their institutions, as though making emerging market countries' financial structures more like the structures in industrial countries would solve all the problems.
+For every borrower there is a lender.
+Industrial countries, creditor countries, have to be more sure their banks are managing their risks appropriately, and are prepared to deal with situations when a lot of things go wrong at once.
+

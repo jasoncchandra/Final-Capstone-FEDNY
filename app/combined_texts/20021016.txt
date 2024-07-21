@@ -1,0 +1,492 @@
+Against the backdrop of the wide swings in equity prices in recent years, the financial market repercussions accompanying corporate accounting scandals in the United States, and the current difficulties in key emerging market economies, it seems appropriate to reconsider the role of central banks in fostering financial stability.
+This session asks us to address a deceptively simple question: Should financial stability be an explicit central bank objective on a par with other objectives such as price stability and sustainable economic growth?
+At the outset, let me emphasize that all of the views I will express in answer to this question are my own and not necessarily those of my colleagues on the Board.
+To summarize the discussion below, financial stability has been and always will be a fundamental objective of central banks.
+Indeed, many central banks around the world—including the Federal Reserve—were established in part to serve as bulwarks against chronic episodes of financial instability and the attendant adverse consequences for the economy.
+So at this basic level, a financial stability objective for central banks seems entirely appropriate.
+That said, difficult issues may arise at times in judging how much weight should be attached to financial stability versus other central bank objectives and also in judging just how “activist” central banks should be in pursuing their financial stability objectives.
+In this connection, the Federal Reserve has found it useful to focus on its financial stability objectives primarily through the lens of its macroeconomic goals—price stability and sustainable long-run growth.
+That is, the Federal Reserve seeks to foster conditions that will contribute to price stability and sustainable output growth now and in the future.
+1.
+Public Policy and Financial Stability It seems useful at the outset to define financial stability and to do so by defining its opposite, financial instability.
+In my view, the most useful concept of financial instability for central banks and other authorities involves some notion of market failure or externalities that can potentially impinge on real economic activity.
+Economic research in recent years has identified a variety of market imperfections such as moral hazard and asymmetric information that, if widespread and significant, can result in threats to the functioning of any financial system, such as panics, bank runs, asset price bubbles, excessive leverage, and inadequate risk management.
+Such outcomes are typically highly undesirable from a social welfare perspective; financial prices can diverge sharply and for prolonged periods from fundamentals, credit conditions may be too lax at times and at other times far too restrictive, and spending and real activity may be subject to much wider swings than would otherwise be the case.
+Thus, for the purposes of this paper, I’ll define financial instability as a situation characterized by these three basic criteria: (1) some important set of financial asset prices seem to have diverged sharply from fundamentals; and/or (2) market functioning and credit availability, domestically and perhaps internationally, have been significantly distorted; with the result that (3) aggregate spending deviates (or is likely to deviate) significantly, either above or below, from the economy’s ability to produce.
+With this definition of financial instability, a clear public policy interest arises for central banks and other authorities to act in two distinct roles in pursuing financial stability—prevention of instability and management of the consequences once markets become unstable.
+In the area of prevention, perhaps the single most important thing a central bank can do is to foster a macroeconomic environment of low and stable inflation and sustainable economic growth.
+Absent such desirable macro fundamentals, the risks of financial instability are almost certainly higher and the effects of financial instability when it arises all the more pernicious.
+Beyond conducting sound macro policy, central banks have traditionally been involved in myriad activities, such as formulating appropriate financial regulations, implementing effective bank supervision, and operating or overseeing efficient payment systems, all of which help to attenuate the risks of financial instability.
+Under the heading of management, central banks can alter monetary policy to forestall or mitigate the consequences of financial instability for the economy.
+When such instability slides into crisis, they can employ their basic tools to help alleviate liquidity pressures and to bolster public confidence.
+Liquidity pressures can be addressed, for example, through generous provision of reserves via open market operations and direct lending to depository institutions via a lender-of-last-resort or discount window function.
+Other monetary policy tools can be employed as well, such as possibly cutting reserve requirements and, of course, lowering policy interest rates to provide a boost to the economy.
+The events of September 11 last year underscored how important it is for central banks to be ready to act promptly in a crisis to execute all of their core functions and flexibly adapt their rules.
+An important aspect of this preparedness is ensuring that critical systems and policy tools are robust to any and all contingencies.
+To this end, the Federal Reserve has been very actively implementing additional layers of backup and contingency arrangements for all of our key payment systems and operations.
+In the same vein, we are also encouraging banks and other financial institutions to ensure the robustness of their own systems.
+Although private firms that maximize profits do have market incentives to maintain adequate backup and contingency arrangements, they may not take into account the full social, or external, value of such arrangements.
+Because of this, central banks and other authorities have a useful role to play in encouraging and supporting private sector planning and investments that fully reflect the social value of contingency arrangements.
+Having now proposed a definition of financial stability and listed a variety of ways in which central banks can promote financial stability, I would add a cautionary note.
+Focusing on the various threats of financial disruptions and the need for public intervention to promote financial stability, one can sometimes lose sight of how remarkably efficient and stable financial markets typically have been in recent decades.
+When new information arrives, we expect that financial asset prices should respond quickly, and, thus, there is every reason to believe that asset prices may be volatile at times.
+We must also bear in mind that financial markets are dynamic and evolving.
+The incorporation of new technologies and the constant interplay of the forces of competition, deregulation, and globalization imply that some firms, possibly even quite important ones, will fail over time through a process of economic “natural selection” or “creative destruction” in which more efficient business models displace the status quo.
+Thus, there is a challenge and a tension for central banks and other authorities in differentiating between developments that truly represent externalities or market failures, and thus warrant public intervention, versus those that are just part of the normal, unavoidable, and largely positive turbulence in a dynamic market.
+2.
+Central Banks’ Interest in Financial Stability For obvious reasons, central banks have long had a keen interest in financial stability.
+First and foremost, financial instability as defined above poses a severe threat to important macroeconomic objectives such as sustainable output growth and price stability.
+Largely for this reason, nearly all central banks are empowered and expected to act as a lender of last resort in financial crises.
+Indeed, recognition of the role of central banks in stemming financial crises dates back to Thornton and Bagehot in the eighteenth and early nineteenth centuries, respectively.
+This historical function of central banks as a potential source of emergency liquidity assistance to markets—through open market operations—or to particular institutions—through discount window lending—creates a need for central banks to keep close tabs on markets for signs of instability and to be prepared for action should the provision of emergency liquidity assistance prove necessary.
+Moreover, monetary policy is implemented largely through operations in financial markets, and the transmission of monetary policy to the real economy depends crucially on the smooth functioning of key financial institutions and markets.
+Attainment of sustainable real growth with stable prices in turn will make the economy less prone to financial instability.
+Finally, yet another manifestation of central banks’ interest in financial stability stems from their role in the operation or oversight of payment systems that, in turn, act as the critical “plumbing” supporting activity in financial markets.
+As noted above, financial stability is an important objective for all central banks, and this fact has been incorporated, to varying degrees, in central bank charters.
+In the case of the Federal Reserve, financial stability concerns were at the core of the Federal Reserve Act.
+Indeed, the Federal Reserve owes its existence to the financial instability of the U.S. economy in the nineteenth and early twentieth centuries.
+Early attempts to create a central bank in the United States—the First Bank of the United States (1791-1811) and the Second Bank of the United States (1816-1836)—were undone by the deep public distrust, particularly in southern and western states, of the concentration of financial power in an institution created by the federal government.
+Left without a central bank for the entire period between 1836 and 1913, the U.S. financial system had no effective backstop to guard against the periodic financial panics that occurred over these years.
+As a rule, these panics were soon followed by sharp contractions in economic activity.
+The panic and economic downturn sparked by the failure of the Knickerbocker Trust Company in 1907 were particularly acute, and prompted the appointment of a National Monetary Commission in 1908 to study and recommend structural changes that could improve the stability of the financial system.
+After the Commission concluded a lengthy and exhaustive report (twenty-three volumes) and following intense public debate, Congress finally passed the Federal Reserve Act in 1913, which created the Federal Reserve System.
+The preamble of the Federal Reserve Act, stating the purpose of the Federal Reserve, simply read that it was created “To provide for the establishment of Federal reserve banks, to furnish an elastic currency, to afford means of rediscounting commercial paper, to establish a more effective supervision of banking in the United States, and for other purposes.” This language implicitly embodied financial stability as an objective of the Federal Reserve.
+The references to an “elastic currency” and the “rediscounting of commercial paper” fundamentally reflected concerns about financial market liquidity, and the reference to “more effective supervision of banking” captured the desire to develop a means to avoid or mitigate banking crises.
+More specific references to financial stability were implemented twenty years later with the revisions of the Federal Reserve Act that were implemented in the depth of the financial and economic crisis of the Great Depression.
+These Depression-era revisions granted the Federal Reserve “emergency” lending powers.1 More than forty years more were to pass before the Federal Reserve Act would contain an explicit statement of its macro policy objectives.
+Those objectives, added in 1977, state that “The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain long run growth of the monetary and credit aggregates commensurate with the economy's long run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates.” Other Central Bank Charters Other countries have also recognized the interdependence of macroeconomic performance and financial stability and, as a result, many central bank charters reflect a concern for both macro objectives—such as price stability and satisfactory economic performance—and financial stability.
+Table 1 reports some key passages from several central bank statutes.
+Text in italics indicates passages that would seem to provide an explicit goal for the central bank in pursuing financial stability.
+Text that is highlighted could be interpreted as encompassing financial stability as an implicit central bank objective.
+What can be said about the overall pattern of statutory financial stability objectives among central banks?
+At least among the small sample of central banks listed in Table 1, all have at least some implicit references to financial stability and many have quite explicit references to financial stability as a factor that central banks need to consider.
+In many cases, the explicit references to financial stability fall in the realm of banking and the efficient operation of the payment system.
+However, some have references that seem to embody a broader notion of financial stability.
+3.
+Financial Stability Objectives: Relative Weight and Activism The foregoing discussion suggests that financial stability to some degree already is an important objective for central banks around the world, even for those that are sometimes viewed as solely concerned with price stability.
+The real question then may not be so much whether financial stability should be a central bank objective, but rather how policymakers should weigh that objective in reaching policy decisions.
+Here one could imagine a range of possibilities.
+At one extreme, a central bank might focus almost entirely on an objective such as price stability with financial stability concerns only entering in an extreme scenario when a crisis is underway.
+Svensson (2002) labels this a strict inflation targeting regime.2 At another extreme, a central bank might be highly sensitive to signs of financial instability and be quite willing to take pre-emptive policy actions to address potential instabilities even when such steps might not be warranted solely by reference to the near-term outlook for price stability and economic activity.
+In a thought-provoking paper, Borio and Lowe (2002) develop a rationale for just such an activist, pre-emptive approach by a central bank in a pursuing financial stability objective.3 In a nutshell, they argue that financial imbalances may develop even at times when prices are stable and output is close to potential.
+As a result, central banks need to be prepared to take pre-emptive actions to head off potential financial instability even when such policy actions may not be fully justified by the outlook for inflation and output.4 There seem to be at least three basic issues that arise in contemplating the degree of activism that central banks should adopt in pursuing a financial stability objective.
+To summarize briefly: The first basic issue involves questions about how a financial stability objective would affect central bank incentives and interact with the central bank’s other policy goals.
+Although I do not want to overemphasize the point, a financial stability objective that is accorded too much weight could, at the margin, impair the conduct of monetary policy in achieving macro ends.
+A second issue involves how a financial stability objective might be perceived by the public and investors.
+On this score, it seems likely that a central bank adopting a highly activist approach in the pursuit of a financial stability objective would court moral hazard.
+And finally, there are serious questions about whether a very activist approach to financial stability could end up contributing to the volatility of economic variables.
+Interactions with Other Policy Objectives One basic issue is how much weight central banks should attach to financial stability as an objective vis-à-vis their other objectives.
+Of course, in many cases, the relative weight a central bank places on financial stability may not be especially important if a financial stability objective is essentially auxiliary and tends primarily to reinforce the rationale for policy actions warranted by other objectives.
+For example, a sudden seizing up in financial markets is likely to be associated with a weakening in aggregate demand.
+In this case, the pursuit of monetary policy objectives and a financial stability objective would be largely in accord and both would be served by additional monetary policy stimulus.
+Conversely, a significant and unwarranted easing in credit supply conditions might be accompanied by growth of output well above that of potential.
+Again, in this case, financial stability considerations would tend to support the tightening of monetary policy that is justified in the first instance by the goal of economic stabilization.
+However, there is some potential for perceived conflicts between the traditional macro policy objectives and a financial stability objective.
+Sometimes in tightening the stance of policy, for example, policymakers are concerned about the possibility that outsized financial market reactions could occur or that an associated decline in asset prices will reveal financial vulnerabilities in some sectors.
+At the margin, it would seem that a financial stability objective that was weighted quite heavily would tend to make that concern more pronounced, which arguably could hinder the effectiveness of monetary policy in securing price stability and sustainable real growth.
+For example, one might wonder whether the Federal Reserve’s changes in procedures in the late 1970s to target a narrow monetary aggregate, with the attendant rapid increase in the level of the federal funds rate, would have been possible in a regime that tended to view sharp swings in interest rates as a threat to financial stability.
+Potential problems also can arise when central banks need to implement policy easings.
+For example, some have argued that the Bank of Japan was too slow in easing policy in response to the decline in economic activity in the early 1990s, partly because it feared that an aggressive easing would risk reinflating asset price bubbles.5 Moral Hazard Another important issue raised by a very activist approach to pursuit of financial stability objectives is how such an approach would affect the incentives of market participants.
+It seems quite possible that wide recognition that central banks place heavy weight on warding off financial instability could work to exacerbate moral hazard.
+Investors might conclude that a central bank with a very activist approach in addressing financial instability would be more inclined in many scenarios to step in to forestall a crisis.
+For example, investors may perceive that an activist central bank would be more likely to come to the rescue of large financial institutions that are perceived to be systemically important—a perception that would tend to reinforce a view that some institutions are “too big to fail.” Moral hazard may also arise at the macro level as well.
+If investors are convinced the Federal Reserve will aggressively ease policy in response to adverse shocks to particular markets, they may undervalue the risks they assume in their investment decisions.
+This perception could also lead to a misallocation of resources and, paradoxically, contribute to a deterioration in financial stability over a long horizon.
+Inadvertent Destabilizing Actions Still another concern that might be associated with a highly activist pursuit of a financial stability objective is the possibility of inadvertently contributing to greater variability in macroeconomic variables.
+As Milton Friedman famously cautioned many years ago, when the lags and impact of monetary policy actions are uncertain, activist monetary policy aimed at damping output fluctuations, albeit well-intentioned, can easily end up amplifying such fluctuations instead.
+One scenario in which this concern seems especially relevant today is the case of asset price bubbles.
+Some authors, including Borio and Lowe, have suggested that a central bank may be able to take actions to burst such bubbles at an early stage and thereby avert some especially serious future consequences if the bubble otherwise were to continue to inflate for some time before bursting.
+To be sure, central banks can and should lean against the wind to the extent that such asset price distortions affect the outlook for inflation and output.
+But to go beyond this to a policy of actively seeking to burst a bubble seems very problematic—there are simply too many uncertainties involved.
+One can never be sure that a bubble is inflating.
+And even if a bubble could be identified with certainty, calibrating the necessary policy actions necessary to burst a bubble without significant damage to the real economy would be extraordinarily difficult.6 4.
+Incorporating Financial Stability in a Decision-Making Framework The previous discussion suggests that there may be significant problems associated with an overly activist approach in pursuing financial stability objectives.
+But this begs the question of just how a central bank should take financial stability considerations into account in reaching policy decisions.
+In conducting monetary policy, the Federal Reserve normally prefers to focus on its broad macro policy objectives—low inflation and sustainable output growth—and to consider financial instability implicitly through its effect on these fundamental variables.
+Financial instabilities that are significant enough to cause the expected path either of output to move significantly above or below that of estimated potential output or of inflation to deviate from intentions are then a cause for concern and policy can be eased or tightened as appropriate.
+Admittedly, determining what is “appropriate” over an extended horizon may involve complicated and difficult judgments about the short- and long-run effects of alternative policy prescriptions: It is possible, for example, that attaining long-run goals for sustainable growth may require some sacrifice of output in the near term.
+Nonetheless, concerns about financial instability in this instance would be evaluated largely by reference to expectations about inflation and output.
+But there may also be cases in which a central bank faced with the prospect of financial instability needs to adjust policy by more than could be justified solely by the forecasts for output and inflation.
+In my view, though, this is perfectly consistent with a central bank that conducts monetary policy using forecasts for key macro variables as its primary guideposts but also considers the risks to the forecasts for those key macro variables.7 One might think of this as a process of stress testing by monetary policy decision makers in which they regularly assess not just the likely path of output and inflation in reaching their policy decisions but also the potential for adverse outcomes in light of recent or potential shocks.
+For example, the FOMC reviews documents prior to each meeting that give the staff’s forecasts for inflation, output, and other variables based on economic models and the informed judgment of the staff.
+That forecast forms a baseline for discussion of policy alternatives at each FOMC meeting, although FOMC members of course develop their own view of the economic outlook.
+Issues of financial stability can be fairly readily incorporated in this process by considering “what if” exercises.
+For example, following a sharp increase in risk spreads in fixed-income markets, FOMC members might look not just at a baseline forecast but also how that forecast might change if some type of financial instability—perhaps a further, more extreme deterioration in credit availability—were to ensue.
+This scenario might influence the FOMC’s monetary policy decision, depending on the likelihood of the scenario and the potential costs in terms of output or inflation variability associated with it.
+This basic framework of guiding policy not just by the likely path of key macro variables but also by a sense of the risks to that outlook provides a structured way to incorporate concerns about financial instability into the broader policy discussion.
+Recent Episodes of Financial Instability Unfortunately, central banks including the Federal Reserve have faced an elevated frequency of episodes involving real or potential financial instability in recent years.
+The discussion below provides a brief review of the Federal Reserve’s approach in three such instances, and illustrates how its actions could be rationalized in the decision-making framework described above.
+Fall of 1998: The period of global financial turmoil touched off by the Russian debt default in August 1998 and then greatly exacerbated by the well-publicized travails of the hedge fund Long Term Capital Management (LTCM) was perhaps the most intense episode of financial instability in recent years.
+The Federal Reserve, like other central banks, paid close attention to an array of financial indicators at this time.
+Nearly all such indicators portrayed a dour picture of economic prospects—risk spreads widened sharply, stocks prices fell, and banks reported tightening terms and standards on business loans.
+Also disturbing were reports from contacts with market participants that capital markets were seizing up as dealers and other market makers recoiled from risk-taking.
+A sharp widening in the spread between off-the-run and on-the-run Treasury securities underscored the fact that investors were willing to pay a very high premium for liquidity.
+Facing what some were referring to as the most acute financial crisis in decades, the Federal Reserve eased policy by 75 basis points in three equal steps, including an intermeeting move in mid-October of 1998, and maintained that lower funds rate through June of the subsequent year.
+In part, these actions were motivated by a change in economic forecasts.
+But at least part of this cautious behavior reflected the FOMC’s concerns about financial instabilities and associated downside risks to the economic forecast.
+Indeed, the minutes from the September 29, 1998, FOMC meeting reported: “In the Committee's discussion of current and prospective economic conditions, members focused on developments that pointed to the potential for a significant weakening in the growth of spending.
+They recognized that there were at present few statistical indications that the economy was on a significantly slower growth track.
+Indeed, the available data suggested that consumer expenditures and business investment retained considerable strength.
+At the same time, however, investors' perceptions of risks and their aversion to taking on more risk had increased markedly in financial markets around the world.
+That change in sentiment was exacerbating financial and economic problems in a number of important trading partners of the United States.
+In addition, it was generating lower equity prices and tightening credit availability in U.S. financial markets.
+As a consequence, the downside risks to the domestic expansion appeared to have risen substantially in recent weeks.” [emphasis added] Productivity Growth and the Stock Price Runup: Economic developments in the United States in the late 1990s were quite favorable.
+Output growth was unusually strong and, in no small part, that strength seemed attributable to a sizable pickup in the trend growth of labor productivity spurred by the proliferation of new technologies, especially in the computing and telecommunications sectors.
+Investors read the favorable productivity trends as auguring enhanced profit growth, prompting a substantial runup in equity prices in 1999 and into 2000 that pushed standard valuation measures—such as price-earnings ratios—well above historical benchmarks.
+Although it is difficult to identify an equity risk premium with great precision, it certainly seemed at the time that investors were quite optimistic about the returns they could expect to earn by holding equities.
+The rise in equity wealth and strong growth of income over this period contributed to a brisk pace of consumer spending and an accompanying decline in the personal savings rate.
+Core measures of inflation, however, remained quite subdued even as the unemployment rate and other measures of resource utilization moved to levels that previously would have been viewed as threatening a rise in inflation pressures.
+In a sense, this period is similar to the situation that Borio and Lowe posit in which “imbalances” may develop even during a period when the current macroeconomic environment is viewed as quite favorable.
+The FOMC, however, did not frame its policy deliberations over this period in terms of the need to take action to address a potential bubble in the stock market.
+Rather, it focused on the outlook for output and inflation and the risks to that outlook.
+The FOMC was particularly aware that the stronger trend productivity growth would tend to be associated with a higher level of “equilibrium” real interest rates and that the degree of monetary policy restraint associated with any given setting of the target funds rate would need to be judged in this light.
+The FOMC responded to these economic developments by tightening policy appreciably, moving the target federal funds rate up from 4-3/4 percent in early 1999 to 6-1/2 percent in May of 2000.
+In explaining its actions, the FOMC noted that it was concerned that growth of aggregate demand would outstrip the growth in potential supply, leading to imbalances that would pose a risk of inflation pressures.
+For example, in explaining its actions in August of 1999 and February of 2000, the FOMC stated: “Today's increase in the federal funds rate, together with the policy action in June and the firming of conditions more generally in U.S. financial markets over recent months, should markedly diminish the risk of rising inflation going forward.” (August 24, 1999).
+“The Committee remains concerned that over time increases in demand will continue to exceed the growth in potential supply, even after taking account of the pronounced rise in productivity growth.
+Such trends could foster inflationary imbalances that would undermine the economy's record economic expansion.” (February 1, 2000).
+[emphasis added] An important factor underlying the Committee’s sense of the risks of inflationary pressures was the role of accelerating productivity growth in boosting earnings expectations and stock prices which, in turn, were providing considerable impetus to wealth and spending.
+For example, the minutes of the February 2000 meeting noted: “In the Committee's review of current and prospective economic developments, members commented that the economy still seemed to be growing very vigorously as it entered the new year….Accelerating productivity, although adding to the growth of the economy's potential output, also had induced expectations of rapidly accelerating business earnings that in turn had generated sharp increases in stock market wealth and lifted the growth of purchasing power and spending above that in incomes.
+Relatively high real interest rates that reflected the increased productivity and damped the rise in asset values would be needed to help restore balance.” [emphasis added] September 11 Attacks: The terrorist attacks offered another example of the way in which policy decisions could be shaped importantly by concerns about potential financial instabilities viewed as risks to the economic forecast.
+On top of the appalling loss of life, the attacks caused major damage to the physical infrastructure of a number of key firms central to trading and market making activities.
+In an economy that had already been weakening prior to the attacks, many policy makers worried that the decline in stock prices, widening in risk spreads, and impairment of market functioning raised the odds of highly adverse events in which economic activity could plunge.
+In view of these risks, the FOMC eased policy 50 basis points prior to the reopening of markets on Monday, September 17.
+In explaining that action, the FOMC pointed both to a less sanguine economic outlook and to significant uncertainties (downside risks) associated with that outlook.
+The minutes from the FOMC’s August 2001 meeting (which included a summary of the FOMC teleconference call held on the morning of the September 17th ) reported: “Subsequently, on September 17, 2001, the Committee members voted unanimously to ease reserve conditions appreciably further, consistent with a reduction in the federal funds rate of 50 basis points to a level of 3 percent.
+This policy action was associated with the approval by the Board of Governors of a reduction of equal size in the discount rate to a level of 2-1/2 percent.
+These actions were taken against the backdrop of heightened concerns and uncertainty created by the recent terrorist attacks and their potentially adverse effects on asset prices and the performance of the economy.
+In conjunction with these policy moves, the Federal Reserve would continue to supply, as needed, an atypically large volume of liquidity to the financial system.
+As a consequence, the Committee recognized that the federal funds rate might fall below its target on occasion until more normal conditions were restored in the functioning of the financial system.
+The Committee's vote encompassed the retention of a statement in its press release indicating that the balance of risks remained weighted toward weakness for the foreseeable future.” [emphasis added] The September 11 attacks also provided an example of the way in which the Federal Reserve employed its full range of policy tools to address risks to the forecast.
+On the morning of September 11, the Federal Reserve issued a brief public statement indicating that it was operating and that the discount window was available.
+With an important market mechanism for distributing reserves among banks—the brokered federal funds market—significantly impaired, there were huge imbalances in reserve positions across the banking system.
+These were met through extraordinarily large levels of discount window lending for a few days and also by huge injections of reserves via the open market desk.
+A sizable portion of the funding needs on some days was concentrated at foreign banking organizations.
+To allow foreign central banks to better meet the dollar-denominated funding needs of their institutions, the Federal Reserve arranged swap lines with the ECB and the Bank of England and expanded its existing swap line with the Bank of Canada.
+To augment bank liquidity further, the Federal Reserve waived all daylight overdraft fees and the penalty portion of charges for overnight overdrafts and lengthened Fedwire operating hours for several days after the attacks.
+The Federal Reserve also greatly eased the limits on its security lending facility, thereby helping to reduce the pressure firms faced in acquiring securities made scarce by settlement difficulties.
+In addition, as noted earlier, the federal banking regulators issued a joint statement recognizing the possibility of significant balance sheet expansion for some banks and suggesting that banks contact them if they had concerns about how this would affect their capital ratios.
+These temporary arrangements were gradually unwound as financial conditions returned to normal.
+5.
+Conclusion Financial stability is and always will be of vital interest to central banks and is certainly an appropriate objective for central banks.
+There are some complexities, however, in determining just how financial stability considerations should be taken into account in reaching policy decisions.
+In this context, the Federal Reserve has found it useful to view financial stability in terms of its impact on the economic outlook, including its effects on the forecasts for key economic variables and the risks to those forecasts.
+Much of the discussion above was framed in terms of an individual central bank balancing concerns about domestic financial stability with other objectives.
+But in today’s globally integrated markets, it is more important than ever for central banks and other financial authorities to share information, to communicate about crisis prevention measures, and to recognize a common interest in effective crisis management actions.
+In this vein, the work being done in various forums to develop a deeper understanding of the international dimensions of financial instability and to foster important structural improvements in areas such as payment systems, banking and securities market regulations, and accounting standards is especially important and relevant.
+Table 1: Financial Stability As An Explicit Central Bank Objective Among Other Countries Bank of Canada “regulate credit and currency in the best interest of the economic life of the nation, to control and protect the external value of the national monetary unity and to mitigate by its influence fluctuations in the general level of production, trade, prices and employment so far as may be possible within the scope of monetary action, and generally to promote the economic and financial welfare of Canada.” Bank of England “Objectives of the Bank of England shall be (a) to maintain price stability, and (b) subject to that, to support the economic policy of Her Majesty’s Government, including its goals for economic growth and employment.” Note: There is a memorandum of understanding between the Bank of England and the government that delineates the Bank’s responsibilities in the area of financial stability.
+It assigns the Bank of England responsibility in three broad areas including stability of the monetary system, stability of financial system infrastructure particularly in the area of payment systems, and monitoring of the financial system as a whole.
+Bank of Japan “The objective of the Bank of Japan, as the central bank of Japan, is to issue bank notes and to carry out currency and monetary control.” “In addition to what is prescribed by the preceding Paragraph, the Bank’s objective is to ensure smooth settlement of funds among banks and other financial institutions, thereby contributing to the maintenance of an orderly financial system.” “(Currency and monetary control shall be aimed at, through the pursuit of price stability, contributing to the sound development of the national economy.
+)” ECB “the primary objective of the ESCB shall be to maintain price stability.
+Without prejudice to the objective of price stability, it shall support the general economic policies in the Community with a view to contributing to the achievement of the objectives of the Community.” “the basic tasks to be carried out through the ECSB shall be…to promote the smooth operation of the payment systems.” “The ECSB shall contribute to the smooth conduct of policies pursued by the competent authorities relating to the prudential supervision of credit institutions and the stability of the financial system.” Reserve Bank of New Zealand “The primary function of the Bank is to formulate and implement monetary policy directed to the economic objective of achieving and maintaining stability in the general level of prices.” “In formulating and implementing monetary policy the Bank shall--- (a) Have regard to the efficiency and soundness of the financial system:” Riksbank “The objective of the Riksbank's operations shall be to maintain price stability.” “In addition, the Riksbank shall promote a safe and efficient payment system.” Return to text Footnotes 1.
+The emergency lending powers in Section 13(3) were amended slightly in 1991 with the passage of the Federal Deposit Insurance Corporation Improvement Act (FDICIA) of 1991.
+The changes removed certain restrictions on the type and maturity of collateral that can be accepted to secure such lending, which, in turn, allows the Federal Reserve somewhat more flexibility in addressing such an emergency funding need.
+Return to text 2.
+Lars Svensson, “Monetary Policy and Real Stabilization,” presented at a symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, August 29-31, 2002.
+Return to text 3.
+Claudio Borio and Phillip Lowe, “Asset Prices, Financial and Monetary Stability: Exploring the Nexus,” BIS Working Papers, July 2002.
+Return to text 4.
+Borio and Lowe, for example, p. 22.
+Return to text 5.
+Whether the Bank of Japan was, in fact, greatly concerned that aggressive easing would reinflate asset bubbles is unclear, but market participants perceived this to be a significant factor in the BoJ’s policy deliberations.
+See Ahearne, Gagnon, Haltmaier and Kamin et al., “Preventing Deflation: Lessons from Japan’s Experience in the 1990s,” International Finance Discussion Papers, Board of Governors of the Federal Reserve System, June 2002, p. 23.
+Return to text 6.
+These issues are discussed in more detail by Alan Greenspan, “Economic Volatility,” presented at a symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, August 29-31, 2002.
+Return to text 7.
+Svensson (2002) argues that optimal policy is based predominantly on an evaluation of forecasts for output and inflation and that financial stability is best viewed as a constraint on policy that becomes binding only on occasion.
+
+It is a great pleasure to be with you today to inaugurate the construction of the third Federal Reserve Branch building in Houston, Texas.
+I would first of all like to join Bob McTeer in expressing heartfelt appreciation for my dear friend and former colleague, Mike Kelley.
+Having worked with him on the Board of Governors, I have the deepest respect for his wisdom and experience.
+I am especially pleased that this new building will stand in everlasting testimony to Mike Kelley's unflinching loyalty and dedicated service to the Federal Reserve System.
+His wide-ranging business expertise, commitment to public service, and keen sense of how economic policies affect individuals in their daily lives are essential qualities in the work of the Federal Reserve.
+The commencement of this building project is a time for both the Federal Reserve and the citizens of Houston to reflect on our shared history and to look forward to a productive future together.
+In this endeavor, the site chosen for the new building--the ground we are presently gathered on--is especially appropriate, replete with historical significance and uniquely suited to the advancement of the Federal Reserve's mission in the coming years.
+The Federal Reserve System was founded in 1913 to provide our nation with a safe, flexible, and stable monetary and financial system.
+From the outset, it was established as a "decentralized" central bank, a system of twelve regional banks ensuring close ties to far-flung communities.
+In 1919, to better serve the nation's economic needs, a Branch of the Federal Reserve Bank of Dallas was opened in Houston.
+At that time, the city had 138,000 residents and was an important regional economic center based on cotton, lumber, and the railroads.
+In the nearly ninety years since the establishment of the Federal Reserve, the city of Houston has seen tremendous growth and has come to play a vital role in our nation's economy.
+With a metropolitan population of 4.2 million, Houston is the fourth largest city in the nation and the energy capital of the world.
+It is internationally renowned for its medical center--the world's largest--and also is distinguished for its petrochemical and aerospace industries.
+Reflecting its mercantile origins, Houston is home to the nation's second busiest port and serves as an important gateway to Latin America.
+As Houston has grown both in size and in economic importance, so have the operations of the local Federal Reserve.
+Currency volumes have doubled every eight years, and the volume of check and other payments has likewise grown steadily.
+As we understand, many of these payments businesses are undergoing change.
+We must be vigilant so that these changes do not leave the Federal Reserve System unaware or overly reliant on old ways of doing things.
+To assist in formulating U.S. monetary policy, Houston-based economic research has increased, providing accurate and in-depth economic data from this internationally influential region.
+The Federal Reserve's role in the Houston community has also become more complex, as it strives to be a partner with local business, an advocate for the consumer, and a catalyst for economic development.
+A diverse group of dedicated community leaders have contributed greatly to the Federal Reserve's success in fulfilling all these roles.
+I refer, of course, to members of the boards of directors of the Bank and its Branches.
+Many of these current and former directors are here with us today.
+I would like to commend these hardworking and knowledgeable men and women.
+Coming from all walks of life, they have helped guide the course of the Federal Reserve and have offered indispensable local perspectives on the economy.
+Their input is critical to policy decisions, and we are deeply indebted to them for their efforts on behalf of our nation's financial stability.
+Houston's ongoing expansion has at last made a new facility necessary--one that can readily respond to the needs of financial institutions and the public in the twenty-first century.
+By constructing a new Branch building, the Federal Reserve is reaffirming its confidence in the city of Houston, in its enterprising spirit and continued significance in the economic life of our nation.
+Our gathering today on ground yet unbroken, looking forward, symbolizes in a sense, the ongoing task of the Federal Reserve: Cognizant of our past and firmly established in the present, we must plan for the future, and build for it, with attention to the surrounding community.
+Just as our decentralized central bank must rely on its ties with local economies, so too must this new Branch draw support from the grass roots.
+And as the Branch moves to its new location, it expands into the wider community, providing a stabilizing presence.
+This new building site is rich in history, well positioned to facilitate the Federal Reserve's ongoing mission to serve all economic communities.
+It is on Allen Parkway, named for the Allen brothers, the visionary pioneers who founded the city.
+It overlooks Buffalo Bayou, the waterway that is the historic and economic heart of Houston and from which the Houston Ship Channel was created.
+The site is also part of the city's Fourth Ward, located on the edge of the section known as Freedmen's Town.
+An area of great cultural and political significance, Freedmen's Town was in the late nineteenth and early twentieth centuries known as "Houston's Harlem," the heart of black cultural and professional life.
+In the mid twentieth century, the fortunes of the Fourth Ward declined, but this site remained prominent.
+In 1937 it became home to another influential institution, Jefferson Davis Hospital.
+Recognized in its day as an innovative public hospital in association with Drs.
+Michael DeBakey and Denton Cooley, it was the site of the nation's first trauma center and of Houston's first open-heart surgery, and the birthplace of tens of thousands of Houstonians.
+The hospital closed in the late 1980s, just as the surrounding Fourth Ward was coming to prominence once again as a center of urban reinvestment and revitalization.
+From many perspectives, this new building site is one of great promise, incorporating the themes of history, community, entrepreneurship, innovation, and economic development that characterize and inspire Houston.
+At this place where so many dreams were pursued and so many Houstonians were born, it is fitting that we look forward to a new chapter of the Federal Reserve's history in Houston.
+We intend to become an active member of the Fourth Ward community, working with our neighbors and using our location as a springboard for economic outreach.
+An important part of our mission here will be to emphasize the importance of financial literacy, affordable housing, urban revitalization, and consumer education.
+By taking up residence in this neighborhood, we hope to communicate to each and every citizen of Houston that the Federal Reserve serves all of this nation's citizens and not just the banking and financial community.
+Our new building will be a daily visible reminder of that fact.
+At the same time, the building's prominent position as a gateway to downtown will ensure that the Federal Reserve keeps it finger on the pulse of every aspect of the local economy.
+In emphasizing a comprehensive view of the Federal Reserve's mission, the building's internationally recognized architect, Michael Graves, is a great asset.
+With his special talent for focusing on historical context within the urban environment, Graves has designed a building that will be a monumental yet approachable focal point for all of Houston.
+While its stateliness will emphasize the importance of the Federal Reserve in maintaining a sound financial system, its facade will bring to mind the modest sort of house with which ordinary citizens can identify.
+This new building, then, will serve as a liaison with the Houston community, and it will demonstrate our commitment to the city for years to come.
+However we look at the building site--as part of the Fourth Ward, Freedmen's Town, Allen Parkway, or Jefferson Davis Hospital--the location speaks volumes about the Federal Reserve's mission and our intentions and role in the local economy.
+
+Indeed, the world is ruled by little else.
+Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.
+Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back.
+I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas.
+But, soon or late, it is ideas, not vested interests, which are dangerous for good or evil.
+J.M.
+Keynes, 1936.
+Nearly seventy years ago, Keynes ended his General Theory of Employment, Interest, and Money with this statement.
+The analytical framework that Keynes provided in the General Theory has been fundamental to the development of postwar macroeconomics, and many of the specific issues he raised are still highly relevant today.
+But of all the ideas expressed in the General Theory, arguably the most hotly debated words are those quoted above.
+Do ideas really dominate vested interests in the long run?
+What are the roles of analysis and vested interests in actual policymaking?
+Nowhere do these questions come up more frequently than for benefit-cost analysis.
+Benefit-cost analysis is a formal approach to decisionmaking, particularly public policy decisionmaking.
+One arrays the benefits of a policy change against the costs, with everything valued in a common metric, and makes a decision about the change based on the net difference.
+One problem is that, with some programs, gaps in scientific knowledge, or data requirements make using benefit-cost analysis in real world decisionmaking difficult or impossible.
+And even if benefit-cost analysis can be done and can be useful, many argue that political power and vested interests will always trump rational analysis.
+In this paper, I discuss both these normative and positive questions.
+On the normative side, how expansive should advocates of benefit-cost analysis be?
+Are there programs for which benefit-cost analysis can never be expected to contribute much, or for which it should not be used?
+On the positive side, for those programs that would profit from benefit-cost analysis, to what extent is it in fact used?
+How influential is it in determining outcomes?
+Are there program structures that can improve policy outcomes?
+After discussing these points in general, I will illustrate some of them with a few examples from the real world and I will try to draw some general lessons from these examples.
+Normative and Positive Considerations Benefit-cost analysis provides a flexible and comprehensive framework for arraying information about a program.
+The benefits and costs of a particular policy measure can be listed and valued, eliminating all double counting.
+Scholars have been debating the exact techniques for making these assessments since the 1950s, and at this point they have some general agreement on how to treat many of the difficult analytical issues.
+There is not an exact consensus, but I leave it to other papers in your symposium to discuss these technical points.
+They also generally agree on when benefit-cost analysis can be more or less helpful in actual policy decisions.
+It can be quite helpful when relevant markets exist, when market or nonmarket techniques for valuing inputs and outputs have been developed, when scientific uncertainties are limited, and when time periods are not inordinately long.
+Should any of these conditions not be present, one still has ways of proceeding; but the methodology becomes more speculative, and the uncertainty band grows.
+One can still factor uncertainty into the analysis by providing probability distributions of net benefits from some policy change, but the resulting probability distributions are likely to be very wide.
+This uncertainty makes it difficult for analysts to give programmatic recommendations with any degree of confidence, and difficult to compete with special interests that have very clear ideas of their valuations of programmatic outcomes.
+As a result, benefit-cost analysis is more or less useful in providing a framework for policy decisions, depending on the underlying properties of these decisions.
+If markets and valuation methods are clear and time periods are relatively limited, as with river and harbor projects, subsidy measures, tax or tariff changes, benefit-cost analysis is usually able to frame public decisions pretty clearly.
+But for programs involving research, climate change, or other types of extreme scientific uncertainty, decisions are framed much less clearly.
+Even in these areas, benefit-cost analysis has value, as I will try to illustrate, but one must be very careful to ensure that the results of the analysis are not misused.
+These normative considerations limit the potential value of benefit-cost analysis for some public policy decisions.
+But even apart from limitations on the potential value, the actual value of benefit-cost analysis could be limited if, for example, the analysis is routinely overridden by political forces.
+Many observers think this is the case, but as Keynes argued, ideas and analysis can matter as well, often in ways more impressive than at first glance.
+Down in the trenches, government staffers often use benefit-cost analysis to help illuminate, and even make, many key public policy decisions.
+In other cases, rules of the road, often taken right out of benefit-cost textbooks, importantly constrain public actions.
+And in still other instances, benefit-cost rules have the potential for being used in a more important way.
+The normative and positive conditions can also intersect.
+On one side, with a set of decisions for which benefit-cost analysis has little potential use, structures that force its use could be harmful.
+In particular, they could stress the quantitative aspects of some program more than the possibly greater, but more difficult to value, qualitative aspects.
+On the other side, in areas for which benefit-cost analysis could be of use, instituting decisionmaking structures that promoted such analyses would make sense.
+Addressing all of these questions requires a complete characterization of the public policy process, a very tall order.
+I will not attempt that, but I will try to indicate the range of likely outcomes through a series of examples.
+The examples, many of which are taken from personal experience, are chosen strategically to illustrate some general principles.
+The examples and principles give a mixed message regarding benefit-cost analysis.
+In some areas, benefit-cost analysis could be used more intensively, and I suggest some decisionmaking structures to promote it.
+But in other areas, present regulations force more reliance on benefit-cost analysis than is useful or desirable.
+Here some relaxation may be in order.
+Rivers, Dams, and Harbors The classical objects for benefit-cost analysis are physical investment projects.
+The government or some private body wants to build a physical structure, such as a dam or a harbor, or to dredge a river.
+Initial capital costs are weighed against project benefits, usually involving some sort of increased business activity.
+Often such projects involve long-term environmental costs, perhaps the result of endangering a rare biological species.
+But in general if the scientific and time discounting uncertainties are not major, a reasonably accurate net benefits tally can be made.
+Project evaluations of this sort have been done since the 1950s, and several case studies have been recorded.
+An interesting study from the 1970s was the Tellico Dam on the Little Tennessee River, the first physical investment project that involved the Endangered Species Act (ESA).
+The Tennessee Valley Authority (TVA) evaluated its own project, a situation that raises an issue akin to a conflict of interest: The evaluator was asked to evaluate a program that the agency was advocating, leading to suspicions that the evaluation would be biased.
+The initial TVA evaluation foresaw positive net benefits for the Tellico Dam, and TVA actually started construction.
+But the dam would have involved the flooding of a fast-flowing stream, which would have killed off the snail darter, a small minnow that was then thought to live only in this stretch of the Little Tennessee.
+In the midst of construction, an appeal was made to the Endangered Species Committee (ESC), which was set up under the ESA to prevent the completion of the dam.
+The ESC reanalyzed the TVA data, found many inconsistencies in the analysis, and recomputed the net benefits of the dam.
+ESC found these recomputed net benefits to be negative and held up construction, hence appearing to save the snail darter.
+But powerful Tennessee legislators overrode the ESC, and the dam was completed.
+Although the closing of the dam looked at the time to be a death warrant for the snail darter, other darters were found elsewhere in Tennessee, and the species lives to this day.
+But the story can still be unpleasant for advocates of benefit-cost analysis--the conditions were right for doing such an analysis, the analysis was done and reworked in response to criticism, it led to clear conclusions, and a decision was made.
+But this decision was then overridden at a political level.
+A recently publicized example, raising many of the same issues, may lead to a different conclusion about the positive significance of benefit-cost analysis.
+This case involves dredging the Delaware River to increase large tonnage shipping in the lower Delaware.
+Again, the agency advocating construction, the Army Corps of Engineers (ACE), did the analysis, though this time the General Accounting Office (GAO) was asked to comment on the ACE analysis.
+ACE found positive net benefits for dredging, but GAO raised a number of technical issues, most of them not contested by ACE, that generally lowered the net benefits tally.
+This time the political forces were evenly divided--basically, politicians in Pennsylvania favored dredging, and politicians in New Jersey opposed it.
+Unlike the TVA project, the environmental issues were not so stark: Although in any large project like this environmental degradation is inevitable, in this case no endangered species appeared to be at risk.
+There was, however, another strong force questioning the ACE analysis.
+The Office of Management and Budget (OMB) wanted to cut government spending wherever possible, including that done by the ACE, and it found benefit-cost analysis a useful framework for making this decision.
+The future of the dredging project is at this point in doubt.
+ACE is doing a reanalysis, which according to predictions implied in the GAO report, should show only marginal, perhaps not even positive, net benefits.
+What will happen afterwards is not clear, but benefit-cost analysis may yet provide the framework through which this type of spending can be better judged.
+Loan Guarantees Another relatively clear example of the use of benefit-cost analysis involves loan guarantee programs.
+In recent years, the Congress has reacted to industry difficulties in steel, oil and gas, and airlines (post September 11, 2001) by passing loan guarantee programs.
+The programs lay down some conditions, allocate funds for the guarantees, and empower a board to approve or reject particular loan guarantee applications.
+The Chairman of the Federal Reserve Board or his designee has been made chair of most of these loan boards.
+Apparently winning the title of designated designee, I am now chairing my third loan guarantee board.
+I will neither defend nor oppose the wisdom of the Congress in reacting to industrial problems with loan guarantees.
+One can make a strong argument for leaving the allocation of capital to the free market.
+Or one can argue that certain industries may be experiencing temporary blockages in credit, blockages that could be overcome with governmental loan guarantees.
+Whatever the case, the guaranteed loans carry a contractual obligation for repayment, and the loan guarantee board decides on guarantee applications, with the ability to review applications on an impartial and nonpolitical basis.
+The loan guarantee boards try to identify loan projects with prospects that are neither too positive nor too negative.
+The projects must have a low enough probability of repayment that private lenders would not fund them, but also a high enough probability of repayment that the taxpayer's interest can be adequately protected.
+Taxpayers can be compensated in several ways.
+Firms receiving loan guarantees can be asked to find private lending partners to take on some of the risk--that is, the guarantees can insure only part of the total loan.
+Firms receiving loan guarantees can give the government fees or put up collateral to cover the government's share of the loan.
+Or firms receiving loan guarantees can give the government stock warrants, under which the government would have the option to buy a specified number of shares of the firms' stock at a specified price over a specified time.
+The government is legally prevented from actually voting this stock, and stock bought under these warrants is typically soon resold, giving the government a financial interest, but not a management interest, in the firm getting the loan guarantee.
+Finding appropriate loans is where benefit-cost analysis comes into play.
+For each loan guarantee application, the board staff and its consultants work out year-by-year models of repayment probabilities, along with calculations of the value of fees, collateral, and stock warrants (using a standard option pricing formula).
+These calculations are combined into a net credit subsidy for a loan, effectively the net present value of the loan guarantee.
+The loan guarantee board is in effect doing a benefit-cost analysis for each application.
+For the most part, these analyses do not entail difficult theoretical problems: They do contain some uncertainty about revenues and costs, but not major scientific uncertainty, and the time horizons for the loans are relatively short.
+The net present value of a loan transaction should presumably be positive before a private lender would make the loan.
+Generally the government receives very few loan guarantee applications with highly positive net benefits, presumably because applicants are deterred by the taxpayer compensation provisions and find private credit markets more hospitable.
+On the other side, the board would likely reject applications with highly negative net benefits, on the grounds that the interests of taxpayers would not be adequately protected.
+But in the middle range, where the net benefits of the loan guarantee application are only slightly negative, approving the loan guarantee application may be appropriate.
+In this range, the application appears to meet the statute's intent of funding projects that might get private money were it not for the alleged blockage of credit markets.
+Leaving aside the ultimate wisdom of interfering in private credit markets in this manner, these programs seem to represent triumphs of benefit-cost analysis.
+Benefit-cost analysis can be, and was, used to estimate the effects of the guarantee.
+Decisions have been based on benefit-cost outcomes to a significant degree, and at least so far not one of these decisions has been overturned politically.
+Clean Air But things look different for another program, one with perhaps the largest amount of benefits and costs at stake--the reduction of air pollution.
+Since 1981, federal regulatory agencies have been required to conduct economic analyses for clean air regulations with expected annual costs in excess of $100 million.
+The Clean Air Act, originally passed in 1970, appears to be the most significant of the laws falling under this requirement.
+The Environmental Protection Agency (EPA) has been charged with estimating benefits and costs, again a case in which the evaluator is evaluating the agency's own program.
+EPA estimated the direct costs of its own measures to reduce air pollution over 1970-90 to be $689 billion and the benefits to be $29.3 trillion.
+Economists have raised their eyebrows at both numbers, in particular the latter because it is larger than the aggregate value of U.S. household net worth.
+Superficially environmental legislation may appear to be a triumph for benefit-cost analysis, but the reality is considerably less impressive.
+For one thing, especially on the benefits side, many profound scientific uncertainties exist about the health effects of particulate matter on different individuals, in different regions of the country, and at different levels of exposure.
+These uncertainties lead to large ranges of statistical uncertainty about the overall net benefits tally and give scope for determined advocates of such legislation to influence results.
+The uncertainties do not seem significant enough to invalidate the use of benefit-cost analysis in evaluating these programs, as they might be for some other programs, but they are significant enough that the analyses must be used with great care.
+Also their results must be scrutinized given that the evaluator and the program advocate are the same agency.
+Past EPA analyses of the benefits and costs of cleaner air have been criticized on many grounds.
+Costs were said to have been understated because indirect costs and general equilibrium effects were ignored.
+Benefits are said to have been overstated because they were based on death probabilities and life valuations for middle-aged individuals, when those most at risk from air pollution are older persons with presumably lower valuations of their remaining lifetimes.
+Extrapolating benefits to very low dosage levels (as the air gets cleaner and cleaner), involves serious difficulties simply because of scientific uncertainty.
+But the biggest problem with these analyses is that they were typically not incremental.
+One would expect a series of outcomes for air pollution projects.
+The first ones might be expected to include the relatively small costs of eliminating the obvious and serious sources of pollution.
+But as we move across the spectrum, pollution effects might lessen, marginal costs of abatement might rise, and marginal benefits of further improvements in air quality might fall.
+Whether or not such is the case, a standard requirement of proper benefit-cost methodology is to make the analysis incremental--to look not at the total benefits and costs of all pollution-reduction measures since their inception but at the marginal benefits and costs of particular changes in pollution-reduction standards.
+Recent EPA benefit-cost analyses have not asked these marginal questions.
+The controversy came to a head with the 1997 amendments to the Clean Air Act, called the National Ambient Air Quality Standards (NAAQS) for ambient ozone and particulate matter.
+The EPA's analysis was heavily criticized for not focusing on the particular marginal changes under consideration, for ignoring indirect costs, and for overlooking the various extrapolation difficulties mentioned above.
+Economic analysis in general was widely used and highly effective in the Clinton Administration, but the EPA appeared to be a glaring exception.
+EPA eliminated its policy analysis office, and the agency head often gave speeches that were critical of benefit-cost analysis.
+Economists at the Council of Economic Advisers and the Treasury Department criticized the EPA study of NAAQS and its results, but they could only register dissent, not stop the standards from going into effect.
+Hence the NAAQS standards represent significantly less of a triumph for benefit-cost analysis than might be apparent.
+Big Science Benefit-cost analysis can also be useful in analyzing big science projects.
+Even though the benefits are very difficult to estimate because of scientific uncertainty, benefit-cost analysis can be adapted to provide useful input to policy decisions.
+One such project was the superconducting super collider (SSC) in the 1980s.
+The purpose of the SSC was to probe the structure of matter at very high energy levels.
+The SSC would have contained two proton beams, each with an energy level of twenty trillion volts, more than twenty times greater than for existing facilities.
+When these proton beams intersect in chambers, some protons from each beam will collide, causing interactions among their constituent particles.
+To accomplish this interaction with sufficient power, a series of racetrack-shaped rings, fifty-three miles in circumference, needed to be constructed.
+In such research projects, benefit-cost analysis comes in mainly on the cost side.
+On the benefits side, even scientists have great difficulty determining what might be learned from the project and the incremental value of this knowledge.
+Hence decisionmakers, even if they were to try to use benefit-cost analysis, are forced to focus on costs, comparing costs in quantitative terms with a very qualitative notion of project benefits.
+Usually this analysis is done by comparing the qualitative benefits and the quantitative costs of alternative projects, reducing those to some common denominator such as presumed scientific benefits per dollar.
+A decision was made to go ahead with the SSC in 1990, with the project to be located in Texas.
+The United States had alternatives: It could have joined a European consortium to build a collider, or it could have built a cheaper and less powerful one.
+Initially, the overall project was expected to cost somewhere between $3 billion and $4 billion, with annual spending to be about $600 million.
+Even at this level, spending would have accounted for about 15 percent of the annual federal research budget for the physical sciences.
+But as often happens for such projects, the estimated construction costs escalated rapidly.
+Within a few years they were at least three times the initial estimate, and spending for the SSC would have used up about half the annual federal research budget.
+In areas like research, uncertainties are so great that putting too many eggs in one basket is unwise, and this project would have put a lot of SSC eggs in the scientific research basket.
+Also, by this time overall budget deficit problems had become serious, and the Congress was subject to tight limits on the growth of discretionary government spending.
+This political consideration eventually made the SSC just too costly, and the project was terminated.
+The Energy Department is still looking into some of the cheaper alternatives, such as the European consortium.
+Given the difficulty in valuing benefits for big science projects, evaluations of such projects are not true benefit-cost analyses.
+At the same time, even the focus solely on costs could represent a triumph for benefit-cost analysis.
+In the case of the SSC, careful cost estimates were prepared and periodically updated, and the Congress was more or less continually informed about what the SSC would cost and how it might lead to reductions in spending for other worthwhile scientific projects.
+In the end, this attention to project costs proved the deciding factor in abandoning the effort.
+Assessment These are four cases out of perhaps hundreds or even thousands in which governmental decisionmaking has involved benefit-cost analysis.
+They are not intended to represent a complete population sample but only to illustrate certain types of outcomes.
+In each case, benefit-cost analysis was used, and it often had some effect.
+In some cases, the benefit-cost analysis seemed to be well done; in other cases, it was not.
+One can draw several lessons from the examples: Beware of limitations.
+One likes to think that benefit-cost analysis, as a flexible and comprehensive framework for considering program information, should be used for almost any public decision.
+But that posture may be too aggressive, even for advocates of the technique.
+Some programs raise such fundamental concerns or operate over such a long time, often centuries, that benefit-cost analysis may not limit decisionmaking uncertainties very much.
+Enforcing its use in such cases may just lead to a superficial or phony benefit-cost analysis and give the whole enterprise a bad name.
+To make sure that the analysis is sound and not turned to political ends, it might be required only for the particular types of decisions for which it could have great value.
+The matter is delicate because, used appropriately, benefit-cost analysis can help in a wide variety of cases.
+But in the end, protecting benefit-cost analysis from possible misuse may be more important.
+Independent evaluations are crucial.
+Almost every time the agency advocating the program does the evaluation, there is trouble.
+Whether it was TVA evaluating the Tellico Dam, the ACE evaluating a dredging project, or EPA evaluating air pollution standards, outside analysts found many problems and many biases in the evaluations.
+Just as corporations should be subject to the scrutiny of outside auditors, government agencies should be subject to the scrutiny of outside evaluators.
+The best solution would be to use an independent group, such as the National Academy of Sciences, the GAO, or the Congressional Budget Office, to do the evaluation.
+A weaker solution might be to require all agency evaluations to be independently reviewed by outsiders before they could go forward.
+There are too many uncertainties, too many areas in which judgment is necessary, and too much at stake to trust the agencies running the programs to do their own evaluations.
+Independent decisionmaking structures are desirable.
+Public policy decisionmaking can often be improved by empowering semi-independent boards to make decisions.
+The decisions obviously must be the sort that are amenable to benefit-cost analysis.
+Without sacrificing any democratic objectives, the Congress can give these boards reasonably tight instructions on how to proceed, the criteria to use, and so forth.
+But empowering an independent board to make decisions on particular applications insulates these decisions from the most intense political heat.
+In the end, the Congress can always override the board, as it did with the Tellico Dam, but a measure of protection remains, one that has been helpful with the loan guarantee boards.
+One can, of course, always ask why the Congress should want to set up an independent board.
+Often the Congress may not really want to involve itself in decisions about particular applications.
+The Congress might confine itself to making overall programmatic decisions, telling the board what criteria to use and what objectives to maximize.
+Among other things, this approach lessens the possibility that the board, and indeed the Congress itself, will be subject to political pressure from lobbyists.
+An obvious risk is that democracy will be sacrificed in delegating too many decisions to boards, but a counter-risk is that not delegating opens up decision processes to special interests.
+The evaluation methodology is helpful.
+Many particular issues within benefit-cost analysis have been around for decades--how to discount future revenues and costs, how to deal with expectations, how to treat risk, and so forth.
+Scholars have debated these issues to the point at which a reasonable consensus exists on how to handle them.
+This methodological tradition gives agencies something to go on when they actually produce benefit-cost analyses.
+Moreover, the tradition of outside conferences and reports exposes the analyses to independent criticism, which can again be based on standard principles.
+Both the methodology and the critical tradition were helpful in improving the analysis of the rivers and harbors projects and at least in questioning the air pollution restrictions, though not always successful in altering the final project decisions.
+The budget process helps.
+The federal budget process is one of the most criticized governmental processes around, with observers routinely pointing to projects that should have been, but were not, screened out.
+But the federal spending and budget process seem to help benefit-cost analyses of projects.
+The budget imposes discipline, if imperfectly.
+When projects threaten to become too costly, as the SSC did and dredging the Delaware River may be, OMB and other budget cutters can be expected to join the fray and often support the results of the benefit-cost analyses.
+Indeed, the relationship can be symbiotic.
+OMB needs benefit-cost analysis to weed out projects (otherwise they would be acting in a peremptory manner).
+Benefit-cost analysts often welcome the sheer political heft of OMB.
+Those opposing the dredging of the Delaware River will find stopping the project easier with the help of OMB than without it--just as stopping the SSC was easier once costs started escalating rapidly in an era of increasingly tight budgets.
+And conversely, limiting possible excesses in pollution-reduction programs is difficult because the costs are not on-budget and are not deducted from the appropriations of any committee; they are just out there and borne by the private sector.
+Stopping existing programs is not impossible.
+Although stopping projects already begun seems difficult, in fact it can happen.
+After an initial decision to go ahead, the SSC was stopped, once the costs escalated so much that they could not be hidden even in the massive federal budget.
+The Tellico Dam was almost stopped once the precarious status of the snail darter was discovered.
+Benefit-cost analyses of projects can be done at any point, and there is precedent for stopping programs in midstream.
+Advocates fighting a program should not give up once the first spadeful of dirt has been dug.
+Benefit-cost analysis can also be used to improve the workings of programs.
+Although my discussion of the air pollution reduction program did not stress it, benefit-cost analysis-- really a focus on economic efficiency in general--has improved the economic efficiency of pollution-control programs.
+One example is the emissions-trading scheme operated by EPA.
+Emissions trading allows producers that would find reducing emissions very costly to buy pollution rights from others.
+Both producers benefit while the given amount of pollution reduction is achieved.
+Whatever the gross benefits of reducing air pollution, a topic that may never be resolved to everyone's satisfaction, there is broad agreement that issuing emissions-trading permits is the way to keep compliance costs as low as possible.
+EPA has operated a successful emissions-trading program for a decade.
+Conclusions On reading about various scandals and outrages in the newspaper, one could easily be cynical about public policymaking and skeptical that the use of benefit-cost analysis makes much difference.
+Certainly a great amount of this cynicism and skepticism is warranted, and surely Keynes overestimated the power of ideas as opposed to the power of vested interests.
+At the same time, this brief discussion of the way benefit-cost analysis is actually used in public decisionmaking tried to highlight some promising tendencies.
+Structures requiring the use of benefit-cost analysis are built into the public decisionmaking apparatus in various ways, permitting benefit-cost analysis often to be of critical importance.
+But to achieve maximum potential, more is required.
+First, we must make sure that regulations have not overused benefit-cost analysis and extended it into areas where the scientific, time, or measurement difficulties are simply too great for proper analysis.
+We must split the evaluation of projects from the agency promoting the projects and avoid an obvious invitation for distortion.
+We should work out ways to shield project decisions from the intense heat of power politics when benefit-cost analysis can be done with reasonable precision.
+With these and other changes, the promising tendencies of benefit-cost analysis can provide a basis for improved public decisionmaking.
+Source Notes For rivers and harbors projects, I became aware of the Tellico Dam project from my students at the University of Michigan.
+I discussed the project in greater detail in my textbook, A Guide to Benefit-Cost Analysis, chapter 8, Waveland Press, first issued in 1990 and reissued in 1998.
+The chapter gives additional sources.
+Material on the Delaware River dredging project comes mainly from a GAO Report, Delaware River Deepening Project, GAO 02-604, June 2002.
+The airline loan guarantee board information comes from personal experience.
+Material on the Clean Air Act is taken from Jeffrey A. Frankel and Peter R. Orszag (eds.
+), American Economic Policy in the 1990s, chapter 9, MIT Press.
+The chapter gives several additional sources, but one very useful article is Randall Lutter and Richard B. Belzer, "EPA Pats Itself on the Back," Regulation volume 23, no.
+

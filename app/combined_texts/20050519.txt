@@ -1,0 +1,332 @@
+Clearly, housing and the financing of housing purchases have been critical components of economic activity in recent years.
+Understanding better how the financial structure of housing transactions influences households' economic decisions is crucial both for academics and for policymakers.
+In the United States, few financial innovations in recent decades have had so widespread an impact as the development of the secondary home-mortgage market and the attendant diversification of funding sources for depository institutions and other mortgage originators.
+Critical to the success of this innovation has been the role of Fannie Mae and Freddie Mac in promoting mortgage securitization--the key to the development of secondary mortgage markets in the United States.1 Their efforts spawned the vast asset-backed securities market that, along with credit derivatives, has contributed to the transfer of credit risk from highly leveraged originators of credit--especially banks and thrifts--to less-leveraged insurance companies and pension and mutual funds, among other investors.
+The stated intent of the Congress is to use the housing-related government-sponsored enterprises (GSEs) to provide a well-established channel between housing credit and the capital markets and, through this channel, to promote homeownership, particularly among lower-income families.
+Although prospectuses for GSE debt are required by law to stipulate that such instruments are not backed by the full faith and credit of the U.S. government, investors worldwide have concluded that our government will not allow GSEs to default.
+As a consequence, market participants offer to purchase GSE debt at interest rates substantially lower than those required of comparably situated financial institutions without direct ties to government.2 Given this advantage, which private competitors have been unable to fully overcome, the housing-related GSEs have grown rapidly in recent years.
+Fannie and Freddie essentially dominate the market for purchasing conforming home mortgage loans.3 The strong belief of investors in the implicit government backing of the GSEs does not by itself create problems of safety and soundness for the GSEs, but it does create systemic risks for the U.S. financial system as the GSEs become very large.
+As I have recently testified before the Banking Committee of the U.S. Senate, systemic risks are difficult to address through the normal course of financial institution regulation alone.
+But in the case of the GSEs, these risks can be effectively handled by limiting their investment portfolios, which are funded by implicitly subsidized debt.
+The government guarantee for GSE debt inferred by investors enables Fannie and Freddie to profitably expand their portfolios of assets essentially without limit.4 Private investors have granted them a market subsidy in the form of lower borrowing rates, which staff at the Federal Reserve Board has estimated at 40 basis points in recent years.
+This market subsidy is a formidable advantage in our highly competitive Aaa market, where a few basis points are often competitively determinant.
+Unlike subsidies explicitly mandated by the Congress, the implicit subsidies to the GSEs are initiated wholly at the discretion of the GSEs.
+They choose when to borrow and gain the advantage of the subsidy, and because markets perceive such debt as government guaranteed, GSEs can effectively borrow without limit.
+Investors have provided Fannie and Freddie with a powerful vehicle for achieving profits that are virtually guaranteed through the rapid growth of their balance sheets, and the resultant scale has given them an advantage that their potential private-sector competitors cannot meet.
+As a result, their annual return on equity, which has often exceeded 30 percent, is far in excess of the average annual return of approximately 15 percent that has been earned by other large financial competitors holding substantially similar assets.
+Virtually none of the GSE excess return reflects higher yields on assets; it is almost wholly attributable to subsidized borrowing costs.
+In a market system, lenders and investors typically monitor and discipline the activities, including leverage, of their counterparties to assure themselves that these entities are financially sound.
+Because the many counterparties in GSE transactions assess risk based mainly on the GSE's perceived special relationship to the government, rather than on the underlying soundness of the institutions, regulators cannot rely on market discipline to contain systemic risk.
+* * * The profit potential created by subsidized debt has been available to the GSEs for decades.
+However, the management of Fannie and Freddie chose to abstain from making profit-centers out of their portfolios in earlier years, and only during the mid-1990s did they begin rapidly enlarging their portfolios.
+At the end of 1990, for example, Fannie's and Freddie's combined portfolios amounted to $132 billion, or only 5.6 percent of the single-family home-mortgage market.
+Indeed, in 1989, before the rapid expansion of its portfolio, Freddie testified before the Congress that the need for safe and sound operation and the need to provide affordable mortgages to homebuyers were inconsistent with holding a substantial portfolio.
+As Freddie's CEO argued at that time, by financing mortgages with mortgage-backed securities sold to investors rather than with a portfolio, Freddie avoided interest rate risks and thus could keep mortgages flowing when depository institutions were suffering an interest rate squeeze.5 Moreover, Freddie's 1990 annual report stated that Freddie could provide ample liquidity to mortgage markets and make profits by financing mortgages with mortgage-backed securities sold to investors rather than by holding a mortgage portfolio.
+To quote, "Freddie Mac maintains a presence in the secondary market each and every day--regardless of economic conditions--by buying mortgages from lenders, pooling and packaging them into securities, and selling these securities to investors"(emphasis added).
+When Freddie Mac became owned by private shareholders and began to realize the potential for exploiting the risk-adjusted profit-making of a larger portfolio, the message changed.
+Freddie stated in its 1993 annual report that "in short, to achieve our earnings objective, we are striving to increase our total portfolio at a rate faster than residential mortgage debt growth ... [and] generate earnings growth in excess of revenue growth through focused management of credit and operating expenses."
+By 2003, Freddie's portfolio had grown tenfold, and Fannie and Freddie together held $1.5 trillion in assets, or 23 percent of the home-mortgage market.
+Today, the interest rate and prepayment risks inherent in mortgages with a low-cost refinancing option is concentrated in the large portfolios at Fannie and Freddie.
+These concentrations cannot be readily handled by private-market forces because there are no meaningful limits to the expansion of portfolios created with debt that the market believes to be federally guaranteed.
+As Fannie and Freddie increase in size relative to the counterparties to their hedging transactions, the ability of these GSEs to quickly correct a misjudgment in their complex hedging strategies becomes more difficult, especially when vast reversal transactions are required to rebalance portfolio risks.
+We are thus highly dependent on the risk-managers at Fannie and Freddie to do everything right.
+Moreover, the success of interest-rate-risk management, especially the exceptionally rapid timing required by dynamic risk adjustments, requires that the ultimate counterparties to the GSEs' transactions provide sufficient liquidity to finance an interest-rate-risk transfer that counters the risk.
+Otherwise, large and rapid dynamic adjustments will result in sharp changes in the prices for rebalancing and hedging a mortgage portfolio.
+The consequence would be added to interest rate volatility.
+In the end, we cannot eliminate the risk inherent in mortgages with refinancing options.
+But we can markedly contain the accompanying risks to systemic stability by diversifying the concentration of risk away from large, highly leveraged portfolios for which misjudgments can have quick and devastating consequences.
+A system of diversified and less-leveraged interest-rate-risk management would be far more resilient to the inevitable mistakes and shocks of individual risk-mitigating strategies.
+Such diversification would thus pose much less systemic risk, largely because of lowered leverage, which in turn is the consequence of the private-market discipline imposed on commercial and investment banks, mutual funds, insurance companies, and other current or potential holders of mortgage-backed securities.
+Some argue correctly that, although the borrowing rates of the GSEs are subsidized, so are those of commercial banks because of deposit insurance and access to the Federal Reserve's discount window and payments system.
+But interest rates on the long-term debentures of banks exceed the rate of interest required on GSE debt, suggesting that market participants perceive banks as far less subsidized than GSEs.
+Banks accordingly have access to significantly less-subsidized credit than do GSEs.
+To be sure, banks do have access to insured deposits at low rates.
+But large banks find it difficult to grow using only insured deposits.
+Interest rates on banks' insured deposits, while usually less than those on GSE debentures, do not account for the substantial costs that banks incur to collect, and provide services for, core and small time deposits.
+If larger banks could rely on low-cost insured deposits as their effective marginal source of funds, why would they pay higher interest rates to holders of their debentures?
+The borrowing edge of the GSEs prevails even though the biggest banks must maintain at least twice the capital ratio of Fannie and Freddie and smaller banks hold even more.
+Moreover, with the additional capital available at banks to absorb the inevitable hedging misjudgments, reversals of fortune are likely to create less disruption to the banking system relative to the disruption possible at Fannie and Freddie.
+* * * The Federal Reserve Board has been unable to find any credible purpose for the huge balance sheets built by Fannie and Freddie other than the creation of profit through the exploitation of the market-granted subsidy.
+Fannie's and Freddie's purchases of their own or each other's mortgage-backed securities with their market-subsidized debt do not contribute usefully to mortgage market liquidity, to the enhancement of capital markets in the United States, or to the lowering of mortgage rates for homeowners.
+The key activity of the GSEs--the provision of liquidity to the primary mortgage market--can be accomplished exclusively through the securitization of mortgages; GSE portfolios of mortgage-related assets cannot serve this function.
+Indeed, during a crisis, the GSEs' portfolios of mortgage-backed securities (MBS), in contrast to portfolios of liquid assets such as Treasury bills or cash, cannot provide liquidity to either the primary or the secondary mortgage market.
+To sell mortgaged-backed securities to purchase other mortgage-backed securities clearly adds no net support to the mortgage markets.
+GSE portfolios could act as a source of strength to the mortgage markets only if they contained highly liquid, non-mortgage assets such as Treasury bills, which can be readily turned into cash under all possible scenarios without importantly affecting the prices of home mortgages.
+Indeed, only such highly liquid portfolios would be consistent with the GSEs' mission of providing primary mortgage market liquidity during a crisis, particularly during a financial crisis.
+Fannie and Freddie do need to hold in portfolio some mortgage-related assets to achieve their mission.
+In the normal course of securitization, timing differences between purchases of home mortgages and sales of MBS imply an inventory of home loans, although most such transactions are simultaneous swaps of packages of home mortgages for MBS.
+Moreover, there may be some affordable housing mortgages unsuitable for securitization that serve the chartered mission of the GSE.
+But in total, the assets required for Fannie and Freddie to achieve their mission are but a small fraction of the current level of their assets.
+Thus, if the Congress legislates a mission-only need for GSE portfolio assets, a substantial liquidation of MBS over time, coupled with an equivalent redemption of GSE debt, will doubtless be required.
+Such liquidation would entail not solely a removal of demand but an equal removal of both supply and demand for MBS.
+Accordingly, the implementation of portfolio limits should pose no significant difficulties: The amassing of GSE portfolio assets is a simple grossing-up of mortgage assets, which can be initiated and reversed in quite large volumes with relative ease.
+* * * The average paydown rate of the GSEs' portfolios from 1997 to 2004 was about 25 percent.
+Even if outright sales of MBS were required to shrink portfolios, the proceeds would presumably be employed to redeem GSE debt.
+In effect, a private investor whose holding of GSE debt has been redeemed receives, in exchange, either the mortgage-backed security sold by the GSE or other assets sold by those who acquire the mortgage-backed security.
+In either case, the grossing-up or its reversal does not affect the net demand for high-quality securities.6 The concern of some observers that large sales of MBS will be difficult to absorb runs counter to the evidence that GSE-backed MBS, being Aaa-rated securities, already trade as part of the large worldwide market for high-quality corporate debt and U.S. Treasury issues.
+GSE sales of MBS, matched with redemptions of debt, will be readily absorbed in the vast market without a significant change in the relative interest rate spreads of such investments.
+At the most, the grossing-up and liquidation of MBS and the corresponding GSE debt might conceivably affect the MBS-GSE interest rate spread at the margin.
+Moreover, unwinding MBS financed by GSE debt does not affect the level of home mortgage debt outstanding or of mortgage interest rates.
+Indeed, we have found little, if any, evidence that the spread of home-mortgage interest rates over comparable-maturity U.S. Treasuries are affected at all by variations in the size of GSE portfolios.7 In fact, contrary to the expectations that MBS portfolio accumulation lowers home mortgage interest rates, the spreads apparently widened as the portfolios grew from 1995 to 2003.
+In any event, since the development of the MBS market, the determinants of interest rates that finance home purchase have exhibited little, if any, response to the size of GSE portfolios.
+The past year provides yet more evidence of this independence, with GSE portfolios not growing and mortgage spreads, as well as the spread between yields on GSE debentures and Treasury securities, declining further.
+Despite the turmoil at Fannie and Freddie during the past two years, home mortgage markets have functioned well.
+Indeed, as an indication that the yield on debt owed by GSEs is wholly a function of the yield's perceived status as government guaranteed, the credit default swaps of both Fannie and Freddie have barely budged as the disruption in the markets for GSE equities has deepened.
+The MBS-GSE or GSE-Treasury interest rate spreads seem to be insensitive to changes in the degree of intermediation because of the extraordinary substitutability of Aaa mortgages and their financing vehicles for high-quality corporate debt and Treasuries.
+The method of GSEs' intermediation may be another reason that we find so little effect of the size of the GSEs' MBS portfolio on home-mortgage interest rates.
+The decision by a GSE to purchase and securitize a mortgage is made independently of the decision to place the mortgage or mortgage-backed security in the GSEs own portfolio.
+Thus, whatever effect the GSEs have on primary home-mortgage rates appears to flow from the decision to purchase and securitize the mortgage, not from the decision of whether to put the mortgage-backed security into the GSEs' portfolios or sell the MBS in the private market.8 * * * Some observers have suggested that the availability of fixed-rate mortgages is tied to the size of GSE portfolios.
+We see little empirical support for this notion.
+For example, we have found no evidence that fixed-rate mortgages were difficult to obtain during the early 1990s, when GSE portfolios were small.
+Indeed, the share of fixed-rate mortgage originations averaged slightly less than 80 percent in 1992, when GSE portfolios were small, and averaged 66 percent in 2004, when GSE portfolios were large.
+Clearly, these data do not support the proposition that the size of the GSEs' portfolios positively contributes to the availability or popularity of fixed-rate mortgages.
+It is, of course, mortgage securitization, and not GSE portfolios, that is the more likely reason for the continued market support for the popular thirty-year fixed-rate mortgage.
+* * * Without a notable direct or indirect effect on primary home-mortgage rates, it is difficult to see how the GSEs' portfolios can influence homeownership.
+The evident de minimis to small changes in home mortgage interest rates owing to GSE mortgage market intermediation suggested by recent studies would have little effect on homeownership.
+Indeed, a comprehensive survey by Ron Feldman (2001) finds that a change in mortgage rates would have to be at least 200 basis points before it would have more than a trivial effect on homeownership.9 Most analysts conclude that the primary determinants of homeownership appear to be the loan-to-value, debt-to-income, and payment-to-income ratios associated with the mortgagor and the mortgage.
+Over the 1990s, homeownership rates in the United States increased from about 64 percent to about 67 percent.
+Much of this increase seems to be due to growing incomes of households, a generally lower level of interest rates, and an increased ability to extend loans to borrowers who require higher loan-to-value ratios.
+The generally declining level of mortgage rates that occurred in the 1990s reflects the fact that worldwide interest rates have been generally lower and that worldwide development cannot be a consequence of GSE portfolio growth.
+Even with smaller portfolios, Fannie and Freddie would remain formidable institutions and their profits would provide more than sufficient support for their special affordable-housing programs.
+GSE mortgage securitization is a profitable activity and, with its modestly subsidized guarantee, earns above-normal rates of returns.
+* * * As I testified before the Congress both this year and in 2004, the GSEs need a regulator with authority on par with that of banking regulators, with a free hand to set appropriate capital standards, and with a clear and credible process sanctioned by the Congress for placing a GSE in receivership, where the conditions under which debt holders take losses are made clear.
+However, if legislation takes only these actions and does not limit GSE portfolios, we run the risk of solidifying investors' perceptions that the GSEs are instruments of the government and that their debt is equivalent to government debt.
+The GSEs will have an increased facility to continue to grow faster than the overall home-mortgage market; indeed because their portfolios are not constrained, by law, to exclusively home mortgages, GSEs can grow virtually without limit.
+GSE's mortgage securitization, in contrast to their portfolio holdings, is the key to maintaining and enhancing the benefits of Fannie and Freddie to homebuyers and secondary mortgage markets.
+And mortgage securitization, unlike the GSE portfolio holdings, does not create substantial systemic risks.
+Thus, one way to limit the GSE portfolios is to create a strong presumption that almost all mortgage-related assets can be securitized.
+The GSEs would need to establish, with their regulator, that any asset held in their portfolio could not be securitized.
+In other words, the method of GSE financing most consistent with their missions is to securitize assets first and to hold in their portfolios only those assets that are very difficult or unduly expensive to securitize.
+
+It gives me great pleasure to open this conference.
+I would like to thank the Federal Reserve Bank of Boston and Board staff for organizing this important event and all the speakers for the time and effort they have devoted to making this conference worthwhile.
+Indeed, judging from the impressive lineup of speakers, this conference should be a highly useful forum for an exchange of ideas.
+I also want to extend a special welcome to the international supervisors and bankers who are in attendance.
+I know that some of you have spent the earlier part of this week sharing your views about and experiences with the implementation of the Basel II operational risk framework and working to achieve an appropriate level of consistency in implementation across countries.
+Our hope is that this conference will broaden and deepen the understanding within the banking and regulatory community of operational-risk measurement techniques, both quantitative and qualitative, particularly as they relate to the development of the advanced measurement approaches, or AMA.
+I think you have an interesting two days ahead of you, with an opportunity to hear the current state of implementation from banks and regulators.
+Specifically, this morning you will hear supervisors describe the range of practices they observed during the "interagency AMA benchmarking exercise" conducted last year at institutions that will likely be required to adopt Basel II.
+They will also summarize the results of the operational-risk-loss data-collection exercise and Fourth Quantitative Impact Study--known as QIS4.
+This afternoon you will hear from academics and practitioners who are experts in measuring operational risk, and tomorrow you will hear from financial institutions who will share their practical experiences in designing and implementing operational-risk measurement systems and then from regulators on the outstanding policy issues.
+Today, I would like to address some of the practical aspects of implementing Basel II in the United States, including some observations on progress being made in the management and measurement of operational risk as well as some observations on the challenges associated with implementing an AMA.
+Implementation of Basel II in the United States The agencies' reaction to the results of QIS4 shows how seriously we are taking Basel II implementation.
+As you probably know, the agencies issued a statement on April 29 indicating that results from QIS4 were more widely dispersed and showed a larger overall drop in capital than we had expected.
+This was the impetus for deciding to delay issuance of our next round of proposals for Basel II.
+These unexpected results show the continued benefit of conducting periodic quantitative impact studies.
+They serve as a milestone to help us calibrate the progress of the framework and the bankers as we move to Basel II.
+We now must determine the reasons for the unexpected results from QIS4.
+Do they reflect actual differences in risk among respondents when prior supervisory information suggested more similarity in credit quality?
+None of the participating banks has completed their databases and models for all of their risk areas.
+In some cases, this created results that would not be reliable for implementing Basel II.
+For example, for some portfolios, expected losses reflected only the last year or two of results.
+Thus, the strong credit performance of recent experience was not balanced by higher losses at other points of the credit cycle.
+Were there limits of the QIS4 exercise itself?
+Is there a possible need for adjustments to the Basel framework?
+Analyzing the data used in QIS4 is vitally important, because ultimately the success of Basel II will depend on the quantity and quality of data that banks have to use as inputs to the framework.
+U.S. regulators expect to provide additional information on the lessons we learn from the QIS4 review in the near future.
+The notice of proposed rulemaking (NPR) for Basel II will incorporate what we learn from this exercise.
+But we really are caught in a process dilemma.
+Bankers cannot complete their models and collect the necessary data until they know what the specific requirements will be.
+Regulators, on the other hand, will have to develop these requirements before seeing the actual results of these models and robust databases.
+Given what a vast undertaking Basel II is, this seems entirely appropriate and beneficial.
+In addition to what we learn from the work on QIS4 results, we will also assess the trading and banking book comments of the Basel Committee on Banking Supervision and the International Organization of Securities Commissions.
+We will incorporate the latest proposal into the notice of proposed rulemaking and hope to complete our efforts in a timely manner.
+In addition, under our current plans, we also will be delaying issuance of an advance notice of proposed rulemaking to revise current capital rules for non-Basel II banks.
+U.S. banking regulators have long recognized that the existing capital rules need to be updated.
+These modifications are needed to reflect changing products and risk exposures and also to address potential competitive impacts from Basel II.
+We plan to issue these proposals for public comment concurrently with, or soon after, the NPR on Basel II to allow the banking community to comment on a combined package.
+I will now turn to some observations about operational risk.
+Observations Related to Implementing an AMA As you may know, I have spent much of my career in the field of risk management, and of course the Federal Reserve has a keen interest in this topic.
+For those of us who have spent more than a few years in the business, it is easy to see the recent progress in the quantitative aspects of risk management brought about by improved databases and technological advances.
+Indeed, the development of techniques for the measurement and management of operational risk is very dynamic, with much progress being made relatively recently.
+Evidence of this dynamic development process can be seen in the results of an interagency AMA benchmarking exercise conducted last year, as well as the results of the operational-risk-loss data-collection exercise and QIS4.
+In fact, one very encouraging sign of progress in measuring operational risk is the broad participation we saw in the loss data-collection exercise and on the operational-risk portions of QIS4.
+As you will hear in more detail later this morning, twenty-seven institutions participated in these exercises; and it appears that, based on our preliminary analysis of the submissions, significant progress has been made in the collection of operational-risk data and the quantification of operational risk.
+A review of the loss data submitted by you and your colleagues shows a substantial increase in the number of institutions collecting operational-risk data over the past five years.
+In addition, the QIS4 responses suggest that although significant quantification challenges remain, many institutions are developing sophisticated approaches for measuring their operational-risk exposure.
+It has often been argued that measuring operational risk is much more difficult than measuring market or credit risk.
+The lack of a consistent definition of operational risk (until recently); the central role of the internal control environment; the relatively short time span of historical loss data; and the important role of infrequent, but very large, loss events are just some of the challenges that operational-risk measurement systems have had to confront.
+Coming up with credible ways of capturing the tail of the loss distribution and, just as important, of verifying that it has been captured in a reasonably accurate and consistent way, have presented interesting challenges to those developing operational-risk measurement frameworks.
+But, in a very real sense, these challenges have become the true strengths of the operational-risk measurement discipline.
+As will be very evident from the presentations over the next two days, tremendous creativity and insight have been brought to bear on the issue of operational-risk measurement.
+To address the difficulties presented by the very nature of the risk, the designers of operational-risk measurement frameworks have had to be more innovative, take bigger steps into new territory, and be more willing to step away from traditional--and comfortably familiar--techniques than their counterparts in the market- and credit-risk arenas.
+Designers of operational-risk measurement systems have had to do some really fundamental thinking about the goals of risk measurement and about the tools used to achieve those goals.
+As a result, we have seen innovation in the use of "soft" data derived from scenario analysis, risk self-assessments, and the judgment of senior business managers.
+We have seen creativity in the melding of internal and external loss data to guide thinking about internal loss exposures.
+Perhaps most significantly, we have seen some truly innovative thinking about ways to integrate operational-risk measurement into the broader framework of operational-risk management.
+I commend you on all that you have accomplished to date, but substantial work remains to be accomplished before Basel II can "go live."
+I strongly encourage both bankers and supervisors to continue their efforts to support the evolution of operational-risk measurement and management practices.
+One of the major challenges bankers face in implementing an AMA is creating a credible database of internal loss-event data on which to base the AMA capital charge.
+Another, and no less important, challenge is ensuring that operational-risk measurement and management systems are integrated into the day-to-day decisionmaking processes of your institution.
+The focus on enhanced risk management in Basel II means that banks should not view Basel II preparations with a checklist mentality.
+Rather, they should be moving ahead on many fronts, looking at how to make the fundamental changes needed for better risk identification, measurement, management, and control.
+By doing so, banks can position themselves to succeed in implementing an operational risk-management and -measurement system on a timely basis.
+We do, however, recognize that a certain time constraint exists for institutions wishing to implement the new framework.
+On the one hand, banks are encouraged to start preparations as soon as possible; on the other hand, we leave open the possibility that elements of the framework are subject to change.
+This is not a trivial matter.
+As a former banker, I sympathize with the challenges you face in deciding on investments and upgrades to your systems and personnel.
+When it comes to Basel II, we recognize that certain details relating to systems and processes will depend on what the final U.S. rule and guidance contain.
+Accordingly, your primary supervisor is available to discuss your implementation efforts and we want to hear specifics about which elements of the proposal, from your perspective, will demand the greatest investments or appear to generate the greatest uncertainty.
+Using that information, the agencies can then understand where to target resources to assist banks during the transition to Basel II.
+We certainly hope that many upgrades made for Basel II are those that would have been made anyway to strengthen enterprise-risk management.
+An additional challenge that you face in implementing an AMA is that operational risk has only relatively recently risen to management and regulatory attention--not because it was previously unimportant, but because it has been so difficult to measure.
+As QIS4 has demonstrated, we are still in the early stages of measuring this risk, and the challenges in gathering the relevant data and developing the models are still great.
+The main reason for the lack of data, as I am sure many of you know firsthand, is simply the fact that most banks have only recently started systematically collecting operational-loss data.
+While the importance of models and loss data in quantifying operational risk may be quite apparent--at least to practitioners of the art--the importance of the qualitative aspects may be less so.
+In practice, though, these qualitative aspects are no less important to the successful operation of a business--as events continue to demonstrate.
+Some qualitative factors, such as experience and judgment, affect what one does with model results.
+It is important that we not let models make the decisions, that we keep in mind that they are just tools, because in many cases it is management experience--aided by models to be sure--that helps to limit losses.
+Some qualitative factors affect what the models and risk measures say, including the parameters and modeling assumptions used and the choices that relate to the characteristics of the underlying data and the historical period from which the data are drawn.
+I think you will hear a common theme today and tomorrow: Value is added to the firm when operational-risk measurement is integrated with the business-unit management processes.
+In other words, the business-line staff should be in the process of developing the firm-wide operational-risk measurement framework.
+While firms generally are developing corporate-level operational-risk management functions and firm-wide policies and procedures to bring greater consistency to how operational risk is measured throughout the institution, business-line staff can add significant value to this effort through their understanding of inherent risks and controls in their areas.
+And finally, the more business- line staff is involved in the development of the measurement framework and the more transparent the framework is, the more credible will be the process of allocating the total capital number back to the business lines--an effort in which many of the banks represented here today are now engaged.
+To be meaningful, the quantification of operational risk must be forward-looking.
+This means that a mechanical focus on historic loss data series will not work.
+We must recognize the roles of qualitative factors and a well-reasoned assessment of what we will call stress events or scenario analysis.
+In this regard, the burden is on management to exercise judgment.
+Clearly, this judgment must include consideration not only of a soundness standard but also of contingencies and actions taken to reduce the risks posed by those contingencies.
+A self-assessment of the internal control structure and overall risk-management process is crucial.
+Clearly, this is not a simple process if the results are to be relevant to the specific risk profile of the firm.
+But based on the progress we have seen to date in this area, I think you are up to the challenge and I encourage you to keep moving forward.
+Before I wrap up, I would like to say a few words directly to the potential "opt-in" institutions.
+An institution that does not meet the mandatory criteria in the framework will be under no obligation to adopt Basel II.
+Some potential opt-in institutions have complex and varied operations and are developing enhanced enterprise-wide risk-management processes and systems to strengthen their internal control environments.
+These institutions understand that complex operations receive a more structured and well-defined risk-management framework to monitor the effectiveness of internal control processes and risk exposures.
+For these organizations, the incremental cost to opt into Basel II advanced approaches will be a relatively moderate incremental cost.
+For other financial institutions, with a simpler organizational structure and less-complex processes and services, a less-sophisticated enterprise-wide risk-management and -measurement is entirely appropriate.
+For these organizations, the incremental cost to develop advanced Basel II systems can be substantial.
+These organizations may appropriately choose not to adopt Basel II, especially at the earliest possible date.
+If they choose to opt in, they may want to implement Basel II later when they can take advantage of third-party models and databases to assist in the development of their systems at much lower costs.
+Also, I would like to quell any concerns that potential opt-in institutions may have about being viewed as having inferior risk-management systems if they decide not to adopt Basel II.
+It is important for you to know that, as supervisors, we will not look upon institutions that decide not to adopt Basel II as having deficient risk-management systems simply because they choose to stay under the Basel I capital framework.
+As supervisors, our focus will continue to be on ensuring that risk-management processes are appropriate for operations of each institution and that those risk systems operate effectively.
+Thus, we expect that non-Basel II banks will continue to have CAMELS 1 and 2 ratings as they operate in a safe and sound manner.
+As Basel II implementation continues, customers, credit rating agencies, and analysts should also understand these fundamental concepts of effective risk management and internal controls.
+Conclusion In my remarks today, I have encouraged you to continue your efforts to support the evolution of operational-risk measurement and management practices.
+I want to end by reminding all of you not to become so caught up in the latest technical developments that you lose sight of the qualitative aspects of your responsibilities.
+Models alone do not guarantee an effective risk-management process.
+You should encourage continuous improvement in all aspects, including data integrity and internal controls, to name just a few.
+For the risk managers at this conference, I hope the message you have heard is that you should be actively engaged with managers throughout the organization, talking about the merits of a consistent, sound enterprise-wide risk-management culture.
+In doing so, you can help managers see that the risk-management process will allow them to better understand the inherent risks of their activities so that they in turn can more effectively mitigate these risks and achieve their profit goals in a safe and sound manner.
+
+We have heard a great deal during this conference about various innovations within the payments system and how payments providers can take advantage of them.
+What I would like to focus on this morning are some of the effects that these innovations, and market changes, in general are having on the payments industry and to address the role of the Federal Reserve in this time of rapid market change.
+Let me begin with a review of marketplace changes.
+It is clear that a market-driven change is under way within the payments system.
+Overall, users of the payments system are moving away from the use of paper checks and toward much greater use of electronic payments.
+A recent Federal Reserve study shows that in 2003, for the first time ever, the number of electronic payments in the United States exceeded the number made by check.
+Although checks are likely to remain an important part of the payments system for some time to come, a long-term decline in the use of the check appears, finally, to be taking hold.
+Still, it is important to remember that this changeover has been a long time in coming.
+After all, electronic wire transfers have been around for most of our lives and debit cards and the automated clearinghouse (ACH) system were developed three decades ago.
+There is, of course, more to the story of increased use of--and confidence in--electronic payments by consumers, businesses, and governments.
+The payments industry itself is taking innovative steps to collect more payments electronically.
+Let me highlight two of the most significant innovations.
+The first one, which was discussed earlier at this conference, is electronic check conversion.
+Simply put, electronic check conversion amounts to using the bank account and routing information printed on a check to debit a consumer's bank account electronically via the ACH system or a debit card network.
+In 2004, more than 1 billion checks were converted to electronic payments using the ACH system, reducing the number of checks that would otherwise have entered the paper collection system.
+Electronic check conversion is sometimes confused with innovations associated with the Check Clearing for the 21st Century Act (commonly known as Check 21).
+This very important law will ultimately bring about fundamental changes to the check-collection system, because it facilitates the adoption of check truncation and electronic collection of checks through the action of market forces.
+I would note, however, that even before Check 21 became law, one out of every five checks collected through the Federal Reserve Banks was being presented electronically.
+Check 21 contains consumer protection provisions that differ from those provided under electronic check conversion.
+But the substantive rights of consumers are very similar whether they are derived from check or electronic fund transfer law.
+To date, little has changed within our national check collection system since Check 21 came into effect a little more than six months ago.
+However, as banks make the investments necessary to take advantage of Check 21 and modify their operations to make the best use of the new technologies, the acceptance of digital check images for presentment and return of checks will accelerate.
+And costly substitute checks, though they are critical to the change allowed by Check 21, will eventually be looked back on as a transitional vehicle that helped achieve greater electronification of payments.
+Overall, a more electronic payments system will benefit society and will help improve payments system efficiency.
+The need for physical transportation of paper checks will decrease.
+With more channels for processing payments, the payments system infrastructure will become more diverse and more resilient.
+At the same time, however, the payments industry will have to rely more heavily on key telecommunications networks and computing systems.
+Mitigating the risk associated with greater reliance on electronic processing is vital and should be a top priority for the payments industry.
+There are other challenges arising from the ongoing transition to a more electronic system.
+Many payments providers are trying to determine how best to manage investments in paper check processing as check volumes decline.
+Many are also trying to decide what, if any, investments to make to take advantage of the authority provided by Check 21 to convert checks to electronic funds transfers.
+Changes within the payments system are also presenting challenges to the Federal Reserve System.
+Since 1999, the number of checks collected through the Reserve Banks has fallen nearly 20 percent, and the pace of decline is accelerating.
+The Reserve Banks have undertaken a range of cost-reduction initiatives to keep pace with the declining volumes, including an ongoing realignment of their check collection operations.
+Among their restructuring efforts is a reduction of the number of offices at which checks are processed from forty-five as of 2003 to twenty-three by early 2006.
+As the check market continues to shrink beyond 2006, the number of check processing centers will almost certainly decrease further.
+The Reserve Banks are also increasing their use of technology as part of a longer-term business strategy to facilitate the greater use of electronics in check processing.
+That strategy includes providing products and services that help banks take advantage of Check 21.
+To date, the adoption of those services has been slow, however.
+On average, only 400,000 of the 50 million checks the Reserve Banks collect each business day involve the deposit of digital check images or the printing of substitute checks.
+Using Internet technology, the Reserve Banks are improving customers' access to such core clearance and settlement systems as ACH and Fedwire.
+They are also offering new services consistent with heightened customer account activity and risk management capability.
+Any discussion of the Federal Reserve's evolving role in payments would be incomplete without a review of the Fed's role vis-à-vis its private-sector competitors.
+From its inception, the Federal Reserve considered its role in payments to be an important component of its central bank responsibility.
+The Fed's check and ACH services, in addition to Fedwire for commercial transactions, have provided a consistent, reliable, and efficient payment capability that has enhanced the performance of the U.S. economy.
+While the Fed has had a significant role in payments, it has not been the only player.
+The Monetary Control Act of 1980 (MCA), by requiring that the Fed explicitly price all the fee services it offers to banks, establishes, as a matter of public policy, a competition between the Reserve Banks and the private sector in the provision of payment services, to ensure that the efficiencies of market competition are realized fully.
+Other legal and policy limitations on the Reserve Banks also affect the Fed's competition within the private sector in the provision of payments services.
+First, the Reserve Banks, as directed by the MCA, must make their payments services available to all depository institutions--in contrast to private-sector competitors, which may offer their services to a limited, more profitable market segment.
+Second, the Reserve Banks, again as directed by the MCA, must recover, over the long run, the full direct and imputed costs of providing payments services to depository institutions.
+While the Reserve Banks' competitors also must recover their costs, they may, in addition, offer non-payment-related services that the Reserve Banks may not offer, thereby giving competitors greater flexibility in recovering payment service costs.
+This mix of competition and statutory obligation is highly beneficial to consumers and businesses alike and is an important source of efficiency and innovation within the payments system.
+The Reserve Banks' direct involvement in the payments system and ability to facilitate the adoption of standards and practices through their operating circulars also helps the Federal Reserve achieve its broader public policy goals, such as improving the efficiency and smooth functioning of the payments system.
+Unlike the Federal Reserve Bank obligations under the MCA, private-sector payment providers have a single-sided option.
+That is, they can compete in any segment of payments without the requirement to offer a full range of payment alternatives.
+As will be discussed later, this competitive option for private-sector firms is good for the consumer.
+There are many examples of private-sector payment providers making strategic decisions on payments that affect competition.
+One example involves check-clearing services.
+Many large banks with significant correspondent banking networks have historically offered check-clearing services to downstream correspondents as a core component of their product mix.
+Through consolidation, some of those banks have discontinued all or parts of their correspondent banking services.
+Others have promoted their check-clearing services, as the incremental cost of clearing checks is small relative to their existing fixed-cost structure.
+As this example suggests, banks have a wide range of strategic reasons for either discontinuing or expanding their check-clearing operations, and their pricing strategies can be as varied as their strategic reasons for participating in the business.
+Other examples of strong private-sector competition provided by the Clearing House Interbank Payments System (CHIPS) and the Electronic Payments Network (EPN), are the large-value funds transfers and ACH processing services to an increasing number of large banks that originate many of these payments.
+A diverse mix of banks, corporate credit unions, third-party processors, and other service providers also provide competitive payment services in markets across the country.
+An important question raised by the ongoing innovation and change in the payments system is whether regulatory response is necessary.
+At this conference we have heard a variety of opinions on this topic.
+Some believe that as payments are made and collected in new ways, certain laws and regulations need to be clarified.
+Others suggest that the change offers a unique opportunity to reconsider the relationships among legal and regulatory regimes that support the payments system.
+When considering the need for regulatory response, it is instructive to recall efforts by committees of both the House and the Senate in the very tech-conscious environment surrounding Y2K.
+After extensive hearings, committees concluded that caution should be exercised in changing laws and regulations to accommodate technological innovations.
+This sensible conclusion was based in part on two important realizations--first, that however well intended, efforts to alter current laws and regulations may assume that today's technological state of the art will also be tomorrow's and, second, that any changes based on that assumption could have the unintended consequence of stifling innovation.
+Rather than attempting to address specific technological changes, a starting point might be to identify certain principles.
+One principle, for example, might be that regulation in general (not just regulation within the payments system) should be effective and as clear as possible, and should support market-led innovation.
+Another principle might be that payments laws and regulations should be viewed holistically.
+As the distinctions between paper and electronic payments become increasingly blurred, there may be opportunities to simplify existing laws and regulations to achieve greater consistency among them.
+But I would be wary of making fundamental changes to the existing regulatory regimes without substantial study and careful consideration of the potential implications.
+Careful consideration would argue for a gradual, cooperative approach to identifying regulatory concerns and impediments to innovation and to address those concerns in a way that meets the needs of our economy for flexibility and growth.
+Of course, government organizations must carry out their specific mandates and act according to the public interest.
+The development and enactment of Check 21 offers a good example of this approach.
+As you may recall, the development of Check 21 began as the result of the banking industry identifying legal barriers to clearing checks electronically--specifically, state laws governing check collection that allow banks to demand that the original checks be physically presented for payment.
+Although these laws typically allow banks to agree to alternative presentment arrangements, the large number of banks in the United States has made the widespread adoption of electronic check collection through agreement extremely difficult.
+The Federal Reserve worked with the banking industry, consumer groups, and legal experts to analyze these barriers to innovation and determine how best to address them.
+The resulting legal innovation was the introduction of paper substitute checks that are legally equivalent to original checks, thereby allowing banks that choose to collect checks electronically to create and present substitute checks to paying banks that demand presentment by paper check.
+The resulting proposal was then presented to Congress and formed the basis of what became known as Check 21.
+This bit of history leads me to the role of the Federal Reserve in regulating the payments system.
+While the Federal Reserve has an interest in the smooth and secure functioning of the overall payments system, our regulatory authorities are specific to only certain operational aspects of the system, such as the interbank collection of checks, and specific consumer rights and protections, such as consumer liability for unauthorized electronic funds transfers.
+These authorities are derived from statute.
+With regard to the operational aspects of the payments system, the Federal Reserve is responsible for regulating the operations of the Reserve Banks, particularly their check collection and wire transfer activities.
+The Federal Reserve also has regulatory authority, under the Expedited Funds Availability Act and Check 21, for various aspects of the collection and return of checks by banks.
+The Federal Reserve's regulatory authority over electronic payment operations is limited to those of the Reserve Banks.
+Instead, the private sector, through bank associations, card networks, and other cooperative rule-setting bodies, establishes many of the operating rules for electronic payments.
+For example, NACHA--the National Automated Clearing House Association--sets the operating rules and establishes contractual liabilities and warranties among the banks that participate in the ACH system.
+Similarly, Visa, MasterCard, various electronic funds transfer networks, and card companies establish the particular operating rules their members must follow in their credit and debit card operations.
+A potential implication of this distribution of rulemaking authority within the payments system is that as more payments are made by ACH or by debit and credit cards, the relative importance of private-sector rulemaking may increase.
+At the same time, as checks are increasingly collected electronically, the Federal Reserve may need to use its regulatory authority over the interbank check collection system more actively.
+In particular, we will be monitoring the banking industry's experience with the Board's regulations implementing Check 21 and will revisit them over the next few years to determine whether any refinements are necessary.
+With regard to consumer rights and protections, the Board has a more extensive role with both checks and electronic payments.
+For checks, the Federal Reserve's statutory authorities relate to the obligations of banks to make deposited funds available to their customers and to recredit their customers for losses suffered as a result of receiving a substitute check.
+We take these responsibilities seriously.
+For example, we monitor developments in the check-collection system on an ongoing basis to determine if the maximum permissible hold periods in Regulation CC should be shortened.
+If we find sufficient improvement in check-collection and return times, particularly as more banks make use of Check 21, we will reduce the funds availability schedule accordingly.
+For electronic payments, specifically debit cards and ACH, the Federal Reserve has equally important responsibilities.
+They include establishing the rules that help protect consumers from unauthorized transactions and the various reporting and notice requirements associated with electronic funds transfers that must be made to consumers.
+The card associations and private-sector rulemaking organizations complement these regulatory protections and disclosure requirements by offering additional rights, protections, and notices.
+For example, the card associations provide consumers with "zero liability" for certain unauthorized credit and debit card transactions that are processed on their networks.
+While the private sector plays an important supplemental role in the area of consumer protections and notices, the Federal Reserve has become increasingly active in this area.
+For example, we have clarified that consumers have the same general rights under Regulation E (Electronic Funds Transfers) when their payments are made via electronic check conversion as they do when they pay their mortgage automatically each month.
+We also are considering how to address concerns about the notices that consumers receive when their checks are converted to electronic payments.
+We have found that the quality of these notices varies tremendously, creating some confusion among consumers about what they are authorizing.
+The Board is considering whether to revise the commentary to Regulation E to include model language that could be used in these consumer notices.
+We are also considering whether to require, along the lines of current industry rules, a written authorization signed by the consumer when the check is converted at a merchant location.
+I expect that the need for further clarification of regulations by the Federal Reserve will only grow as more innovation occurs within the payments system.
+An important conclusion from this discussion is that the role of the private sector is growing.
+This is happening in all segments of the payments system, from providing payments services, to setting industry rules or establishing industry technical and operational standards, to providing consumer rights and protections.
+Nevertheless, the Federal Reserve will continue to have an important role within a more-electronic payments system.
+We will continue to monitor developments within the payments system to better understand their implications.
+As a policymaking body, we will continue to promote the integrity and safety of the payments system while also supporting improvements in efficiency and accessibility.
+We will facilitate private-sector efforts to improve the payments system through a combination of dialogue and leadership.
+Where appropriate, we will work cooperatively with the private sector to identify and remove regulatory barriers to innovation and efficiency within the payments system.
+

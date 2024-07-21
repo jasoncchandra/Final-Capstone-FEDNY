@@ -1,0 +1,441 @@
+As a forecaster, I had learned that neither my students nor my clients wanted to be buried in reams of computer output.
+They wanted me to tell a story that brought together in a coherent way the implications of the large number of economic indicators they saw as otherwise unconnected and therefore confusing.
+Since joining the Board, I have tried to continue this approach, focusing in particular on the forces behind the extraordinary macroeconomic performance over the past several years and their implications for the outlook and monetary policy.
+My story this morning has five chapters on how the economy and monetary policy have adjusted, and must continue to adjust, to the acceleration of productivity and to the oil and other relative-price price shocks that have been so important in shaping macroeconomic performance since the mid-1990s.
+In chapter 1, I identify the short-run effects of higher productivity growth--specifically, the effects on aggregate demand and on inflation--and assess the implications of these two effects for the conduct of monetary policy.
+In chapter 2, I note the favorable choice that confronts policymakers as the economy adjusts to an acceleration in productivity--the choice between temporarily lower unemployment, lower inflation, or some combination--and explain how the response of monetary policy determines this choice.
+That leads me directly to chapter 3 and my interpretation of recent monetary policy strategy.
+In chapter 4, I discuss a transition to a period of slower growth and possibly higher inflation, a transition that in all likelihood we will make at some point.
+I interpret this as part of the continuing adjustment to the acceleration in productivity growth and part of the convergence to sustainable utilization and inflation rates.
+In my final chapter, I turn to how the swings in oil prices have interacted with the acceleration in productivity to shape recent economic performance.
+The effect of both of these shocks on inflation could reverse, and the balance between them could then turn out to be a powerful influence on the performance of the economy.
+The story I am sharing with you this morning is mine.
+I am not speaking for the Federal Open Market Committee or the Board of Governors.
+In addition, there may be reasonable questions about whether this story should be classified as fiction or nonfiction.
+Only time will tell.
+But it is fair to say that the views presented here are not part of the conventional wisdom, in part because a consensus has not yet been reached about the short-run effects of an acceleration in productivity.
+It will take the benefit of historical perspective and additional data to achieve such a consensus.
+But policy has to be made in real time.
+It is in that spirit that I offer these observations.
+1.
+The Short-run Effects of an Acceleration in Productivity Growth We do not have many opportunities to learn about how the economy responds to major accelerations or decelerations in productivity.
+Figure 1 depicts the pattern in trend productivity growth from the 1960s to the first half of 2000.
+Trend productivity growth is an estimate of how productivity growth would evolve in the absence of cyclical swings in output and employment.
+As you can see in figure 1, trend productivity growth in the early 1970s slowed from a 3 percent rate over the previous decade to about a 1-1/2 percent pace and remained at this lower rate until the mid-1990s.
+At that point, productivity sharply accelerated.
+The figure undoubtedly overstates the abruptness of the decline in the early 1970s and the constancy of trend productivity on either side of this point and oversimplifies the pattern of acceleration since the mid-1990s.
+In figure 1 the pattern of acceleration is simply a straight line from the earlier period of low productivity growth to an upper-end estimate of trend productivity today.
+A more sophisticated estimate of the trend is given in figure A.1, in the appendix.
+But the important message in both figures is that there have been two dramatic and persistent changes in trend productivity growth during the postwar period--the deceleration in the early 1970s and the acceleration in the mid-1990s.
+Economists don't agree yet on how much productivity has accelerated.
+Estimates among private forecasters of trend productivity growth cluster in a range of 2-1/2 percent to 2-3/4 percent with the upper end in the neighborhood of 3 percent to 3-1/2 percent.
+The upper-end estimate would be consistent with an increase in potential output growth to about 4 percent to 4-1/2 percent, compared with potential output growth of about 2-1/2 percent prior to this acceleration.
+The principal sources of the recent acceleration in productivity appear to be the information technology revolution, the related more rapid decline in the relative price of computers and communication equipment, and the resulting surge in capital spending that has raised the growth of capital services relative to that of labor.
+Because we have little experience with major and persistent decelerations or accelerations in trend productivity, economists have not arrived at any consensus on how the economy responds to them.
+In the case of a sustained increase in productivity growth, it is obvious that the long-run effects include a higher sustainable rate of growth in output.
+Economic theory also suggests that, all else equal, the equilibrium real interest rate will increase.
+But there is less agreement about the shorter-run effects of an acceleration in productivity.
+The events of the past few years have provided an opportunity to learn more about them.
+This experience, in my view, points to two key short-run macroeconomic consequences of an acceleration in productivity: the demand effect and the direct disinflationary effect.
+I should note that both of these effects remain as open, empirical questions.1 Although these influences may be temporary, they can dominate the economic outlook for a number of years following an acceleration in productivity.
+While the persistent effect of acceleration in productivity is a higher rate of sustainable growth, the short-run effects appear to have added a temporary bonus that, in my view, has contributed importantly to the truly exceptional performance over the last several years.
+Specifically, they added to the increase in growth in real activity and were the source of simultaneous declines in unemployment and core inflation during much of this period.
+These developments have created a powerful set of crosscurrents that challenge monetary policymakers.
+The demand effect refers to the stimulus to aggregate demand from the forces that underlie the acceleration in productivity.
+The information technology revolution, for example, has set off an investment boom.
+The boom was triggered by the profitable opportunities associated with exploiting the new technologies, by the associated declines in the relative prices of high-tech equipment, and by the decline in the cost of financing high-tech investments as a result of higher equity prices.
+The information technology revolution also set off a consumption boom triggered by the wealth effect associated with higher equity prices and by a projected higher path of labor income.
+Recent experience suggests that this surge in demand may, at least for a while, overwhelm the increase in potential output growth, resulting in a steady decline in the unemployment rate.
+At the same time, an acceleration in productivity also appears to have a direct disinflationary effect.
+This arises, in my view, because of an asymmetry in the response of wages and prices to the acceleration in productivity, perhaps because salaries and wages are typically adjusted only once a year or, perhaps because of wage norms that cause employees to expect compensation growth similar to the experience over previous years.
+Whatever the reason, nominal wages initially do not appear to respond very much to the acceleration in productivity.
+As a result, the higher productivity lowers the cost of production.
+This has the immediate effect of raising profits, but competition soon puts downward pressure on prices, lowering inflation.
+The lower inflation, in turn, restrains nominal wage demands, contributing for a time to a virtuous cycle of lower wage change and price inflation.
+In the appendix, I present a simple model that incorporates this asymmetric response.
+The demand and direct disinflationary effects have conflicting implications for inflation.
+The above-trend growth associated with the demand effect lowers the unemployment rate, and the tighter labor market puts upward pressure on inflation.
+The direct disinflationary effect, on the other hand, lowers inflation for any given unemployment rate.
+The net effect could be steady, rising, or falling inflation--depending on whether productivity continues to accelerate and on how low the unemployment rate is driven in the process.
+And, of course, the appropriate course of monetary policy depends on the balance between these two effects.2 The interaction of these two short-run effects can also be explained in terms of the relationship between the unemployment rate and the nonaccelerating inflation rate of unemployment (NAIRU).
+The NAIRU is the unemployment rate consistent with steady inflation.
+In computing the NAIRU, the customary practice is to abstract from shocks that directly affect inflation over and above the influence of demand pressure--for example, accelerations or decelerations in trend productivity and swings in the relative price of oil are not taken into consideration.
+In fact, if there were no shocks, the direction of inflation ultimately would be uniquely determined by the relationship between the unemployment rate and the NAIRU.
+The NAIRU constructed in this way is best thought of as being a long-run value that is relevant once the economy has fully adjusted to any shocks or in the absence of such shocks.
+But, of course, additional shocks almost always directly affect inflation, most often on the supply side of the economy.
+One, therefore, must take into account both the demand pressures captured by the relationship between the unemployment rate and the NAIRU and supply shocks.
+Alternatively, one could derive an alternative measure of the NAIRU that took into account the supply shocks.
+By its nature, such an adjusted NAIRU would be more of a short-run concept.
+Because an acceleration in productivity initially lowers inflation for any given unemployment rate, it also lowers the unemployment rate consistent with steady inflation in the near term.
+That is, the direct disinflationary effect lowers the short-run NAIRU relative to its long-run value.
+Whether or not inflation will rise or fall in the immediate aftermath of an acceleration in productivity cannot be judged therefore by comparing the actual unemployment rate to the estimate of the long-run NAIRU.
+The relevant comparison is between the current unemployment rate and an estimate of the short-run NAIRU that takes into account the disinflationary effect of the productivity shock.
+My preference is to estimate a short-run NAIRU that directly takes into account the disinflationary effect of an acceleration in productivity because the effects of an acceleration in productivity on inflation may persist long enough that the adjusted NAIRU might be useful in policy decisions.
+On the other hand, I would leave out of such an estimation the effect of swings in oil prices, for example, because their effect on inflation dissipates more quickly.
+The demand and direct disinflationary effects are both temporary, but the period over which each has its influence depends on different considerations.
+The persistence of the demand effect depends on how long it takes for business capital stocks to adjust to higher expected profitability, for consumer durables to adjust to higher wealth and higher projected future income, and for market interest rates to close the gap relative to the higher equilibrium real interest rate.
+The direct disinflationary effect of an acceleration in productivity is, in my view, temporary because it likely arises from the lag in the adjustment of nominal wages to the productivity acceleration.
+It dissipates gradually once productivity growth stabilizes and nominal wages catch up to the productivity acceleration.
+How rapidly this effect dissipates depends on how quickly productivity growth stabilizes and how rapidly nominal wage gains adjust to the higher productivity growth.
+A similar sluggish adjustment of nominal wages to productivity developments following the productivity slowdown in the early 1970s may have contributed to the sharp increase in inflation thereafter.3 Let me try to make a rough estimate of the direct disinflationary effect of the acceleration in productivity and the associated decline in the short-run NAIRU.
+The first step is to estimate the acceleration in trend productivity.
+If productivity has increased from 1-1/2 percent during the period from the early 1970s to the mid-1990s to the upper end of the estimate today--say 3-1/2 percent--then the total acceleration in productivity would be 2 percentage points.
+If nominal wages do not immediately respond, the growth in labor costs will fall by precisely the same amount as the increase in the growth of labor productivity.
+In this case, the direct disinflationary effect simply equals the acceleration in productivity.
+However, the magnitude of the direct effect will diminish over time as wage growth catches up to the faster productivity growth, unless of course productivity continues to accelerate, as has been the case over the last several years.
+Because wages have likely already partially adjusted to the cumulative increase in productivity growth during the last several years, the portion of the acceleration still putting downward pressure on inflation may be somewhat less than 2 percentage points.
+A simple way of judging the magnitude of the direct disinflationary effect is to calculate the difference between the current estimate of trend productivity and a moving average of this trend.
+The length of the moving average should be an estimate of the time it takes for nominal wages to fully respond to higher productivity growth.
+In figure 2, I plot a measure of the direct disinflationary effect using a forty-quarter moving average of trend productivity.
+A ten-year moving average probably provides an upper end of the estimate of the direct disinflationary effect.
+As you can see, this upper-end estimate is that the cumulative productivity acceleration is lowering inflation today by 1-1/2 percentage points, for any given unemployment rate.
+Note that when this effect is positive, as it has been since the mid-1990s, it is a disinflationary effect and when it is negative--as it was following the decline in trend productivity growth after the early 1970s--it is an inflationary effect.
+The power and persistence of the direct disinflationary effect depends on both the pattern of the productivity acceleration and the speed of the adjustment process--specifically how fast wages respond directly to the productivity acceleration.
+If the adjustment is very drawn out as shown in figure 2, then the direct disinflationary effect would have been quite large and this effect would continue to be important for some time, even once productivity growth stabilizes.
+But if the adjustment were more rapid, the disinflationary effects of the acceleration in productivity would have been less powerful and would dissipate more rapidly once productivity growth stabilizes.
+As you can imagine, with so few observations, the data do not speak loudly about the speed or length of this adjustment process.
+As a consequence of this uncertainty about the speed of adjustment, I use a range of estimates--a ten-year moving average to capture the case of very sluggish adjustment and a three-year moving average to illustrate a more rapid adjustment.
+I view this as plausible range, but as I noted, it is difficult to identify the precise speed of adjustment within this range.
+These alternative moving averages translate into a range of 1/2 to 1-1/2 percentage points for the direct disinflationary effect of the acceleration in productivity growth.
+I use this range of estimates to calibrate the range for the decline in the short-run NAIRU in figure 3.
+In figure 3, I have assumed that the long-run NAIRU is 5-1/2 percent and that the long-run NAIRU has varied over the period from 1960 until today only in response to the effect of demographic changes on the average unemployment rate.4 As I explain in somewhat more detail in the appendix, I estimate the short-run NAIRU by subtracting the direct disinflationary effect of changes in trend productivity from the estimate of the long-run NAIRU.
+This yields what I believe is a plausible range for the short-run NAIRU today of 4 percent to 5 percent.
+This has the convenient property that the bottom end of the range is consistent with the prevailing unemployment rate and would support the view that we might be approaching a type of soft landing--a convergence of growth to trend at a point when the unemployment rate is already at the short-run NAIRU.
+In this case, there would not be any immediate upward pressure on core inflation.
+The range also has the property that its mid-point value of the short-run is above the prevailing unemployment rate, implying some upward pressure on core inflation over the near term.
+2.
+The Favorable Policy Choice as the Economy Adjusts to an Acceleration in Productivity Policymakers face a choice when confronted with an acceleration in productivity--a choice among very favorable outcomes.
+They can take the benefits of an acceleration in productivity in temporarily higher output (that is, a temporarily lower unemployment rate) or in lower inflation or in some combination of temporarily lower unemployment and lower inflation.
+There is no "right" choice here.
+It depends on policymakers' preferences, as well as on where inflation is relative to policymakers' long-run inflation goal at the outset of the acceleration in productivity.
+The outcome also likely will depend on how quickly policymakers realize that productivity has accelerated and learn how the economy responds to this development.
+The response of monetary policy to the acceleration in productivity determines this choice.
+How have the benefits of the acceleration in productivity been taken in this episode?
+To assess the outcome, it is most useful to look at the pattern of core measures of consumer price inflation--specifically measures of inflation based on the core PCE and the core CPI--during this period.
+I interpret the evidence as suggesting that we have taken a large part of the benefits of the acceleration in productivity in temporarily higher output and a smaller portion in the form of lower inflation.
+But let me emphasize again that the outcome of this choice is not simply a reflection of policymakers preferences, but also of how quickly the policymakers came to understand the size of the productivity acceleration and how it was affecting the choices they face.
+3.
+The Monetary Policy Response: The Two-step There is considerable uncertainty today about the NAIRU.
+This uncertainty is usually expressed without regard to the distinction between the short-run and long-run values of the NAIRU.
+While there is, to be sure, uncertainty about the long-run NAIRU, I expect much of the uncertainty today has followed from the effect of an acceleration of productivity on the short-run NAIRU.
+At the risk of some oversimplification, recent monetary policy could be viewed as part of a two-step strategy that takes into account the uncertainty about the NAIRU.
+The first step is to slow the growth in real output to trend to stabilize the unemployment rate at the lower end of the range of estimates of the short-run NAIRU.
+Thereafter comes step two, which is to apply a more reactive and less pre-emptive monetary policy.
+That is, policy is then focused on testing whether or not the prevailing unemployment rate is sustainable with steady inflation.
+If not, then monetary policy would respond to higher inflation by raising real interest rates.
+The difficulty of implementing this strategy is increased by the possibility that the short-run NAIRU is a moving target.
+That is, even if the unemployment rate today is consistent with the short-run NAIRU, the short-run NAIRU may have to rise over time as it converges toward the long-run NAIRU, at least once productivity growth stabilizes (or increases in productivity growth slow by a sufficient amount).
+4.
+A Transition to Below-Trend Growth and Rising Inflation?
+From the end of 1995 until mid-2000, growth had been above trend and, as a result, the unemployment rate had been declining.
+For much of the period, core inflation was declining.
+I believe the economy will ultimately be confronted by a transition and that we may already be in this transition, specifically to slower growth and perhaps also higher core inflation.
+The consensus private-sector forecast is for the growth in real GDP to slip below trend in the third quarter, then post a modest rebound in the fourth quarter, and continue in 2001 at a pace that will keep the unemployment rate nearly steady.
+The consensus forecast also appears to be consistent with relatively stable core inflation, implying that the prevailing unemployment rate may be sustainable and that monetary policy may have succeeded in achieving a soft landing.
+I hope this will be the case.
+If so, monetary policy would have achieved a soft landing for the second time in the same expansion--a truly extraordinary feat.
+Even if growth in real GDP remains at or modestly below trend for a period, there are, in my view, two potential sources of upward pressure on inflation over the next few years.
+The first is the possibility that the unemployment rate today is below the short-run NAIRU.
+The central tendency for my estimate of the short-run NAIRU, for example, is above the prevailing unemployment rate, suggesting the potential for some upward creep on core inflation.
+The second source of higher inflation would be the gradual convergence of the short-run NAIRU to the long-run NAIRU should productivity growth stabilize and the direct disinflationary effect wane.
+Unless the actual unemployment rate rises as this convergence progresses, the rise in the short-run NAIRU would result in further upward pressure in inflation.
+An important uncertainty in the forecast is the sustainability of the current rate of trend productivity growth.
+For example, in the near term, the robust pace of capital spending could yield still higher productivity growth--through further increases in the ratio of capital services to labor, one of the principal sources of higher productivity growth.
+Over a still longer period--and this may be several years to a decade or longer--it is quite possible that productivity growth, after reaching a peak, will then diminish.
+If the acceleration in productivity reflects the bunching of technological innovations, the completion of their spread will signal that productivity has moved to its new, higher level and the growth in productivity may then diminish to a rate more consistent with its long-run historical average.
+Such a deceleration in productivity would bring with it the reverse of the favorable conditions that initially accompanied the acceleration in productivity--a choice between a higher unemployment rate and higher inflation and likely a combination of the two.
+Even if productivity growth stabilizes at its current rate, we are, in my view, facing a transition.
+This, of course, presumes that my story about the short-run effects of an acceleration in productivity is on the mark.
+Initially, we faced a choice between temporarily lower unemployment and lower inflation, and experienced a combination of above-trend growth, a declining unemployment rate, and falling core inflation.
+The choices may now become less favorable--specifically some combination of slower growth and perhaps higher inflation.
+Of course, because of the acceleration in productivity, such a slowdown may still leave the growth rate of real GDP well above the average that prevailed over the two or more decades preceding the acceleration.
+If growth turns out to be close to trend for a while, the unemployment rate will stabilize at its prevailing value and core inflation will rise to the extent that the unemployment rate is below the short-run NAIRU.
+Inflation will rise further over time to the degree that the NAIRU moves toward its long-run value.
+The most benign outcome in this case might be a period of below-trend growth that would gradually reestablish a sustainable unemployment rate accompanied by a more modest increase in inflation.
+Given the uncertainty about this analysis--especially about the values of the short-run and long-run NAIRU--it is difficult to design a pre-emptive policy aimed at foreclosing the risk of higher inflation.
+Monetary policy will, however, need to watch for signs of an upward creep in inflation that would be part of the transition that I have been discussing.
+It is important to recognize, however, that there are options between a preemptive response based on the relationship between the unemployment rate and the NAIRU and a totally reactive approach of responding only to higher inflation itself.
+For example, increases in unit labor costs or decreases in profit margins can be precursors of inflation.
+So it is important to monitor such developments.
+5.
+The Interaction of Oil Price Swings and the Productivity Acceleration During the past several years, inflation performance has also been importantly affected by a series of relative price shocks--particularly swings in oil prices and in non-oil import prices.
+These shocks have interacted with the disinflationary effect of the acceleration in productivity.
+For example, in 1997 and 1998, the decline in both oil prices and non-oil import prices significantly reinforced the direct disinflationary effect of the acceleration in productivity, contributing to a decline in overall CPI inflation to just 1.6 percent in 1998.
+During most of this period, the unemployment rate, though falling, may have remained above the short-run NAIRU--as depicted in figure 3--because the short-run NAIRU was declining as a result of the acceleration in productivity.
+Beginning in 1999, the direct effect of the rebound in oil prices increased overall inflation, and over the past year, the secondary effects of the rise in oil prices may have boosted core inflation, perhaps reinforcing the effect of an unemployment rate now below the short-run NAIRU.
+The full effect of the recent rise in oil prices may still be feeding through to the prices of a broader range of goods and services, contributing to a near-term risk of higher inflation--even more so, of course, if oil prices move higher.
+Going forward, the interaction of these two effects is likely to remain important in shaping the inflation outcome.
+There is, in my view, a reasonable prospect that each of these two effects will reverse their contributions to inflation over the next couple of years and that balance between them will be important in determining the pattern of core and overall inflation rates.
+I noted above that we might be nearing or possibly already be in a transition that might include a period of upward pressure on core inflation.
+If the expectations in futures prices for oil prove correct, however, we may soon be treated to an extended period of decline in oil prices.
+To be sure, there is enormous uncertainty surrounding such a forecast.
+In addition, the near-term risks through the winter appear asymmetric on the upside.
+But, thereafter, the fundamentals--some moderation in the robust pace of global growth and increased investment in oil-producing capacity--point to a gradual but potentially extended decline in the price of oil.
+A projected drop in oil prices likely underpins the consensus forecast of a decline in overall inflation next year.
+Going forward, the secondary effects of lower oil prices would help to mitigate the rise in core inflation associated with prevailing and emerging demand pressures.
+Ultimately, we would still have to deal with the persistent demand pressures on core inflation if the prevailing unemployment rate is below the short-run NAIRU and if the short-run NAIRU begins to converge toward its long-run value.
+But such a reversal in oil prices would buy some time in addressing this risk.
+As a result of this balance of forces, we could still achieve a quite benign outcome even if it isn't the soft landing that many anticipate.
+No doubt there will be surprises along the way.
+But the interaction between the continuing adjustment to the acceleration in productivity and further swings in oil prices will likely play an important role in shaping the macroeconomic outcomes and the challenges facing monetary policy over the next couple of years.
+Appendix: Productivity and the NAIRU The model developed in this appendix supports both the analysis in the paper and the estimates of the magnitude of the disinflationary effect of an acceleration in productivity and of the short-run NAIRU.
+The model is based on a 1984 Board staff paper by Steve Braun.
+This paper examined the effect of the productivity deceleration in the early 1970s on inflation afterward.
+The insights developed by Braun were integrated into the modeling of inflation dynamics in the Board's large-scale quarterly econometric model.
+To focus on the implications of the productivity acceleration, I have not incorporated relative price shocks into the model, though it would be straightforward to do so.
+Equations 1 to 3 set out a simple model of inflation dynamics that assumes that productivity affects wages and prices symmetrically.
+In this case, an acceleration in productivity has no effect on the relationship between inflation and the unemployment rate.
+w = a + q - b U + pe p = w - q p = a - b U + pe w = rate of increase in nominal labor compensation p = inflation pe = expected inflation q = trend productivity growth q*= moving average of trend productivity growth U = unemployment rate Equation 1 is a wage-price specification of the Phillips curve.
+The rate of increase in nominal labor compensation (w) depends on the rate of unemployment (U) and expected inflation (pe).
+The price level is set as a markup over standardized productivity (the level of productivity adjusted for cyclical effects).
+Equation 2 is growth rate version of the markup equation, assuming a constant markup; the inflation rate (p) equals the rate of growth in labor compensation less the trend growth rate of productivity (q).
+This two-equation model of wage-price dynamics can be solved for the inflation rate by substituting equation 1 into equation 2, yielding the price-price specification of the Phillips curve, equation 3.
+Here, inflation depends on the unemployment rate and expected inflation.
+Because the productivity term, q, enters symmetrically in equations 1 and 2, it does not appear in equation 3.
+That is, the inflation rate in this model is unaffected by the growth rate of productivity or any change in the growth rate.
+Equation 3 can be solved for the value of the NAIRU (U*), by setting p = pe and solving for U.
+The resulting expression, given in equation 4, is the level of the unemployment rate consistent with any steady rate of inflation, once inflation expectations have converged to this steady rate.
+In this specification, there is no distinction between short-run and long-run NAIRUs.
+Equation 1' presents the key modification of this simple model that caused an acceleration in productivity to have an effect on inflation.
+In equation 1', the rate of increase in labor compensation now depends on a moving average of the trend rate of growth in labor productivity (q*) rather than on trend productivity growth itself.
+The key assumption here is that a change in trend productivity growth affects wage change more slowly than price change--that is, productivity acceleration has an asymmetric effect on wages and prices.
+This is modeled by assuming that wage change depends on q*, while the inflation equation (based on the markup equation) depends on q.
+(1') w = a + q* - b U + pe The implications of this modification in the model can best be seen by substitution of 1' into 2 and solving for the revised specification of the price-price Phillips curve, equation 3'.
+The inflation rate now depends on the difference between the level of trend growth and its moving average, q - q*.
+Whenever trend productivity growth increases, q is greater than q* for a while, and inflation is reduced.
+Once productivity growth stabilizes, q* ultimately converges to q.
+(3') p = a - [q - q*] - b U + pe p = inflation pe = expected inflation q = trend productivity growth q* = moving average of trend productivity growth U = unemployment rate The value of the NAIRU is usually derived by assuming that p = pe (as we did in deriving equation 4) and by setting all shock terms to zero.
+In this case that means, setting q = q*.
+We will refer to this specification of NAIRU as its long-run value when the economy has fully adjusted to any shocks or when there are no shocks.
+The long-run NAIRU in this case is exactly the same as in the simple model, derived in equation 4.
+It is also useful to derive a short-run or effective NAIRU, allowing for the effect of an acceleration of productivity on the level of the unemployment rate consistent with steady inflation.
+The expression for the short-run NAIRU (U**) is derived in equation 4'.
+If there is an acceleration in productivity, q will exceed q* for a while, and the short-run NAIRU will fall below the long-run NAIRU.
+That is, the disinflationary effect of an acceleration in productivity allows the economy to operate at higher utilization rates (a lower unemployment rate) before encountering upward pressure on the inflation rate.
+(4') U** = U* - (1/b) [q - q*] U** = short-run or effective NAIRU However, once productivity growth stabilizes at a higher level, q* will eventually catch up to q, and the disinflationary effect will gradually diminish and then completely disappear.
+During the period of adjustment of q* to q, the short-run NAIRU will rise and ultimately converge to the long-run NAIRU.
+During this transition, inflation pressure will build if the unemployment rate remains unchanged.
+In the charts presented in the paper, I put some rough quantitative dimensions on the short-run effect on inflation of an acceleration in productivity.
+To do so, we simply have to calculate the q - q* term.
+Three steps are required here.
+First, we need an estimate of q, trend productivity growth.
+Second, we need to specify the period over which the moving average of q, q*, is to be calculated.
+Finally, we need to determine the value of the coefficient that measures the effect of the q - q* term on the short-run NAIRU.
+There is a broad consensus that trend productivity growth was about 3 percent in the 1960s through the early 1970s and then about 1-1/2 percent until the mid-1990s.
+As of yet, there is not a consensus about either the magnitude or the time pattern of the acceleration in productivity.
+The upper end of the range of estimates for trend productivity today is between 3 percent and 3-1/2 percent.
+I used 3-1/2 percent as the estimate of q today in deriving the estimate of the disinflationary effect of productivity and the range for the short-run NAIRU.
+This decision obviously maximizes the potential importance of the acceleration of productivity in explaining the relationship between inflation and unemployment in this episode.
+Although the "curve" plotted in figure 1 is a fairly simple representation of the historical trends in labor productivity growth, it is similar to estimates produced using more sophisticated statistical techniques.
+For example, as shown in the graph of actual and trend labor productivity in figure A.1, a trend measure derived in a production accounting framework (the thick dark line) closely follows the curve shown in figure 3, reproduced here as the dashed line.
+This production-based measure of trend labor productivity has three components--capital deepening (derived from Bureau of Labor Statistics (BLS) data on actual capital services, normalized by the FRB/US estimate of trend labor hours); the BLS estimate of changes in labor quality; and trend growth in multifactor productivity (MFP).
+The latter component is computed using a Hodrick-Prescott filter to extract the trend in actual MFP growth.
+The next step is to determine the period over which the moving average q* should be computed--that is, the period it takes for q* to converge to q once q stabilizes.
+There is no economic theory to guide us in selecting the length of this period.
+All we can do is to seek alternative periods and try to determine which yields the best predictive performance in explaining inflation.
+As you might suspect, it is difficult to pin down the precise period; this likely reflects the relatively limited experience with accelerations (or decelerations) in productivity growth and thus the paucity of data from which to make this estimate.
+I compute the two alternative estimates of q*, assuming twelve-quarter and forty-quarter moving averages, both of which appear to do equally well in wage equations.
+We now have two estimates for the q - q* term in equation 3'.
+There are some factors that likely damp this effect and some that actually magnify it.
+A damping factor is the likelihood that firms respond to the acceleration in productivity by increasing their markup, absorbing some of the benefits in higher profits and passing on only a portion of the acceleration in lower inflation.
+We can capture this by assuming that m is the proportion absorbed in higher profits, so only (1 - m) is passed on in lower inflation.
+Magnifying the disinflationary effect are the dynamics working from the initial effect on inflation to expected inflation and back to inflation--in effect, the virtuous wage-price cycle that is initiated by the direct disinflationary effect.
+One final step is required to estimate the effect of the q - q* term on the short-run NAIRU.
+We have to estimate the coefficient on the q - q* term in equation 4'.
+Taking into account the effect of the change in the markup, this term is (1-m)/b, and I have assumed that it is equal to unity, a result roughly consistent with estimates of the parameter on the acceleration term in equations corresponding to this model.
+This yields a range for the short-run NAIRU of 4 percent to 5 percent in figure 2.
+I then used the mid-point, 4-1/2 percent as a point estimate of the short-run NAIRU in figure 3.
+Reference Braun, Steven.
+"Productivity and the NIIRU (and other Phillips Curve Issues)."
+National Income Section, Working Paper 34.
+Board of Governors of the Federal Reserve System, June 1984.
+Footnotes 1 Reflecting the absence of a consensus about the short-run effects of an acceleration in productivity, most macroeconomic models do not fully incorporate either of these effects.
+The model used for policy analysis at the Board, the FRB-US model, however, explicitly incorporates both of them.
+2 There are other complications.
+For example, the acceleration in productivity has contributed to the swing from deficit to surplus in the federal budget and appears to have encouraged an appreciation of the dollar.
+These effects in turn influenced the overall response of demand and inflation to the acceleration in productivity.
+
+The Federal Reserve, during this period, has squeezed out an inflationary excess of liquidity.
+In Europe, tolerance for inflation has declined dramatically, and a commitment to price stability--long the hallmark of Bundesbank policy--has gained widespread acceptance.
+In the past five years or so, two new trends have greatly assisted this process in the United States.
+One has been the serendipitous emergence of a once- or twice-in-a-century surge in technology.
+Without the accompanying boost to productivity, our progress toward price stability might well have been marked by the social pressures that arose in many previous episodes of disinflation both here and abroad.
+The other trend was the growing political commitment to address an outsized federal budget deficit that was absorbing an inordinate share of our national saving.
+That change in our political environment--accompanied by the faster pace of technology-driven growth--has resulted in a sharp reduction in the unified budget deficit and, more recently, the emergence of a significant surplus.
+This, in turn, has helped fill the pool of saving that has fed productivity-enhancing and cost-reducing capital formation.
+A number of elements came together to make this economic configuration possible.
+The essential ingredient was the public support that developed as the growth-inhibiting consequences of the inflation of the 1970s became manifest.
+Without this public recognition and support, it would have been difficult to establish the stable macroeconomic foundation upon which the private sector has built so productively in recent years.
+By now, the story of the boom in information technology is well known, and nearly everyone perceives that the resulting more rapid growth of labor productivity is at least partly enduring.
+Capital deepening has surged during the past seven years, and innovations, synergies, and networking effects have boosted significantly the growth of multifactor productivity.
+With output per hour having accelerated, cost pressures have been patently contained.
+For the most part, the Federal Reserve generally recognized these changing fundamentals and calibrated American monetary policy accordingly.
+Although we have learned much about managing the financial backdrop to accelerating economic activity, it is essential that we not be deluded into believing that we have somehow discovered the Rosetta stone of monetary policy.
+A failure by policymakers to sufficiently appreciate the inevitable uncertainties that they confront could result in unfortunate consequences for the economy.
+While we central bankers do not have full knowledge, we have continued to gain insight--albeit slowly--into how market economies function.
+That learning process has been aided, especially in the United States, by a vast panoply of data and information from both public and private sources.
+However imprecise, these readings on the economy have helped us steer monetary policy through an inevitably uncertain future.
+In practice, it is the joining of ideas and data that drives policy in the face of uncertainty.
+We seek to array the probabilities of future policy outcomes, attempt to gauge the costs of being wrong in our decisions, and endeavor to choose the policy paths that appear to offer greater benefits and fewer risks.
+Whether we choose to acknowledge it or not, all policy rests, at least implicitly, on a forecast of a future that we can know only in probabilistic terms.
+Even monetary policy rules that use recent economic outcomes or money supply growth rates presuppose that the underlying historical structure from which the rules are derived will remain unchanged in the future.
+But such a forecast is as uncertain as any.
+This uncertainty is particularly acute for rules based on money growth.
+To be sure, inflation is at root a monetary phenomenon.
+Indeed, it is, by definition, a fall in the value of money relative to the value of goods and services.
+But as technology continues to revolutionize our financial system, the identification of particular claims as money, near money, or a store of future value has become exceedingly difficult.
+Although it is surely correct to conclude that an excess of money relative to output is the fundamental source of inflation, what specifically constitutes money is a notion that has, so far, eluded our analysis.
+We cope with this uncertainty by ensuring that money growth, by any reasonable definition, does not reach outside the limits of perceived prudence.
+But we have difficulty defining those limits with precision, and within any such limits, there remains significant scope for discretion in setting policy.
+In history, discretionary monetary policy, of course, has not been without its shortcomings, and the dominant force of accelerating productivity has made our current task of policy calibration especially daunting.
+Policymakers, in fact all forecasters, invariably construct working hypotheses or models of the way our economies work.
+Of necessity, these models are a major simplification of the many forces that govern the functioning of our system at any point in time.
+Obviously, to the extent that these constructs, formal or otherwise, fail to capture critical factors driving economic expansion or contraction, conclusions drawn from their application will be off the mark.
+In practice, we continuously monitor a substantial quantity of incoming data to test the capability of any specific model or hypothesis to explain actual outcomes.
+When we experience outcomes that do not square with what our models have projected, we form new hypotheses and reconstruct the models to more closely conform with our observations.
+With the virtually unprecedented surge in innovation that we have experienced over the most recent half decade, many of the economic relationships embodied in past models no longer project outcomes that mirror the newer realities.
+Data series that better measure the workings of the so-called new economy are under development.
+But we still have far more information on the variety of yarns and weaves produced by textile establishments than data on output of the burgeoning software industry or many of the other rapidly growing high-tech industries.
+The paucity of data for the latter inhibits our ability to fully test our working hypotheses or models in order to detect changes in economic relationships as quickly and confidently as we would like.
+Evidence began to accumulate in the early and mid-1990s that prospective rates of return on capital were rising.
+This was implicit both in the marked rise in investments in high-tech equipment and in the updrift in estimates of the growth of long-term earnings by corporate management, which were reflected in the projections of securities analysts.
+Nevertheless, we could not be certain whether what we were observing was a short burst of productivity gains or a more sustained pickup in productivity growth.
+The view that we were experiencing a sustained pickup gained plausibility when productivity growth continued to increase as the expansion lengthened.
+But importantly, only after we could see evidence in other economic behaviors and in readings from asset markets that were consistent with accelerating productivity did we begin to develop confidence in our analysis.
+When confronted with a period of structural change, our policy actions must be based, in large part, on identifying emerging trends from surprises and anomalies in the data and then carefully drawing their implications.
+It would be folly to cling to an antiquated model in the face of contradictory information.
+Some who question the economic implications of the spread of innovation and the step-up in productivity growth hypothesize that the gains are largely confined to the so-called new economy, with little effect on efficiency in the old economy.
+But this notion fails to capture the dynamics of the marketplace.
+To be sure, a significant segment of our economy's growth reflects output of high-tech equipment.
+Moreover, the long-term prospective profit growth of those firms engaged in the computer and telecommunications industries has been revised up during the past five years by more than double the amount for the so-called old-economy industries.
+But in a meaningful sense, there is, with few exceptions, little of a truly old economy left.
+Virtually every part of our economic structure is, to a greater or lesser extent, affected by the newer innovations.
+No old-economy textile plant could exist in today's environment without technologies that Edmund Cartwright could never have imagined.
+There are, of course, significant differences in the degree to which the newer technologies have been applied.
+However, almost all parts of our economy have shared to some extent in the benefits of this wave of innovation.
+So it is with some irony that just as we are adapting our old-economy models to the new realities, in drifts an apparition from the past--a spike in oil prices that has potential implications for economic stability and for monetary policy.
+The reemergence of oil prices as an important macroeconomic consideration is a reminder that there is less of a stark division between old and new economies than is often loosely suggested.
+Even the oil industry, a presumed old-economy stalwart, is a surprisingly major player in the new.
+As a consequence, policymakers will need to consider how changes in technologies and world markets may have altered the response of our economies to oil-price shocks and, thus, how best to respond to them.
+Any evaluation of the current oil-price spike, if indeed that is what it is, will require us to delve into the forces of new technology and to understand how significantly the impact of oil on our economy's workings has changed with a generation of innovation.
+Largely in response to past oil price increases, the energy intensity of advanced industrial economies has been reduced by half from the levels of the early 1970s.
+This, of course, does not mean that the effect of any given oil-price increase is half that of a generation ago, because the size of the effect also depends on the potential to reduce energy consumption as prices rise and on the degree to which other energy sources can be substituted for oil as relative prices change.
+Most of the oil displacement was accomplished by 1985, within a few years of the peak in the relative price of energy.
+Progress in reducing energy intensity generally has been far more modest in the last fifteen years--not surprising, given the generally lower level of real oil prices after 1985.
+What has changed dramatically in recent years is the production side of oil, which is likely to be a substantial factor in determining the extent and duration of any oil-price spike.
+Oil, in this regard, has truly become at least an associate member of the new economy.
+The development of seismic techniques and satellite surveillance to discover promising new oil reservoirs has more than doubled the drilling success rate for new field wildcat wells during the past decade.
+New techniques and the use of oil rigs that have more computer chips in them than most modern office buildings facilitate far deeper drilling of promising pools, especially offshore.
+The newer recovery techniques reportedly have raised the proportion of oil reserves eventually brought to the surface from a third to nearly a half in recent decades.
+One might expect that, as a consequence of what has been a dramatic change from the old hit-or-miss wildcat oil exploration and development of the past, the cost of developing new fields and, hence, the long-term marginal cost of new oil have declined.
+And, indeed, these costs have declined, but by less than might otherwise have been the case; much of oil development innovation outside OPEC has been directed at overcoming an increasingly inhospitable and costly exploratory environment, the consequence of more than a century of draining the more immediately accessible sources of crude oil.
+One measure of the decline in recent years of the marginal cost of additions to oil availability is the downdrift in the prices of the most distant contracts for future delivery of Light Sweet crude oil.
+Spot prices have soared and plunged, but for the most distant futures contracts--which cover a time frame long enough to seek, discover, drill, and lift oil--prices generally moved lower over the past decade.
+The most distant futures prices fell from a bit more than $20 per barrel just before the Gulf War to $17 to $18 a barrel a year ago.
+The current six-year futures contract has risen over the past year to about $21 per barrel.
+Arguably, however, this rise is related less to technology and the structure of underlying marginal costs and more to concerns about how quickly new practices will be exploited to expand OPEC's productive capacity.
+Having increased output significantly during the past year, only a little excess capacity remains.
+Moreover, going forward, there is concern that OPEC may choose not to expand capacity adequately from their large proven reserves.
+The long-term marginal cost of extraction presumably anchors the long-term equilibrium price and, thus, is critical to an evaluation of the magnitude and persistence of any current price disturbance.
+Over time, spot prices are inexorably drawn back to the long-term equilibrium price, as the balance between underlying supply and demand is restored.
+But in the short run, the price of oil, as that of all commodities, inevitably is influenced importantly by inventory levels, especially when stocks become critically short.
+Over the years, innovation and consolidation have significantly reduced the operating inventories of crude oil and products required to service a given level of product demand.
+Excluding these operating stocks, the world oil industry has historically run on a rather thin buffer, roughly a thirteen-day inventory of "usable stocks," according to data from the Energy Intelligence Group.
+Thus, when OPEC and its allies cut back oil liftings by more than 3 million barrels a day in 1998 and 1999, against the backdrop of expanding world demand, the buffer of more than fifteen days of usable oil that prevailed at the time rapidly shrank to a little more than ten days.
+As a consequence, the price of crude oil tripled.
+OPEC has since more than restored its output, bringing world production now to record levels--levels that exceed reported demand by nearly 1-1/2 million barrels a day, seasonally adjusted.
+Inventories of usable stocks are building but have yet to regain normal levels.
+But the remarkable surge in shipments of home heating oil, both here and in Europe, suggests very heavy precautionary oil accumulation by dealers and households not covered in the usual data on inventories for the industry.
+It would certainly seem that, with inventories building and the spot price of crude oil well above its long-term equilibrium, spot prices would shortly be under significant downward pressure.
+However, concerns about the potential for political difficulties to impinge on available supplies persist, as has been so evident over the past few weeks.
+Even before the recent unfortunate developments in the Middle East, demand to augment buffer stocks surged, which has helped to keep prices high.
+This owed largely to the possibility of a politically driven removal of a significant part of Iraq's 2-1/2 to 3 million barrels a day from global markets at a time when there exists so little available world excess capacity to replace it.
+Even though the intensity of oil consumption is markedly below where it was thirty years ago, it still has the potential to alter the forces governing economic growth in the United States.
+To date, the spillover from the surge in oil prices has been modest.
+Any effect on inflation expectations, at least as inferred from the behavior of long-term Treasury Inflation-Indexed Securities, has been virtually nil.
+Moreover, despite some slowing that likely has been related in part to the bite from the so-called "oil tax" on household incomes, the growth of consumer spending has remained firm.
+But policymakers will need to be on the alert for oil-driven, indeed energy-driven, risks to our expansion.
+Looking further ahead, some of those favorable factors that I discussed earlier--in particular, growing fiscal surpluses and accelerating productivity--remain in place, but presumably will not persist indefinitely.
+The mounting fiscal surpluses have been an important source of national saving, muting upward pressures on interest rates at a time of strong demand for private credit.
+By keeping the cost of capital lower than it otherwise would have been, the surpluses have contributed to capital deepening and faster growth of productivity.
+But I believe most of us harbor doubts about whether the dynamics of the political process, some of which have been on display in the current budgetary deliberations, will allow the surpluses to continue to grow.
+Moreover, as I indicated in remarks at Jackson Hole in August, a tapering off of productivity acceleration is inevitable at some point in the future.
+When that occurs, even should the growth rate of productivity remain high, we could experience less benign readings on cost pressures if the tightness of labor markets persists.
+That said, as best we can judge, credible evidence that the rate of structural productivity growth has stopped increasing is still lacking.
+It is the continuing acceleration of productivity that, by allowing businesses to absorb rising compensation increases without incurring ever-rising unit costs, has been so essential to containing price increases.
+
+These collaborations, like others before them, place Pittsburgh in the forefront of community development and will serve as models for others who tackle the challenge of creating opportunities in their neighborhoods.
+In rebuilding your communities, you are leading by example and contributing to the revitalization of other neighborhoods in need, much as the Neighborhood Housing Services of Pittsburgh has done in pioneering a concept three decades ago that became the model for community-based housing initiatives throughout the country.
+Similarly, the PCRG, serving as a local umbrella organization for its twenty-seven members, offers community development groups an example of how coordination among organizations with complementary objectives is an effective means for accomplishing the global mission of an industry while achieving the specific goals of individual groups.
+As a conduit between community groups, local governments, and financial institutions, the PCRG has helped facilitate the development of mutually beneficial business relationships among its partners by providing a forum for bringing community developers and lenders together to creatively fund projects that may otherwise not have been considered financially viable.
+Through these strategic alliances, more than $4 billion has been reinvested in Pittsburgh's inner-city neighborhoods during the past twelve years, and more than $40 million in community development loans have been sold in the secondary mortgage market, increasing local lenders' capacity to extend more credit.
+More specifically, as an affiliate of the National Training and Information Center, the PCRG assisted Fannie Mae, lenders, and community groups in four other cities to design and implement the Low Down Payment Home Mortgage, a $50 million underwriting experiment designed to increase access to mortgage loans for low-income borrowers.
+Another aspect of this collaboration was a commitment by Fannie Mae to purchase or securitize $100 million in seasoned loans originated by partnering financial institutions.
+Locally, the PCRG led this alliance of lenders, community groups, and the secondary market in the development of a loan product that offers eligible homebuyers a mortgage loan with flexible underwriting criteria and homebuyer education.
+In the Pittsburgh area, this partnership has resulted in the origination of $1 million of new mortgage loans and the sale of $54 million of seasoned, CRA-qualified mortgage loans on the secondary market in the past three years.
+Furthermore, just as Pittsburgh has benefited from its effective partnerships between nonprofit development groups and the banking community, this strategic approach to creating a product to respond to the credit needs of lower-income households has been successful in all five of the pilot cities, with Fannie Mae investing a total of $1.5 billion in loans through this program--ten times its original goal of $150 million for the project.
+The Federal Reserve's Interest Strategic collaborations to innovate products and services that increase access to credit are of great interest to the Federal Reserve, from our perspectives as both economists and bank regulators.
+As economists, our principal purpose is to conduct monetary policy to contribute as best we can to foster the fastest economic growth sustainable over time and the highest possible standard of living for all Americans.
+In our role as banking regulators, we strive to craft and enforce regulations designed to ensure safety and soundness while also promoting equality in the delivery of credit through the banking system.
+Each of these functions is distinct in its role in supporting this robust economy, the longest uninterrupted economic expansion in this country's history.
+However, while we intend for our policies and regulations to enable all markets, these are blunt tools that cannot be calibrated to exempt a particular segment of our economy.
+We realize that there are areas of market inefficiencies and that some communities remain distressed despite the growth and development occurring around them.
+For a myriad of reasons, the challenges confronting these neighborhoods require strategies that are more precise in their execution, such as the initiatives being highlighted today.
+Your programs illustrate how unique and localized partnerships can help ensure that low-income communities also benefit from good economic conditions and become vibrant markets that offer safe, decent, and affordable housing, as well as small business development and employment opportunities, for their residents.
+The Role of Community Developers Throughout the past three decades, community developers have been dedicated to, and have been quite successful at, the physical revitalization of neighborhoods by rehabilitating homes, redeveloping brownfields, and constructing commercial properties.
+And rightly so, as the character of these bricks-and-mortar structures define the identity of neighborhoods and stimulate civic pride and investment.
+These homes and businesses embody the hard-won campaigns that have been waged by community developers to resurrect distressed communities.
+Now, to preserve these gains, we must fortify the strength of the physical infrastructure of these communities with the development of their intellectual infrastructure by improving the financial acumen of the families who live there.
+As community developers and lenders, you have worked diligently with your constituencies to coach them on how to improve their credit histories, reduce debt, and create household budgets in order to qualify for a mortgage.
+In conjunction with your partnering institutions, you have leveraged funding resources in order to provide affordable mortgages, knowing that home ownership is the key to stable neighborhoods.
+In creating homeowners, you also established new consumers of mortgage loans, the most important credit instrument in the financial services industry, and made investors of these families as they began to build equity in their homes.
+You have helped these families to begin the process of asset accumulation through home ownership.
+Now they must become knowledgeable in managing and preserving their investment by obtaining and using the financial tools that can improve their economic future.
+One strategy that has been employed in recent years to provide a foundation for asset accumulation among low-income households is the Individual Development Account (IDA).
+This vehicle, with its funds-matching and educational components, provides families with a framework for the cumulative benefit that saving provides because withdrawals from these accounts can be applied only to long-term capital investments, such as purchasing a home, starting a business, or continuing education.
+By structuring the program to require the owner to make regular deposits as a condition of receiving matched funds from the sponsoring organization, IDAs create a mechanism that motivates and rewards wealth building, thereby instilling commitment to the program and to saving.
+While academics are currently studying empirical data to determine the efficacy of IDAs, anecdotal information indicates, in a very compelling way, that this is a very successful model.
+Here in Pittsburgh, one of the PCRG's community partners, Garfield Jubilee Association, reports that of the 118 IDAs that it has opened in the past two years, four have become home owners, including one person who had been homeless for five years.
+These are people who did not believe that they had enough resources to live, let alone to save.
+They are now building new lives and setting concrete goals for their future.
+Another important benefit of IDAs is that they often serve as the first step for very low-income individuals in establishing a banking relationship and engaging in deliberate financial planning.
+Insight into Consumers' Financial Relationships The Federal Reserve has gained a better understanding of the issues related to family financial management through its Survey of Consumer Finances, a study of 4,500 households that is undertaken every three years.
+From our most recent survey, conducted in 1998, we learned that approximately 13.5 percent of all families surveyed do not maintain a transaction account with traditional financial institutions, with nearly 83 percent of these households reporting annual incomes of less than $25,000.
+When asked why they did not maintain a checking account, 28.4 percent stated that they "do not write enough checks to make it worthwhile."
+Another 18.5 percent of the survey respondents in this group indicated that they "do not like dealing with banks", and 7 percent replied that they "cannot manage or balance a checking account."
+Also noteworthy is that only 1 percent indicated that banking locations or hours of operation deterred them from maintaining a banking relationship.
+Given this information, the Federal Reserve has conducted additional research to help us better understand how lower-income households use credit and savings products and to estimate the potential demand for these services.
+Through this study, we found that lower-income consumers rely on alternative financial service providers, such as check cashers and pawn brokers to conduct personal financial business, such as cashing checks, paying bills, and obtaining credit.
+This report cited studies indicating that check cashers charge four to six times more for their services than banks and that consumers relying on these facilities spend approximately $500 annually to obtain services that would cost roughly $60 a year at a bank.
+This research also noted surveys indicating that consumers who use alternate sources for credit are paying exorbitant interest rates and fees, citing evidence that loans from pawn shops are typically fifteen times more expensive than credit from banks.
+These data demonstrate how lower-income families are unnecessarily losing a substantial amount of money in conducting basic financial transactions, thereby reducing their capacity to save and ability to weather any financial shock, such as the loss of a job or a long-term illness of a family member.
+For these families, financial literacy could improve their ability to reduce expenses for financial services and increase savings capacity.
+The need for financial education is further evidenced by the fact that personal debt and bankruptcy rates are high, saving is at its lowest level in seventy years, and the existence of abusive lending tactics is undermining the work that has been done to bring economic promise to disadvantaged families and neighborhoods.
+The Fed's Efforts in Community Development and Financial Literacy In addition to our concern with the economic well-being of families, the Fed is also distressed by the practices of abusive, and in some cases fraudulent, creditors that prey on vulnerable homeowners.
+Throughout the summer, the Federal Reserve conducted a series of public meetings across the country to learn more about the issues surrounding predatory lending.
+We are currently analyzing the information provided at these meetings and other data to determine how we can revise our regulations to help monitor and enforce mortgage lending so that it is beneficial to homeowners and the economy.
+In addition to suggesting actions that the Fed could take to contribute to the resolution of this issue, community groups at each of the meetings were consistent in acknowledging their role in providing comprehensive consumer education on fundamental banking services to help stem the economic devastation that families and communities experience when they become the victims of predatory lenders or make poor choices in the use of credit.
+Through their local partnerships and networks, neighborhood organizations are best positioned to expand on these lessons to teach the members of their communities how to identify and use appropriate financial instruments to the betterment of their financial future.
+In this time of constant change and greater options in the products, delivery mechanisms, and providers in the financial services industry, the need for concentrated efforts to increase financial literacy is greater than ever.
+This challenge requires a coordinated response among the private and public-sector organizations that are committed to this mission.
+The Federal Reserve is engaged in several activities to contribute to the body of knowledge and resources on this issue.
+Besides collecting and analyzing data on small businesses and consumers, the Federal Reserve is actively involved with the National Partners for Financial Empowerment (NPFE).
+This nonpartisan coalition, launched by Treasury Secretary Lawrence Summers in April 2000, is a public-private partnership that seeks to promote the development of personal financial skills.
+To raise public awareness of the critical importance of financial literacy and to reinforce the many creative initiatives to promote financial literacy already under way, the NPFE is engaging in a major campaign that will reach across the nation with the help of national and local leaders from the public and private sectors.
+Working with the NPFE, the Federal Reserve will seek to play a role in educating people on how to make informed choices for common financial transactions, including home mortgages, consumer credit, and basic banking services.
+In addition, the Federal Reserve Bank of Cleveland is actively engaged in "Cleveland Saves," a pilot program for a national campaign to encourage savings, particularly among lower-income populations.
+With respect to predatory lending, we are actively participating on a task force with our colleagues at the other banking agencies to explore strategies to curb unscrupulous lending practices and identify appropriate public information resources.
+The Federal Reserve also has a significant track record in sponsoring programs to encourage community economic development in low- and moderate-income areas.
+Through our Community Affairs programs at each of the twelve Federal Reserve Banks, we conduct ongoing outreach and educational activities and give hands-on technical assistance to help banks, their customers, and communities understand and address community credit and banking needs.
+This is no small commitment.
+The Federal Reserve Board and the twelve Reserve Banks combined devote more than 100 full-time staff members to help institutions understand and participate in community development.
+In all of these activities, groups such as the PCRG, with specialized knowledge of communities, are valuable partners, as they understand the needs of lower income families and serve as a critical link in the development and implementation of products and educational initiatives designed to help them stabilize finances and build wealth.
+In Pittsburgh, you have already formed relationships with families who would benefit from such programs.
+Through these associations, you can help to dissolve their apprehensions in using mainstream financial institutions and assist them in establishing banking relationships that would reduce their reliance on alternate sources for financial services, improve access to and availability of credit from regulated banks, and provide consumer protection and restitution through regulatory agencies.
+Conclusion Let me conclude by emphasizing that, like you, the Federal Reserve is interested in the financial health and literacy of all Americans.
+Through effective monetary policy, our goal is to help maintain price stability and create conditions for sustainable growth that provide continuing opportunities for families to flourish.
+Sustainable growth also helps many of our citizens to enter the job market, obtaining important skills that can be life transforming.
+By creating conditions conducive to maximum sustainable growth, the Federal Reserve can best do its part to make sure that all Americans have the chance to ensure their financial well-being.
+Through our supervision of banks, we continue to monitor financial institutions' compliance with laws requiring them to offer credit fairly and impartially as well as fostering a safe and sound banking system.
+And we will continue to conduct research on consumer finance and to promote financial literacy in partnership with national, as well as local, agencies and nonprofit organizations.
+

@@ -1,0 +1,357 @@
+I thank you for the invitation to speak to this American Bankers Association Regulatory Compliance Conference.
+Since coming to the Federal Reserve Board, I have spent much of my time dealing with corporate governance, internal control, and risk management issues.
+Today, I would like to talk with you about the important role that the compliance function plays in banking organizations, and how the current emphasis on improving corporate governance is an opportunity for you to strengthen the compliance function in your organization.
+Introduction Over the past two years, we all have been shocked by the headlines announcing corporate governance or accounting problems at a variety of companies, such as Enron, Worldcom, and HealthSouth.
+As we read these headlines, the question that comes to mind is, "What were the underlying deficiencies in the internal control processes of these companies that rendered their governance practices ineffective?"
+As the details about the scandals have been made public, it has become clear that they exemplify breakdowns in fundamental systems of internal control.
+Why, then, have we seen so many headlines highlighting corporate governance and accounting problems?
+Because these companies lost track of the basics of effective corporate governance--internal controls and a strong ethical compass.
+While most companies have effective governance processes in place, these events remind all of us of the importance of doing the basics well.
+Internal Control Framework After an earlier series of corporate frauds, the National Commission on Fraudulent Financial Reporting, also known as the Treadway Commission, was created in 1985 to make recommendations to reduce the incidence of these types of frauds.
+The Committee of Sponsoring Organizations (COSO) of the Treadway Commission issued a report titled Internal Control--Integrated Framework that has become the most-referenced standard on internal control.
+If one re-reads that report, the need to return to focusing on the basics becomes clear.
+The report defines internal control as: a process, effected by an entity's board of directors, management and other personnel, designed to provide reasonable assurance regarding the achievement of...
+Effectiveness and efficiency of operations Reliability of financial reporting Compliance with applicable laws and regulations.
+The COSO framework was the model considered when the Federal Deposit Insurance Corporation Improvement Act (FDICIA) was enacted in 1991.
+Section 112 of FDICIA requires management to report annually on the quality of internal controls and outside auditors to attest to that control evaluation.
+Control Assessments COSO requires all managers to, at least once a year, step back from their other duties and evaluate risks and controls within their span of authority.
+Each manager should consider current and planned operational changes, identify risks, determine appropriate mitigating controls, establish an effective monitoring process, and evaluate the effectiveness of those controls.
+Managers then should report their assessment up the chain of command to the chief executive officer, with each new level of management in turn considering the risks and controls under its responsibility.
+The results of this process are ultimately reported to the audit committee of the board of directors.
+In the case of banks, management publicly reports on its assessment of the effectiveness of controls over financial reporting and the external auditor is required to attest to this self-assessment.
+Thus, the process helps managers communicate among themselves and with the board about the dynamic issues affecting risk exposures, risk appetites, and risk controls throughout the company.
+Risk assessments such as the one outlined in COSO presumably could also be useful in assessing various lines of business when formulating business strategies.
+But not all corporations and boards consider risk during their annual strategic planning or other evaluation processes.
+The 2002 survey of corporate directors conducted jointly by the Institute of Internal Auditors and the National Association of Corporate Directors showed that directors are not focusing on risk management.
+I was surprised to learn that 45 percent of directors surveyed said their organization did not have a formal enterprise risk-management process--or any other formal method of identifying risk.
+An additional 19 percent said they were not sure whether their company had a formal process for identifying risks.
+These percentages indicate that some companies have directors who don't understand their responsibilities as the representatives of shareholders.
+The shareholders of those companies should be asking the directors how they govern an organization without a good understanding of the risks the company is facing and without knowledge of a systematic approach to identifying, assessing, monitoring, and mitigating excessive risk-taking.
+I trust that none of the directors who participated in the survey were on the board of a financial services company.
+Although directors are not expected to understand every nuance of every line of business or to oversee every transaction, they do have responsibility for setting the tone regarding their corporations' risk-taking and establishing an effective monitoring program.
+They also have responsibility for overseeing the internal control processes, so that they can reasonably expect that their directives will be followed.
+They are responsible for hiring individuals who have integrity and can exercise sound judgment and are competent.
+In light of recent events, I might add that directors have a further responsibility for periodically determining whether their initial assessment of management's integrity was correct.
+The COSO framework and FDICIA annual report can be an effective tool for the auditor to communicate risks and control processes to the audit committee.
+Members of that committee should use the reports to be sure business strategy, changing business processes, management reorganizations, and positioning for future growth are conducted within the context of a sound system of internal controls and governance.
+The report should identify priorities for strengthening the effectiveness of internal controls.
+Indeed, beyond legal requirements, boards of directors of all firms should periodically assess where management, which has stewardship over shareholder resources, stands on ethical business practices.
+They should ask, for example: "Are we getting by on technicalities, adhering to the letter but not the spirit of the law?
+Are we compensating ourselves and others on the basis of contribution, or are we taking advantage of our positions?
+Would our reputation be tainted if word of our actions became public?"
+Compliance officers should help ensure that processes are in place for employees to raise ethical and compliance concerns in an environment that protects them from retribution from affected managers.
+Internal Controls over Compliance Risk management clearly cannot be effective within a company if we forget about the basics of internal controls.
+It is worth stating that many of the lessons learned from those headline cases cited violations of the fundamental tenets of internal control, particularly those pertaining to operational risks.
+Based on the headlines, it seems that boards of directors, management, and auditors need a remedial course in Internal Controls 101.
+As corporations grow larger and more diverse, internal controls become more, not less, important to the ability of management and the board to monitor activity across the company.
+The basics of internal controls for directors and managers are simple.
+Directors do not serve full time, so it is important that they establish an annual agenda to focus their attention on the high-risk and emerging-risk areas while ensuring that there are effective preventive or detective controls over the low-risk areas.
+Regulatory compliance is one of these risk areas.
+While boards are organized in various ways, they do have the responsibility to understand the organization of the compliance function and the extent of its effectiveness and to identify the emerging compliance risks.
+The challenge for compliance officers is to ensure that their staff has the expertise and ongoing training to meet the specific and changing risks of the organization.
+Before a company moves into new and higher risk areas, the boards of directors, and management need assurances that they have adherence to the basics of sound governance.
+Many of the organizations that have seen their reputations tarnished in the past two years have also neglected to consider emerging conflicts of interest when the organization adds new products and lines of business.
+It is important that if a customer service or control function must be done in an independent, fiduciary, or unbiased manner relative to other activities, appropriate firewalls are in place before the product or activity begins.
+Internal controls and compliance are the responsibility of line management.
+Line managers must determine the acceptable level of risk in their line of business and must assure themselves that the combination of earnings, capital, and internal controls is sufficient to compensate for the risk exposures.
+Supporting functions such as accounting, internal audit, risk management, credit review, compliance, and legal should independently monitor the control processes to ensure that they are effective and that risks are measured appropriately.
+The results of these independent reviews should be routinely reported to executive management and boards of directors.
+Directors should be sufficiently engaged in the process to determine whether these reviews are in fact independent of the operating areas and whether the officers conducting the reviews can speak freely.
+Directors must demand that management fix problems promptly and provide appropriate evidence to internal audit confirming this.
+While we have been focused on midsized and larger organizations, internal controls are also important to smaller organizations.
+Many failures of community banks are due to breakdowns in internal controls, thus increasing operational risk.
+In smaller organizations, the segregation of duties and ability to hire expertise for specialized areas, like regulatory compliance, is more difficult.
+But smaller organizations still must go through the process of assessing risks and controls and ensuring that they are appropriate for the culture and business mix of the organization.
+A faster-growing financial services company in riskier lines of business will need a stronger, more formalized system of internal controls than a well-established company engaged broadly in traditional financial services.
+Compliance Risk Management To be effective, compliance risk management must be coordinated at various levels within the organization.
+In any control or oversight function, there are common elements of a successful compliance process that each organization should exhibit.
+While the diversity, size, and business mix of the organization will affect the specific aspects of an effective process, every financial institution should consider these elements.
+Director and senior management responsibilities.
+The board of directors and senior management cannot delegate the responsibility for having an effective system of compliance.
+Certain portions of the implementation of the compliance process may be conducted by more junior management, but this does not relieve the board and senior management of responsibility for the design and effectiveness of the system.
+The board of directors and senior management must set a tone that encourages regulatory compliance.
+The board should receive periodic reports on the effectiveness of the compliance program and emerging issues.
+The board should ensure that strategic and product development efforts include an independent view of potential conflicts and new risk exposures.
+The board should ensure that identified compliance weaknesses are dealt with in a timely fashion, and that the line employees, as well as compliance and internal audit staffs, are trained to keep up with changes in regulations and best practices in internal controls.
+Most importantly, the board should ensure that the senior compliance officer has independent access to the appropriate board committee, and the senior compliance officer has the stature with senior management to see that appropriate controls are implemented.
+While the governance of a bank's risk-management program comes from the top down, a successful program will involve staff at all levels, and in more than one department.
+In other words, while senior management bears the ultimate responsibility for successfully managing the compliance risks, management alone cannot contain these risks.
+This means that the teller who has contact with the customer, the auditor who periodically reviews documents for compliance, the marketing staff who prepare ads and develop new products and the attorney who reviews new forms for compliance all play an integral part in running an effective compliance management program.
+Structure.
+The compliance function will vary by the size and complexity of the organization.
+But the compliance officers should be able to have access to all operational areas.
+One of the benefits of having an independent compliance function is that it can help identify compliance weaknesses that cross management lines of responsibilities and may not be effectively managed.
+In larger organizations this may require both business-line and enterprise-wide compliance committees to prioritize resources.
+Further, you, as compliance officers, are the independent eyes and ears of the audit and other board committees.
+As you work throughout the bank, you know which managers and which projects are likely to entail greater weaknesses in compliance.
+By helping senior management address these risks before exceptions occur, you can help protect the reputation of managers and the bank and increase your credibility.
+Appropriate reporting to the senior management compliance committee and the audit committee of the board, and timely resolution of findings, will build your credibility, provided that you follow through on their behalf to ensure that managers are taking compliance and internal control issues seriously.
+Scope.
+Compliance should have an annual work plan that lays out priorities, monitoring processes, and testing.
+New or changed regulations have to be evaluated and relevant internal policies appropriately modified.
+This can entail training for both the line and compliance staff.
+The frequency and extent of compliance reviews and testing should be consistent with the nature and complexity of the institution's compliance risks.
+Areas with higher penalties for non-compliance, that have prior findings of deficiencies or where new products or processes are being introduced should receive more attention.
+Unacceptable exceptions should be reported promptly to appropriate management and, if appropriate, the board of directors.
+Compliance officers should monitor corrective action plans, and retest to ensure deficiencies are corrected in a timely manner.
+As with any risk management function, the management compliance committee and appropriate committee of the board should at least annually review and approve the compliance risk assessment, the scope of the annual plan, and adherence to the compliance plan.
+While the plan serves as the prioritization of resources, it should be flexible enough to allow appropriate reallocation of resources as unexpected product introductions or compliance testing results require.
+At the end of each year, the validity of the initial assumptions should be critically assessed and appropriate reallocations of resources scheduled for the new plan year.
+Compliance audits.
+The internal audit function should perform independent reviews of the effectiveness of the compliance function.
+This would include assurance of the quality of information in compliance reports, adequacy of training programs, prompt correction of deficiencies, and implementation of compliance risk management by product managers.
+The internal auditor can also assess whether sufficient resources are available to meet the changing needs of the organization.
+Internal audit should be independent of the compliance function.
+Auditors lose their independence when they perform management consulting roles for which they later will have to render an opinion.
+Internal audit has both the ability and the responsibility to look across all of the management silos within the corporation and make sure that the system of internal controls has no gaps.
+Further, the control framework must be continually reviewed to keep up with corporate strategic initiatives, reorganizations, and process changes.
+When an auditor becomes part of management, the independent view is lost.
+Sarbanes-Oxley Act Now let's turn to Sarbanes-Oxley.
+At its core, the Sarbanes-Oxley Act is a call to get back to the basics that we have been discussing.
+Simply stated, the current status quo for corporate governance is unacceptable and must change.
+This message is applicable to both public and private companies alike and affects everyone within a company.
+The message for boards of directors is: Uphold your responsibility for ensuring the effectiveness of the company's overall governance process.
+The message for audit committees is: Uphold your responsibility for ensuring that the company's internal and external audit processes are rigorous and effective.
+The message for chief executive and chief financial officers and senior management is: Uphold your responsibility to maintain effective financial reporting and disclosure controls and adhere to high ethical standards.
+This requires meaningful certifications, codes of ethics, and conduct for insiders that, if violated, will result in fines and criminal penalties, including imprisonment.
+The message for external auditors is: Focus your efforts solely on auditing financial statements and leave the add-on services to other consultants.
+The message for internal auditors is: You are uniquely positioned within the company to ensure that its corporate governance, financial reporting and disclosure controls, and risk-management practices are functioning effectively.
+Although internal auditors are not specifically mentioned in the Sarbanes-Oxley Act, they have within their purview of internal control the responsibility to examine and evaluate all of an entity's systems, processes, operations, functions, and activities.
+What Are the Challenges for Compliance Officers in the Sarbanes-Oxley Era?
+First, compliance officers must help corporate risk officers and managers reinvigorate the risk assessment, internal controls, and ethical compass of the organization.
+Recently, the Fed has been looking at the FDICIA 112 management reports on internal controls for several banks that have had significant breaks in internal controls.
+From these banks, we have identified several whose FDICIA 112 processes were not effective.
+A closer look at these situations indicates that managements had essentially put this process on autopilot.
+Further, the external auditors had not done effective reviews of the basis of management reports.
+Before you say, "That could not happen at my company," let me remind you how we started our discussion today.
+In each of the cases involving banks, management seemed to be content with the loss of vigor in the process and the external auditor was apparently satisfied to simply collect a fee.
+This is totally unacceptable.
+Further, as the organization evolves by offering new products, changing processes, outsourcing services, complying with new regulations, or growing through mergers, the controls need to be modified to reflect the changes in risks.
+In some cases, the controls failed with respect to newer risk exposures that were not identified, or growth put strains on existing control processes that were not suitable for a larger organization.
+Don't assume that what was acceptable in the past is good enough for the future.
+Remember that there is a tendency for an organization to go on autopilot if the compliance officer is not vigilant.
+You should view this as an opportunity to convince the board and management to adopt a rigorous self-assessment process for compliance controls.
+Further, use this as an opportunity to improve your own quality assurance process.
+Are you surprised by exceptions?
+Do you find your staff coming to different findings for compliance reviews that have similar fact patterns?
+Are you harder on some managers in your findings, and "trust" others to improve without citing the weaknesses?
+When you do not have a consistent quality for the work of the compliance function you send mixed messages to employees and officers.
+Further, you weaken your credibility.
+And more importantly in the current environment, you are not part of the process to strengthen corporate governance.
+Now, certainly, we must know which way the ethical compass of the organization is pointing.
+Are the product designs, marketing practices, and disclosures communicating a solid image of trust and integrity that your organization is targeting?
+Conclusion My objective today was to exhort you to take a stand and make a difference for the better in the corporate governance of your company.
+You should help lead the dialogue on corporate governance.
+Although I recognize that some of you are compliance officers of companies that are not subject to Sarbanes-Oxley, I believe the act is a wake-up call more generally for everyone who is part of designing and testing a system of internal controls.
+The events of the past two years demonstrate how quickly a corporation's reputation can be tainted by accusations of inappropriate activities or lack of attention to regulations.
+
+The origins of the slump date to the bursting of the land and equity price bubble in the early 1990s.
+Economic weakness, in turn, has led to a sustained deflation that has proven unexpectedly difficult to cure.
+Here in the United States, the economy has also struggled of late, following a sequence of adverse shocks during the past three years.
+We have had our own asset bubble, of course, and the steep fall in equity prices since the spring of 2000 has almost halved household equity wealth.
+The horrific events of September 11, 2001, shook financial markets, and the troubling evidence of corporate malfeasance revealed during the Enron and other scandals, combined with heightened geopolitical tensions that preceded the war in Iraq, tested the willingness of market participants to assume risk.
+These adverse developments were reflected in a precipitous decline in capital expenditures, which has contributed to a few years of subpar growth.
+These developments also put considerable downward pressure on inflation, to the point that increases in core consumer prices are now at a rate not seen on a sustained basis in almost forty years.
+In fact, after its most recent meeting, the Federal Open Market Committee noted that the probability of unwelcome further downward pressure on prices over the next few quarters exceeds that of a pickup in inflation.
+With near-term economic prospects in the United States still somewhat clouded, market commentators have increasingly focused on the possibility that the United States may follow Japan into a deflationary slump.
+However, I do not believe that the United States is at the brink of significant and sustained deflation.
+Indeed, I believe that the probability of such an eventuality is quite low.
+But as the Japanese experience shows, the onset of deflation can be unexpected, and so to leave the topic unexamined would be imprudent.
+Of course, public interest is another reason to discuss the issue and contribute, one hopes, to the stock of intellectual capital.
+Accordingly, I think it is useful to discuss some lessons that can be drawn from the Japanese experience and, with that as background, to examine some reasons that a harmful deflation is unlikely to take hold in the United States.
+Before proceeding, let me note that the comments expressed reflect my views only and are not necessarily those of my colleagues on the Board of Governors or the FOMC.
+First, I want to explain the theoretical view of the dangers associated with deflation.
+A harmful deflation, such as the type experienced by Japan since the mid-1990s, is almost always a consequence of depressed aggregate demand.
+A deflationary slump driven by contracting demand is more dangerous than a typical economic downturn because of its potential adverse effects on financial markets and the limitations it places on conventional monetary policy.
+Deflation of sufficient magnitude may result in the falling of nominal interest rates to zero--their practical minimum.
+This floor, commonly called the "zero bound," exists because lenders will always prefer to hold cash rather than credit instruments bearing a negative nominal interest rate.
+In a recession in which short-term nominal interest rates have already been pushed to zero, therefore, further downward adjustment in nominal interest rates is difficult, if not impossible.
+Because the real interest rate equals the nominal interest rate less the expected rate of inflation, the zero bound on nominal interest rates can lead to rapidly increasing real rates if deflation intensifies.
+Rising real interest rates, in turn, discourage borrowing, and so capital outlays by businesses, purchases of homes by families, and other types of spending decline further.
+This deterioration in aggregate demand adds to deflationary pressures and pushes real interest rates even higher.
+Besides raising the real cost of borrowing, deflation can erode the quality of business and household balance sheets.
+Even if debtors can refinance existing loans at zero (or very low) nominal interest rates, a sustained fall in prices will transform what might otherwise be a manageable level of nominal debt accumulated by businesses and households into a rising and potentially debilitating level of real debt and real debt service costs.
+The consequent financial distress of debtors can lead to widespread defaults, bankruptcies, and bank failures, with potentially devastating consequences for the entire financial system.
+The adverse effects of deflation go beyond financial markets.
+Deflationary pressures can impede the effective clearing of labor markets.
+Because employers often have difficulty cutting the nominal wages of their employees, real wages may rise as prices decline, and higher unemployment may result.
+Deflation also raises a barrier to those monetary policy actions conventionally used to stimulate aggregate demand.
+Faced with a normal economic downturn, a central bank would lower its target for the short-term nominal interest rate--the overnight federal funds rate in the United States or the overnight call money rate in Japan--to stimulate aggregate demand.
+In a deflationary environment, in which short-term nominal interest rates have already been pushed to zero, the central bank can no longer ease policy in the usual way.
+That is not to say that a central bank with its traditional policy rate at zero lacks tools to boost aggregate demand and thereby combat deflation.
+In fact, central banks have a number of other means at their disposal to stimulate spending should nominal interest rates hit the zero bound.
+A central bank can increase the supply of reserves to the financial system through regular open-market operations even after short-term nominal interest rates have hit zero.
+Such actions may demonstrate a resolve by the central bank to keep short-term interest rates at zero for a prolonged period of time, with the intention of raising inflation expectations and lowering real interest rates.
+Arguably, a more effective approach to combating deflation--and a relatively straightforward extension of current operating procedures--would be for a central bank to stimulate aggregate demand by lowering interest rates further out along the maturity spectrum.
+A central bank could expand its open market purchases of longer-term government securities, in sizable quantities if necessary, to drive term premiums lower.
+Of course, because long-term interest rates incorporate term premiums as well as discounted expectations of future short-term interest rates, the success of operations focused on influencing parts of the yield curve would be bolstered by a credible promise to move the short-term policy rate along a trajectory consistent with the targeted longer-term yields.
+Alternatively, as economists have long recognized, a central bank could influence expectations of future short-term interest rates directly by committing to keeping the policy interest rate at zero for a specified and relatively long period of time or until some intermediate macroeconomic target--such as the termination of declining prices--was achieved.
+As a practical matter and to underscore its commitment to boosting aggregate demand, a central bank could write options that would, for a pre-specified time, make its raising interest rates costly, or it could operate in the forward interest rate market.
+If such actions were successful, yields on longer-term government securities would decline.
+Through arbitrage across financial instruments, yields on longer-term private instruments, such as corporate bonds and home mortgages, would likely follow suit.
+A sufficient downward adjustment of interest rates over the term structure of government and private securities should stimulate spending and thus help end deflation.
+Importantly, describing what a central bank could do is easy, but these actions are not simple to execute or without downside risks.
+In particular, such policies would pose a considerable challenge for a central bank regarding communication.
+For example, if a central bank tried to cap a longer-term yield below the prevailing market rate, it would, to be most effective, need to convince market participants that it was committed to keeping the short-term policy interest rate low for an extended period.
+If this commitment was not viewed as credible, the central bank's purchases of securities to lower longer-term yields would likely have to be massive, given that the term premium component of longer-term interest rates appears rather insensitive to the outstanding supply of various securities.
+Such a situation would give rise to a risk that the targeted security might become disconnected from the rest of the yield curve and private interest rates.
+The Federal Reserve has experience in using these tools, although admittedly not in a deflationary environment.
+Therefore, to describe these tools as "unconventional" may not be entirely appropriate.
+Rather, they are "rarely used."
+In particular, between 1942 and 1951, the Federal Reserve successfully maintained an interest-rate ceiling on longer-term Treasury yields at 2-1/2 percent.
+From 1979 through much of 1982, the FOMC targeted the amount of nonborrowed reserves in the banking system in an effort to reduce inflation.
+And around the century date change, the Federal Reserve wrote options on repurchase agreements to reassure market participants that adequate liquidity would be available.
+To be sure, our understanding of the monetary transmission mechanism in the United States when prices are on a distinct downward trend has not been informed by recent experience, and so calibrating the effects of such policy actions may be difficult.
+Thus, preventing deflation remains preferable to reversing it.
+However, if an economy slips into deflation, my belief is that a sufficiently determined central bank can spur aggregate demand and end the deflation.
+Skeptics may point to Japan, where interest rate cuts and other monetary policy measures have been ineffective in jumpstarting the economy.
+The Bank of Japan lowered short-term interest rates considerably over the 1990s, after the bursting of the asset price bubble and against the backdrop of a stagnant economy.
+The overnight nominal interest rate fell from slightly more than 8 percent in 1991 to 1/2 percent in 1995, where it stayed until being lowered essentially to zero in 1999.
+However, the loosening of monetary policy in the early 1990s, though probably appropriate given the expectations of future economic developments generally held at that time, in retrospect proved to be too slow in light of the declines in spending and prices that subsequently occurred Amid persistent price deflation--and face to face with the constraints on monetary policy imposed by the zero lower bound on short-term nominal interest rates--the Bank of Japan introduced what it called a "quantitative easing" framework in March 2001.
+This framework included switching the operating target for money market operations from the overnight interest rate to the outstanding balance of reserve accounts held by financial institutions at the central bank.
+In an attempt to change deflationary expectations, the Bank of Japan stated that it would continue to target reserve accounts until the core consumer price index showed a twelve-month inflation rate of zero or above.
+Over the roughly two years since then, reserve accounts at the Bank of Japan have risen nearly six-fold, from ¥5 trillion in March 2001 to about ¥28 trillion today.
+In addition, since March 2001 the Bank of Japan has increased the monthly amount of its outright purchases of long-term government bonds from ¥400 billion to ¥1.2 trillion.
+I assume that these monetary policy actions have provided some support for economic activity.
+However, the Japanese economy appears not to have returned to a path of sustainable growth for several reasons, some of which may require responses by entities other than the Bank of Japan.
+First, the Bank of Japan introduced quantitative easing only after prices were already on a sustained downward trajectory; perhaps, even then, efforts were not aggressive enough, given entrenched deflationary expectations.
+Since early 1995, consumer price inflation has been around or below zero, and by March 2001, prices were declining at nearly 1 percent per year.1 According to surveys of private economists and further evidenced by very low interest rates on long-term Japanese government bonds, deflation had clearly become embedded in expectations.
+Second, the stimulus provided by monetary policy in Japan continues to be damped by well-recognized problems in Japan's banking sector.
+Factors such as low profitability and insufficient actions to restore the banking sector's health have combined to erode banks' capital base.
+Because I believe strongly in capital levels that fully reflect differing categories of risk, I think that the recent strengthening of auditing rules for evaluating the use of deferred tax assets as bank capital is a step in the right direction.
+However, insufficient capital continues to plague the banking sector, and without the cushion of a strong capital base, banks give evidence of remaining extremely risk averse.
+Commercial bank lending has thus continued to decline, while banks' holdings of less risky long-term government bonds have soared.
+Because banks play an even more crucial role in Japan's financial system than in other industrialized countries, problems in its banking sector are particularly damaging to the transmission of monetary policy and to the economy more generally.
+Finally, demand for business and consumer credit in Japan is weak according to the results of various surveys.
+In a deteriorating economic environment, businesses as well as banks appear to have pulled back from risk-taking.
+As evidenced by very low long-term interest rates, expectations of future economic growth seem bleak.
+Capital-output ratios are still high, returns on assets are low, corporate profits are poor, and the economic outlook is fraught with uncertainty.
+It is not surprising then that firms are not borrowing to finance new investment.
+Rather, observers argue that much bank lending will keep ailing and inefficient firms afloat and further crowd the field against the dynamic, innovative enterprises needed to fuel sustained expansion.
+Japan appears to have become a society in which economic agents--banks, insurance companies, corporations, and households--have lost their appetite for risk.
+This risk aversion has hurt Japan's economic performance, since risk-taking is critical to growth in a market economy.
+These crucial factors have limited the effectiveness of both conventional and unconventional monetary policy measures in Japan.
+In the United States, economic and financial fundamentals are much sounder than those prevailing in Japan when the Bank of Japan started to implement unconventional measures.
+The available evidence suggests that the U.S. real economy is currently stronger, better balanced, more productive and more dynamic than the Japanese economy was at a comparable period.
+The economy's ability to weather the adverse shocks of recent years reflects flexible and efficient markets for labor and capital and dramatic gains in information technology, which have markedly improved the ability of businesses to address incipient economic imbalances before they inflict significant damage.
+To be sure, considerable uncertainty attends the near-term outlook for the U.S. economy, and recent readings on production and employment have been disappointing.
+However, a balanced assessment would also take into consideration the fact that the reduction in Iraq-related uncertainties and some recent positive news regarding corporate earnings have caused the tenor of financial markets to improve noticeably: Equity prices have risen, risk premiums of corporate debt have fallen, crude oil prices have declined sharply, and consumer confidence has rebounded since the early spring.
+Whether this improvement in overall financial conditions is a precursor to sustained recovery in the broader economy is unclear.
+Fortunately, for the longer term, productivity growth in the United States has remained remarkably robust.
+Rapid growth of output per hour boosts expectations of future advances in wages and profits, leading eventually to higher aggregate demand.
+Another key difference between the two countries is that the U.S. financial system continues to function smoothly.
+Domestic commercial banks are very profitable overall and are well capitalized, and bank regulators have shown a willingness to move quickly to address problems.
+In contrast, Japanese banks remain saddled with a significant volume of nonperforming loans.
+Accordingly, the process of financial intermediation through banks has been constricted, hampering the Bank of Japan's attempts to increase liquidity and to stimulate the flow of credit.
+On a related point, the existence of highly developed and integrated U.S. financial markets means that the proportion of financing flows intermediated by the banking system in the United States is considerably smaller than in Japan's bank-centered financial system.
+As a result, the transmission of monetary policy in the United States operates through multiple and complementary channels.
+Japan's dependence on the banking system, a system that has largely ceased to function, represents a further constraint on the transmission of monetary policy in that country.
+Thus, it seems appropriate for Japan to continue its efforts to develop deeper and more liquid capital markets.
+Demand for business and consumer credit in the United States is stronger than in Japan, and corporate balance sheets are in better shape.
+The continued rapid pace of technological innovation is likely to create expanding opportunities for profitable investment and thereby strengthen further the demand for credit.
+Although business spending on fixed capital has yet to stage a convincing comeback, firms eventually will have to increase such outlays, given the relatively high rates of depreciation on certain types of capital.
+Finally, as mentioned earlier, by the time the Bank of Japan implemented the quantitative easing framework in March 2001, yields on long-term government securities had already reached a very low level.
+In the United States today, by contrast, the relatively steep Treasury yield curve affords greater scope for reducing longer-term interest rates.
+In conclusion, the risk of deflation, a decline in the general price level, appears remote in the United States.
+Although the near-term outlook is uncertain, the fundamentals are sound.
+Furthermore, I am confident that, in the unlikely event a harmful deflation emerges in the United States and the Federal Reserve needs to turn to a broader range of monetary policies, such tools will be effective in boosting aggregate demand and putting the economy back on track to sustainable growth.
+
+Thanks are due to the Cleveland Fed for providing this forum for the exchange of ideas about community development, as well as to all the participants for their willingness to come here to share their experiences and learn from those of others.
+The subtitle of today's conference is "The Evolution of Market-Based Solutions."
+Markets function best in an environment of timely, accurate information, a fact that has been brought home to us in the past year by a series of high-profile scandals in areas such as accounting and stock analysis.
+Both the adverse effects of these events on investor confidence and the strong legislative and regulatory responses they have engendered indicate the importance that market participants and policymakers attach to the clarity and transparency of evaluative data.
+Similarly, as community development organizations try to build relationships with financial institutions and the private sector more generally, the availability of useful information about these organizations and the communities they serve takes on increasing importance.
+Good data--and good data analysis--are critical in the work of community organizations.
+First, to the extent that laws and regulations have mandated certain activities or practices by private-sector organizations (for example, nondiscriminatory lending practices), hard data can be used by community organizations to identify deficiencies and the need for change.
+Second, good and well-analyzed data about under-served communities can help to reveal investment opportunities that could prove profitable for businesses while advancing the objectives of community development.
+Third, hard data can be used by community organizations to conduct quantitative analyses of their own activities.
+Good data on the effectiveness of projects and programs are needed for accountability and hence for credibility, which is essential for community organizations in their dealings not only with the private sector but also with the government and nonprofit sectors.
+In my remarks today I will focus on a few examples of how quantitative analysis, appropriately used, can advance the objectives of community development.
+I should note that the opinions expressed today are my own and are not to be ascribed to my colleagues on the Board of Governors of the Federal Reserve System.1 Data, Public Policy, and Regulation One of the primary reasons for community groups to develop skills in data collection and analysis is the increasingly data-based nature of the regulatory framework that governs areas such as lending and investment in low-income neighborhoods.
+In the 1960s and 1970s, when powerful political and societal forces such as the civil rights movement were driving social change, grassroots advocacy and political organizing efforts were perhaps the most important factors influencing public policy toward minorities and the poor.
+In that period, qualitative and anecdotal evidence was sufficient to change minds and votes.
+However, in the decades since that formative period, more formal regulatory structures have evolved.
+For example, within the banking sector, three major pieces of banking legislation--the Equal Credit Opportunity Act (ECOA), the Home Mortgage Disclosure Act (HMDA), and the Community Reinvestment Act (CRA)--were enacted to address issues of access to credit.
+The objective of these laws was (and continues to be) to enlist the support of the banking system in fostering local economic development, for example, by requiring banks to provide credit and other financial services to minorities and in lower-income neighborhoods.
+Although these laws have often been controversial, overall I believe they have made an important contribution to the revitalization of many American communities.
+Both policymakers and communities have an interest in ensuring, first, that laws prohibiting discrimination and encouraging lending to underserved areas are enforced and, second, that existing laws and regulations are modified over time so as to better serve their legislative objectives.
+For both of these goals and for both regulators and community groups, good data are an essential input to good analysis.
+As an example, HMDA specifies fairly extensive data reporting requirements for lending institutions, and the collection of these data has led to the creation of an invaluable knowledge base for studying the relationships between mortgage credit and the geographic and demographic characteristics of borrowers.
+Over the course of the more than twenty-five years since this reporting framework was established, these data have been a valuable tool for academics, advocates, lenders, lawmakers, and regulators for gaining a better perspective on mortgage market activities and for identifying illegal or unwarranted disparities in lending patterns.
+For example, several community groups conduct regular studies of HMDA lending patterns in their cities to evaluate the records of financial institutions in lending to lower-income and minority communities.
+Bank examiners also make extensive use of HMDA data in assessing banks' effectiveness in meeting the mortgage credit needs in their service areas.
+Researchers, including several at the Federal Reserve, regularly use HMDA data to explore various features of the mortgage market, such as the link between race and mortgage lending and also the impact of the CRA on the profitability of mortgage lending in low-income communities.
+As noted, in some cases, analyses of HMDA data have highlighted disparities that warranted further examination of the underlying policies and practices of lenders.
+But the data have also helped to reveal market opportunities for lending to creditworthy but underserved populations, and in that way they have served as a catalyst for the formation of public-private partnerships designed to increase mortgage lending in lower-income communities.
+The utility of the HMDA data has been enhanced by periodic adjustments to reporting requirements to reflect innovation, growth, and regulatory changes in the mortgage market.
+Reporting requirements and the types of lenders subject to those requirements have been expanded to better reflect the range of market participants and types of mortgage lending.
+As you may know, for example, the most recent changes to the HMDA reporting requirements have increased the information that must be reported on loan pricing relevant to the analysis of the subprime lending market.
+As the existence of HMDA data has improved our understanding of the general mortgage market, conversely the absence of relevant data for other markets has sometimes been a barrier to understanding.
+For example, although a great deal of anecdotal information indicates the presence of unethical, and even fraudulent, mortgage credit practices in some segments of the market, the lack of relevant data has made it exceedingly difficult to quantify the extent of such predatory lending activities.
+Lack of data about borrower characteristics and credit terms has similarly complicated the process of designing laws and regulations that strike an appropriate balance between curtailing unscrupulous lending, which is desirable, and impeding the appropriate extension of credit to subprime borrowers, which is not.
+This problem does not have an obvious solution, as obtaining good data on illegal, or at the least unsavory, practices is difficult, given the incentives of those who engage in such practices to conceal their activities.
+More sophisticated methods such as sampling must therefore be used by regulators to address these issues, much in the same way that the Internal Revenue Service performs random audits to obtain information about noncompliance with the tax laws.
+Data and Economic Opportunity Another important use of data for community development is to demonstrate to potential private investors that lower-income communities often present substantial investment opportunities.
+An example of how data development has enhanced the ability of communities to demonstrate the economic potential of their neighborhoods is the Neighborhood Market Drill Down approach to measuring market value designed by the nonprofit organization, Social Compact.
+Social Compact, a coalition of business leaders interested in promoting investment in undervalued communities, undertook this initiative based on their view that traditional market analyses may serve to reinforce negative stereotypes associated with inner-city communities and hence underestimate the economic potential of these communities.
+According to this view, the application of inappropriate data and methods of analysis to the inner city unnecessarily discourages private investment, resulting in a reduction of local services and economic opportunity and possibly the perpetuation of the cycle of disinvestment, as some residents and businesses choose to abandon the underserved area.
+Social Compact contended that significant inner-city business opportunities might be overlooked because the methods of data analysis used in evaluating market potential in suburban communities do not account for the unique characteristics of inner-city neighborhoods, such as higher population density, the presence of cash economies, and micro-market development patterns.
+To capture these dynamics and translate them into measurements of purchasing power, Social Compact designed new methodologies for gathering and analyzing data on the commercial potential of urban neighborhoods.
+Social Compact's "drill down" methodology was applied in sixteen Houston neighborhoods in 2001 at the request of a local developer and some major area corporations.
+Data on tax assessments, building permits, and auto registrations were used to obtain an accurate count of households, while credit report information and other data on bill payments from surveys were used to estimate consumer purchasing power.
+In addition, growth and development activity was verified through immigration data, school enrollment statistics, and building construction information.
+The results of these analyses demonstrated that the residential population of the neighborhoods studied was nearly 27 percent larger than that indicated by the Census 2000.
+Moreover, housing values had been underestimated by almost 40 percent, and the estimated aggregate household income was $170 million higher than what conventional measures captured.
+These data confirmed the existence of untapped market opportunities in the sixteen neighborhoods examined.
+Over the course of the following year, public-private partnerships and financing resulted in the redevelopment of 700,000 square feet of retail space and a 246-unit condominium complex in these areas.
+Data and the Performance of Community Organizations A final example of the application of data analysis in community development is the evaluation of the performance of community development organizations themselves, a function that has become increasingly important as these organizations have matured.
+As you know, community development organizations have a rich history as agents for change in low-income, minority, and isolated communities, but the nature of their role has evolved significantly over time.
+In particular, these groups have gone well beyond simply being advocates for change to becoming providers of solutions themselves, in areas ranging from social services delivery to training to economic development.
+Community groups have also played an important role in helping residents become greater stakeholders in their own communities, for example, by creating mechanisms to increase the involvement of local residents in the development planning process and by promoting increased rates of home ownership and small business ownership.
+Recent statistics reported by the National Community Capital Association (NCCA) give some indication of the scope of development activities undertaken by community development financial institutions (CDFIs), a subset of community development organizations, in the lower-income communities they serve.
+A survey by NCCA and its partners collected data for fiscal year 2001 on 512 of the 800 to 1,000 CDFIs operating in the United States.
+The survey results indicated that these institutions held some $5.7 billion in outstanding loans.
+During 2001, the surveyed CDFIs financed more than 43,000 housing units, funded nearly 7,500 businesses, capitalized 500 community service organizations, and created or retained approximately 53,000 jobs, according to the NCCA.
+These statistics help to illustrate the importance and range of community development activities, as well as the capacity and level of financial sophistication of many of the organizations operating within this sphere.
+However, data of this sort, while illustrative of the scale of the development effort, do not capture many other important aspects of community development.
+For example, statistics on loan type and volume, in and of themselves, do not provide sufficient context for assessing the economic value of community development activities; nor can they tell the full story of the impact of affordable housing and small business development programs on lower-income communities.
+The absence of fully descriptive data on the performance of community development organizations is especially problematic at a time when these organizations are experiencing significant cutbacks in funds from their traditional capital sources, including government and foundations.
+Given these cutbacks, successful community development requires, first, that available public and nonprofit funds be put to the best uses and, second, that the sources of funding be expanded to include a greater share of private-sector sources of capital.
+Achieving both goals requires a more precise definition in quantitative terms of what it means to be successful.
+The challenge confronting community development organizations is to effectively use data and analytical methods to communicate their accomplishments.
+Meeting this challenge is an important step toward attracting a broader array of funding and investment.
+As I have noted, community groups often measure their effectiveness in terms of the number of housing units constructed, small businesses established, or jobs created as a result of the organization's efforts.
+These data are often collected to demonstrate programmatic success, and in the past have typically been a condition of funding.
+Such statistics communicate improvements in the economic prospects of residents and in the success of a particular project or line of business, which are important measures of one level of success.
+However, they do not entirely convey the extent to which these activities contribute to the economic viability of the neighborhood, for example.
+Further, program-related data do not represent the financial performance of the loan portfolios supporting lending and development activities or the effectiveness of the organization operating the programs.
+All of these types of information are critical to an overall evaluation of success.
+As socially motivated investors seek information that conveys both financial and social returns--the double bottom line--community organizations that can more precisely present that information will have more success in acquiring funding.
+Assessing the financial returns on community investments is perhaps the easiest part of the task in principle, though often demanding in practice.
+Most difficult is defining measures to capture intangible social benefits, such as those that accrue to a neighborhood as residents become engaged in community planning activities, improve their financial literacy, and increase their access to employment opportunities through job training.
+And measures of the organizational capacity of community organizations themselves should be of great interest to potential investors in their activities.
+What scale of activities can a particular organization support?
+What are its areas of expertise-technical, financial, legal, or otherwise?
+What resources has it mobilized?
+What is its track record in other communities?
+The process of collecting and analyzing data is not cheap and is not the comparative advantage of many organizations.
+To the extent that doing so is possible, however, the consistent collection and analysis of standardized data can offer a variety of opportunities for diversifying funding sources.
+Information on financial performance helps private investors assess the risk profile of an organization or a project and determine an acceptable level of return.
+Coupled with social impact data, financial information can provide assurance to CDFIs and other socially motivated investors that their portfolios of community development investments offer both the financial and nonfinancial returns that they require.
+Government and foundation support is easier to justify and, one hopes, more likely to be obtained when the public benefits that community development offers can be measured, even approximately.
+Today a variety of initiatives are under way to explore strategies for collecting data about community development activities that will be relevant to investors and donors.
+One such program, Wall Street Without Walls, seeks to assist community development organizations in gaining access to private capital markets for funding.
+Another program, the CDFI Data Project, involves collaboration of a group of community development financial institutions and foundations to develop effective procedures for conducting peer analyses of CDFIs.
+By developing comprehensive performance measures, the CDFI Data Project hopes to increase private-sector investment in the most effective organizations.
+Although these initiatives differ somewhat in philosophy, both have the objective of promoting the consistent collection of standardized data as a means for increasing accountability, transparency, and performance among community development organizations.
+The Challenge of Data Collection and Analysis As I have emphasized, the collection and especially the analysis of data present difficult challenges to community organizations.
+Quantifying social objectives such as "empowerment" is just one problem.
+Another difficulty is isolating the effects of a community development organization's activities from the many other factors that may cause a community to improve or decay.
+Compounding the conceptual challenge of measurement are the not insignificant matters of cost and technological capacity that data collection demands.
+Data collection, analysis, and warehousing are extremely resource-intensive undertakings that require a high degree of technical expertise at every phase.
+Obtaining appropriately skilled staff and maintaining the technological infrastructure to support the data can be costly.
+As a result, substantial data collection efforts may simply be impractical for smaller organizations.
+Strategic collaborations among interested parties and the outsourcing of data collection and analysis may be the best option in some circumstances.
+The difficulties notwithstanding, as you continue your exploration of market-based strategies for community development, I encourage you to consider methodologies for capturing the benefits and costs of the resulting programs.
+By doing so, you position yourselves to demonstrate the impact of your activities to those in the public and private sectors who are deciding where to lend their support.
+

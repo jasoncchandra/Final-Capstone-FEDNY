@@ -1,0 +1,178 @@
+Considering how to deal with low-probability, high-impact events has always been an important aspect of central banking.
+Central banks and other government agencies use various policies, including supervisory vigilance and access to discount window credit, to make such situations less likely to occur and less costly when they do.
+Even so, from time to time monetary policy settings have been influenced by the perception of a potential for serious economic and financial dislocation.
+Before going further, I should say the views I will express today are my own and not necessarily those of other members of the Board of Governors or its staff.1 Adjusting monetary policy in such circumstances is an example of a more general phenomenon.
+When central banks are not tightly focused on achieving a specific objective for an exchange rate, a monetary aggregate, or an inflation rate, policymakers may be granted a degree of discretion and can take account of the entire distribution of potential economic outcomes and their effects on societal welfare.
+I used the words “may be granted” in that sentence quite deliberately.
+Discretion has gotten a bad reputation in the economics profession, in part because of a too-literal interpretation of the contributions of the two newest Nobel laureates.
+The effective use of discretion--the ability to deviate from the programmatic pursuit of a fixed goal--is only granted to central bankers when the public is confident that the opportunity will not be misused.
+As I reflect on my observation of central banking over the years, my impression is that policymakers these days are taking account of a broader array of potential outcomes than in the past.
+Policy seems more frequently to be deviating a bit from a stance that is calculated only to maximize the odds of achieving a specific, numerical, economic goal.
+More countries have recognized the benefits of allowing exchange rates to fluctuate freely, and the inflation-targeting regimes that have replaced exchange rate anchors in many countries have become more flexible over time.
+This evolution has not only allowed policymakers greater scope to weigh more than one short-run objective in the pursuit of long-term price stability, but it has also permitted them to pay greater attention to the consequences of potential economic outcomes with relatively low probabilities.
+Such possible outcomes tend naturally to get some weight when policymakers perceive that events are not necessarily a product of linear relationships among variables and that welfare is not always defined by the linear quadratic utility function that theorists find convenient to use.
+In Chairman Greenspan’s risk-management paradigm, low-probability, high-impact events are always factors in the calculus of monetary policy.2 This approach recognizes that “impact” is the product of two separate distributions--one for expected economic outcomes and one for the effect of those outcomes on welfare--that may be nonlinear.
+The two are closely related but not identical, and their relationship may well depend on the situation.
+In large part, central banks have been able to shift their attention more toward events in the tails of the probability distributions of possible outcomes because the centers of the distributions of key macroeconomic variables have been so much better behaved than they were a few decades ago.
+Inflation has been low and stable in most economies, expectations that inflation will remain contained are much better anchored, and output fluctuations have been damped.
+This favorable economic climate has reduced the risk that temporarily aiming somewhat away from hitting objectives dead on will engender behaviors, like rising inflation expectations, that could have seriously adverse and destabilizing consequences for the economy.
+In effect, the cost of “buying insurance” against events in the tail has been greatly reduced.
+Buying insurance may also have appeared more attractive in recent years because the impact of tail events, especially those associated with financial markets, may have increased, even if their probability remains low.
+As wealth rises relative to income and more of the populace owns significant quantities of assets, wealth becomes an increasingly important factor in shaping spending decisions.
+In addition, the secular decline in the cost of financial transactions has facilitated balance sheet adjustments by businesses and households, potentially heightening their responses to financial market developments.
+Although a whole range of possible events with varying probabilities and effects can be taken into account by monetary policymakers, the influence of possible low-probability events is most evident when serious instability is a much greater threat than usual.
+It is in these circumstances that the distribution of possible outcomes is skewed noticeably, and the effect of a given outcome itself may also be especially large.
+Guarding against such a low-probability, high-impact event can in turn significantly skew policy temporarily away from the rate setting most likely to achieve longer-run objectives for inflation or output.3 I will illustrate the rationale for making such choices and their possible implications by relating some of the episodes in which the Federal Reserve has given unusual weight to possible tail events--in reaction to the financial market events of 1987 and 1998 and in response to the threat of deflation in 2001 through 2003.
+The Federal Reserve reacted strongly to both the stock market crash of 1987 and the “seizing up” of financial markets in the fall of 1998 after the Russian debt default and failure of Long Term Capital Management.
+In each of these situations, we were dealing with the aftermath of one low-probability, high-impact event--the market meltdown--in a manner also designed to limit another such event--snowballing disruptions to intermediation and spending.
+In both instances, developments in financial markets caused forecasts of economic activity and inflation to be marked down.
+The 1987 stock market crash reduced wealth and raised the cost of capital, which seemed likely to trim both consumption and investment in 1988.
+The market disruptions of 1998 severely impaired the liquidity and functioning of a number of financial markets for a time, in effect closing them to many borrowers; even after more normal trading patterns were restored, many private firms--especially the riskiest borrowers--found that their cost of credit had risen, with negative implications for spending incentives.
+But concerns went beyond the direct macroeconomic fallout from the initial movement in asset prices, and in both cases the Federal Reserve, therefore, eased more than probably would have been justified by the change in the center of gravity of the forecast itself.
+Importantly, the potential effects of these events on confidence--on the psychology of market participants and of savers and spenders more generally--raised the specter of continuing flights to liquidity and safety that could disrupt the financial markets and economic activity even more severely.
+Such an outcome was unlikely--it would have been a nonlinear and unusual reaction to the prevailing economic circumstances and outside the ambit of standard models--but it was not unheard of in history.
+The policy actions were designed in part to build confidence; by demonstrating that the Federal Reserve was taking steps to deal with the downside risks, it intended to lower the probability that the very events that concerned us would occur.
+In addition, lower interest rates--taking some chances temporarily on the side of stronger activity--should help to limit upward pressures on private interest rates and restore market liquidity.
+Such outsized policy actions have not been taken uniquely in response to shocks emanating from financial markets.
+We eased aggressively in early 2001 as the economy weakened.
+This easing was perhaps quicker than might have been anticipated from our past behavior, but it was not out of line with our perception of the center of gravity of the evolving economic situation.
+However, from late 2001 through the first half of 2003, as the lack of vigor of the economic rebound gradually became evident, we eased further, bringing the policy rate to an especially low level, whether viewed in nominal or in real terms.
+The extent of these latter actions was influenced by the accumulation of evidence that the economy was not responding to policy stimulus as much as might have been anticipated, creating the remote possibility that a persistent, if not a widening, output gap would cause deflation, which in turn could further undermine economic performance.
+In these circumstances, the zero bound on nominal interest rates could potentially constrain conventional policy easing, further adding to the potential for nonlinear responses in the economy.
+Policy rates were already quite low, the economy had been weak for some time, and inflation had settled into the zone of price stability.
+Although other types of monetary policy actions likely would be effective at the zero bound, they had not been tried.
+We did not see a high probability of deflation, but in those circumstances the most prudent course appeared to be to ease aggressively--by more than the central economic outlook might call for--in order to raise the odds of forestalling what could have become a very disruptive and costly economic situation.
+I judge our policy in these cases to have been successful--though the record for the most recent episode is still being written.
+One can never know the counterfactual--what would have happened if the reaction of the Federal Reserve had been more in line with a standard response to a changing central tendency forecast, rather than the more forceful actions we took.
+And some believe that our easings contributed to difficulties that emerged subsequently--a subject to which I will return later.
+However, in 1987 and 1998 financial markets stabilized and we did not see the continuing disruptions to intermediation and spending that concerned us after the initial market shock had taken place.
+And in the last year or so economic growth has strengthened and the possibility of destabilizing deflation receded.
+Omitted from my list of examples of low-probability, high-impact events that the Federal Reserve has addressed with monetary policy are episodes in which a possible substantial deviation of key asset prices from fundamentals threatens future disruption when those prices correct.
+The reason for the omission is that I know of no such episodes in the past few decades.
+Our monetary policy certainly takes into account the effects of asset prices on the likely course of the economy and prices.
+But we have not attempted to damp fluctuations in asset prices by tightening or easing policy more than the medium-term macroeconomic outlook implies.
+In concept, a significant deviation of important asset prices from fundamental values raises the risk of a future reversal that would add to economic volatility, representing a low-probability event that, like many others, could be given some weight in the stance of policy.
+But we have been deterred by a number of uncertainties about dealing with this possibility and a consequent lack of confidence that the benefits of policy action in these circumstances would outweigh the costs.
+Among other things, we are uncertain (a) about any judgment that the level of a particular class of asset prices is moving far enough away from fundamentals to make a correction inevitable and disruptive; (b) about the timing of a reversal of those prices, so that a step to truncate a movement, say by raising rates in response to a perception that the prices of some assets were becoming unsustainably high, does not increase economic instability by hitting the economy and asset prices just as the reversal occurs; and (c) about the response of asset prices, possibly driven by self-fulfilling optimism for a time, to a change in rates.
+As a result of this last unknown, one has difficulty assessing whether a change in policy large enough to prevent asset-price disequilibrium would have a greater adverse effect over time on economic performance than would allowing asset prices to evolve.
+Moreover, we have also recognized that much of the extra damage that rapidly changing asset prices may inflict occurs through weakening the financial system enough to cause a constriction in credit flows that restrains spending.
+This potential problem can be addressed, in part, through the supervisory process and attention to the vulnerabilities of key intermediaries.
+From the vantage point of, say, 1999, when price-earnings ratios were at lofty levels and forecasts of annual-earnings growth over the longer term were in the high teens, an asset-price correction did not seem like a low-probability event.
+Although such a correction would result in considerable losses for those holding the assets when their prices fell and would damp demand for a time, its macroeconomic effect did not seem likely to be unusually large.
+Banks were well capitalized, and financial institutions more sophisticated in their risk-taking, so that the scope for significant knock-on effects appeared limited.
+Thus the risks seem higher than with many other possible low-probability events that the balance of costs and benefits will turn out to be adverse when monetary policy is aimed away from fundamental objectives to influence asset prices.
+Given these uncertainties, we have chosen to react to the asset-price correction when it occurs rather than to try to head it off.
+Monetary policymakers giving significant weight to low-probability events face several challenges.
+One serious potential pitfall is paying so much attention to the tails of the distributions of possible outcomes that the central tendencies veer well away from objectives for economic and price stability--in effect paying too much for insurance.
+A key issue in this regard is judging when to begin reversing the extra easing or tightening put in place to take account of the possible high-impact event.
+The policy actions we have been addressing are importantly based on concerns about the effects of nonlinearities, and it may be difficult to judge when the threat of those nonlinearities has diminished sufficiently to make unwinding the action--reducing or dropping the insurance policy--advisable.
+The difficulty is compounded because the reasons for the behavior that leads to heightened potential impact of a low-probability event often are not fully understood--for example, why the markets cracked or why the economy has not responded more strongly to previous stimulus.
+Moreover, when the threat of the low-probability event recedes into the past, policy may need to compensate over time in the other direction to preserve economic and price stability--to achieve the appropriate policy stance on average--a consideration that further complicates the policy decision in these circumstances.
+Another issue raised by some critics in connection with central bank efforts to guard against financial instability and other low-probability, high-impact developments is that such actions encourage undue risk-taking in financial markets and the economy.
+However, to the extent that the conduct of policy actually reduces the potential for high-impact events or more generally damps fluctuations in output and prices, risks are genuinely lower, and that situation should be reflected in the behavior of private agents.
+To me, this criticism is similar to asserting that mandating seat belts in cars has led to more traffic accidents because they give drivers a sense of security.
+And it is probably true when looked at narrowly.
+Policies should be judged from a general equilibrium perspective, however.
+Damped fluctuations in economic activity and the containment of financial crises has made the populace, at large, better off.
+That some view this security as reason to be less cautious does not seem especially damaging to welfare.
+To be sure, adverse consequences for resource allocation, and perhaps even for the stability of output and prices, will occur if private agents overestimate the ability or willingness of central banks to damp volatility in asset prices or the economy.
+In the context of the sorts of decisions we are discussing on this panel, the question is whether the tendency of a risk-managing central bank to lean particularly hard against the consequences of asset-price declines might not give market participants a false sense of security.
+However, experience should have taught market participants that risk management by central banks does not prevent sharp movements in asset prices.
+Policy actions in 1987, 1998, and 2001-03 cushioned the economy, but they did not stop major declines in the prices of risky credits in 1998 or equities in 1987 or 2001.
+Any asymmetries in central bank reactions were aimed at stabilizing the economy, not achieving particular asset-price configurations.
+The small effects of monetary policy asymmetries on the asset prices have been overwhelmed by the fundamentals of shifting perceptions of risk and future earnings.
+In gauging the effects of policy on asset prices, market participants should not be making systematic errors that distort resource allocation.
+In my view, these potential difficulties should not deter central banks from taking account of low-probability, high-impact events in judging the appropriate stance of monetary policy.
+
+This concern emerges periodically in large measure because of the inherent uncertainty of estimates of worldwide reserves.
+Such episodes of heightened anxiety about pending depletion date back a century and more.
+But, unlike past concerns, the current situation reflects an increasing fear that existing reserves and productive crude oil capacity have become subject to potential geopolitical adversity.
+These anxieties patently are not frivolous given the stark realities evident in many areas of the world.
+While there are concerns of seeming inadequate levels of investment to meet expected rising world demand for oil over coming decades, technology, given a more supportive environment, is likely to ensure the needed supplies, at least for a very long while.
+Notwithstanding the recent paucity of discoveries of new major oil fields, innovation has proved adequate to meet ever-rising demands for oil.
+Increasingly sophisticated techniques have facilitated far deeper drilling of promising fields, especially offshore, and have significantly increased the average proportion of oil reserves eventually brought to the surface.
+During the past decade, despite more than 250 billion barrels of oil extracted worldwide, net proved reserves rose in excess of 100 billion barrels.
+That is, gross additions to reserves have significantly exceeded the extraction of oil the reserves replaced.
+Indeed, in fields where, two decades ago, roughly one-third of the oil in place ultimately could be extracted, almost half appears to be recoverable today.
+I exclude from these calculations the reported vast reserves of so-called unconventional oils such as Canadian tar sands and Venezuelan heavy oil.
+Gains in proved reserves have been concentrated among OPEC members, though proved reserves in the United States, for the most part offshore, apparently have risen slightly during the past five years.
+The uptrend in world proved reserves is likely to continue at least for awhile.
+Oil service firms still report significant involvement in reservoir extension and enhancement.
+Nonetheless, growing uncertainties about the long-term security of world oil production, especially in the Middle East, have been pressing oil prices sharply higher.
+These heightened worries about the reliability of supply have led to a pronounced increase in the demand to hold larger precautionary inventories of oil.
+In addition to the ongoing endeavors of the oil industry to build inventories, demand from investors who have accumulated large net long positions in distant oil futures and options is expanding once again.
+Such speculative positions are claims against future oil holdings of oil firms.
+Currently, strained capacity has limited the ability of oil producers to quickly satisfy this markedly increased demand for inventory.
+Adding to the difficulties is the rising consumption of oil, especially in China and India, both of which are expanding economically in ways that are relatively energy intensive.
+Even the recent notable pickup in OPEC output, by exhausting most of its remaining excess capacity, has only modestly satisfied overall demand.
+Output from producers outside OPEC has also increased materially, but investment in new producing wells has lagged, limiting growth of production in the near term.
+Crude oil prices are also being distorted by shortages of capacity to upgrade the higher sulphur content and heavier grades of crude oil.
+Over the years, increasing demand for the environmentally desirable lighter grades of oil products has pressed refiners to upgrade the heavier crude oils, which compose more than two-thirds of total world output.
+But refiners have been only partly successful in that effort, judging from the recent extraordinarily large increase in price spreads between the lighter and heavier crudes.
+For example, the spread between the price of West Texas intermediate (WTI), a light, low-sulphur crude, and Dubai, a benchmark heavier grade, has risen about $10 per barrel since late August, to an exceptionally high $17 a barrel.
+While spot prices for WTI soared in recent weeks to meet the rising demand for light products, prices of heavier crudes lagged.
+This temporary partial fragmentation of the crude oil market has clearly pushed gasoline prices higher than would have been the case were all crudes available to supply the demand for lighter grades of oil products.
+Moreover, gasoline prices are no longer buffered against increasing crude oil costs as they were during the summer surge in crude oil prices.
+Earlier refinery capacity shortages had augmented gasoline refinery-marketing margins by 20 to 30 cents per gallon.
+But those elevated margins were quickly eroded by competition, thus allowing gasoline prices to actually fall during the summer months even as crude oil prices remained firm.
+That cushion no longer exists.
+Refinery-marketing margins are back to normal and, hence, future gasoline and home heating oil prices will likely mirror changes in costs of light crude oil.
+With increasing investment in upgrading capacity at refineries, the short-term refinery problem will be resolved.
+More worrisome are the longer-term uncertainties that in recent years have been boosting prices in distant futures markets for oil.
+Between 1990 and 2000, although spot crude oil prices ranged between $11 and $40 per barrel for WTI crude, distant futures exhibited little variation around $20 per barrel.
+The presumption was that temporary increases in demand or shortfalls of supply would lead producers, with sufficient time to seek, discover, drill, and lift oil, or expand reservoir recovery from existing fields, to raise output by enough to eventually cause prices to fall back to the presumed long-term marginal cost of extracting oil.
+Even an increasingly inhospitable and costly exploratory environment--an environment that reflects more than a century of draining the more immediately accessible sources of crude oil--did not seem to weigh significantly on distant price prospects.
+Such long-term price tranquility has faded dramatically over the past four years.
+Prices for delivery in 2010 of light, low-sulphur crude rose to more than $35 per barrel when spot prices touched near $49 per barrel in late August.
+Rising geopolitical concerns about insecure reserves and the lack of investment to exploit them appear to be the key sources of upward pressure on distant future prices.
+However, the most recent runup in spot prices to nearly $55 per barrel, attributed largely to the destructive effects of Hurricane Ivan, left the price for delivery in 2010 barely above its August high.
+This suggests that part of the recent rise in spot prices is expected to wash out over the longer run.
+Should future balances between supply and demand remain precarious, incentives for oil consumers in developed countries to decrease the oil intensity of their economies will doubtless continue.
+Presumably, similar developments will emerge in the large oil-consuming developing economies.
+Elevated long-term oil futures prices, if sustained at current levels or higher, would no doubt alter the extent of, and manner in which, the world consumes oil.
+Much of the capital infrastructure of the United States and elsewhere was built in anticipation of lower real oil prices than currently prevail or are anticipated for the future.
+Unless oil prices fall back, some of the more oil-intensive parts of our capital stock would lose part of their competitive edge and presumably be displaced, as was the case following the price increases of the late 1970s.
+Those prices reduced the subsequent oil intensity of the U.S. economy by almost half.
+Much of the oil displacement occurred by 1985, within a few years of the peak in the real price of oil.
+Progress in reducing oil intensity has continued since then, but at a lessened pace.
+* * * The extraordinary uncertainties about oil prices of late are reminiscent of the early years of oil development.
+Over the past few decades, crude oil prices have been determined largely by international market participants, especially OPEC.
+But that was not always the case.
+In the early twentieth century, pricing power was firmly in the hands of Americans, predominately John D. Rockefeller and Standard Oil.
+Reportedly appalled by the volatility of crude oil prices in the early years of the petroleum industry, Rockefeller endeavored with some success to control those prices.
+After the breakup of Standard Oil in 1911, pricing power remained with the United States--first with the U.S. oil companies and later with the Texas Railroad Commission, which raised allowable output to suppress price spikes and cut output to prevent sharp price declines.
+Indeed, as late as 1952, U.S. crude oil production (44 percent of which was in Texas) still accounted for more than half of the world total.
+However, that historical role came to an end in 1971, when excess crude oil capacity in the United States was finally absorbed by rising demand.
+At that point, the marginal pricing of oil, which for so long had been resident on the Gulf coast of Texas, moved to the Persian Gulf.
+To capitalize on their newly acquired pricing power, many producing nations in the Middle East nationalized their oil companies.
+But the full magnitude of their pricing power became evident only in the aftermath of the oil embargo of 1973.
+During that period, posted crude oil prices at Ras Tanura, Saudi Arabia, rose to more than $11 per barrel, significantly above the $1.80 per barrel that had been unchanged from 1961 to 1970.
+A further surge in oil prices accompanied the Iranian Revolution in 1979.
+The higher prices of the 1970s brought to an abrupt end the extraordinary period of growth in U.S. oil consumption and the increased intensity of its use that was so evident in the decades immediately following World War II.
+Between 1945 and 1973, consumption of petroleum products rose at a startling 4-1/2 percent average annual rate, well in excess of growth of real gross domestic product.
+However, between 1973 and 2003, oil consumption grew, on average, only 1/2 percent per year, far short of the rise in real GDP.
+Although OPEC production quotas have been a significant factor in price determination for a third of a century, the story since 1973 has been as much about the power of markets as it has been about power over markets.
+The signals provided by market prices have eventually resolved even the most seemingly insurmountable difficulties of inadequate domestic supply in the United States.
+The gap projected between supply and demand in the immediate post-1973 period was feared by many to be so large that rationing would be the only practical solution.
+But the resolution did not occur quite that way.
+To be sure, mandated fuel-efficiency standards for cars and light trucks induced slower growth of gasoline demand.
+Some observers argue, however, that, even without government-enforced standards, market forces would have produced increased fuel efficiency.
+Indeed, the number of small, fuel-efficient Japanese cars that were imported into the United States markets rose throughout the 1970s as the price of oil moved higher.
+Moreover, at that time, prices were expected to go still higher.
+Our Department of Energy, for example, had baseline projections showing prices reaching $60 per barrel--the equivalent of about twice that in today's prices.
+The failure of oil prices to rise as projected in the late 1970s is a testament to the power of markets and the technologies they foster.
+Today, despite its recent surge, the average price of crude oil in real terms is still only three-fifths of the price peak of February 1981.
+Moreover, the impact of the current surge in oil prices, though noticeable, is likely to prove less consequential to economic growth and inflation than in the 1970s.
+So far this year, the rise in the value of imported oil--essentially a tax on U.S. residents--has amounted to about 3/4 percent of GDP.
+The effects were far larger in the crises of the 1970s.
+But, obviously, the risk of more serious negative consequences would intensify if oil prices were to move materially higher.
+* * * In summary, much of world oil supplies reside in potentially volatile areas of the world.
+Improving technology is reducing the energy intensity of industrial countries, and presumably recent oil price increases will accelerate the pace of displacement of energy-intensive production facilities.
+If history is any guide, oil will eventually be overtaken by less-costly alternatives well before conventional oil reserves run out.
+Indeed, oil displaced coal despite still vast untapped reserves of coal, and coal displaced wood without denuding our forest lands.
+Innovation is already altering the power source of motor vehicles, and much research is directed at reducing gasoline requirements.
+At present, gasoline consumption in the United States alone accounts for 11 percent of world oil production.
+Moreover, new technologies to preserve existing conventional oil reserves and to stabilize oil prices will emerge in the years ahead.
+We will begin the transition to the next major sources of energy perhaps before midcentury as production from conventional oil reservoirs, according to central tendency scenarios of the Energy Information Administration, is projected to peak.
+In fact, the development and application of new sources of energy, especially nonconventional oil, is already in train.
+

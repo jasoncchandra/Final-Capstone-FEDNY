@@ -1,0 +1,225 @@
+Not only has the expansion achieved record length, but it has done so with economic growth far stronger than expected.
+Most remarkably, inflation has remained largely subdued in the face of labor markets tighter than any we have experienced in a generation.
+A key factor behind this extremely favorable performance has been the resurgence in productivity growth.
+Since 1995, output per hour in the nonfinancial corporate sector has increased at an average annual rate of 3-1/2 percent, nearly double the average pace over the preceding quarter-century.
+Indeed, the rate of growth appears to have been rising throughout the period.
+My remarks today will focus both on what is evidently the source of this spectacular performance--the revolution in information technology--and on its implications for key government policies.
+When historians look back at the latter half of the 1990s a decade or two hence, I suspect that they will conclude we are now living through a pivotal period in American economic history.
+New technologies that evolved from the cumulative innovations of the past half-century have now begun to bring about dramatic changes in the way goods and services are produced and in the way they are distributed to final users.
+Those innovations, exemplified most recently by the multiplying uses of the Internet, have brought on a flood of startup firms, many of which claim to offer the chance to revolutionize and dominate large shares of the nation's production and distribution system.
+And participants in capital markets, not comfortable dealing with discontinuous shifts in economic structure, are groping for the appropriate valuations of these companies.
+The exceptional stock price volatility of these newer firms and, in the view of some, their outsized valuations indicate the difficulty of divining the particular technologies and business models that will prevail in the decades ahead.
+How did we arrive at such a fascinating and, to some, unsettling point in history?
+While the process of innovation, of course, is never-ending, the development of the transistor after World War II appears in retrospect to have initiated a special wave of innovative synergies.
+It brought us the microprocessor, the computer, satellites, and the joining of laser and fiber-optic technologies.
+By the 1990s, these and a number of lesser but critical innovations had, in turn, fostered an enormous new capacity to capture, analyze, and disseminate information.
+It is the growing use of information technology throughout the economy that makes the current period unique.
+However, until the mid-1990s, the billions of dollars that businesses had poured into information technology seemed to leave little imprint on the overall economy.
+The investment in new technology arguably had not yet cumulated to be a sizable part of the U.S. capital stock, and computers were still being used largely on a stand-alone basis.
+The full value of computing power could be realized only after ways had been devised to link computers into large-scale networks.
+As we all know, that day has arrived.
+At a fundamental level, the essential contribution of information technology is the expansion of knowledge and its obverse, the reduction in uncertainty.
+Before this quantum jump in information availability, most business decisions were hampered by a fog of uncertainty.
+Businesses had limited and lagging knowledge of customers' needs and of the location of inventories and materials flowing through complex production systems.
+In that environment, doubling up on materials and people was essential as a backup to the inevitable misjudgments of the real-time state of play in a company.
+Decisions were made from information that was hours, days, or even weeks old.
+Of course, large voids of information still persist, and forecasts of future events on which all business decisions ultimately depend will always be prone to error.
+But information has become vastly more available in real time--resulting, for example, from developments such as electronic data interface between the retail checkout counter and the factory floor or the satellite location of trucks.
+This surge in the availability of more timely information has enabled business management to remove large swaths of inventory safety stocks and worker redundancies.
+Stated differently, fewer goods and worker hours are now involved in activities that, although perceived as necessary insurance to sustain valued output, in the end produced nothing of value.
+Those intermediate production and distribution activities, so essential when information and quality control were poor, are being reduced in scale and, in some cases, eliminated.
+These trends may well gather speed and force as the Internet alters relationships of businesses to their suppliers and their customers, a topic to which I shall return in a moment.
+The process of information innovation has gone far beyond the factory floor and distribution channels.
+Computer modeling, for example, has dramatically reduced the time and cost required to design items ranging from motor vehicles to commercial airliners to skyscrapers.
+In a very different part of the economy, medical diagnoses have become more thorough, more accurate, and far faster.
+With access to heretofore unavailable information, treatment has been hastened, and hours of procedures have been eliminated.
+Moreover, the potential for discovering more-effective treatments has been greatly enhanced by the parallel revolution in biotechnology, including the ongoing effort to map the entire human genome.
+That work would have been unthinkable without the ability to store and process huge amounts of data.
+The advances in information technology also have been an impetus to the ongoing wave of strategic alliance and merger activity.
+Hardly a week passes without the announcement of another blockbuster deal.
+Many of these combinations arise directly from the opportunities created by new technology--for example, those at the intersection of the Internet, telecommunications, and the media.
+It is not possible to know which of the many new technologies will ultimately find a firm foothold in our rapidly changing economy.
+Accordingly, many high-tech companies that wish to remain independent are hedging their bets by entering into strategic alliances with firms developing competing technologies.
+In addition, the new technology has fostered full mergers that allow firms to take greater advantage of economies of scale and thus reduce costs.
+Without highly sophisticated information technology, it would be nearly impossible to manage firms on the scale of some that have been proposed or actually created of late.
+Although it will be a while before the ultimate success of these endeavors can be judged, information technology has almost certainly pushed out the point at which scale diseconomies begin to take hold for some industries.
+The impact of information technology has been keenly felt in the financial sector of the economy.
+Perhaps the most significant innovation has been the development of financial instruments that enable risk to be reallocated to the parties most willing and able to bear that risk.
+Many of the new financial products that have been created, with financial derivatives being the most notable, contribute economic value by unbundling risks and shifting them in a highly calibrated manner.
+Although these instruments cannot reduce the risk inherent in real assets, they can redistribute it in a way that induces more investment in real assets and, hence, engenders higher productivity and standards of living.
+Information technology has made possible the creation, valuation, and exchange of these complex financial products on a global basis.
+At the end of the day, the benefits of new technologies can be realized only if they are embodied in capital investment, defined to include any outlay that increases the value of the firm.
+For these investments to be made, the prospective rate of return must exceed the cost of capital.
+Technological synergies have enlarged the set of productive capital investments, while lofty equity values and declining prices of high-tech equipment have reduced the cost of capital.
+The result has been a veritable explosion of spending on high-tech equipment and software, which has raised the growth of the capital stock dramatically over the past five years.
+The fact that the capital spending boom is still going strong indicates that businesses continue to find a wide array of potential high-rate-of-return, productivity-enhancing investments.
+And I see nothing to suggest that these opportunities will peter out any time soon.
+Indeed, many argue that the pace of innovation will continue to quicken in the next few years, as companies exploit the still largely untapped potential for e-commerce, especially in the business-to-business arena, where most observers expect the fastest growth.
+An electronic market that would automatically solicit bids from suppliers has the potential for substantially reducing search and transaction costs for individual firms and for the economy as a whole.
+This reduction would mean less unproductive search and fewer workhours more generally embodied in each unit of output, enhancing output per hour.
+Already, major efforts have been announced in the auto industry to move purchasing operations to the Internet.
+Similar developments are planned or in operation in many other industries as well.
+It appears to be only a matter of time before the Internet becomes the prime venue for the trillions of dollars of business-to-business commerce conducted every year.
+There can be little doubt that, on balance, the evolving surge in innovation is an unmitigated good for the large majority of the American people.
+Yet, implicit in the very forces of change that are bringing us a panoply of goods and services considered unimaginable only a generation ago are potential financial imbalances and worker insecurities that need to be addressed if the full potential of our technological largesse is to be achieved.
+As I testified before the Congress last month, accelerating productivity entails a matching acceleration in the potential output of goods and services and a corresponding rise in real incomes available to purchase the new output.
+The pickup in productivity however tends to create even greater increases in aggregate demand than in potential aggregate supply.
+This occurs principally because a rise in structural productivity growth, not surprisingly, fosters higher expectations for long-term corporate earnings.
+These higher expectations, in turn, not only spur business investment but also increase stock prices and the market value of assets held by households, creating additional purchasing power for which no additional goods or services have yet been produced.
+Historical evidence suggests that perhaps three to four cents out of every additional dollar of stock market wealth eventually is reflected in increased consumer purchases.
+The sharp rise in the amount of consumer outlays relative to disposable incomes in recent years, and the corresponding fall in the saving rate, is a reflection of this so-called wealth effect on household purchases.
+Moreover, higher stock prices, by lowering the cost of equity capital, have helped to support the boom in capital spending.
+Outlays prompted by capital gains in equities and homes in excess of increases in income, as best we can judge, have added about 1 percentage point to annual growth of gross domestic purchases, on average, over the past half-decade.
+The additional growth in spending of recent years that has accompanied these wealth gains, as well as other supporting influences on the economy, appears to have been met in equal measure by increased net imports and by goods and services produced by the net increase in newly hired workers over and above the normal growth of the workforce, including a substantial net inflow of workers from abroad.
+But these safety valves that have been supplying goods and services to meet the recent increments to purchasing power largely generated by capital gains cannot be expected to absorb indefinitely an excess of demand over supply.
+Growing net imports and a widening current account deficit require ever-larger portfolio and direct foreign investments in the United States, an outcome that cannot continue without limit.
+Imbalances in the labor markets perhaps may have even more serious implications for potential inflation pressures.
+While the pool of officially unemployed and those otherwise willing to work may continue to shrink, as it has persistently over the past seven years, there is an effective limit to new hiring, unless immigration is uncapped.
+At some point in the continuous reduction in the number of available workers willing to take jobs, short of the repeal of the law of supply and demand, wage increases must rise above even impressive gains in productivity.
+This would intensify inflationary pressures or squeeze profit margins, with either outcome capable of bringing our growing prosperity to an end.
+In short, unless we are able to indefinitely increase the rate of capital flows into the United States to finance rising net imports or continuously augment immigration quotas, overall demand for goods and services cannot chronically exceed the underlying growth rate of supply.
+Our immediate goal at the Federal Reserve should be to encourage the economic and financial conditions that will best foster the technological innovation and investment that spur structural productivity growth.
+It is structural productivity growth--not the temporary rise and fall of output per hour associated with various stages of the business cycle--that determines how rapidly living standards rise over time.
+Achievement of this goal requires a stable macroeconomic environment of sustained growth and continued low inflation.
+That, in turn, means that the expansion of demand must moderate into alignment with the more rapid growth rate of potential supply.
+The current gap between the growth of supply and demand for goods and services, of necessity, has been reflected in an excess in the demand for funds over new savings from Americans, including those savings generated by rising budget surpluses.
+As a consequence, real long-term corporate borrowing costs have risen significantly over the past two years.
+Presumably as a result, many analysts are now projecting that the rate of increase in stock market wealth may soon begin to slow.
+If so, the wealth effect adding to spending growth would eventually be damped, and both the rate of increase in net imports as a share of GDP, and the rate of decline in the pool of unemployed workers willing to work should also slow.
+However, so long as these two imbalances continue, reflecting the excess of demand over supply, the level of potential workers will continue to fall and the net debt to foreigners will continue to rise by increasing amounts.
+Until market forces, assisted by a vigilant Federal Reserve, effect the necessary alignment of the growth of aggregate demand with the growth of potential aggregate supply, the full benefits of innovative productivity acceleration are at risk of being undermined by financial and economic instability.
+The second consequence of rapid economic and technological change that needs to be addressed is growing worker insecurity, the result, I suspect, of fear of potential job skill obsolescence.
+Despite the tightest labor markets in a generation, more workers currently report they are fearful of losing their jobs than similar surveys found in 1991 at the bottom of the last recession.
+The marked move of capital from failing technologies to those at the cutting edge has quickened the pace at which job skills become obsolete.
+The completion of high school used to equip the average worker with sufficient skills to last a lifetime.
+That is no longer true, as evidenced by community colleges being inundated with workers returning to school to acquire new skills and on-the-job training being expanded and upgraded by a large proportion of American business.
+Not unexpectedly, greater worker insecurities are creating political pressures to reduce the fierce global competition that has emerged in the wake of our 1990s technology boom.
+Protectionist measures, I have no doubt, could temporarily reduce some worker anxieties by inhibiting these competitive forces.
+However, over the longer run such actions would slow innovation and impede the rise in living standards.
+They could not alter the eventual shifts in production that owe to enormous changes in relative prices across the economy.
+Protectionism might enable a worker in a declining industry to hold onto his job longer.
+But would it not be better for that worker to seek a new career in a more viable industry at age 35 than hang on until age 50, when job opportunities would be far scarcer and when the lifetime benefits of additional education and training would be necessarily smaller?
+To be sure, assisting those who are already close to retirement in failing industries is an imperative.
+But that can be readily accomplished without distorting necessary capital flows to newer technologies through protectionist measures.
+
+Foreign banks play a critical role in the U.S. financial system, accounting for nearly one-quarter of total U.S. banking assets throughout the 1990s.
+The Federal Reserve has consistently supported open U.S. markets for foreign banks and has long recognized the value that you add to our economy and financial markets.
+Conferences such as this provide important opportunities for the banking and supervisory communities to meet with one another and to share our thoughts and concerns.
+In my comments today, I would like to discuss the apparent motivation for managers to create global financial institutions, which provides the background for a convergence of regulatory standards around the world.
+I would also like to mention briefly the approach that the Federal Reserve is taking with respect to foreign banks.
+Finally, I would like to focus on the emerging global regulatory standards, mainly the efforts of the Basel Committee on Banking Supervision to revise risk-based capital standards.
+Global Consolidation of Financial Institutions The need for sound and consistent policies and procedures throughout the world has become more important as our financial markets and financial institutions have become larger, more complex, and more tightly integrated.
+If anyone needs proof of that statement, the spread of the Asian crisis during the course of 1997 and 1998 stands as the most obvious example of the growing integration of financial markets.
+Informed researchers would argue that the global consolidation of financial institutions appears to be driven by several factors.
+Originally, globalization probably reflected the desire of banks to serve their domestic customers as those customers themselves expanded overseas.
+This was probably a defensive measure designed to retain customers and preclude others from making inroads into longstanding customer relationships.
+For other financial institutions, the motivation for overseas expansion may well have been to fully leverage perceived comparative advantages in important business lines, such as custody, that were characterized by high fixed cost and economies of scale.
+A related motivation might have been to take advantage of cultural affinity, which itself is another form of comparative advantage.
+The strong presence of Spanish financial institutions in Latin America may be the prime example of this motivation.
+Finally, many institutions may have expanded to meet ambitious aspirations for growth that comparatively small local markets might not accommodate.
+Certainly, one might argue that the global reach of major Dutch and Swiss institutions reflects this motivation, at least in part.
+Importantly, one must ask if global institutions are more successful than their home-bound competitors.
+At least one private-sector study, from a major consulting firm, suggests that during the ten-year period ending December 31, 1996, most of the global financial services companies did not achieve significantly superior returns to shareholders.
+Nor did they appear to achieve superior revenue growth.
+I am sure that there will be other studies that attempt to determine the effect of global consolidation on the financial results of the firms involved.
+In any event, regardless of the presence or absence of financial success, the trend toward a more global financial industry will continue.
+Such market forces will provide a continuing impetus for continued cooperation and coordination among bank supervisors worldwide.
+Indeed, the forces for cooperation will only grow as these trends become more pronounced.
+The Gramm-Leach-Bliley Act Issues related to the international supervision and regulation of banks come at a time when we in the United States face new challenges in implementing financial reform and the provisions of the Gramm-Leach-Bliley Act.
+That act has the potential, and indeed the intention, to change substantially the structure, activities, and supervision of financial institutions in this country.
+Many of the foreign banks represented here today operate as universal banks outside the United States and, like many U.S. banks, you have been frustrated by the outmoded restrictions on your banking activities in our markets.
+After much debate, the U.S. Congress enacted legislation that permits banks operating in the United States to expand their activities within a legal and supervisory framework intended to preserve their safety and soundness.
+As you well know, the Federal Reserve Board recently issued for public comment an interim amendment to Regulation Y setting forth the procedures for banking organizations to elect to become financial holding companies and avail themselves of the broader powers authorized under the act.
+In according financial holding company status to foreign banks, the Congress instructed the Board to apply capital and managerial standards comparable to those pertaining to U.S. banking organizations, giving due regard to the principles of national treatment and equality of competitive opportunity.
+The rule applies the U.S. bank risk-based capital standards of 6 percent Tier 1 capital and 10 percent total capital to foreign banks wishing to become financial holding companies.
+It also applies the U.S. leverage ratio to foreign banks, but at the lower holding company level of 3 percent, instead of the 5 percent ratio required of U.S. banks.
+To consider differences in banking and accounting practices in many foreign countries, the Board also will assess the capital and management of foreign banks case by case.
+This assessment will take into account, when appropriate, a number of factors such as the bank's composition of capital, accounting standards, long-term debt ratings, reliance on government support to meet capital requirements, and the extent to which the bank is subject to comprehensive, consolidated supervision.
+The intent of this approach is to provide the flexibility necessary to take into account all relevant factors in a way that will be equitable to all banks, foreign and domestic.
+We understand that there is concern that this procedure will be subject to delays, resulting in disadvantages to foreign banks.
+Let me assure you that we fully intend to deal with submissions from foreign banks expeditiously and in the same time frames that are provided for the review of submissions by U.S. companies.
+If different procedures will allow us to meet the statutory requirements on comparability, we are very open to considering them.
+The Board recognizes that this interim rule is of great interest to foreign banks and that it raises complex issues--in particular, how to achieve comparability as required by the law while still respecting the home country supervisory framework.
+This balance is difficult to achieve, and the Board intends to give careful consideration to the comments it receives in response to the interim rule.
+The Board is committed to implementing this new law in a manner that is equitable and fair to all institutions and that ensures a sound and stable framework for the evolution of financial services in the United States.
+Basel Committee on Banking Supervision In supervising financial holding companies, the Federal Reserve will need to consider not only the Gramm-Leach-Bliley Act but also the policies and actions of other agencies in this country and abroad.
+Fortunately, we have been working together for several years to deal with issues arising from activities of financial conglomerates.
+I think that much of the experience we have gained through our participation in groups such as the Basel Committee on Banking Supervision, the Joint Forum, and the Financial Stability Forum will help us meet the challenges ahead.
+Because time is brief, I will focus the balance of my remarks on the work of the Basel Committee.
+The Federal Reserve has been actively involved in this committee since its inception in the mid-1970s, and the Basel Committee continues to take the lead in coordinating banking supervisory policies and practices globally.
+Although representatives from the G-10 countries and Luxembourg do the work of the committee, it recognizes that supervisors in most of the non-G-10 countries typically adopt the policies and principles that the committee adopts.
+As a result, the committee has sought to incorporate the views of supervisors throughout the world.
+A non-G-10 working group, for example, is participating in the current revisions to the Capital Accord.
+As I know you are all aware, the Basel Committee is devoting a tremendous amount of time and resources to the effort to develop a new capital adequacy framework that is more sensitive to the level of underlying economic risk.
+Indeed, comments are due soon on a consultative paper issued last year on this topic.
+Feedback from the industry is important to the Basel Committee, and I hope that many of you will be communicating your ideas and reactions to the Bank for International Settlements.
+Capital requirements are an essential supervisory tool for fostering the safety and soundness of banks.
+The 1988 Basel Capital Accord was a major achievement in establishing a uniform standard for internationally active banks.
+In the years since, the committee has continued to develop and refine the standard in an effort to keep pace with banking practices and to maintain adequate levels of bank capital throughout the world.
+Many have asked why the Basel Committee is revising the accord at this time.
+There has been recognition from the start that the 1988 accord was rather crude and imperfect in many respects.
+Although that accord incorporates some differentiation in credit risk, it is limited.
+Moreover, the accord does not explicitly address interest rate risk, operational risk, or other risks that can be substantial at some banks.
+Consequently, some countries, including the United States, have put in place supplementary requirements-such as target ratios above the minimum levels-to help mitigate the accord's shortcomings.
+For example, as a further prudential measure, the United States decided to apply a separate leverage constraint to provide some limit to leverage, regardless of what the risk-weighted Basel approach might allow.
+Beyond these initial and inherent imperfections of the accord, simply the dramatic innovations over the past decade in financial markets and in the ways in which banks manage and mitigate credit risk have driven the need for change.
+The committee has been concerned particularly about the incentives that the accord gives banks to take on higher-risk, higher-reward transactions, and to engage in regulatory capital arbitrage.
+Efforts to make the standard more sensitive to underlying risk should greatly reduce these incentives.
+Basel Committee Consultative Paper Last year's consultative paper set out a new paradigm for judging capital adequacy based on a set of three so-called pillars.
+Pillar I is sound minimum capital standards or, in essence, the existing Accord with improvements.
+Pillar II is supervisory oversight of capital adequacy at individual banks, and pillar III is market discipline supported by adequate public disclosures by banks.
+These three pillars represent an evolution in the Basel Committee's approach to capital adequacy and should be mutually reinforcing.
+The addition of pillars II and III acknowledges the importance of ongoing review by supervisors of the capital adequacy at individual banks and the critical role of market discipline in controlling the risk-taking of banks.
+The committee's revisions to pillar I are aimed at developing minimum capital standards that more accurately distinguish degrees of credit risk and that are appropriate for banks of varying levels of sophistication.
+In its consultative document issued last June, the committee set out two possible approaches: a standardized approach that would tie capital requirements to external credit assessments, such as credit ratings, and another approach that would be based on a bank's own internal ratings.
+The latter would derive a capital requirement from bank estimates of default probabilities and from estimated losses-given-default on individual exposures.
+Using such estimates would help greatly in making capital requirements more sensitive to different levels of risk but would also introduce more subjectivity and a lack of transparency into the process.
+Therefore, we may need to limit or constrain certain measures.
+How to validate the estimates will also be an issue, especially considering that banks, themselves, often have little historical data on which to base key assumptions and calculations.
+Comparability and competitive equity among banks and national banking systems will be important factors in the debate.
+Nevertheless, the two-pronged approach of offering both a simplified and a more complex method seems both necessary and reasonable in order to accommodate all types of banks.
+Even then, however, we must recognize that any standard will continue to evolve.
+Although I believe that an internal ratings-based approach would provide an important step forward, its results would still likely differ from those of a bank's own economic capital allocation models.
+Questions about the correlation of risks among different asset groups and about how and whether to consider them in a regulatory capital standard are still unresolved and go to the heart of full credit risk models.
+Beyond credit risk is the highly complex matter of operating risk and other risks that are not explicitly dealt with in the accord.
+In the past, of course, the overt charge for credit risk has carried the full load of these other risks, but that has begun to change.
+Both the Basel Supervisors Committee and the international banking community need to address these topics more directly and more satisfactorily.
+Regardless of what regulators and supervisors do, you as bank managers must fully recognize and control your risks.
+As you make greater progress, so can regulators.
+In the past, relatively rough rules-of-thumb and traditional practices sufficed in supervising and managing banks.
+But just as derivatives have allowed you to unbundle risks and to price and structure financial products with more precision, similar technologies and innovations are requiring more precision in almost everything else you do.
+And also everything we do as bank supervisors.
+Opportunities for arbitrage within financial markets and capital regulations are easily found.
+What you do within the industry and what we do as bank supervisors must be more closely connected in all respects to the underlying economics.
+Meeting that challenge will keep all of us on our toes.
+Recognizing that supervisors need to relate capital requirements of individual banks more closely to their unique risk profiles, the Basel Committee's second pillar--the supervisory review of capital--emphasizes principles such as these: that supervisors should expect, and have the authority to require, banks to operate above the minimum regulatory capital ratios that they should require their banks to assess and maintain overall capital adequacy in relation to underlying risks that supervisors should review and evaluate the internal capital adequacy assessments and strategies of banks, as well as their compliance with regulatory capital ratios that supervisors should intervene at an early stage to prevent capital from falling below prudent levels and should require remedial action quickly if capital becomes inadequate.
+I believe it is essential to have effective supervisory oversight and assessment of individual bank capital as a complement to meeting regulatory capital requirements.
+This does not mean, however, that supervisors have ultimate responsibility for determining the adequate level of capital at each bank nor that supervisory judgment should replace that of bank management.
+Rather an active dialogue should take place between bank management and supervisors with regard to the optimum levels of capital.
+Pillar II thus moves the accord beyond a simple ratio-based standard to a more comprehensive approach for assessing the adequacy of capital levels.
+The supervisory review of capital called for in pillar II obviously will have resource implications for supervisors around the world and may require significant changes in supervisory cultures and techniques in many countries, both G-10 and non-G-10.
+The committee will need to develop guidance for bank supervisors to use when evaluating the adequacy of internal capital assessment processes.
+A residual benefit of such evaluations will be that supervisors will more easily stay current with evolving industry practices related to risk management and will better understand the risks that individual banks face.
+The third element of the proposed new capital framework--pillar III--relates to market discipline, which I believe all supervisors recognize as a critical complement to their supervisory oversight process.
+When banks disclose timely and accurate information about their capital structure and risk exposures, market participants can better evaluate their own risks in dealing with such institutions.
+Greater market discipline, in turn, gives banks more incentive to manage their risks effectively and to remain adequately capitalized.
+Recognizing that current disclosure practices in some countries are relatively weak, the Basel Committee under this pillar is working on guidelines that would make banking risks more transparent.
+The goal is to protect legitimate proprietary information, while promoting more consistent disclosure among nations.
+Adequate disclosure becomes even more important as we base regulatory capital requirements on internal risk measures of banks.
+Clearly, more information, by itself, is not always better.
+Working with the industry, we need to decide which specific elements are needed to do the job.
+Indeed, an ongoing partnership between banks and supervisors is crucial to the success of any regulatory capital standard and to the success of the supervisory process overall.
+It is in everyone's interest that we succeed in this effort and that the international financial system remain sound.
+Other Basel Committee Initiatives Although the Basel Committee may be best known for its work on capital standards, its efforts extend well beyond that--as suggested by the two other pillars.
+Its development of the Core Principles for Effective Banking Supervision in 1997 is particularly noteworthy.
+These twenty-five principles cover a broad range of supervisory issues involving licensing and supervising banks and enforcing supervisory judgments.
+By setting reasonable thresholds for standards that banking supervisors in all countries should achieve, the committee has substantially helped to promote financial stability worldwide.
+Of course, the challenge now is to help all countries meet these core principles, despite the limited expertise and resources some may have.
+Fortunately, the International Monetary Fund and World Bank are working with the committee and can be of significant help.
+The securities and insurance supervisors have taken similar steps in developing supervisory principles of their own that should contribute to stronger supervisory regimes worldwide and provide a framework for further harmonization with banking standards, when appropriate.
+Conclusion In closing, I see no shortage of difficult challenges facing financial institution supervisors in the period ahead.
+Clearly, supervisors of the various sectors of the financial industry--banking, insurance, and securities--will continue to be confronted with rapid and dramatic changes in banking and financial markets.
+Supervisors will need to react to technological innovations, expansion of financial institutions into new and increasingly more complex activities, and ongoing consolidation within the industry worldwide.
+A rigorous, coordinated supervisory approach will be necessary to counterbalance the pressures of an increasingly dynamic and competitive marketplace.
+I am confident that by working together and with the financial industry supervisors we can meet the challenge.
+

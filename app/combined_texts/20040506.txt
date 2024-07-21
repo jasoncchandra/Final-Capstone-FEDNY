@@ -1,0 +1,344 @@
+The industry has indeed evolved over the four-and-one-half years since passage of the Gramm-Leach-Bliley Act--and perhaps in many respects, it has evolved in directions different than some envisioned when the act was under consideration in the Congress.
+Today I would like to discuss the evolution of the industry and the development of innovative products, services, and activities, especially in the areas of complex structured finance transactions and credit risk transfer.
+I will then discuss the role of counsel in ensuring the effective risk management of these innovations through a robust enterprise-wide risk-management framework.
+Industry Evolution and Innovation The Gramm-Leach-Bliley Act recognized the market reality that the limitations imposed by the Glass-Steagall Act in the 1930s and other statutory restrictions had been rendered nearly irrelevant by financial innovation, much of it outside the banking industry.
+Gramm-Leach-Bliley realigned the law to reflect the existing realities of the marketplace and to permit banks to do more efficiently what they were already doing in costly ways.
+The statute relaxed long-standing restrictions on affiliations among commercial banks, securities firms, and insurance companies; authorized the Federal Reserve Board and the Treasury to designate additional financial holding company activities as "financial in nature" or "incidental to a financial activity;" and authorized the Federal Reserve Board to determine whether activities are "complementary to a financial activity."
+To avoid extending to these new activities the subsidy implicit in deposit insurance and in access to the Federal Reserve's discount window and payment system guarantees, the act requires that many of these activities be conducted through a legally separate bank holding company affiliate, provided also that the holding company meets the "well-managed" and "well-capitalized" criteria for designation as a financial holding company.
+When Gramm-Leach-Bliley became law in 1999, many predicted the rise of the financial conglomerate--an entity that would provide a full range of banking, securities, and insurance products and services to institutional and retail customers.
+However, this prediction has not been realized, and the pace of change has been relatively slow since 1999.
+The slow pace is, no doubt, partly a result of the economic slowdown and stock market decline from 2000 to last year.
+But I suspect that these factors do not explain fully why we have not seen the rise of the financial conglomerate.
+Indeed, I suggest that the benefits that might result from running a financial conglomerate are in fact much more difficult to realize than many may have thought.
+True, there are now in excess of 600 domestic financial holding companies.
+But most of these are relatively small.
+Roughly three-quarters of financial holding companies have assets of less than $10 billion.
+Fewer than one-third of all financial holding companies have reported engaging in newly authorized activities, and most of these have opted to engage in relatively well-understood and less-risky insurance agency activities.
+Thus, the activities of most banking organizations have not changed significantly since Gramm-Leach-Bliley.
+However, innovation in financial products and services has continued since Gramm-Leach-Bliley.
+Many of these innovations cross sector boundaries and involve banking, securities, and insurance firms.
+Today, I will talk about two of these innovations: complex structured finance transactions and credit risk transfer.
+Complex Structured Finance Transactions Innovation has occurred in the development of complex structured finance transactions, which have received quite a bit of negative press of late.
+While we are all too aware that recent events have unfortunately highlighted the ways in which complex structured transactions can be used for improper or even fraudulent purposes, these transactions, when designed and used appropriately, can play an important role in financing businesses and mitigating various forms of financial risks.
+Although deal structures vary, complex structured finance transactions generally have four common characteristics.
+First, they typically result in a final product that is nonstandard and is structured to meet a customer's specific financial objectives.
+Second, they often involve professionals from multiple disciplines and may involve significant fees.
+Third, they may be associated with the creation or use of one or more special-purpose entities designed to address the customer's economic, legal, tax, or accounting objectives or the use of a combination of cash and derivatives products.
+Fourth, and perhaps most important, they may expose the financial institution to elevated levels of market, credit, operations, legal, or reputational risk.
+Financial institutions may assume substantial risks when they engage in a complex structured finance transaction unless they have a full understanding of the economic substance and business purpose of the transaction.
+These risks are often difficult to quantify, but the result can be severe damage to the reputations of both the companies engaging in the transactions and their financial advisers--and, in turn, impaired public confidence in those institutions.
+These potential risks and the resulting damage are particularly severe when markets react through adverse changes in pricing for similarly structured transactions that are designed appropriately.
+Assessments of the appropriateness of a transaction for a client traditionally have required financial firms and advisers to determine if the transaction is consistent with the market sophistication, financial condition, and investment policies of the customer.
+Given recent events, it is appropriate to raise the bar for appropriateness assessments by taking into account the business purpose and economic substance of the transaction.
+When banking organizations provide advice on, arrange, or actively participate in complex structured finance transactions, they may assume legal and reputational risks if the end user enters into the transaction for improper purposes.
+Legal counsel to financial firms can help manage legal and reputational risk by taking an active role in the review of the customer's governance process for approving the transaction, of financial disclosures relating to the transaction, and of the customer's objectives for entering into the transaction.
+On the regulatory side, the Federal Reserve has been working with the other federal banking agencies and the Securities and Exchange Commission to develop interagency guidance on complex structured finance transactions.
+We believe it is important for all participants in complex structured finance transactions to understand the agencies' concerns and supervisory direction.
+Our goal is to highlight the "lessons learned" from recent events as well as what we believe on the basis of supervisory reviews and experience, to be sound practices in this area.
+As in other operational areas, strong internal controls and risk-management procedures can help institutions effectively manage the risks associated with complex structured finance transactions.
+Here are some of the steps that financial institutions, with the assistance of counsel and other advisers, should take to establish such controls and procedures: Ensure that the institution's board of directors establishes the institution's overall appetite for risk (especially reputational and legal) and effectively communicates the board's risk tolerances throughout the organization.
+Implement firm-wide policies and procedures that provide for the consistent identification, evaluation, documentation, and management of all risks associated with complex structured finance transactions--in particular, the credit, reputational, and legal risks.
+Implement firm-wide policies and procedures that ensure that the financial institution obtains a thorough understanding of the business purposes and economic substance of those transactions identified as involving heightened legal or reputational risk and that those transactions are approved by appropriate senior management.
+Clearly define the framework for the approval of individual complex structured finance transactions as well as new complex structured finance product lines within the context of the firm's new-product approval process.
+The new-product policies for complex structured finance transactions should address the roles and responsibilities of all relevant parties and should require the approval of all relevant control areas that are independent of the profit center before the transaction is offered to customers.
+Finally, implement monitoring, risk-reporting, and compliance processes for creating, analyzing, offering, and marketing complex structured finance products.
+Subsequent to new-product approval, the firm should monitor new complex structured finance products to ensure that they are effectively incorporated into the firm's risk-control systems.
+Of course, these internal controls and risk-management processses need to be supported and enforced by a strong "tone at the top" and a firm-wide culture of compliance.
+We expect that banks, as a result of recent public and supervisory attention to complex structured finance transactions, will be asking more questions, requesting additional documentation, and scrutinizing financial statements more carefully to guard against reputational and legal risk.
+In fact, our supervisory reviews indicate that many financial institutions have already taken steps to enhance their internal controls and new-product approval processes in order to filter out transactions that pose unacceptable levels of reputational and legal risk.
+As a result, some financial institutions have turned down deals with unfavorable risk characteristics--deals that they might have accepted in the past.
+While we applaud these developments, we hope that the guidance we are developing will help further increase awareness, among both banking organizations and their advisers, of sound practices in this area.
+I would like to note that the guidance the agencies issue should be considered the first step in the evolution of sound practices for complex structured finance transactions.
+As these transactions take on new characteristics or different or heightened levels of risk over time, the sound practices for managing them also will need to evolve.
+Credit Risk Transfer Some of the complex structured finance transactions we have recently seen reflect and incorporate innovations in credit risk transfer mechanisms--credit default swaps and synthetic collateralized debt obligations in particular.
+As most of you know, credit default swaps involve the sale or transfer of credit risk associated with a specific reference entity for a fixed term in exchange for a fee from the buyer of the protection.
+Synthetic collateralized debt obligations entail similar arrangements but are based on portfolios of exposures and are tranched in a manner typically seen in securitizations.
+Credit default swaps and collateralized debt obligations provide flexibility in tailoring and marketing financial transactions to match the risk appetites of investors.
+One aspect that we, as bank supervisors, find encouraging about the growth of credit risk transfer activity is the diversification benefit it provides and its potential for greater economic efficiency.
+By their design, derivative instruments segment risks for distribution to those parties most willing to accept them.
+A key point, however, is that these parties should be able to successfully absorb and diffuse any subsequent loss.
+The ability to handle any losses on these instruments requires a recognition and understanding of the underlying risks.
+It is important to recognize that the market for these instruments is dominated by large institutions and private investors that have specialized expertise in credit analysis and significant historical performance records.
+As bank supervisors, we are also encouraged by the progress made by the legal profession to resolve legal issues relating to credit risk transfer.
+The standardization of documentation for credit derivatives transactions and the issuance of legal opinions regarding the enforceability of these contracts have provided increased certainty to the market.
+In general, the contracts have performed as expected.
+By way of note, the Federal Reserve is participating in work commissioned last year by the Financial Stability Forum to gain a broader understanding of issues related to credit risk transfer.
+I look forward to the conclusions and assessments of this group.
+Little evidence, to date, suggests that the institutions and investors that engage in most of the credit risk transfer activities fail to understand the risks of these transactions.
+That said, I would offer one critical caveat regarding the use of any model for risk- management purposes, including the pricing and risk management of increasingly complex credit risk transfer instruments.
+Models use historic data and rely heavily on supporting assumptions, including correlations between different reference entities.
+It is worth reminding ourselves that correlations may behave very differently during times of stress than under normal circumstances.
+Further, these are relatively young products, and the markets in which they trade often do not have deep liquidity.
+Thus, pricing information can be very volatile.
+Given the heavy reliance on models in this arena, it is important that any risk- management framework include an independent model review program.
+A review should be conducted by qualified independent staff prior to actual reliance on a model, and periodically thereafter.
+Tests should include validation of results, data integrity, and internal controls over changes in model specifications.
+Models should be appropriate for the specific products and the nature of the risks at an institution.
+Enterprise-Wide Risk-Management Framework The recent innovations in credit risk transfer and complex structured finance transactions offer opportunities for the development of new markets, improved pricing, and better risk-transfer mechanisms that can improve the efficiency of U.S. and world financial markets.
+However, innovation also presents risk-management challenges.
+I believe that these challenges are addressed most effectively through an enterprise-wide risk-management framework that provides a structure for dealing with uncertainty and its associated risks and opportunities.
+As you may know, the Committee of Sponsoring Organizations of the Treadway Commission, or COSO, has published an exposure draft that sets forth an enterprise-wide risk-management framework, including the definition and components of risk management and the roles and responsibilities of various parties.
+Enterprise-wide risk management is a process that involves people at every level of the firm in setting strategy and making operational decisions based on an analysis of events that may impact the firm.
+Through an enterprise-wide risk-management framework, an entity can better limit exposures within its risk appetite and provide its management and board of directors with reasonable assurances regarding the achievement of the organization's objectives.
+Recent operational breakdowns at financial institutions underscore the need for enterprise-wide risk-management.
+As organizations expand into more lines of business, inherent conflicts of interest become more likely.
+Conflicts can arise when a firm offers research on fixed-income securities to investors and underwrites the public offerings of the same securities.
+And problems may occur if an organization offers compensation designed to encourage officers to increase deal volume without regard for reputational, credit, or legal risks.
+Thus, the traditional approach of managing risks only within individual business lines or functions may no longer be effective.
+Viewing risks across the enterprise can help management and the board of directors not only articulate more clearly the "most likely" outcome of a strategy, change in process, or transaction but, more important, focus on a range of possible results to facilitate a discussion of risks and effectiveness of processes to lay off or mitigate those risks.
+Internal controls are an integral part of enterprise-wide risk management.
+Under COSO's Internal Control Framework, directors have responsibility for overseeing internal control processes so that they can reasonably expect that their directives will be followed.
+Directors should also keep up with innovations in corporate governance, and this is one key area in which the legal advisers of financial companies can assist their clients.
+Indeed, legal counsel can help lead the way to developing sound practices in corporate governance.
+While we are discussing the importance of effective internal controls, let me point out that the Public Company Accounting Oversight Board (PCAOB) has recently approved Auditing Standard No.
+2, An Audit of Internal Control over Financial Reporting Performed in Conjunction with an Audit of Financial Statements.1 The new standard highlights the benefits of strong internal controls over financial reporting and furthers the objectives of the Sarbanes-Oxley Act.
+The standard requires external auditors of public companies to evaluate the process that management uses to prepare the company's financial statements.
+External auditors must gather evidence regarding the design and operational effectiveness of the company's internal controls and determine whether evidence supports management's assessment of the effectiveness of the company's internal controls.
+While the new standard allows external auditors to use the work of others, including that performed by internal auditors, it emphasizes that external auditors must perform enough of the testing themselves so that their own work provides the principal evidence for making a determination regarding the company's controls.
+On the basis of the work performed, the external auditor must render an opinion as to whether the company's internal control process is effective--a requirement that constitutes a relatively high standard.
+In addition, as part of its overall assessment of internal controls, the external auditor is expected to evaluate the effectiveness of the audit committee.
+If the audit committee is deemed to be ineffective, the external auditor is required to report that assessment to the company's board of directors.
+While some skeptics may wonder if a public accountant will criticize its client, the goals are to strengthen professional standards and to remind accounting firms that acceptance of an engagement at a firm at which internal control weaknesses are not promptly addressed may be a risk exposure they should seriously reconsider.
+I would encourage the attorneys here today to adopt the best practices in risk management that the accounting and financial firms are implementing to improve their organizations' governance.
+Conclusion In conclusion, the financial services industry has evolved considerably over the past several years, in large part because of innovation in products, services, and activities, particularly in the areas of complex structured finance transactions, credit risk transfer, and risk management.
+
+This observation raises some key questions about the longer-term stability of the U.S. and global economies that bear significantly on future economic developments, including the future competitive shape of banking.
+Among the limits we have been pressing against are those in our external and budget balances.
+We in the UnitedStates have been incurring ever larger trade deficits, with the broader current account measure having reached 5 percent of our gross domestic product (GDP).
+Yet the dollar's real exchange value, despite its recent decline, remains close to its average of the past two decades.
+Meanwhile, we have lurched from a budget surplus in 2000 to a deficit that is projected by the Congressional Budget Office to be 4-1/4 percent of GDP this year.
+In addition, we have legislated commitments to our senior citizens that, given the inevitable retirement of our huge baby-boom generation, will create significant fiscal challenges in the years ahead.
+Yet the yield on Treasury notes maturing a decade from now remain at low levels.
+Nor are we experiencing inordinate household financial pressures as a consequence of record high household debt as a percent of income.
+* * * Has something fundamental happened to the U.S. economy and, by extension, U.S. banking, that enables us to disregard all the time-tested criteria of imbalance and economic danger?
+Regrettably, the answer is no.
+The free lunch has still to be invented.
+We do, however, seem to be undergoing what is likely, in the end, to be a one-time shift in the degree of globalization and innovation that has temporarily altered the specific calibrations of those criteria.
+Recent evidence is consistent with such a hypothesis of a transitional economic paradigm, a paradigm somewhat different from that which fit much of our earlier post-World War II experience.
+* * * Globalization has altered the economic frameworks of both advanced and developing nations in ways that are difficult to fully comprehend.
+Nonetheless, the largely unregulated global markets, with some notable exceptions, appear to move effortlessly from one state of equilibrium to another.
+Adam Smith's "invisible hand" remains at work on a global scale.
+Because of a lowering of trade barriers, deregulation, and increased innovation, cross-border trade in recent decades has been expanding at a far faster pace than GDP.
+As a result, domestic economies are increasingly exposed to the rigors of international competition and comparative advantage.
+In the process, lower prices for some goods and services produced by our trading partners have competitively suppressed domestic price pressures.
+Production of traded goods has expanded rapidly in economies with large, low-wage labor forces.
+Most prominent are China and India, which over the past decade have partly opened up to market capitalism, and the economies of central and eastern Europe that were freed from central planning by the fall of the Soviet empire.
+The consequent significant additions to world production and trade have clearly put downward pressure on domestic prices, though somewhat less so over the past year.
+Moreover, the pronounced fall in inflation, virtually worldwide, over the past two decades has doubtless been a key factor in the notable decline in world economic volatility.
+In tandem with increasing globalization, monetary policy, to most observers, has become increasingly effective in achieving the objective of price stability.
+But because we have not experienced a sufficient number of economic turning points to judge the causal linkages among increased globalization, improved monetary policy, significant disinflation, and greater economic stability, the structure of the transitional paradigm is necessarily sketchy.
+Nonetheless, a paradigm encompassing globalization and innovation, far more than in earlier decades, appears to explain the events of the past ten years better than other conceptual constructs.
+If this is indeed the case, because there are limits to how far globalization and the speed of innovation can proceed, the current apparent rapid pace of structural shift cannot continue indefinitely.
+A couple of weeks ago, I indicated in testimony to the Congress that the outlook for the next year or two has materially brightened.
+But the outlook for the latter part of this decade remains opaque because it is uncertain whether this transitional paradigm, if that is what it is, is already far advanced and about to slow, or whether it remains in an early, still vibrant stage of evolution.
+* * * Globalization--the extension of the division of labor and specialization beyond national borders--is patently a key to understanding much of our recent economic history.
+With a deepening of specialization and a growing population free to take risks over a widening area, production has become increasingly international.1 The pronounced structural shift over the past decade to a far more vigorous competitive world economy than that which existed in earlier postwar decades apparently has been adding significant stimulus to world economic activity.
+That stimulus, like that which resulted from similar structural changes in the past, is likely a function of the rate of increase of globalization and not its level.
+If so, such impetus would tend to peter out, as we approach the practical limits of globalization.
+Full globalization, in which trade and finance are driven solely by risk-adjusted rates of return and risk is indifferent to distance and national borders, will likely never be achieved.
+The inherent risk aversion of people, and the home bias implied by that aversion, will limit how far globalization can proceed.
+But because so much of our recent experience has little precedent, as I noted earlier, we cannot fully determine how long the current globalization dynamic will take to play out.
+* * * The increasing globalization of the post-war world was fostered at its beginnings by the judgment that burgeoning prewar protectionism was among the primary causes of the depth of the Great Depression of the 1930s.
+As a consequence, trade barriers began to fall after the war.
+Globalization was enhanced further when the inflation-ridden 1970s provoked a rethinking of the philosophy of economic policy, the roots of which were still planted in the Depression era.
+In the United States, that rethinking led to a wave of bipartisan deregulation of transportation, energy, and finance.
+At the same time, there was a growing recognition that inflation impaired economic performance.
+Indeed, Group of Seven world leaders at their 1977 Economic Summit identified inflation as a cause of unemployment.
+Moreover, monetary policy tightening, and not increased regulation, came to be seen by the end of that decade as the only viable solution to taming inflation2.
+Of course, the startling recovery of war-ravaged West Germany following Ludwig Erhard's postwar reforms, and Japan's embrace of global trade, were early examples of the policy reevaluation process.
+It has taken several decades of experience with markets and competition to foster an unwinding of regulatory rigidities.
+Today, privatization and deregulation have become almost synonymous with "reform."
+* * * By any number of measures, globalization has expanded markedly in recent decades.
+Not only has the ratio of international trade in goods and services to world GDP risen inexorably over the past half-century, but a related measure--the extent to which savers reach beyond their national borders to invest in foreign assets--has also risen.
+Through much of the post-World War II years, domestic saving for each country was invested predominantly in its domestic capital assets, irrespective of the potential for superior risk-adjusted returns to be available from abroad.
+Because a country's domestic saving less its domestic investment is equal to its current account balance, such balances, positive or negative, with the exception of the mid-1980s, were therefore generally modest.
+But in the early 1990s, "home bias" began to diminish appreciably,3 and, hence, the dispersion of current account balances among countries has increased markedly.
+The widening current account deficit in the United States has come to dominate the tail of that distribution of external balances across countries.
+Thus, the decline in home bias, or its equivalent, expanding globalization, has apparently enabled the United States to finance and, hence, incur so large a current account deficit.
+As a result of these capital flows, the ratio of foreign net claims against U.S. residents to our annual GDP has risen to approximately one-fourth.
+While some other countries are far more in debt to foreigners, at least relative to their GDPs, they do not face the scale of international financing that we require.
+A U.S. current account deficit of 5 percent or more of GDP would probably not have been readily fundable a half-century ago or perhaps even a couple of decades ago.4 The ability to move that much of world saving to the United States in response to relative rates of return almost surely would have been hindered by the far-lesser degree of both globalization and international financial flexibility that existed at the time.
+Such large transfers would presumably have induced changes in the prices of assets that would have proved inhibiting.
+Nonetheless, we have little evidence that the economic forces that are fostering international specialization, and hence cross-border trade and increasing dispersion of current account balances, are as yet diminishing.
+At some point, however, international investors, private and official, faced with a concentration of dollar assets in their portfolios, will seek diversification, irrespective of the competitive returns on dollar assets.
+That shift, over time, would likely induce contractions in both the U.S. current account deficit and the corresponding current account surpluses of other nations.
+Can market forces incrementally defuse a buildup in a nation's current account deficit and net external debt before a crisis more abruptly does so?
+The answer seems to lie with the degree of market flexibility.
+In a world economy that is sufficiently flexible, as debt projections rise, product and equity prices, interest rates, and exchange rates presumably would change to reestablish global balance.5 We may not be able to usefully determine at what point foreign accumulation of net claims on the United States will slow or even reverse, but it is evident that the greater the degree of international flexibility, the less the risk of a crisis.6 Should globalization continue unfettered and thereby create an ever more flexible international financial system, history suggests that current account imbalances will be defused with modest risk of disruption.
+A Federal Reserve study of large current account adjustments in developed countries,7 the results of which are presumably applicable to the United States, suggests that market forces are likely to restore a more long-term sustainable current account balance here without measurable disruption.
+Indeed, this was the case in the second half of the 1980s.
+I say this with one major caveat.
+Protectionism, some signs of which have recently emerged, could significantly erode global flexibility and, hence, undermine the global adjustment process.
+We are already experiencing pressure to slow down the expansion of trade.
+The current Doha Round of trade negotiations is in some difficulty owing largely to the fact that the low-hanging fruit of trade negotiation has already been picked in the trade liberalizations that have occurred since the Kennedy Round.
+* * * Augmenting the dramatic effect of increased globalization on economic growth, and perhaps at some times, fostering it, have been the remarkable technological advances of recent decades.
+In particular, information and communication technologies have propelled the processing and transmission of data and ideas to a level far beyond our capabilities of a decade or two ago.
+The advent of real-time information systems has enabled managers to organize a workforce without the redundancy required in earlier decades to ensure against the type of human error that technology has now made far less prevalent.
+Real-time information, by eliminating much human intervention, has markedly reduced scrappage rates on production lines, lead times on purchases, and errors in all forms of recordkeeping.
+Much data transfer is now electronic and far more accurate than possible in earlier times.
+The long-term path of technology and growth is difficult to discern.
+Indeed, innovation, by definition, is not forecastable.
+Nonetheless, the overall pace of productivity growth that has recently been near 5 percent at an annual rate is highly likely to slow because we have rarely exceeded 3 percent for any protracted period.
+In the United States, we have always employed technologies at, or close to, the cutting edge, and we have created much of our innovative technologies ourselves.
+The opportunities of many developing economies to borrow innovation is not readily available to us.
+Thus, even though the longer-term prospects for innovation and respectable productivity growth are encouraging, some near-term slowing in the pace of advance to a rate closer to productivity's long-term average seems likely.
+* * * We have, I believe, a reasonably good understanding of why Americans have been able to reach farther into global markets, incur significant increases in debt, and yet fail to produce the disruptions so often observed as a consequence.
+However, a widely held alternative view of the past decade cannot readily be dismissed.
+That view holds that the postwar paradigm is still largely in place, and key financial ratios, rather than suggesting a moving structure, reflect extreme values of a fixed structure that must eventually adjust, perhaps abruptly.
+To be sure, even with the increased flexibility implied in a paradigm of expanding globalization and innovation, the combination of exceptionally low saving rates and historically high ratios of household debt to income can be a concern if incomes unexpectedly fall.
+Indeed, there is little doubt that virtually any debt burden becomes oppressive if incomes fall significantly.
+But rising debt-to-income ratios can be somewhat misleading as an indicator of stress.
+Indeed the ratio of household debt to income has been rising sporadically for more than a half-century, a trend that partly reflects the increased capacity of ever-wealthier households to service debt.
+Moreover, a significant part of the recent rise in the debt-to-income ratio also reflects the remarkable gain in homeownership.
+Over the past decade, for example, the share of households that owns homes has risen from 64 percent to 69 percent.
+During the decade a significant number of renters bought homes, thus increasing the asset side of their balance sheets as well as increasing their debt.
+It can scarcely be argued that the substitutions of debt service for rent materially impaired the financial state of the new homeowner.
+Yet the process over the past decade added more than 10 percent to outstanding mortgage debt and accounted for more than one-seventh of the increase in total household debt over that period.8 Thus, short of a period of overall economic weakness, households, with the exception of some highly leveraged subprime borrowers, do not appear to be faced with significant financial strain.
+With interest rates low, debt service costs for households are average, or only marginally higher than average.
+Adding other fixed charges such as rent, utilities, and auto-leasing costs does not materially alter the change in the degree of burden.
+Even should interest rates rise materially further, the effect on household expenses will be stretched out because four-fifths of debt is fixed rate of varying maturities, and it will take time for debt to mature and reflect the higher rates.
+Despite the almost two percentage point rise in mortgage rates on new originations from mid-1999 to mid-2000, the average interest rate on outstanding mortgage debt rose only slightly, as did debt service.
+In a related concern, a number of analysts have conjectured that the extended period of low interest rates is spawning a bubble in housing prices in the United States that will, at some point, implode.
+Their concern is that, if this were to occur, highly leveraged homeowners will be forced to sharply curtail their spending.
+To be sure, indexes of house prices based on repeat sales of existing homes have outstripped increases in rents, suggesting at least the possibility of price misalignment in some housing markets.
+A softening in housing markets would likely be one of many adjustments that would occur in the wake of an increase in interest rates.
+But a destabilizing contraction in nationwide house prices does not seem the most probable outcome.
+Indeed, nominal house prices in the aggregate have rarely fallen and certainly not by very much.
+Still, house prices, like those of many other assets, are difficult to predict, and movements in those prices can be of macroeconomic significance.
+Moreover, because these transactions often involve considerable leverage, they need to be monitored by those responsible for fostering financial stability.
+There appears, at the moment, to be little concern about corporate financial imbalances.
+Debt-to-equity ratios are well within historical ranges, and the recent prolonged period of low long-term interest rates has enabled corporations to fund short-term liabilities and stretch out bond maturities.
+Even the relatively narrow spreads on below-investment-grade corporate debt appear to reflect low expected losses rather than an especially small aversion to risk.
+The resolution of our current account deficit and household debt burdens does not strike me as overly worrisome, but that is certainly not the case for our yawning fiscal deficit.
+Our fiscal prospects are, in my judgment, a significant obstacle to long-term stability because the budget deficit is not readily subject to correction by market forces that stabilize other imbalances.
+One issue that concerns most analysts, especially in the context of a widening structural federal deficit, is inadequate national saving.
+Fortunately, our meager domestic savings, and those attracted from abroad, are being very effectively invested in domestic capital assets.
+The efficiency of our capital stock thus has been an important offset to what, by any standard, has been an exceptionally low domestic saving rate in the United States.
+Although saving is a necessary condition for financing the capital investment required to engender productivity, it is not a sufficient condition.
+The very high saving rates of the Soviet Union, of China, and of India in earlier decades, often did not foster significant productivity growth in those countries.
+Saving squandered in financing inefficient technologies does not advance living standards.
+It is thus difficult to judge how significant a problem our relatively low gross domestic saving rate is to the future growth of an efficient capital stock.
+The high productivity growth rate of the past decade does not suggest a problem.
+But our success in attracting savings from abroad may be masking the full effect of deficient domestic saving.
+* * * Our day-by-day experiences with the effectiveness of flexible markets as they adjust to, and correct, imbalances can readily lead us to the conclusion that once markets are purged of rigidities, macroeconomic disturbances will become a historical relic.
+However, the penchant of humans for quirky, often irrational, behavior gets in the way of this conclusion.
+A discontinuity in valuation judgments, often the cause or consequence of a building and bursting of a bubble, can occasionally destabilize even the most liquid and flexible of markets.
+I do not have much to add on this issue except to reiterate our need to better understand it.
+* * * The last three decades have witnessed a significant coalescing of economic policy philosophies.
+Central planning has been judged as ineffective and is now generally avoided.
+Market flexibility has become the focus, albeit often hesitant focus, of reform in most countries.
+All policymakers are struggling to understand global and technological changes that appear to have profoundly altered world economic developments.
+For most economic participants, these changes appear to have had positive effects on their economic well-being.
+But a significant minority, trapped on the adverse side of creative destruction, are suffering.
+
+Strategy, Regulation, and Technology."
+This is comprised of participants who have a wide range of perspectives.
+My comments will focus primarily on the continually evolving competitive environment of community banks.
+I will begin with an update on the financial performance of community banks through 2003, then I will review the many changes that have occurred in the competitive environment of community banks, and lastly mention a few keys to future success.
+Financial Performance in 2003 Community banks--banks with total assets of $1 billion or less--had a record-setting year in 2003, earning profits of nearly $13 billion and a return on equity at 11.55 percent.
+This outcome is remarkable because of the significant negative factors at work through much or all of the year--a soft equity market, weak demand for commercial loans, and elevated asset quality problems.
+The origination and holding of mortgage-related assets once again supported industry profits, although the refinance boom ended in the third quarter of the year.
+Asset quality improved significantly for the industry, providing a boost to earnings through lower provisions.
+Community banks experienced less of an improvement than the industry did as a whole, but frankly had not seen the increase in problem loans that their larger counterparts did.
+All sectors of the industry had a strong year because, very simply, banks large and small built upon their fundamental strengths while adapting to the economic and financial situation.
+They understood the environment and adjusted their business focus and expectations accordingly.
+The ability of banks to deliver this level of performance despite the presence of negative factors reflects the effects of changes that have occurred in the regulatory limit that banks face as well as the diminution of some regulatory protections they historically have enjoyed.
+In addition, banks have performed extraordinarily well, facing numerous fundamental changes in the banking industry's competitive environment.
+Evolution of Regulatory and Competitive Environment Through much of the twentieth century, banking was a very protected market.
+The McFadden Act of the late 1920s, the Federal Deposit Insurance Act, and the Glass-Steagall Act of 1933, were designed to protect the financial safety net and to support community or neighborhood banks.
+Strict limits were introduced on all forms of competition, including limits on branching imposed by many states and exclusive access to interest-free deposits and arguably to short-term commercial loans.
+Banks in turn accepted considerable restriction on their permissible activities.
+This tradeoff was, on balance, a favorable exchange from the industry's perspective, but also it was perhaps the source of some frustration to those in the industry because of the limits it placed on banking products and their features.
+Market forces gradually changed this arrangement, spurred in particular by high interest rates in the late 1970s and early 1980s.
+Growth in the commercial paper market eroded the industry's signature product--the short-term commercial loan.
+The introduction of alternative savings and transaction vehicles--including money market mutual funds--reduced banks' share of household assets.
+It is important to note that the erosion of most of these product and market protections did not occur through changes in laws or regulations but through marketplace innovation.
+The Gramm-Leach-Bliley Act, passed in 1999, is often credited with removing competitive barriers between the banking, securities, and insurance industries.
+Although that description is true to some extent, many of the barriers had been eliminated through market innovation.
+In many instances the Gramm-Leach-Bliley Act made federal banking statute more consistent with what had already occurred in the marketplace.
+Through all of the changes in the marketplace and in bank regulation, there have nonetheless been a handful of critical competitive factors that provide an "edge" to commercial banks and to community banks in particular.
+The first and most obvious competitive factor in the banking industry is deposit insurance.
+Even with the proliferation of deposit-like products that present relatively low credit risk, there is still something different about a liquid and readily accessible asset of which credit is backed explicitly by the U.S. government.
+Only insured depositories can offer this product feature.
+The specific features of deposit insurance have been refined since 1933, including depositor preference and least-cost resolution methods.
+An active and informed debate is under way about the details of coverage and the management of the insurance fund.
+We will not delve into that today.
+A second factor that may be nearly as important as deposit insurance is reputation.
+Occasional scandals have occurred, but banks have successfully retained their reputation for integrity when others have not.
+Even when structured transactions have tarred them, banks have remained well-regarded.
+Bank supervisors are well aware of the importance of reputation, and expect bank staff to manage the bank's risk of reputation just as they manage other risk exposures such as credit risk and interest rate risk.
+Third, banks possess a remarkable advantage in their branching and product delivery capabilities.
+Let me take a few moments to emphasize that point.
+Branch offices and networks continue to be critical factors to customers as they choose their financial services providers.
+Community banks continue to thrive by providing retail banking customers with convenient locations, high-quality service, and the attractive prices that customers desire.
+Surveys conducted by the Federal Reserve Board indicate that the single most-important factor influencing a customer's choice of banks is the location of the institution's branches.
+In the 2001 Survey of Consumer Finances, approximately 43 percent of households reported that the primary reason for choosing the institution where they had their main checking account was the location of the institution's offices.
+Likewise, data collected in the 1998 Survey of Small Business Finances indicated that, for approximately 30 percent of small businesses in the United States, the most important reason for selecting the primary financial institution was "location of offices" or "convenience."
+Consistent with these findings, responses to questions included in the Michigan Surveys of Consumers in June, July, and August 1999 indicated that the most important reason that households change banks is because of household relocation.
+Other important factors underlying household choice of banks include low fees or minimum-balance requirements and the ability to obtain many services at one bank facility.
+For small businesses, the existence of a previous business or personal relationship with the institution or someone affiliated with the institution is a frequently cited reason for choosing a particular provider.
+Once a household has chosen a particular depository institution as the location for its main checking account, there is a strong tendency to stick with that institution.
+According to the Michigan Survey, the median tenure at a depository institution is ten years.
+The most frequently reported reasons for remaining with a bank are customer service and location.
+Among those households that changed banks for reasons other than household relocation, the most frequently cited factors are better customer service and more attractive prices.
+These patterns of behavior among households and small businesses bode well for the future of community banking.
+They do not suggest that community banks face any inherent disadvantage relative to larger institutions when it comes to attracting and retaining retail customers.
+Bankers understand the importance of their locations.
+Despite the negative comments made for many years about the disadvantages of "bricks and mortar," the FDIC's Summary of Deposits has reported an increase in the number of banking offices each year since 1994.
+The asset-size profile of the industry has changed greatly over this period, so it is interesting to look at the average number of offices per bank in different size ranges.
+Banks having less than $100 million in assets average one to three offices, banks having $100 million to $500 million in assets generally operate five to ten offices, and so on.
+The larger the bank, the more offices it operates.
+As the industry has consolidated and created a greater proportion of larger institutions, the average number of offices per institution has increased.
+The data show that the increase in offices has come at the largest banks, that is, those with total assets in excess of $10 billion.
+Although the average number of offices has increased because of consolidation, there is evidence of a search for efficiency, as the number of offices per bank has declined noticeably across all size classes since 1994.
+The sole exception to this decline is in the largest size group.
+These large institutions operate on average, more than 400 branches, compared with about 240 branches in 1994.
+The Summary of Deposits data are published annually for June of each year.
+The latest available information is as of June 2003.
+A fourth competitive factor favoring banks has been the use of technology.
+Banks were among the first businesses to migrate toward mass storage and processing of data, in part because this information was needed to meet regulatory and other requirements, for example, the loans to one borrower rule.
+Analysis and collection of this data has supported many important management and risk-management initiatives at banks, including the development and refinement of internal credit rating systems.
+Further investment in information technology capabilities may tap into other uses of this information to enhance the function and performance of commercial banks, including community banks, especially in the context of the Gramm-Leach-Bliley Act.
+Though community banks cannot invest as heavily in technology as large banks, the ever increasing efficiency of technology also works to the benefit of community banks.
+Newly chartered start-up banks are able to provide real-time online banking services to customers and operate general ledger systems that provide a full range of financial reporting and product support systems either through in-house technology or through outside vendors.
+How has the Community Bank Adapted?
+The number of banks has decreased, but the value of the community bank remains.
+Consolidation continued in the industry in 2003.
+There were about 7,300 community banks at year-end 2003, some 140 fewer (1.9 percent) than a year earlier and about 500 (or 11 percent) fewer than existed five years ago.
+The substantial majority of these institutions have been state-chartered.
+We continue to see significant consolidation of organizations and of charters.
+This can be seen in the bank data already mentioned but perhaps more clearly in data on bank holding companies.
+Bank holding companies own nearly all of the insured commercial banks by assets, about 97 percent.
+The number of bank holding companies has fallen slightly--about 4 percent--over the past decade, but has increased a bit in each of the past three years.
+The number of multibank bank holding companies has decreased 30 percent over the past decade, reflecting the tendency of banks to consolidate subsidiary charters in this era of nationwide banking.
+The consolidation in the industry, and the search for efficiency and scope, should not be misunderstood.
+It does not signal a threat to the community banking franchise; far from it.
+The market for community bank charters makes this point clear.
+One hundred and twelve new commercial bank charters were issued in 2003, and 560 have been issued since the beginning of 2000.
+Over that same period, for every five banks that disappeared through consolidation, another two new charters were granted.
+In total, that represents more than $4.5 billion in new equity capital invested in community bank charters.
+Community banks have also been active in positioning themselves to diversify their business base.
+At year-end 2003, there were 4,800 bank holding companies with consolidated assets of less than $1 billion.
+Let's exclude the small number of foreign-owned institutions in that total, because their U.S. assets don't depict their true size.
+About 10 percent of these community bank holding companies (or 464) were also financial holding companies, and one-third of them had assets less than $150 million.
+Thus the financial holding company is as logical a successor to the bank holding company for smaller institutions as for larger institutions.
+Community banks face some important and different realities, reflecting to some extent the change from protected markets to a more open and competitive environment.
+Their margins are more narrow, they have taken on a relatively larger share of commercial real estate credit exposure, and they have less chance of natural diversification in their lending opportunities.
+Concentrations of credit, especially in the local market, are a significant risk-management issue for community banks.
+A Few Keys to Future Success The competitive environment for banks, especially community banks, will continue to intensify.
+Last year, 99 percent of the urban markets and 54 percent of the rural markets had an office of a banking organization with deposits of $25 billion or more.
+The presence of large banking organizations at the local level has increased at the same time that community banks continue to face competition from thrift institutions, credit unions, securities firms, and loan production offices from out-of-market lenders, not to mention the Internet.
+Community banks can meet these competitive challenges.
+One critical aspect of this success is for banks to minimize self-inflicted damage caused by conflicts of interest and lax internal controls.
+Compliance remains an important area of attention for many community banks, including compliance with regulations relating to money laundering and the Bank Secrecy Act.
+On the topic of compliance, regulatory burden remains an issue for all of us to carefully consider.
+The federal banking agencies are fully engaged in continuing efforts to review their regulations and to identify those that can be eliminated.
+We at the Federal Reserve endeavor every five years to review all of our existing regulations to revise or rescind those that are out-of-date or otherwise unnecessary.
+Other banking regulators have adopted a similar practice.
+Many of you may have participated in meetings across the country between regulators and the community under the aegis of the Economic Growth Recovery and Paperwork Reduction Act, or EGRPRA.
+Some of the things we can do as agencies--some suggestions for revision--will require congressional action to change the law.
+But both regulatory and congressional efforts to eliminate unnecessary rules to protect the taxpayer are worthwhile.
+Conclusion The past year was a good year for the industry, one in which banks were able to adapt to a changing environment and still generate record profits.
+Community banks once again demonstrated their value to the marketplace and the prominent and vibrant position they rightly occupy in the industry.
+The anchors of their competitive position-- deposit insurance, reputation, branching and delivery system, and technology--remain in place.
+

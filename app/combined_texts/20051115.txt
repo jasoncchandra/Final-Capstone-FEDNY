@@ -1,0 +1,128 @@
+Retail Banking Forum Conference, Brussels, Belgium November 15, 2005 Perspectives on the Development of a Unified National Payments System in the United States Introduction Good morning.
+I would like to thank the World Savings Banks Institute, as well as the European Savings Banks Group, for the invitation to address this distinguished audience.
+I appreciate the opportunity to share some thoughts on the development of a unified national payments system in the United States.
+I am looking forward to Ms. Tumpel-Gugerell's remarks on the euro system's perspective, and I anticipate a lively panel discussion will follow.
+The European Union and the United States have had very different experiences with the origin and evolution of their payments systems.
+There is a great deal to learn by studying both systems and their ongoing changes.
+This morning, I would like to discuss the development of a unified national payments system, or single payments area, in the United States.
+I will sketch the foundations of the contemporary U.S. payments system and remark on the history of U.S. banking.
+I think you will recognize some parallels with, but also important differences from, the European Union experience.
+I will then discuss some of the challenges in the U.S. experience, as well as some thoughts on the future of the U.S. payments system.
+The overarching theme of my remarks is that the United States has evolved toward an increasingly unified national payments system, through both market-driven development and some specific public-sector actions.
+A Brief History of the U.S. Banking and Payments System From the late 1700s through the mid-1800s, the development of the U.S. banking system was dominated by roles played by individual states.
+Generally, commercial banks were not chartered by the federal government; rather, they were chartered, regulated, and supervised by the states and operated under different state legal and regulatory frameworks.
+The explicit delegation of bank supervision to the states reflected the strong preference for decentralized authority and resulted in the first brief efforts to establish a national bank.
+In 1791, the federal government chartered the First Bank of the United States with a twenty-year charter, its first attempt to establish a central bank.
+After that charter lapsed in 1811, the federal government in 1816 made a second attempt to form a central bank, by establishing the Second Bank of the United States.
+That twenty-year charter was also allowed to lapse amid the economic and political controversies of that time.
+In ensuing years, the banking system was highly decentralized with individual state-chartered commercial banks issuing their own bank notes.
+Although there has been an academic debate about the success of this period of competitive, private-bank note issuance, the federal government ultimately acted to address significant problems posed by this banking structure.
+In the payments system, for example, state bank notes were subject to devaluation in response to credit risk and to counterfeiting, creating a significant burden on local and interstate commerce.
+In 1863 and 1865, the National Bank Acts permitted the federal government to charter national banks and allowed these banks to issue national bank notes backed by federal bonds.
+The collateralization of national bank notes with U.S. government bonds, along with a 10 percent tax on state notes, expedited the acceptance of national bank notes and quickly eliminated state notes from circulation.
+In addition, the United States Treasury also began directly issuing notes backed by gold in the 1870s.
+These developments were important first steps in unifying the national payments system.
+In retrospect, the overall fragmentation of the U.S. banking system helped produce a fragmented national retail payments system, including a fragmented check-clearing system.
+Checks, which were traditionally cleared through local private clearing houses or correspondent banks, were the predominant alternative to making payments with bank notes or gold.
+However, checks were not paid at par.
+That is, checks cleared between banks in different states or locales were discounted based on the costs of transportation needed to collect the checks, the risk profiles of the banks on which the checks were drawn, and the need to earn a return on clearing activities.
+Neither the consumer nor the merchant knew how much of the value of a check would ultimately be delivered to the intended beneficiary, so it was difficult to determine the value of a check needed to pay a bill.
+As the level of interstate commerce grew, the costs associated with this inefficient practice became quite burdensome.
+Also, collecting a check could take a long time.
+Because a check could be forwarded to numerous correspondent banks before ultimately being presented for payment, some public officials charged that banks deliberately engaged in the “circuitous routing” of checks to exploit the inefficiencies of the payments system.
+The risks and inefficiencies in the fragmented banking system also resulted in bank panics, which were relatively common, and made it difficult to transfer liquidity from one region of the country to another.
+In 1913, the U.S. Congress established the Federal Reserve System, not only to provide greater financial stability and to improve banking supervision, but also to provide an elastic currency and a national check-clearing system.
+The Federal Reserve began issuing currency in 1914.
+Moreover, checks that were cleared through the Federal Reserve and that were drawn on Federal Reserve member banks were exchanged at par value.
+In the early days, the Federal Reserve's national check-clearing service was provided free of charge to nationally chartered banks that were required to join the system and state-chartered banks that joined voluntarily.
+Despite some early difficulties with achieving widespread par clearing, the Federal Reserve's check collection services ultimately provided the nation with a much more unified payments system.
+During this period, checks or drafts were also used as a means of settling interbank payment obligations.
+To improve the safety and efficiency of the interbank settlement process, in 1918 the Federal Reserve developed and implemented Fedwire, the first real-time gross settlement system.
+The key feature of the Fedwire system was the ability to transfer account balances held at the central bank through telegraphic messages using a secure communications network.
+Although Fedwire was intended to improve the large-value payment system, and quickly accomplished that goal, it was also used for some urgent large-value commercial and retail payments, and continues to be used that way today.
+The payments operations of state and federally chartered private banks, private clearing houses, and the operations of the new central bank, provided the foundation for the private- and public-sector payments infrastructure that exists in the United States today.
+Yet for many years, policies that deterred interstate banking shaped the design and operation of the retail payments system.
+The U.S. banking and payments system has also been shaped by other important state and federal laws.
+Starting in the late 1800s, states attempted to develop a more-uniform set of commercial laws codifying existing laws and common business practices.
+They eventually adopted the Uniform Commercial Code, or UCC, which states generally enacted.
+At the federal level, a number of laws influenced the development of the banking system.
+Laws such as the McFadden Act and the Douglas Amendment to the Bank Holding Company Act were passed to restrict either bank ownership or bank branching across state lines.
+Over the years, legislation enacted by the various states, and ultimately at the federal level, eliminated the barriers to banks operating across state lines, at least with respect to interstate bank acquisitions.
+In 1994, the Riegle-Neal Act, which repealed most of the federal prohibitions on interstate banking, set the foundation for establishing efficient, national retail banking and payment arrangements.
+If the U.S. banking structure is the foundation of the retail payments system, the cornerstone is the competitive market model for payment system operators.
+The Monetary Control Act of 1980, or MCA, codified the use of the competitive market model for the U.S. payments system with the central bank as a provider of services.
+Prior to that Act, only Federal Reserve member banks were permitted to use the Federal Reserve's (free) payment services.
+Nonmembers typically cleared checks through a network of upstream correspondent banks that were Federal Reserve members.
+The MCA confirmed the Federal Reserve's role as a key provider of services and required the Federal Reserve to provide payment services to both member and nonmember banks.
+Most importantly, the MCA required the Federal Reserve to price its payment services and to fully recover the costs of providing those services, including imputed taxes and profits.
+The purpose of this requirement was to avoid having the central bank underprice payment services in a way that would undercut the existence and growth of private-sector alternatives.
+The ultimate goal was to stimulate efficiency and innovation by encouraging competition between service providers and payment system operators, including the central bank.
+The legal framework governing payment systems has continued to evolve.
+In its role as catalyst for payments system improvements, the Federal Reserve has worked with the private sector to identify and address barriers to improvements in payments system efficiency.
+It then developed legislative recommendations that eventually became the Check Clearing for the 21st Century Act, known as Check 21.
+Check 21, which became effective in 2004, eliminated legal impediments to the use of electronic technologies to collect checks.
+Under Check 21, banks no longer need to physically move original paper checks from the bank where the checks are deposited to the bank that pays them.
+The law created a new negotiable instrument called a substitute check, which permitted banks to truncate original checks, to send digital check images across the country, and to deliver paper substitute checks to banks that wanted to continue receiving paper checks.
+As a result, checks will ultimately be collected faster and at lower cost through an electronic national clearing structure.
+Consumer Behavior and Market Response in the Future U.S. Payments System The development and adoption of new payments instruments is largely being influenced by consumers, merchants, and their banks and service providers interacting in a market setting.
+Until very recently, checks have been the dominant form of noncash payment in the U.S. payments system as measured by the annual number of payments.
+However, the 1990s saw a marked shift in consumers' behavior.
+Federal Reserve research has revealed a steady decline in check usage since the mid-1990s.
+By 2003, electronic noncash retail payments exceeded check payments for the first time.
+Debit cards, used primarily by consumers for everyday purchases, have represented the fastest growing segment of the retail payments system.
+They have been a natural bridge from cash and checks to electronics.
+Historically, automated teller machine and debit card networks, much like the early check-clearing network in the U.S., were generally regionally based.
+Banks issued debit cards that could be used only on certain networks, which had limited reach across state lines.
+This meant that, although early debit cards were a convenient new way to make noncash payments, the scope of their use was limited.
+Some networks developed interchange agreements to expand the acceptance of their debit cards.
+In addition, as debit cards evolved, the major credit card companies and their banks began to issue a new type of debit card that operated through the existing national credit card networks.
+The use of these so-called signature-based debit cards has been growing rapidly for several years.
+Another payment mechanism that was developed jointly by the private sector and the Federal Reserve was the automated clearinghouse, or ACH, system.
+The ACH system is a batch electronic payment system that has traditionally been used to process recurring credit and debit transactions, such as payroll payments, mortgage and utility payments, and government benefits.
+In its infancy, the ACH system was a segmented regional system that has since evolved into a nationwide payments system.
+More recently, banks have used the ACH system in innovative ways to make nonrecurring payments, such as payments over the telephone or Internet, which were typically made by credit or debit card.
+In addition, businesses that receive large numbers of checks from customers are obtaining their customers' permission to convert the checks into ACH payments.
+
+During roughly the same period, equity valuations have risen, and term premiums for fixed-income assets have fallen.
+The obvious question is whether these real economy and financial market phenomena are measurably related.
+Put differently, has less-variable real activity helped increase the value of financial assets, as some have claimed?
+It is certainly possible to see how such a link might occur.
+If perceived to be persistent over sufficiently long periods of time, greater economic stability could support higher asset prices by reducing risk premiums on financial assets.
+It is also plausible that more stability in output and inflation could lead to lower volatility in financial asset prices.
+In my remarks today, I want to discuss what researchers are uncovering about the links between the volatility of real activity and asset prices.
+As a monetary policy maker, I am interested in these links because the prices of financial assets affect the spending decisions of firms and households and because these prices may reveal forward-looking information relevant for setting policy.
+In addition, I want to discuss changes in financial markets themselves that may contribute to asset price volatility.
+Before proceeding, I must indicate that the views I am about to express are my own and do not necessarily reflect the views of other members of the Board of Governors or the Federal Open Market Committee.
+The volatility of GDP has fallen while equity prices have risen A number of researchers have documented that the volatility of economic activity has moderated since the mid-1980s (Kim and Nelson, 1999; McConnell and Perez-Quiros, 2000).
+Moreover, the decline does not appear to be the result of a long-term downward trend but appears to conform more to a structural break around the mid-1980s.
+The moderation is substantial: The standard deviation of the quarterly growth rate of real gross domestic product from 1985 to 2004--about 2.1 percent--is only about one-half its standard deviation from 1960 to 1984.
+Similar-sized declines in volatility have been evident in many of the components of GDP, including consumption and residential investment, and also in inflation.
+Declines have also occurred in the volatility of business investment and corporate profits, but these declines have been more modest.
+A variety of explanations for this Great Moderation have been put forth, and each has garnered some empirical support.
+First, the U.S. economy might have been lucky, and the shocks to the economy have been milder than in the past (Stock and Watson, 2002; Ahmed, Levin and Wilson, 2004).
+Another explanation is that firms may have adopted information technologies that allow them to more efficiently manage their inventories (Kahn, McConnell, and Perez-Quiros, 2002), thus limiting destabilizing imbalances and rectifying them more quickly when they arise.
+Better conduct of monetary policy could also lead to lower inflation and economic volatility (see, for example, Clarida, Gali, and Gertler, 2000; and Romer and Romer, 2002).
+Finally, financial innovations, such as risk-based loan pricing and expanded securitization, may have enhanced the ability of households to borrow, which would make them less sensitive to fluctuations in income (Dynan, Elmendorf, and Sichel, 2005).
+Importantly, equity valuation, as measured by the price-earnings ratio of the S&P 500, has been higher in the past two decades than in the two decades before that.
+The price-earnings ratio averaged 14 from 1960 to 1984 and rose to an average of 19 over 1985-2004.
+The average since 1984 falls only slightly, to 18, if we exclude the late 1990s and 2000, when valuations reached record levels.
+The rise in equity valuations at the same time that macroeconomic volatility fell is circumstantial evidence of a link between the two.
+Interest rates also could potentially have been affected by the Great Moderation.
+Investors in Treasury bonds require a risk (or term) premium to compensate them for the risk of loss on longer-maturity bonds resulting from movements in interest rates.
+Term premiums could be lower when inflation expectations are well anchored or the macroeconomy is less volatile.
+Ongoing research by Board staff suggests a notable downward trend in term premiums since 1990 (Kim and Wright, 2005).
+This secular decline in term premiums since 1990 appears to be correlated with the decline in long-run inflation uncertainty and in short-term interest rate uncertainty.
+Does volatility of real activity affect the level of asset prices?
+Now, I would like to explore some of the research that might explain whether and, if so, how the Great Moderation affected the level of asset prices.
+Structural models of asset prices provide a consistent framework for understanding both equity prices and interest rates.
+In these models, each asset price contains a risk premium that represents the additional return demanded by risk-averse investors for bearing risk.
+A reduction in macroeconomic volatility that reduces uncertainty about earnings or dividends could reduce the equity risk premium and, as a result, lead to higher equity prices.
+Less uncertainty about future inflation could lower the risk premiums on nominal Treasury bonds, lowering the risk-free interest rate.
+There is, however, a potential offset as well.
+Lower volatility may reduce the motive for precautionary savings and thus put upward pressure on interest rates and, all else equal, downward pressure on equities.
+One recent paper has directly examined whether the recent decline in economic volatility contributed to a lower long-run equity premium and the steep run-up in stock prices in the late 1990s (Lettau, Ludvigson, and Wachter, 2005).
+This model supposes that investors learn about the new, low-volatility regime only gradually.
+The researchers estimate that investors revised up the probability of being in a low-volatility regime starting in the early 1990s.
+This revision, if perceived to be persistent, could explain the magnitude of the decline in the long-run equity premium in the late 1990s.
+However, one concern that has been raised about this model is that it does not also address the behavior of interest rates over the past decade.
+

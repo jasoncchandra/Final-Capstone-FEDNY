@@ -1,0 +1,239 @@
+As recently as thirty-five years ago, the universe of financial instruments was composed almost exclusively of deposits; short- and long-term, plain vanilla debt; and equities.
+Financial institutions, by and large, specialized in relatively narrow portions of these markets.
+In the intervening years, significant developments in technology and in the pricing of assets have enabled innovations in financial instruments that allow risks to be separated and reallocated to the parties most willing and able to bear them and the degree of specialization by financial intermediaries changed dramatically.
+In the case of debt instruments, investors may now choose among structured notes, syndicated loans, coupon STRIPs, and bonds secured by pools of other debt instruments.
+But of all the changes we have observed in the past three decades, two of the most dramatic have been the growing use of financial derivatives and the increasing presence of banks in private equity markets.
+Today I should like to evaluate the scope of these latter progressions, the risks they entail, and some of the challenges in managing those risks.
+It seems undeniable that in recent years the rate of financial innovation has quickened.
+Many in fact argue that the pace of innovation will increase yet further in the next few years as financial markets increasingly intertwine and facilitate the integration of the new technologies into the world economy.
+As we stand at the dawn of the twenty-first century, the possible configurations of products and services offered by financial institutions appear limitless.
+There can be little doubt that these evolving changes in the financial landscape are providing net benefits for the large majority of the American people.
+The rising share of financial services in the nation's national income in recent years is a measure of the contribution of the newer financial innovations to America's accelerated economic growth.
+Derivatives and private equities have been in the forefront of the recent financial expansion, fostering the financing of a wider range of activities more efficiently and with improved management and control of the associated risks.
+Fear of Change Nonetheless, some find these developments worrisome or even deeply troubling.
+The rapid growth and increasing importance of derivative instruments in the risk profile of many large banks has been a particular concern.
+Yet large losses on over-the-counter derivatives have been few.
+Derivatives possibly intensified the losses in underlying markets in the liquidity crisis during the third quarter of 1998, but they were scarcely the major players.
+Credit losses on derivatives spiked but remained well below those experienced on banks' loan portfolios in that episode.
+Derivatives credit exposures, as you all know, are quite small relative to credit exposures in traditional assets, such as banks' loans.
+In the fourth quarter of last year, for example, banks charged off $141 million of credit losses from derivatives-including options, swaps, futures, and forwards-or only 0.04 percent of their total credit exposure from derivatives.
+This in part reflects the fact that in some derivative contracts, most notably in interest rate swaps, there is no principal to be exchanged and thus no principal at risk.
+In comparison, net charge-offs relative to loans were 0.58 percent in that quarter-also small but, nonetheless, almost fifteen times as much.
+In the third quarter of 1998, at the height of the recent financial turmoil, the loan charge-off rate at U.S. banks was 4½ times that of derivatives.
+In a similar vein, concerns of highly leveraged positions caused by derivatives have led to fears of "excessive leverage."
+But leverage, at least as traditionally measured, is not a particularly useful concept for gauging risk from derivatives.
+A firm might acquire an interest rate cap, for example, to hedge future interest rate uncertainty and hence to reduce its risk profile.
+Yet if the cap is financed through debt, measured leverage increases.
+Thus, although one may harbor concerns about the overall capital adequacy of banks and other participants in derivatives markets and their degree of leverage, the advent of derivatives appears to make measures of leverage more difficult to interpret but not necessarily more risky.
+To be sure, the unfamiliar complexity of some new financial instruments and new activities, or the extent to which they facilitate other kinds of risk-taking, cannot be readily dismissed even by those of us who view the remarkable expansion of finance in recent years as a significant net benefit.
+What I suspect gives particular comfort to those of us most involved with the heightened complexity of modern finance is the impressive role private market discipline plays in these markets.
+Importantly, derivatives dealers have found that they must maintain strong credit ratings to participate in the market.
+Participants are simply unwilling to accept counterparty credit exposures to those with low ratings.
+Besides requiring a strong capital base and high credit ratings, counterparties in recent years have increasingly insisted both on netting of exposures and on daily posting of collateral against credit exposures.
+U.S. dealers, in particular, have rapidly expanded their use of collateral to mitigate counterparty credit risks.
+In these programs, counterparties typically agree that, if exposures change over time and one party comes to represent a credit risk to the other, the party posing the credit risk will post collateral to cover some (or all) of the exposure.
+These programs offer market participants a powerful tool for helping control credit risk, although their use does, as we all know, pose significant legal and operational issues.
+Legitimate Concerns Despite the commendable historical loss record and effective market discipline, there are undoubtedly legitimate concerns and avenues for significant improvement of risk management practices.
+Moreover, during the recent phenomenal growth of the derivatives market, no significant downturn has occurred in the overall economy to test the resilience of derivatives markets and participants' tools for managing risk.
+The possibility that market participants are developing a degree of complacency or a feeling that technology has inoculated them against market turbulence is admittedly somewhat disquieting.
+Such complacency is not justified.
+In estimating necessary levels of risk capital, the primary concern should be to address those disturbances that occasionally do stress institutional solvency-the negative tail of the loss distribution that is so central to modern risk management.
+As such, the incorporation of stress scenarios into formal risk modeling would seem to be of first-order importance.
+However, the incipient art of stress testing has yet to find formalization and uniformity across banks and securities dealers.
+At present most banks pick a small number of ad hoc scenarios as their stress tests.
+And although the results of the stress tests may be given to management, they are, to my knowledge, never entered into the formal risk modeling process.
+Additional concern derives from the fact that some forms of risk that we understand to be important, such as liquidity and operational risk, cannot at present be precisely quantified, and some participants do not quantify them at all, effectively assuming them to be zero.
+Similarly, the present practice of modeling market risk separately from credit risk, a simplification made for expediency, is certainly questionable in times of extraordinary market stress.
+Under extreme conditions, discontinuous jumps in market valuations raise the specter of insolvency, and market risk becomes indistinct from credit risk.
+Of course, at root, effective risk management lies in evaluating the risk models upon which capital allocations and economic decisions are made.
+Regardless of the resources and effort a bank puts into forecasting its risk profile, it ought not make crucial capital allocation decisions based on those forecasts until their accuracy has been appraised.
+Yet forecast evaluation, or "backtesting," procedures to date have received surprisingly little attention in both academic circles and private industry.
+Quite apart from complacency over risk-modeling systems, we must be careful not to foster an expectation that policymakers will ultimately solve all serious potential problems and disruptions.
+Such a conviction could lull financial institutions into believing that all severe episodes will be handled by their central bank and hence that their own risk-management systems need not be relied upon.
+Thus, over-reliance on public policy could lead to destabilizing behavior by market participants that would not otherwise be observed-what economists call moral hazard.
+There are many that hold the misperception that some American financial institutions are too big to fail.
+I can certainly envision that in times of crisis the financial implosion of a large intermediary could exacerbate the situation.
+Accordingly, the monetary and supervisory authorities would doubtless endeavor to manage an orderly liquidation of the failed entity, including the unwinding of its positions.
+But shareholders would not be protected, and I would anticipate appropriate discounts or "haircuts" for other than federally guaranteed liabilities.
+As we consider potential shortcomings in risk management against the backdrop of an absence of significant credit losses in derivatives, one is compelled to ask: Has the financial system become more stable, or has it simply not been tested?
+Probability distributions estimated largely, or exclusively, over cycles that do not include periods of financial stress will underestimate the likelihood of extreme price movements because they fail to capture a secondary peak at the extreme negative tail that reflects the probability of the occurrence of extreme losses.
+Further, because the experience during crises indicates heightened correlations of price movements, joint distributions estimated over periods that do not include severe turbulence would inaccurately estimate correlations between asset returns during such episodes.
+The benefits of diversification will accordingly be overestimated.
+Another aspect of the system that may not have been appropriately tested is the set of credit risk modeling systems that have evolved alongside the growth in derivatives.
+Such models embody procedures for gauging potential future exposure.
+Prevailing prices will doubtless change in the future, so counterparties must assess whether those contracts with small or even negative current values now have the potential to result in large positive market values and, hence, a potential credit loss on default.
+Do such calculations adequately account for the possibility of prolonged disruptions or recessions?
+Are assumptions relating exposures to default probabilities sufficiently inclusive?
+These and other support columns underlying estimation of potential future exposure should continue to be examined under a critical light.
+Private Equity Activity Derivatives, no doubt reflecting their growth, their extensive use in hedging that facilitates additional risk-taking, and their gigantic notional values, continue to be the quintessential image of financial engineering and innovation.
+But another dramatic change in the activities of banking organizations has received less attention: merchant banking.
+Indeed, the most dramatic change in the financial landscape that the Gramm-Leach-Bliley Act may have induced is not the combination of banking, securities underwriting, and insurance, but rather the generalized merchant banking powers for financial holding companies.
+And even this change is really evolutionary for a handful of very large U.S. banking organizations.
+By merchant banking, I mean financial equity investment in nonfinancial firms, most often, but not always, in nonpublic companies, with the investor providing both capital and financial expertise to the portfolio company.
+Such investments are usually held for three to five, but often as long as ten or more, years for subsequent resale to other investors.
+The recent financial modernization legislation gives banking organizations broad authority to make merchant banking investments but prohibits them from routinely managing the portfolio companies in which they have invested except in extraordinary circumstances for limited periods.
+In addition, banks' credit extensions to the firms in which their parents or affiliates hold equity are limited by the same section 23 A and B restrictions imposed on bank lending to their affiliates.
+Prior to the recent legislation, banking organizations could make only limited types of merchant banking investments, and these were made principally through three vehicles.
+First, since the late 1950s, banks and bank holding companies have been authorized to operate small business investment companies (SBICs) that can invest in up to half of the equity of an individual small business, currently defined by regulation as one with less than about $20 million of pre-investment capital.
+The aggregate limit of such investments cannot exceed 5 percent of the bank or BHC's capital.
+Second, Edge corporations, which are primarily subsidiaries of banks but can also be subsidiaries of holding companies, can acquire up to 20 percent of the voting equity and 40 percent of the total equity of nonfinancial companies outside the United States.
+Finally, BHCs more generally can acquire up to 5 percent of the voting shares and up to 25 percent of the total equity of any company without aggregate limit.
+I have, of course, been referring to equity investments of banking organizations for their own account.
+BHC's section 20s-and any future investment banking affiliates-also hold equities in trading accounts as part of their underwriting and trading activities.
+These daily mark-to-market holdings are quite large at a couple of banking organizations that have a significant equity underwriting business but are rather modest for others.
+Through the three long-term holding vehicles, banking organizations have made direct equity investments on their own and in partnership with others.
+They have also made indirect investments through private investment groups, sometimes acting as the manager of the group for performance-based fees.
+In the early 1960s, banking organizations were probably the dominant source of venture capital in the United States, and still play an important role-perhaps accounting currently for 10 to 15 percent of the domestic private equity market.
+What has changed with the recent legislation is the generalized grant of authority for bank holding companies that qualify as financial holding companies to exercise merchant banking powers.
+There are now about 155 domestic and more than 10 foreign financial holding companies that could-but not necessarily will-undertake merchant banking.
+Two-thirds of the financial holding companies have less than $500 million in assets; about one-third have less than $150 million.
+In evaluating that general grant of merchant banking authority, it is useful to consider the experience of banking organizations that have been active participants in the private equity market in recent decades.
+To date, there have been no significant problems.
+To be sure, the record on private equity investment by banks is one of substantial year-to-year variation in return, just as one might expect with any portfolio of risky assets.
+Some of the deals have resulted in total write-offs, but over all the rates of return, especially in recent years, have been quite impressive-30 percent or so per year in the last five years.
+In part, perhaps in large part, this reflects the substantial rise in equity prices.
+Still another historical factor has been the quite conservative treatment of equity portfolios by banking organizations.
+Both banks and independent securities firms engaging in merchant banking have tended to allocate substantial internal capital to support their private equity investment activity-between 50 and 100 percent-and to recognize unrealized capital gains only on traded equities or when some triggering event supported the revaluation of nontraded shares and then only subject to a discount.
+In effect, banks have locked up significant internal capital for their equity purchases and have been conservative in recognizing gains in their earning flows and, consequently, in their capital.
+For a small number of large banking organizations, equity portfolios are a significant share of their business already.
+As of year-end 1999, for the five large banking organizations with more than one billion dollars invested, at cost, in equities, these assets accounted for between approximately 10 percent and 25 percent and more of tier-1 capital and between more than 10 percent and 35 percent at carrying value.
+Moreover, the pre-tax gains recognized last year-either at sale or because of revaluation-accounted for between 5 and 30 percent of pre-tax reported earnings in 1999 at these five banking organizations.
+In the first quarter of this year, such gains accounted for 16 percent to more than one-half of pre-tax income.
+It is likely that authorization of merchant banking powers will lead both to deeper participation by the current large players and to wider merchant banking activity across banking organizations.
+To limit risks to the bank subsidiary of the financial holding companies and to the insurance fund, the Federal Reserve interim regulations require that before this activity commences, the organizations establish appropriate internal controls to manage the risks associated with this activity.
+It must be kept in mind, as I pointed out in other contexts, that most bad commercial loans are made during prolonged periods of prosperity.
+I suspect that the experience of bank equity investment has been similar.
+Current interim regulations-which propose for comment a 50 percent capital charge on all nontrade account equities held by banking organizations-should not be viewed separately from the current state of the economy any more than commercial banking should be.
+In any event, at those entities with significant merchant banking portfolios, the above average variance in stock prices will doubtless add to the variability of earnings of the overall organization-and hence, one can conclude, to the organization's valuation in the marketplace.
+There is, indeed, general agreement that the price-earnings ratio of trading banks is lower than that of other banks of the same size, although it has been difficult because of the dynamics of other variables to nail down empirically the appropriate orders of magnitude.
+And, I suspect, that if the data were readily available, we might be able to demonstrate the same pattern at institutions significantly involved in the private equity market and perhaps even in derivatives trading.
+Any earnings stream that shows variability has been appropriately discounted.
+That is not to say that real economic value is not being created for banking organizations, their shareholders, and the economy from what appears to be a greater-and perhaps expanding-flow of venture and other equity capital from banking organizations.
+But despite the very good record to date in both the derivatives and private equity activities of banking organizations, we all would be remiss if we did not note that there are risks in these activities that, during some periods in the future, will create reduced returns, if not significant overall losses, for individual organizations.
+However, the same might be said about portfolios of loans-the traditional historical major asset of banks-and one that will continue to dominate the business of most banks for the foreseeable future.
+Conclusion I have noted many times over the years that the purpose of banks and banking organizations is to take risk in order to contribute to, and facilitate the growth, and other needs, of an economy.
+We must be cautious, however, that we understand the nature of the new risks that have evolved with information innovation technologies and be certain that they are managed in ways that do not undermine this economic role.
+Balancing these objectives is no easy task.
+We need to ensure that strong risk-management systems are in place and that the management of banking organizations use these systems both to enhance their awareness and understanding of the risks knowingly taken and to manage those risks accordingly.
+But systems are never perfect; mistakes will be made; and tails in loss distributions do represent a reality that sooner or later occurs.
+
+This afternoon our panel has been asked to discuss the subject of alternative financial delivery systems.
+I would like to broaden this discussion a bit.
+The theme of my remarks will be that three types of variables--convenience, confidence, and complexity--are helping to shape the ongoing changes in electronic commerce and banking.
+I would then like to apply this theme briefly to the historical development of retail payment systems, in order to provide some insights into the changes in products and delivery systems that are now taking place.
+Finally, I would like to touch on the role of the central bank in addressing these developments and provide some information on the work of the Federal Reserve's Payments System Development Committee.
+Convenience, Confidence, and Complexity Electronic commerce is growing rapidly as our technologies for processing, analyzing, and transmitting vast quantities of data continue their extraordinary development.
+Consumer and business practices across a number of markets are changing, in some cases dramatically.
+In the end, there may be far-reaching and positive implications for the structure and efficiency of many of our markets.
+Three key sets of variables that are shaping electronic transactions and electronic commerce can be summarized under the headings of convenience, confidence, and complexity.
+Convenience refers to the capital, labor, time, and other real resources needed to conduct a transaction.
+Obviously, consumers and businesses wish to optimize the resources expended in conducting a transaction.
+Confidence refers to the trust that parties have in the elements of a transaction that generate risk to them.
+Financial, operational, security, and legal risks are relevant here as in many other contexts.
+Particular attention is currently being paid to the complex of "trust variables" relating to the authentication of transactions and parties, as well as to issues of privacy.
+Complexity is a shorthand reference to the ease with which the key features of a transaction can be standardized and automated and, ultimately, understood by the parties to the transaction.
+As we have now learned, however, it is not the good or service itself, sometimes called content, that necessarily has to be standardized in order to participate in electronic commerce.
+Rather it is the sales transaction and key related services that need to be standardized.
+There appear to be important tradeoffs among the convenience, confidence, and complexity variables that shape choices about electronic as well as other transactions.
+Greater convenience in transacting through open data communication networks, for example, may increase security and privacy risks and reduce user confidence.
+Greater complexity, in turn, may reduce the convenience of transacting electronically through data networks.
+One fundamental point, however, is that ongoing changes in technology are improving the terms of these tradeoffs, sometimes in several dimensions at the same time.
+For example, traditional constraints on the timing and location of economic transactions are being relaxed simultaneously and rapidly in a number of markets, leading to large potential gains in convenience.
+Through the use of the Internet and automated business systems, many markets can now be open twenty-four hours per day at very low marginal costs.
+Transactions can take place at much more convenient times tailored to the specific needs of individuals and businesses, with either immediate delivery of services in some cases or with later delivery in others.
+New technologies are also reducing the need for buyers and sellers to meet at one location as well as the need for computers and telephones to be tied to traditional wire networks.
+The result is that even some traditional retail markets increasingly seem ubiquitous and global.
+In addition, as convenience factors such as time and location are changing, significant efforts are being made to strengthen confidence in electronic transactions.
+Various encryption systems have been deployed.
+Developments in public key infrastructure are being closely followed.
+Considerable attention continues to be paid to strengthening the law governing electronic transactions.
+And privacy has reemerged as a crucial commercial and legal issue.
+Electronic Banking Electronic commerce involving banks is subject to the same forces as those affecting many other industries.
+New communications channels and devices, coupled with automated systems, allow a bank and its customers to transact an expanding range of business at virtually any time.
+According to recent statistics, nearly 40 percent of all U.S. banks now provide some form of web site through which they can communicate with customers, and nearly 15 percent provide web sites that can be used to conduct banking transactions.
+These numbers are growing rapidly.
+Of the banks with more than $500 million in assets, nearly 50 percent now provide web sites that can be used to conduct transactions.
+In parallel with the development of new transaction systems, there is an ongoing trend toward standardizing and automating banking products, including loan products, which traditionally required special attention and approvals along with thick files of documents.
+As in other industries, this combination of developments is calling into question the size of investments in traditional delivery mechanisms, which are now disparaged as "legacy systems" and "brick and mortar" investments.
+As in other industries, banks are increasingly examining both the relative importance of their various delivery channels and the degree to which their products and services are integrated across the channels.
+In this environment, banks are continuing to experiment with new technologies, services, and business models.
+It is natural that there is both uncertainty and intense market competition surrounding promising innovations.
+Because of the rapidly changing nature of electronic commerce, some of these innovations will undoubtedly press the very definitions of banking.
+Of course there are also risks, along with the new business opportunities.
+These risks will continue to require careful monitoring and management.
+To do otherwise would undermine the hard-won confidence that once lost is not easily regained.
+Payments Turning to payments, traditional payment mechanisms such as currency and checks have held the field against many challengers for more than a century.
+Undoubtedly the confidence that has been built up in traditional payment instruments has played a major role in their continuing success.
+Very interesting innovations, however, are being announced almost every day.
+Many of these innovations are being driven by efforts to improve the convenience of payment instruments and systems, including the timing and availability of electronic payments.
+It might be instructive to review briefly the history of retail payments to understand how the tradeoff among convenience, confidence, and complexity has worked.
+Looking back, the check was used in North America as long ago as colonial times.
+Businesses, in particular, were early users.
+The widespread use of the check by consumers did not occur in the United States until after World War II.
+Rising levels of income and restored confidence in the banking system led to the growth of deposit banking.
+Checks were used increasingly to make purchases over the counter as well as to pay bills.
+Checks allowed users to make payments for small as well as very large amounts at any time of the day, without needing to visit a banking office to obtain cash.
+Checks also allowed users to pay bills without visiting physical locations designated by service providers such as utility companies and other major billers.
+Thus checks offered more choices regarding the time and location for making payments and, at the same time, reduced the risk of theft and loss associated with cash payments.
+Ironically, innovations such as automated teller machines, which are not payment instruments but delivery mechanisms for cash, may well have supported the use of cash relative to checks or newer forms of electronic payments.
+ATMs initially offered a key banking service--cash withdrawals--around the clock.
+With the latest surge in deployments, ATMs seem now to be located on nearly every street corner.
+Over the longer term, the expansion of ATM networks and their integration into broad "point-of-sale" networks may ultimately improve the convenience of and increase the demand for on-line debit cards.
+In countries such as Canada and the United Kingdom, 20 percent or more of noncash transactions are now made by debit card over nationwide networks.
+Credit cards offer another interesting example.
+Credit cards began more than 75 years ago as store charge cards.
+These cards received a boost in the 1960s with the creation of branded bank cards and have since grown in popularity.
+The cards can be used on a 24-hour basis.
+Initially, the locations where they could be used were limited, but these have grown significantly along with overall credit card use in recent years.
+Consumers and merchants have now widely adopted credit cards to make payments arising from electronic commerce.
+There have also been efforts to make the use of credit cards over open networks more secure and to increase protections to cardholders.
+Other attempts at payment innovations also suggest that convenience, confidence, and complexity are important.
+The automated clearinghouse, designed to provide a very low cost electronic payment mechanism, has been very successful in automating many types of recurring payments.
+Early uses of the ACH, however, did not generally provide for flexible interfaces with consumers and businesses.
+To make an ad hoc electronic payment over the ACH, for example, would generally have required a special trip to a full-service banking office during regular business hours.
+From the standpoint of timing and location for making such types of payments, the check was clearly a superior instrument for consumers and many types of businesses.
+Some recent innovations such as point-of-sale check truncation and electronic bill payment systems now provide interfaces between the ACH and consumers and businesses that may significantly stimulate the use of the ACH over the longer term.
+In pilot tests of stored-value products, consumers have been able to use innovations such as stored-value cards only at very limited numbers of locations.
+There have been no real market tests yet of cards that can be reloaded at home computers or telephones.
+In theory, this capability could be equivalent to placing an ATM in every household.
+On balance, because consumers have not perceived the characteristics of stored-value cards to yet equal or improve on those of cash, it is no wonder that the cards have not done well commercially in early trials.
+However, providers of stored-value products have an incentive to make the use of those cards more attractive than cash in terms of the tradeoff among convenience, confidence and complexity.
+If they do that, it is quite possible that future tests will be more successful.
+Potential Lessons and Innovations Our experience with innovations in the payment system suggests several lessons.
+First and foremost, an innovation should have a "value proposition" that works for both providers and users.
+Providers must be able to earn a competitive return on the product, otherwise they will have no incentive to supply the innovation to the marketplace.
+For users, innovative products will need to offer combinations of convenience, confidence, and complexity in making payments that provide advantages over existing payment instruments and systems and to be competitively priced.
+Innovations that simply offer greater convenience but lower confidence may not be successful.
+Conversely, innovations that offer somewhat less convenience but improve confidence factors such as security and privacy may also be less than successful, at least initially.
+The final judgments in these cases, however, will have to be made by consumers and businesses in the marketplace as they weigh different variables against each other.
+Second, innovations in payment systems may provide new ways of doing business for providers and users that go beyond the process of payment itself.
+Electronic payment mechanisms, in particular, may lead to the combination of financial, payment, and other activities in new ways, particularly if data are brought together at one time and location for users.
+Indeed, new software offers low-cost opportunities to combine data and activities in ways that may not even have seemed practical a few years ago.
+Current electronic bill payment services and projects are one example.
+It is becoming increasingly convenient not only to make on-line bill payments but also to combine this activity electronically with financial analysis, cash and investment management, record management, and related functions.
+Third, electronic payment systems typically require a communications infrastructure along with technical, business, and legal rules in order to function effectively.
+The advent of the Internet and other types of network services may reduce the cost and complexity of putting such infrastructure in place.
+Relatively little new infrastructure was required to use the Internet and existing credit card networks as communication tools for making credit card payments to support electronic commerce, and growth has been rapid.
+Other innovations may also be able to build on the Internet and established payment networks, such as the ATM and ACH networks, in order to expand the range of payment options in electronic commerce.
+Fourth, economic "network effects" may be important in determining which innovations succeed or fail, at least in the short run.
+In general, one aspect of a network effect is that the value of a network to its users increases as more users join.
+We are familiar with this effect in the telephone and other communications markets.
+In payments, if too few consumers or merchants use a payment network or a new instrument, the system may not be sufficiently valuable to its users for it to become economically viable.
+To date, some innovations such as stored-value products may have been less than successful in part because of these effects.
+The Role of Government and the Federal Reserve Despite some of the challenges in shifting from a paper-based to a more electronic payment system, it is clear that the United States fundamentally has a safe and reliable retail payment system.
+As that system continues to evolve, the private sector will play the pivotal role in most innovations, while the Federal Reserve will also continue to play a strong and important role.
+In general, government, including the Federal Reserve, must continue to foster the safety and soundness of the payment and financial system, promote competitive markets, and ensure adequate levels of consumer protection.
+The Federal Reserve can also continue to modernize its existing payment services and work with the private sector to identify and, when appropriate, address barriers to payment-system innovation.
+Last July, the Board announced the formation of the Payments System Development Committee, which I co-chair with Cathy Minehan, the President of the Federal Reserve Bank of Boston.
+This new group is focusing on key medium- and long-term public policy issues surrounding the development of the retail payment system.
+In particular, the Committee is seeking to work with the public to identify barriers to the future development of the payment system and to recommend solutions to the Board and other authorities.
+During this year, the Committee is focusing on four important areas relating to retail and low-value commercial payments.
+First, we are attempting to learn from both Federal Reserve and private-sector experience with truncation and electronic check presentment, and to identify barriers to greater use of electronic technologies to collect checks.
+Second, we are assessing gaps in standards that may be inhibiting payment system innovation.
+Third, we are reviewing legal and regulatory issues, with an emphasis this year on the legal underpinnings for converting checks to electronic payments.
+Finally, we are examining the long-run strengths and weaknesses of the clearing and settlement systems for electronic payments.
+In addition, the Committee is following with great interest the many payment innovations that are currently taking place in the market.
+Most importantly, the Payments System Development Committee is seeking to foster communication with the public about the development of the retail payment system through meetings, workshops, and other forums.
+Conclusion Overall, a number of innovations are taking place in the retail payment system, along with very creative thinking by both traditional and nontraditional participants.
+Many of these innovations closely mirror much broader developments in electronic commerce and banking.
+

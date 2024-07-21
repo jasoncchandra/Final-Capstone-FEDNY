@@ -1,0 +1,602 @@
+In The Wealth of Nations, Smith put forward a number of explanations for the different paths that countries follow.
+He accurately identified capital accumulation, free trade, an appropriate--but circumscribed--role for government, and good "institutional infrastructure" as key drivers of national prosperity.
+Perhaps most important, he emphasized the role of personal initiative: The natural effort of every individual to better his own condition, when suffered to exert itself with freedom and security, is so powerful a principle, that it is .
+.
+.
+capable of carrying on the society to wealth and prosperity .
+.
+.1 In his writings, Smith gave us an invaluable start in our efforts to answer what is probably the most important macroeconomic question, that is, "What makes an economy grow?"
+In this very real sense, we are Adam Smith's intellectual descendants.
+We are still endeavoring to craft answers to questions similar to the ones he asked and, we hope, learning what policies and institutions are best able to create wealth and so enable nations to prosper.
+The debate regarding the sources of economic growth has markedly twisted and turned in recent decades.
+Following World War II, some countries seemed to pull back from the free-market paradigm articulated by Adam Smith.
+Many observers interpreted the economic turmoil of the Great Depression as a sign that free markets were flawed, and they increasingly looked to the apparently successful efforts of wartime planned economies.
+They thought that perhaps governments could also coordinate the far more complex activities of civilian economies.
+These more interventionist attitudes toward economic policy implied increased regulation of industry, greater government ownership of productive assets, higher tax rates to fund broadened social welfare initiatives, and in some instances controls on wages and prices.
+These policies were believed to improve the functioning of markets and to maintain economic stability and growth.
+Not until the 1970s--and the economic difficulties of that decade--did the realization finally take hold that market incentives had been reduced and that we were losing the dividend of efficient uses of resources that such incentives provide.
+Even those observers who derided the more unbridled forms of capitalism became increasingly aware that attempts to tame the market could be costly in terms of economic growth and the average living standards of a nation.
+Over the past thirty years, as many countries have struggled to liberalize their economies and improve the quality of their policies, global per capita income has steadily risen.2 I recognize that poverty rates are notoriously hard to quantify, but according to a recent study, the share of the world's population living on less than $1 per day, a commonly used poverty threshold, has fallen dramatically over the past three decades--from 17 percent in 1970 to 7 percent in 1998, representing a decline of 200 million people.3 In addition since 1970, the infant mortality rate has declined by more than half, school enrollment rates have risen steadily over the past thirty years, and literacy rates are up.4 While, from a global perspective, wealth and the overall quality of life have risen, that success has not been evenly distributed across regions or countries.
+The economies of East Asia are often-repeated success stories.
+Some, including China, Malaysia, South Korea, and Thailand, stand out not only as growing very strongly, but also as having seen the greatest declines in poverty rates.
+Overall, over the past three decades, Asia's $1 per day poverty rate fell by one measure from 22 percent in 1970 to just 2 percent in 1998.5 Moreover, Asia was not alone.
+Per capita incomes in Latin America also expanded during the period, and poverty rates fell, although progress was somewhat slower.6 But, sadly, the story in Africa has been quite different.
+Levels of per capita income in that continent have actually fallen.7 The poverty rate, which in 1970 matched the rate in Asia at the time, is estimated to have doubled to 40 percent by 1998.8 While Africa's performance has clearly been subpar, some African countries have had some success.
+For example, Botswana, Lesotho, and more recently Uganda have made some progress in raising per capita income growth and reducing poverty rates.9 Modern economic analysis has confirmed much of what Adam Smith inferred from a far less impressive set of data.
+Today's economists generally point to three important characteristics influencing growth: (1) the extent of a country's openness to trade and its integration with the rest of the world, (2) the quality of a country's institutional infrastructure, and (3) the success of its policymakers in implementing the measures necessary for macroeconomic stability.
+By openness and integration we generally mean the ability for goods and services, capital, and more broadly, the flow of information, people, technology, and ideas to move across the borders of a country.
+This freedom of movement may enhance growth by intensifying competitive pressures, increasing specialization, and allowing access to larger markets.
+Free trade allows the more efficient use of resources which, in turn, raises both the productivity of the domestic workforce and the level of national income.
+Adam Smith cited comparative advantage.
+He observed: If a foreign country can supply us with a commodity cheaper than we ourselves can make it, better buy it of them with some part of the produce of our own industry employed in a way in which we have some advantage.10 One recent study of the effects of openness on growth demonstrated that when countries are divided into two groups--those with generally open economies and those with generally closed economies--open economies have experienced average growth that is 2 ½ percentage points higher than the growth of closed economies.11 Furthermore, when developing economies are ranked according to their historical record of openness, economies such as Hong Kong, Malaysia, Singapore, and Thailand are near the top of the list.12 These Asian economies are some of the same ones that participated in the region's so-called growth miracle.
+For another example of a country that has benefited from free trade, we need look no further than Mexico--our host today.
+During the early 1980s, Mexico's non-oil merchandise exports were running a bit below $10 billion a year, or about 5 percent of its gross domestic product.
+By 2001, however, Mexico's exports of such goods had soared to more than $145 billion, or nearly 24 percent of GDP.
+The strength of exports has contributed importantly to the ongoing transformation of Mexico's economy.
+A good portion of this export growth has occurred in the context of the North American Free Trade Agreement, but the most important effects of NAFTA may be the increased openness of Mexico's domestic economy and the associated policy reforms.
+A second characteristic that economists have identified as influencing a country's ability to grow is termed its "institutional infrastructure."
+By this we mean the institutions that help make an economy work, such as a functioning legal system, which ensures the rule of law and protects property rights.
+These institutions are responsible for setting the "rules of the game" and ensuring that those rules are observed.
+Sound institutions provide the backdrop against which markets operate.
+They foster confidence that contracts will be honored, that debts will be paid, and that the gains from sound investments will not be stolen or expropriated.
+Researchers in recent years have found that the rule of law--defined as a system that emphasizes creditor rights and rigorously enforces contracts--facilitates the development of an efficient banking system and financial markets more generally; this development, in turn, supports growth.13 The quality of the institutions in a country--such as a sound regulatory environment, political stability, and the control of corruption--have important effects on growth.14 Economies with a high quality of governance, relative to other economies in their regions, including Hong Kong and Singapore in Asia, Chile in South America, and Botswana in Africa, have had some of the fastest growth rates in their respective regions in recent decades.15 The quality of a country's educational system is clearly a significant part of its broader institutional infrastructure.
+Policies that foster the human resources of a country improve growth.
+Many studies exhibit a link between education and growth, with some showing that even a small increase in average education can lead to a sustained rise in the rate of economic expansion.16 Finally, an undeniable determinant of economic growth is macroeconomic stability--having fiscal, monetary, and exchange rate policies that are sound and predictable.
+A prudent government sets, among other things, the long-run course of policy variables such as inflation, the government budget deficit, and debt at levels that are conducive to, or at least do not impede, growth.
+For developing countries, the management of debt denominated in foreign currencies has been especially nettlesome.
+In all economies, political constituencies seek to employ the powers of the state to increase their share of limited national resources.
+While the record of developed economies is far from unblemished, they have had greater success in fending off such demands.
+One indication of that success is that exchange-rate regimes have not often been upended by domestic political pressures in these economies.
+Although the range of outcomes has been wide, many emerging-market nations have had less success in insulating their international financial positions from domestic political pressures.
+Those pressures, at times, have become exceptionally difficult to deal with.
+To close the gap between the financial demands of political constituencies and the limited real resources available to their governments, many countries too often have bridged the difference by borrowing from foreign investors.
+In effect, the path of least resistance has been external borrowing, usually at the lower interest rates of internationally tradable currencies, rather than confronting politically difficult tradeoffs.
+Periodically, as an economy borrows its way to the edge of insolvency with debt denominated in foreign currency, government debt-raising capacity appears to vanish virtually overnight.
+This vanishing capacity characterizes almost all financial crises.
+Lending institutions will provide funds beyond the immediate visible short-term cash flow of a borrower only if they perceive that maturing debt will be rolled over.
+The first whiff of inadequacy in debt-raising capacity induces a run to the exits--not unlike a bank run.
+Thus, an economy's necessary condition for solvency--indeed, a necessary condition for economic growth--is the maintenance of significant unused financing capacity.
+Too often governments have endeavored to contain impending debt crises with inflationary policies that inhibit growth.
+Controlling inflation is essential to creating an environment of sustained growth.
+Once inflation gets above a certain point, it has a large negative effect on growth, according to most research.
+Stanley Fischer, for example, concluded that if a country with inflation of 10 percent becomes a country with inflation of 110 percent, its annual growth rate would fall 4 percentage points; the consequences of this for standards of living can hardly be overemphasized.17 This effect may help to explain why East Asia, where inflation has been relatively low on average, has been more successful than Latin America, where many countries have suffered bouts of hyperinflation.
+More generally, Latin America provides a good example of both the deleterious effects of macroeconomic instability and the benefits of putting sound policies in place.
+Between 1975 and 1990, when many Latin American countries struggled with large budget deficits and high inflation, average per capita income in these countries expanded at a pace of just ½ percent per year.18 Economic performance in the region improved markedly in the early 1990s, as these countries reduced inflation, liberalized their foreign exchange regime, increased their openness to trade, and developed their financial markets.19 More recently, while Argentina, Brazil, and several other countries in the region have experienced economic disruptions, Mexico and Chile have remained relatively insulated, apparently reflecting market confidence that these countries are committed to sound policies.
+Mexico is a particularly interesting case.
+In the two decades before 1995, the Mexican economy suffered several severe crises.
+Yet in recent years, with the implementation of NAFTA, a floating exchange rate regime, relatively stable fiscal policies, and much lower inflation, Mexico's vulnerability appears to have declined markedly.
+This country now seems to be viewed by international investors as a relative "safe haven" within the region.
+As Easterly and Levine indicate, much of Africa's plight can also be linked to macroeconomic instability.
+Empirical evidence suggests that Africa's large government budget deficits, underdeveloped financial markets, and black-market foreign-exchange premiums (which likely proxy for a host of deficiencies in the financial and legal system) apparently explain roughly half the growth divergence between East Asia and Africa over the past several decades.
+In other words, these results suggest to Easterly and Levine that growth of per capita annual income in Africa would have been about 2-1/2 percentage points a year higher had countries in Africa followed policies adopted by the East Asian economies.20 Central bank independence has not received a great deal of attention in the recent literature on growth.
+Given the importance of keeping inflation under control, the policies of the central bank--and the freedom of the central bank to set those policies without political intervention--can play a key role in creating an environment conducive to growth.
+Empirical evidence for industrial countries indicates that countries with a higher degree of central bank independence are also generally countries with lower rates of inflation.21 In emerging markets and transition economies, the evidence of an association between measured central bank independence and inflation rates is not well-established, although a couple of very recent studies do find a negative relationship.22 To sum up, none of today's recognized fundamental determinants of growth--openness, institutional infrastructure, and macroeconomic stability--are recent insights.
+Adam Smith and his colleagues proffered them more than two centuries ago.
+Yet assuming that Smith's complex insights into what creates the wealth of nations are accurate, why have they been embraced and largely implemented by some societies and not others?
+As history amply demonstrates, unless a broad majority of a population implicitly or otherwise believes that a competitive free market paradigm advances their welfare, it cannot for long be imposed on them by an authoritarian or even a democratically elected government.
+That an "invisible hand" converts self-centered behavior into a greater good is a profoundly abstract notion that--while largely, but by no means fully, embraced by developed nations--has been held only tentatively, even recently, by many developing nations.
+If not in some sense seen as generally equitable and fair, the distribution of income that emerges from competitive free-market capitalism will not have the support in law that is a necessary condition for markets to produce wealth.
+Now that the central planning paradigm of earlier decades has been largely discarded, the differential rewards of competitive markets based on skill do seem to be accepted though rewards from what is perceived as monopolistic or corrupt are not.
+It is hence incumbent on those of us who see broader and market-based globalization as fundamental to the creation of wealth to defend and advocate the tenets of Adam Smith.
+References Alesina, Alberto, and Lawrence H. Summers (1993), "Central Bank Independence and Macroeconomic Performance: Some Comparative Evidence," Journal of Money, Credit, and Banking, vol.
+25 (May), pp.
+151-62.
+Barro, Robert J.
+(1997), Determinants of Economic Growth: A Cross-Country Empirical Study, Cambridge, Mass.
+: MIT Press.
+Cukierman, Alex, Geoffrey Miller, and Bilin Neyapti (2002), "Central Bank Reform, Liberalization, and Inflation in Transition Economies: An International Perspective," Journal of Monetary Economics, vol.
+49 (March), pp.
+237-64.
+Easterly, William, and Ross Levine (1997), "Africa's Growth Tragedy: Policies and Ethnic Divisions," Quarterly Journal of Economics, vol.
+112 (November), pp.
+1203-50.
+Easterly, William (2001), The Elusive Quest for Growth: Economists' Adventures and Misadventures in the Tropics, Cambridge, Mass.
+: MIT Press.
+Fischer, Stanley (1993), "The Role of Macroeconomic Factors in Growth," Journal of Monetary Economics, vol.
+32 (December), pp.
+485-512.
+Gutierrez, Eva (2002), "Inflation Performance and Constitutional Central Bank Independence: Evidence from Latin America," IMF Working Paper (June).
+Kaufmann, Daniel, Aart Kraay, and Pablo Zoido-Lobaton (1999), "Governance Matters," World Bank Policy Research Working Paper No.
+2196.
+Levine, Ross (1998), "The Legal Environment, Banks, and Long-Run Economic Growth," Journal of Money, Credit, and Banking, vol.
+30 (August, pt.
+2), pp.
+596-613.
+Levine, Ross, and Sara Zervos (1998), "Stock Markets, Banks, and Economic Growth," American Economic Review, vol.
+88 (June), pp.
+537-58.
+Sachs, Jeffrey, and Andrew Warner (1995), "Economic Reform and the Process of Global Integration," Brookings Papers on Economic Activity, 1995:1, pp.
+1-118.
+Sala-i-Martin, Xavier (2002), "The World Distribution of Income (Estimated from Individual Country Distributions)," National Bureau of Economic Research Working Paper 8933.
+Smith, Adam (1776), An Inquiry into the Nature and Causes of the Wealth of Nations, 5th ed.
+(edited by Edwin Cannan, 1930), vols.
+I and II, London: Metheun and Co. World Bank (2002), World Development Indicators, Washington, D.C. Footnotes 1.
+Smith (1776), Vol.
+II, book IV, chapter V, p.43.
+Return to text 2.
+World Bank (2002)--GDP per capita (constant 1995 dollars).
+Return to text 3.
+Sala-i-Martin (2002).
+The $1 per day threshold is measured in 1985 dollars on a Purchasing Power Parity basis.
+Return to text 4.
+World Bank (2002).
+Return to text 5.
+Sala-i-Martin (2002).
+Return to text 6.
+World Bank (2002)--GDP per capita (constant 1995 dollars) for the per capita income data and Sala-i-Martin (2002) for the poverty data.
+Return to text 7.
+World Bank (2002)--GDP per capita (constant 1995 dollars).
+Return to text 8.
+Sala-i-Martin (2002).
+Return to text 9.
+Sala-i-Martin (2002) and World Bank (2002)--GDP per capita (constant 1995 dollars).
+Return to text 10.
+Smith (1776), Vol.
+I, book IV, chapter II, p. 422.
+Return to text 11.
+Sachs and Warner (1995).
+Return to text 12.
+Sachs and Warner (1995).
+Return to text 13.
+Levine (1998) and Levine and Zervos (1998).
+Return to text 14.
+Kaufmann, Kraay, and Zoido-Lobaton (1999).
+Return to text 15.
+Kaufmann, Kraay, and Zoido-Lobaton (1999).
+Return to text 16.
+Barro (1997).
+Return to text 17.
+Fischer (1993).
+Return to text 18.
+World Bank (2002)--GDP per capita (constant 1995 dollars).
+Return to text 19.
+Easterly (2001).
+Return to text 20.
+Easterly and Levine (1997) cited in Easterly (2001).
+Return to text 21.
+Alesina and Summers (1993).
+
+Of course, the views I express are my own and not necessarily those of other members of the Board of Governors or the Federal Open Market Committee.
+As you all know, the Federal Open Market Committee lowered the federal funds rate target last week in response to an apparent softening in near-term economic prospects.
+I’ll come back to that decision and share some of my thoughts about the effectiveness of expansionary monetary policy in stimulating aggregate demand.
+But before doing so, I think it is useful to set the stage by talking about some notable aspects of the economic recovery currently under way and some possible reasons why the economy has taken this particular course.
+Like its predecessor in 1990-91, the most recent recession was relatively mild; and the current recovery, compared with previous recoveries, has similarly been restrained.
+The NBER has not officially declared a business cycle trough.
+But using the fourth quarter of last year as a benchmark, the peak-to-trough decline in the level of real gross domestic product was just 0.6 percent, matched in its shallowness in the post-World War II period only by the 1970 recession.
+And according to the Commerce Department’s latest estimate, through the first three quarters of this year the economy has grown a little more than 3 percent at an annual rate, compared with an average increase in GDP of about 5-1/2 percent during the first four quarters following previous business-cycle troughs.
+Only in 1991-92 was the increase in GDP slower than in the current recovery.
+As is typical, the expansion this year was aided by a waning of an earlier sharp runoff of business inventories.
+But some other features of the current recovery seem at odds with historical experience.
+For example, despite the relatively modest pace of output growth, productivity gains have been atypically large this year.
+In the long run, strong growth of productivity is unambiguously positive, as it implies that the prospects for increases in the general standard of living remain favorable.
+But the recent performance also is likely a sign that businesses are being unusually cautious in their hiring.
+Indeed, the labor market has not yet materially improved in the current expansion.
+The level of private payroll employment in October is still only marginally above the April low.
+And the unemployment rate has come down only slightly from its 6 percent peak earlier this year.
+Another symptom of business caution is the sluggish rise in business investment compared with previous recoveries.
+In contrast, the household sector has been a source of strength this year.
+Housing starts and sales have been at their highest levels in years.
+Motor vehicle sales have been running well above normal levels for much of the year.
+And consumer spending apart from motor vehicles rose at a relatively robust pace over the first half of the year.
+What accounts for the unusual nature of this recovery?
+I think that there are several factors at work.
+First, the downturn in 2001 itself exhibited some unusual features that have contributed to the patterns of economic growth this year.
+As I just noted, the recession was relatively mild.
+As a result, some of the elements of spending that normally rebound sharply from very depressed levels fell less this time and thus had less room in which to recover.
+This pattern is most evident in the housing sector, where home sales--and new construction--remained at elevated levels through the recession and beyond.
+But a lack of pent-up demand coming out of the recession was also noticeable in other areas of household spending, especially consumer durables other than motor vehicles.
+In addition, the 2001 downturn was led by a collapse in business spending, especially for equipment and software.
+In the past fifty years, investment spending has nearly always begun its decline one to four quarters after the peak of the economic cycle, not before it.
+In the most recent cycle, however, the main source of the economic shock to demand was a large drop in capital expenditures.
+In retrospect, this downturn in investment seems to have been caused by an overbuilding of capital stocks in the late 1990s, especially in high-tech equipment.
+The boom in high-tech spending appears to have been sparked by the confluence of three key trends: the rapid growth in computing power generated by dramatic advances in semiconductor technology; the advent of new networking technologies that permitted computers to communicate more easily with each other in private networks and through the public Internet; and the development of software programs that facilitated these interactions and greatly expanded the use of personal computers.
+During this period of rapid change, the rate of return to investing in these new technologies and applications looked to be very high.
+These perceived high rates of return encouraged new firms, supported by investors eager for windfall financial gains, to enter these markets, and induced a record-setting expansion of capital spending.
+As it turned out, however, some of these investments were overly optimistic and capital markets were not sufficiently discriminating.
+The expected returns to the new equipment did not materialize, and many of the new high-tech start-ups went bankrupt.
+As a result, the economy was left with a bulge in corporate defaults for investors to absorb, and an overhang of high-tech capital, which has subsequently exerted a substantial drag on business spending and economic activity.
+The shakeout in the high-tech sector also contributed to a sharp decline in the stock market, and the resulting negative wealth effect has restrained consumer outlays.
+Nevertheless, household spending, aided by solid income gains that were fueled by continued productivity growth and income tax cuts, held up quite well during the economic downturn.
+That strength has continued into this year, supported by low interest rates and substantial motor vehicle incentives.
+But, as I noted above, the absence of pent-up demand among consumers has limited the extent to which the household sector has contributed to growth this year.
+And the recent data on consumer spending have had a weaker tone of late as households continue to adjust to the hit taken by their balance sheets.
+In addition, foreign economic growth has remained relatively anemic.
+Real GDP gains this year are running at annual rates of only 1 percent to 1-1/2 percent in the euro area and Japan, and output is falling in parts of South America.
+This weakness in foreign activity has restrained the demand for our exports, with adverse consequences for U.S. manufacturers.
+Another factor that seems to be limiting the economic recovery is the substantial uncertainty confronting decisionmakers.
+In particular, a series of unusual shocks has significantly buffeted the economy over the past year or so.
+Chief among these were the terrorist attacks of September 11.
+The worst effects were obviously felt by the people directly touched by the tragedies.
+But the attacks also dealt a blow to our already weakened economy.
+Several industries were seriously affected--the air travel and airplane manufacturing industries being the clearest examples--and activity in these industries is still well below its levels just before the attacks.
+The economy has proved to be more resilient than many initially anticipated, but the threat of additional attacks has undoubtedly affected some business decisions.
+This year, concerns about the adequacy of corporate governance have greatly increased.
+These concerns likely contributed to the pullback in the stock market this summer.
+Moreover, lenders have responded to the sequence of accounting irregularities, and even sound businesses have been affected by the additional caution and suspicions arising in the wake of the disclosures by Enron, Worldcom, and the like.
+In particular, these announcements probably heightened investors’ perceptions of risk and thus likely contributed to the widening in risk spreads in recent months.
+More recently, geopolitical risks also seem to be weighing on businesses and households.
+The possibility of additional terrorist attacks has been present for some time.
+But added to this concern are now the prospects for armed conflict.
+Predicting the consequences of such an event with any precision is, of course, impossible, and this additional uncertainty has undoubtedly increased caution among businesses and perhaps even households.
+Indeed, as I noted at the outset, indicators of production and spending have recently become more downbeat.
+Industrial production fell in both August and September, in part--but not solely--because of a dropback in motor vehicle production from the high rates earlier in the summer.
+Payroll employment has turned down again after rising this summer.
+And layoffs and initial claims for unemployment insurance continue to run at elevated levels.
+On the household spending side, motor vehicle sales dropped off sharply in September and October after a phenomenal pace this summer; personal consumption expenditures excluding motor vehicles were little changed in both August and September; and consumer confidence has deteriorated of late.
+Similarly, business spending has shown little vigor in recent months, at least judging by the latest data on new orders and shipments of nondefense capital goods.
+Taking account of these latest signals, the climate of heightened uncertainty, and the very favorable prospects for inflation, the FOMC last week cut the target for the funds rate by 50 basis points.
+This additional easing of policy is aimed at helping the economy work through the current soft spot, and the FOMC indicated that it better balances the risks to the outlook.
+Not everyone will agree with this view.
+In particular, the fact that the economy has grown at only a moderate pace this year despite sizable reductions in interest rates over the past year and a half has led some observers to argue that monetary policy has lost its punch.
+In my opinion, that argument is wrong.
+Academics and policymakers always thought that monetary policy operates with long and variable lags and that both the level of rates and the time required for policy to have the desired equilibrating effect depend greatly on the force of the macroeconomic instability that must be confronted.
+To judge the effectiveness of monetary policy, one must consider what the economy would have looked like in the absence of easing.
+In this light, given the severity of the shocks that have hit the economy, a better interpretation may well be that recent events validate once again the potency of monetary policy.
+In my judgment, monetary policy has, in fact, countered some of the negative forces weighing on the economy.
+Residential investment has no doubt been buoyed by policy easing, as lower mortgage rates offset the restraint from declines in employment, smaller gains in income, and lower levels of wealth.
+Lower interest rates have also made it attractive to refinance mortgages to reduce monthly payments, extract some buildup of home equity, and use the proceeds to pay down more-expensive forms of consumer credit, finance additional purchases, or pay for home renovations.
+Businesses, which have been feeling the pinch of lower corporate profits, have benefited from lower interest rates as well.
+For example, the low rates have facilitated the financing incentives used by automakers to stimulate motor vehicle sales this year.
+And businesses more generally have taken advantage of lower long-term rates by issuing bonds and paying down commercial paper and bank loans.
+Even so, the current environment of low inflation and concerns about the recovery have raised questions about whether the Federal Reserve will eventually run out of room to lower interest rates by enough to stimulate the economy.
+However, I do not think that macroeconomic outcomes will be sufficiently adverse to place us in imminent danger of hitting the so-called zero bound on nominal interest rates.
+Even more remote is the possibility that monetary policy will be unable to prevent deflation.
+To be sure, many firms, especially in the goods-producing sector, are experiencing declining prices.
+Goods prices have been declining this year, reflecting, in part, productivity improvements.
+Distinct from changes in relative prices, a general deflation would be disturbing both because it would be widely unexpected and because it would undermine the ability of monetary policy to operate through traditional channels.
+I believe the risks of a general deflation are remote, as I will explain shortly.
+On that score, measures of overall price inflation are still running in the range of about 1-1/2 percent at an annual rate for the GDP and core PCE price indexes to a bit more than 2 percent for the core consumer price index.
+However, I also believe that complacency in this regard is inappropriate.
+The economics literature advises preemptive and aggressive action to minimize the risks of deflation.
+In the unlikely event that our nation should face such a challenge, I believe that the Federal Reserve would demonstrate a commitment to such timely and decisive action.
+For several reasons, I think that the probability that the United States will end up in a position of general deflation is extremely low.
+For one thing, we’ve clearly learned the lessons of history, both the distant past of the United States and the more recent experience of other nations.
+Monetary and fiscal policies in the United States were quick to react to the mounting evidence that the decline in business spending that began in late 2000 was likely to be prolonged and severe.
+In January 2001, the Federal Reserve began to cut rates and by the end of last year had reduced the funds rate target more than 400 basis points, to its lowest level in forty years.
+Similarly, fiscal policy provided stimulus to the household sector at a time when household wealth was deteriorating.
+In addition, the balance sheets of our financial firms appear to be in relatively good shape.
+Banks are well capitalized and don’t have the severe nonperforming loan problems that have been plaguing Japan.
+Of course, banks are being careful lenders, and the supply of credit does appear to have tightened more recently, especially for less creditworthy borrowers.
+But the primary reason for weak net business borrowing this year seems to be a lack of demand, and in general, credit appears to be available to higher quality borrowers in both the business and the household sectors.
+The underlying structure of the U.S. economy also seems fundamentally sound, reducing the risks going forward.
+After the substantial reductions of the past year and a half, inventories in most areas appear to be at comfortable levels.
+There are no doubt places where capital goods imbalances are still quite large--communications equipment and aircraft being two notable examples.
+But in other sectors, companies have remained profitable, and in the aggregate, the underlying picture of corporate profits and capital spending is not so bleak as the experiences of some industries might suggest.
+Indeed, as measured in the national income and product accounts, economic profits in the third quarter were well above year-earlier levels.
+And real investment in equipment and software, while not rising at the torrid pace of 2000, appears to have bottomed out and may be increasing.
+Moreover, the longer-term prospects for economic growth in the United States continue to look favorable.
+A key question in assessing those longer-run prospects is whether productivity growth in the years ahead will more closely resemble the substantial gains evident since 1995 or whether it will revert to the weaker performance of the period from 1973 to 1995.
+The most recent record of productivity growth reinforces the view that future growth will follow the higher trend of the past half-decade.
+Productivity is a cyclical variable that typically falls in recessions.
+However, during the most recent downturn, productivity never declined and instead continued to grow at a fairly strong pace.
+Moreover, after September 11, many economists feared that productivity growth would suffer a severe setback as businesses diverted resources to improving security and developing contingencies in the event of another terrorist attack.
+Instead, according to Labor Department data released last week, output per hour in the nonfarm business sector has risen 5.3 percent over the past four quarters, its best performance since 1983.
+How should we interpret this truly extraordinary performance?
+Cyclical forces probably played some role.
+And, as I noted, increased caution has probably pushed many companies to find ways to get more productivity from their workers.
+But these efficiency gains were likely facilitated by the capital investments of recent years.
+Adjusting to new technologies takes time, and it is plausible that such an adjustment process has continued to boost productivity this year.
+While cyclical forces and lags in the assimilation of new technologies have been important, their influence is likely to be transitory.
+More fundamentally, I believe that the trend in productivity has ratcheted up, and this development has been the driving force behind the recent extraordinary productivity growth.
+Thus, it seems to me that with last week’s easing in monetary policy, the pieces are in place to engender a gradual strengthening in economic activity in coming quarters.
+With the real federal funds rate now below zero, monetary policy is providing considerable support to the interest-sensitive sectors of the economy.
+Similarly, fiscal policy remains conducive to growth.
+The uncertain mood among businesspeople--and more recently households--may continue to damp spending for a while longer.
+But with inventories now seemingly in better alignment with sales and with much of the restructuring associated with the high-tech overhang now behind us, some important sources of economic weakness over the past two years should begin to disappear.
+As a result, with underlying productivity gains likely to remain strong, business profits and household income should resume their uptrend, setting the stage for a renewed pickup in private spending growth.
+Of course, with inflation quite low and with significant excess capacity remaining in labor and product markets, we will need to remain watchful for any additional signs of economic weakness.
+
+I would like to focus first on the economic status of minority Americans, including some information from the Federal Reserve's most recent Survey of Consumer Finances.
+I will then turn to the role of small businesses in our economy, drawing on our research on small business finances and our efforts to promote small business access to capital and credit.
+Labor Market Developments During the 1990s, we were fortunate to have experienced the longest uninterrupted economic expansion in U.S. history.
+By late 2000, the unemployment rate was the lowest it had been in more than thirty years.
+The expansion benefited all segments of the population, including minority groups.
+In fact, the unemployment rate for blacks dropped to less than 7-1/2 percent in late 2000; it had not been lower than 9 percent since statistics on the minority labor force were first collected in 1972.
+But despite the improvement, blacks still lagged, with an unemployment rate that was nearly twice the national average.
+Over the past year and a half, as all of you know, we have experienced a business cycle downturn that has been followed, more recently, by a very slow recovery in the labor market.
+As a result, we have retraced some of the gains recorded during the 1990s.
+The overall unemployment rate has moved back up to 5-3/4 percent in recent months, and the jobless rate for blacks has hovered just below 10 percent.
+The fact that the business cycle has had broad effects on the labor market outcomes--both on the upside and on the downside--highlights the limited scope for monetary policy to be calibrated to target or to exempt a particular segment of our economy from cyclical changes in economic activity.
+Over the course of the business cycle, in both good times and bad, minority unemployment rates tend to run significantly higher than the national average.
+Economists have determined that a variety of factors contribute to that persistent disparity, including educational levels, work experience, and proximity to available jobs.
+Nonetheless, the particularly troubling longer-run trend of declining labor force activity of black men remains subject to considerable debate.
+Monetary policy alone cannot address the underlying structural causes of differences in economic outcomes for various groups, but it can contribute to an environment in which progress toward equality is more likely to be made.
+Adjusting monetary policy in a forward-looking manner to attain the maximum sustainable growth path for the aggregate economy and stable prices will help foster conditions under which the greatest number of Americans--including minorities--share in the nation's prosperity.
+The Federal Open Market Committee's accommodative policy over the past 22 months has been aimed at supporting aggregate demand to lay the groundwork for a return to a sustainable rate of economic expansion.
+And, last week's decision to ease further was aimed at increasing the chances that the economic recovery would stay on track and not be derailed by the recent soft spot.
+Private Wealth Creation Just as the long expansion of the 1990s brought marked reductions in unemployment, it also supported individual wealth creation.
+Because the creation of wealth is an important benefit of policies that encourage stable economic conditions and sustainable job creation, my colleagues and I at the Fed take an active interest in understanding the process of wealth creation.
+The Board's Surveys of Consumer Finances, which are conducted every three years, help us understand issues of personal finance.
+With the information for 2001 tabulated so far, our survey shows that U.S. families saw sizable gains in both their mean and their median net worth over the past decade: Median real net worth rose 40 percent, and mean net worth rose 72 percent, between 1992 and 2001.
+Roughly half those gains occurred between 1992 and 1998, and half occurred in just three years, from 1998 to 2001.
+Between 1992 and 1998, although the level of net worth for minority families remained well below that of other families, their median real net worth was rising at roughly the same pace, 20 percent, as nonminority families.
+However, between 1998 and 2001, inequality in family net worth increased significantly: Median real net worth changed little for minority families while it increased an additional 17 percent for nonminority families.
+As a result, the striking difference in the level of wealth between minority and other families widened further: In 2001, the median net worth was $17,100 for minority families versus $120,900 for non-Hispanic white families.
+I note, for this audience, that the story for African Americans alone is somewhat more positive: Median wealth did increase about 13 percent between 1998 and 2001, but the median level of net worth in 2001 was still only $19,000.
+A substantial part of the wealth gap is associated simply with differences in family ownership of assets.
+In 2001, about 22 percent of minority families had no type of nonfinancial asset--such as a residence, a vehicle, or a business; almost 18 percent had no type of financial asset--such as a checking or savings account, stocks, bonds, or other such assets.
+For other families, the comparable figures were well below 10 percent.
+Obviously, with their more limited asset ownership, minorities had less opportunity to benefit from the substantial appreciation of assets, such as houses and corporate equities, that occurred over the 1990s.
+Nonetheless, increases in ownership are an important factor in explaining the gains in net worth that we did see for minorities over the past decade.
+Two items stand out as particularly important: transaction accounts and personal residences.
+Transaction accounts--including checking and savings accounts--are the most basic type of financial asset.
+Without such holdings, families are unlikely to acquire the sophistication to move further into the financial system.
+Over the period from 1992 to 2001, the share of minority families with such accounts rose from 64 percent to 78 percent.
+No doubt, a large part of the differences in asset holdings between minorities and other families may be attributed to differences in income.
+By the definitions used in our survey, the median income of minority families in 2001 was only 57 percent that of other families.
+However, earlier work by our staff suggests that, even after controlling for such factors as income and formal education, minorities are still less likely to hold even a basic checking account.
+This finding suggests that fostering equal opportunity and supporting financial literacy campaigns may help minorities move into the financial mainstream.
+I do not have time today to cover the full range of detailed findings on asset and debt holdings from our 2001 Survey of Consumer Finances.
+Clearly, the survey is an important source of information on how changes in financial markets, innovations in lending, and other factors affect the financial situation of families.
+Our staff is preparing an article for publication in the Federal Reserve Bulletin early next year, which will provide a fuller review of the results.
+Changes in Home Ownership The other important contributor to the rise in wealth among minorities has been the rise in home ownership.
+Indeed, for many households, the largest and most important asset is the home they own.
+Home ownership is one of the cornerstones of wealth building and is generally associated with a range of socially desirable outcomes, including good schools, less crime, and neighborhood stability.
+For these and other reasons, increasing the rate of home ownership has been a long-standing national priority.
+Over the past decade or so, strong gains in employment, relatively low interest rates, and modest price inflation have spurred home buying across all segments of our society.
+In addition to favorable general economic conditions, home ownership has benefited from the introduction of new information processing technologies, including credit scoring, that have reduced the costs of obtaining a mortgage and from the introduction of a host of new, more affordable mortgage products.
+Strong private and public support for home ownership has helped to push the national homeownership rate to 67.8 percent in the third quarter of 2002.
+While rates for all groups have risen over the past decade, minority households have experienced the largest gains in home ownership.
+For blacks and Hispanics, homeownership rates averaged 47.5 and 48 percent, respectively, over the past year, up from rates of around 43 percent and 40 percent, respectively, a decade earlier.
+These trends in minority home ownership are quite positive, but more work remains to further close the substantial gap between minorities and non-Hispanic whites, whose homeownership rate is above 70 percent.
+The Role of Small Businesses in our Economy Business ownership has been another area of economic progress for minorities.
+The Federal Reserve has an ongoing interest in small businesses and their access to credit, which stems, in part, from the significant role that small businesses play in our dynamic economy.
+By some estimates, we have upwards of twenty-five million small businesses in the United States accounting for more than 99 percent of all firms.
+Although a great number of these firms involve individuals who are self-employed or who have no employees, small businesses, collectively, employ more than half the private-sector workforce and generate about three-fourths of net new jobs each year.
+These firms also generate more than half the sales revenues of all U.S. firms.
+In addition, research has consistently found that small businesses contribute vitally to the economies of urban and rural communities.
+The expansion of the last decade provided a favorable climate for small businesses generally and for minority-owned firms in particular.
+The year 2000 alone saw the creation of more than 600,000 new firms with employees in the United States.
+Moreover, in recent years, the number of minority-owned firms has been expanding at a rate more than four times that of U.S. businesses overall.
+Nonetheless, minority-owned firms still constitute only a small proportion of all small businesses.
+As of 1998, about 15 percent of all small businesses were minority-owned: about 4 percent each were black-owned and Asian-owned, and 6 percent were Hispanic-owned.
+Small Business Access to Capital and Credit Given the importance of small businesses to our economy, and their heavy reliance on credit to facilitate growth, the Federal Reserve has taken a leading role in efforts to improve the understanding of factors that bear on the availability of funds to support small business activity.
+Our most recent report to the Congress in September on the availability of credit to small businesses provides an extensive review of developments in recent years.
+In the report, we noted that business-financing flows to both large and small borrowers, after having been strong in the late 1990s, have since moderated along with the pace of economic activity.
+Debt growth appears to have held up better at small firms than it has at large firms, and small businesses did not report material difficulties in obtaining credit during the recent downturn.
+From 1997 to 2002, the demand for credit by small businesses tracked the pattern of debt growth.
+Equity financing of small businesses showed a similar pattern: It surged in the late 1990s but then slowed after 2000 when stock prices began to decline and venture capital funding became less available.
+An important input into our analysis of small businesses is the Board's Survey of Small Business Finances, which is conducted every five years; the most recent was in 1998.
+These surveys collect detailed information on the financial and other characteristics of a nationally representative sample of small businesses.
+To help us gain a better understanding of the nature and needs of minority-owned firms, the survey over-samples firms owned by various minority groups.
+These data have been extremely useful for our understanding of the role that discrimination may play in affecting small business credit markets.
+Research based on data from the surveys has provided many insights on similarities and differences in the characteristics of white-owned and minority-owned firms and of male-owned and female-owned firms.
+For example, firms owned by blacks tend to be smaller (whether measured by assets, sales, or employment), newer, and more likely to be located in an urban area than their nonminority counterparts.
+Black-owned businesses also tend to be owned by younger individuals with fewer years of experience and poorer credit histories.
+Finally, black-owned businesses are more likely to be sole proprietorships and in the services industry.
+Other differences between other minority-owned firms and white-owned firms have been identified, but they tend to be less pronounced.
+Clearly, many factors are considered in credit decisions.
+Smaller businesses, which tend to have less equity capital available, fewer assets to pledge as collateral, greater variation in earnings streams, and higher failure rates, may be expected, on the whole, to experience greater scrutiny in the process of obtaining credit than larger businesses experience.
+The personal creditworthiness of the business owner in sole proprietorships or small partnerships, as well as in small corporations, is also an important consideration.
+Creditor evaluations of risk, based on these and other legitimate economic factors, properly play a central role in credit decisions.
+Aside from these differences along financial and nonfinancial dimensions, research has also shown that many minority- and women-owned firms differ from white- and male-owned firms in some of their credit market experiences.
+In general, studies have concluded that black-owned firms are generally more likely to be turned down for credit.
+However, when examined more closely, the general pattern has been found to mask more complex relationships.
+For example, differences in denial rates are less pronounced in urban markets, which account for a vast majority of firms in the study, than in rural areas.
+And when small retail firms are considered separately, denial rates for black-owned firms and for white-owned firms are similar.
+Clearly, additional research is needed to fully understand these complexities.
+Indeed, these data alone cannot identify discrimination because they do not include all the unique factors involved in each credit-granting decision.
+Whether discrimination helps to explain the various credit market experiences of small businesses owned by individuals from different demographic groups--and, if it does, to what extent--is difficult to determine.
+Discrimination in any creditor's decision is disturbing, and the moral and legal objections to it are obvious.
+In addition, constraints on access to credit due to discrimination carry real costs and serious economic consequences.
+Such constraints inhibit economic opportunities by limiting the ability of victims to purchase homes, expand businesses, and accumulate wealth.
+At its heart, discrimination in granting credit artificially restricts the flow of capital.
+It means that viable economic activity goes unfunded and that markets that should work do not.
+I can assure you that the Federal Reserve will remain vigilant for any indications of illegal discrimination in credit decisions.
+We, of course, continue to examine banks to measure and ensure their compliance with the Equal Credit Opportunity Act.
+And we will continue to sponsor research on credit availability and constraints, including potential illegal discrimination.
+Information and Educational Programs Besides collecting and analyzing data on small businesses and consumers, the Federal Reserve has also supported programs to encourage community development in low- and moderate-income areas and to promote small business development.
+Through our Community Affairs programs at each of the twelve Federal Reserve Banks, we conduct ongoing outreach and educational activities and give hands-on technical assistance to help financial institutions, their customers, and communities understand and address community credit needs.
+This is no small commitment.
+The Federal Reserve Board and the Reserve Banks devote more than 100 full-time staff members to help institutions understand and participate in community development.
+To give you an idea of the kinds of activities we engage in, the Federal Reserve Banks over the past three years have sponsored educational conferences, seminars, and workshops focusing on emerging community development issues, which more than 45,000 people have attended.
+Some issues addressed have been related to affordable housing, but recently our activities have focused increasingly on issues related to small business, economic development, and financial literacy.
+Each Reserve Bank develops programs that are tailored to local needs.
+For example, the Federal Reserve Bank of Atlanta worked with staff at Georgia State University to research growth patterns of minority-owned businesses.
+The New York Bank, in partnership with the University of Buffalo, held a conference that explored economic challenges faced by inner-city communities and effective strategies for business development.
+A recent conference at the Dallas Bank examined the role of technology in community development, discussed financial services in distressed communities, and considered ways of delivering financial services to those without bank accounts.
+In 2001, the System's Community Affairs Offices held their second biennial research conference, featuring studies on the delivery of financial services to lower-income populations and small businesses.
+Topics included the Community Reinvestment Act, predatory lending, credit scoring, wealth creation, and alternative financial services.
+The published proceedings are available on the Board's web site.
+The 2003 conference will be an opportunity for researchers to explore subjects such as evaluating the role of social and private capital in fostering economic development and measuring the success of programs designed to support business development and economic well-being.
+Besides these programs, Reserve Banks provide direct technical assistance to bankers, businesses, and community development organizations to help them identify and address capital and credit issues.
+Many of our Reserve Banks have helped bankers create multibank community development corporations (CDCs) and other consortium lending intermediaries, which focus on equity and debt financing for small and disadvantaged businesses.
+They also help banks deal with regulatory requirements that often must be addressed before investing in CDCs, small business investment companies, or multibank loan consortiums.
+As I noted earlier, many Americans do not understand the basics of personal finance and lack the sophistication to fully exploit the range of available financial services.
+Some are easy targets for abuses or make poor choices in the use of credit.
+The inability of many households to effectively budget, save, and invest is a barrier to their securing their financial future.
+The Fed is actively supporting efforts across the nation to increase financial literacy.
+In fact, we offer programs to our own workforce on financial matters.
+Our Community Affairs and Public Information Offices have recently embarked on a national initiative to highlight the importance of financial literacy and heighten the visibility of economic education programs.
+Here, for example, staff members of the Pittsburgh Branch of the Cleveland Bank are working with officials of the Pittsburgh Community Reinvestment Group to host a December workshop on preventing predatory lending.
+This event will offer credit counselors additional information on the use of credit reports and detailed instructions on how to read loan documents, enabling them to serve as more highly trained resources for their constituents.
+Conclusion Let me conclude by emphasizing that the Federal Reserve employs many tools that help us understand credit markets and address credit and capital availability issues confronting consumers and small businesses.
+Our goal is, through effective monetary policy, to help maintain price stability and to create conditions for sustainable economic growth, which will provide continued opportunities for families and small businesses to flourish.
+In an environment of sustainable economic growth and stable prices, a rising proportion of our citizens will be able to enter the job market and obtain important skills that can be life-transforming.
+By creating conditions conducive to maximum sustainable growth, the Federal Reserve can best do its part to improve the chances that all Americans have to ensure their financial well-being.
+Through our supervision of banks, we monitor financial institutions' compliance with laws requiring them to offer credit fairly and impartially.
+
+I distinctly remember one experience I had as a member of the American Bankers Association's Government Relations Committee in 1979.
+At our first meeting of the year, the "quarter-point differential" that thrift institutions were allowed under Regulation Q was the banking industry's top political priority.
+For those of you too young to remember, Regulation Q established the maximum allowable interest rate that could be paid on deposit accounts, which at the time was a quarter point higher for thrifts.
+This first annual meeting of the Ohio Bankers League following the merger of Ohio's banking and thrift trade associations is emblematic of the changes that have taken place in these two industries.
+And this event presents a good opportunity to review today's depository financial service industries in the context of a decade of major change.
+To begin, let's review the highlights of the past decade.
+First, there was the bank and thrift crisis of the late 1980s and early 1990s.
+Many banks and thrifts failed, and many others were weakened to the point that they became acquisition targets.
+The Congress and the regulators responded forcefully with the Federal Institutions Reform, Recovery and Enforcement Act (FIRREA) in 1989, and the Federal Deposit Insurance Corporation Improvement Act (FDICIA) in 1991.
+These legislative initiatives restricted banking practices, limited the supervisors' discretion in dealing with weak banks, imposed new regulatory requirements--including prompt corrective action--and strengthened supervisory oversight overall.
+Beyond the bank and thrift crisis in this country, there were also indications that banks of other nations followed different norms of capital adequacy, which had implications for competitive equity and for the overall soundness of the global banking system.
+The G-10 nations responded with the Basel Accord, a single, fairly simple global standard that was implemented in the early 1990s.
+The Basel standards have become somewhat less simple over the years and are again under review.
+But achieving international agreement on both components of capital and a risk-based approach to capital adequacy was a major achievement.
+A second force for change was the growing integration of banking markets, both geographically and functionally.
+Through the 1980s and the first half of the 1990s, the various states were liberalizing or eliminating their restrictions on interstate bank ownership.
+At the same time, nonbanks aggressively developed and offered products that could compete directly with banking products.
+The Reigle-Neal Act of 1994 was the epilogue to the saga of interstate banking, eliminating the remaining barriers to interstate ownership and interstate branching.
+As a result, in an era of consolidation and innovation, banks could pursue merger partners and branching strategies on the basis of economics rather than geography while also consolidating and rationalizing their own legal structure.
+The boundaries between banking products and other financial service offerings have also become less clear.
+Over the past decade, banks were increasingly interested in providing the full range of products and services available from their nonbank competitors, to create operating efficiencies, diversify potential revenue sources, and allow these banks to compete effectively with other [nonbank] full-service financial services firms.
+The bank holding company structure was one vehicle for doing so, especially securities underwriting and dealing through section 20 subsidiaries.
+Although revenues from bank-ineligible securities activities were initially limited to 5 percent of a BHC's income, the Board subsequently increased that limit to 25 percent.
+At this higher level, we began to see significant merger activity between securities firms and bank holding companies.
+In 1999, the Congress passed the Gramm-Leach-Bliley Act, arguably the most significant banking legislation in the last quarter of the twentieth century.
+It dismantled much of the Glass-Steagall Act, which for more than fifty years separated the banking and securities industries.
+The most significant changes, however, did not occur in the Congress.
+Indeed, they occurred in the marketplace.
+We experienced unprecedented change, from innovation in market practice to new technologies that created new products and financial vehicles.
+In the process, we also spawned a new generation of more sophisticated and rigorous risk-management practices.
+The expansion of securitization and derivative markets allowed for management and transfer of risk, which in turn created opportunities for banks to specialize increasingly in those phases of the financial-intermediation process in which they have an advantage, while also offering new hedging and risk-management opportunities.
+Finally, it is important not to overlook a fourth force for change, a decade of economic prosperity that provided a rich context for growth and opportunity in the banking industry, and for financial markets more generally.
+This prosperity was fueled significantly by capital investment in information technology and in telecommunications capabilities.
+Ongoing advances in technology, related in part to this investment, further supported the level of economic activity.
+The resulting structural improvements in productivity allowed for significant growth both in output and in compensation to workers, who in turn could acquire consumer goods and make financial investments in debt and equity markets.
+Given the magnitude of the changes over the past decade, how does the reality of the current industry status compare with our expectations of ten years ago?
+Let's start with the thrifts.
+Many, if not most observers expected the thrift industry to struggle, perhaps never fully recovering from the problems of the 1980s and early 1990s.
+Indeed, the future of any financial institution that specialized in originating and holding residential mortgages seemed somewhat murky.
+By the same token, many anticipated that the banking industry would be reined in by heavy regulation, the new regulatory capital standards, and--perhaps--significant aversion to bold new initiatives.
+And many expected that gradual movement toward broader interstate banking would bring about massive consolidation in the banking industry that would raise serious questions about the future of community banks and the value of the community banking franchise more generally.
+Broader interstate banking also raised questions about the viability of the dual banking system, and the state banking charter in particular.
+Technological improvements were expected to dramatically reduce the use of checks and cash.
+Bricks and mortar branches were thought to be anachronistic, if not actual impediments, to operational efficiency.
+Well, as you all know, forecasting is a difficult business.
+In the thrift industry, there has certainly been consolidation.
+There are now significantly fewer, but bigger, thrifts.
+As of June, there were just under 1,000 thrifts, with total assets of $960 billion compared with 1,952 thrifts with assets of $839 billion in 1992.
+The average thrift now has assets of about $960 million--more than twice the average of $430 million in 1992--and has an annual growth rate of more than 9 percent.
+Over this period many thrifts merged with each other while many others became part of bank holding companies, some of these operating as thrifts.
+Some of those were Ohio thrifts that were acquired by major banks in the late 1980s in the wake of the state deposit insurance crisis.
+Today, the thrift industry continues to be strong and viable.
+In 2001, the industry generated $10 billion in earnings, or a return on assets of about 1.09 percent--both about five times the comparable figures for 1992.
+The extent to which the banking and thrift industries are intertwined may be best reflected by the fact that 34 percent of savings institution deposits are now BIF-insured.
+The banking industry too has experienced consolidation, as the number of insured commercial banks declined from about 11,450 in 1992 (with total assets of $3.5 trillion) to about 7,960 in June of this year (with total assets of $6.7 trillion).
+Interestingly, the average bank then, as now, was about $120 million smaller than the average thrift: $310 million in 1992 compared with $840 million as of this June.
+Banks have grown both organically and by merger, in many cases combining multiple bank subsidiaries of the same BHC for efficiency.
+These aggregate figures mask some significant differences between large and small banks.
+Total assets at the largest banks--that is, those larger than $10 billion--grew most rapidly, reaching $4.7 trillion compared with $1.4 trillion in 1992.
+That represents an annual growth rate of nearly 14 percent.
+One has to be a little careful when comparing size categories over a period of this many years.
+Over this period the number of banks over $10 billion grew by half--from 51 to 77--because some smaller institutions were able to grow or merge their way into this largest-size class.
+The advent of interstate banking provided important impetus to this process, as noted earlier.
+In contrast, total assets at all community banks--that is, those with less than $1 billion in assets--have remained essentially unchanged since 1992, at just a bit above $1 trillion.
+Total assets at regional banks--those between $1 billion and $10 billion--actually declined over this ten-year period, falling from about the same level as community banks, to about $900 billion.
+The number of regional banks fell just slightly over this period, to about 320, while the number of community banks fell quite sharply under the influence of consolidation.
+Despite the consolidation in the banking industry, more than 8,000 separate banks [and 1,000 thrifts] remain, and for every four bank charters that have disappeared through consolidation, one new de novo charter has been approved.
+While the number of banks has declined, the number of bank branches and ATM machines has consistently increased over the past decade.
+As for the future of state banks, 75 percent of all new charters are state bank charters.
+The dual banking system, which is such an important part of our financial heritage, continues, thanks in significant part to our nation's state banking commissioners, who responded to the Reigle-Neal legislation by developing home/host state bank supervision accords, which facilitated banks' wanting to branch across state lines.
+Let me focus for a moment on the performance of commercial banks.
+Across all size categories, the banking industry continues to perform well, with strong capital and strong balance sheets.
+Total bank profits are at record levels, having reached $73 billion last year, and are on track for even better profits in 2002.
+In 2001, the industry's return on assets came in at 1.16 percent, 20 basis points better than in 1992.
+Community banks came in just a bit below the industrywide total--at 1.10 percent, about the same as the average thrift.
+This year, banks--especially community banks--have been aided by low interest rates and the accumulation of core deposits, together with more recent and modest resurgence in loan demand.
+Efforts to improve earnings on equity have also resulted in differences according to bank size.
+The largest banks have most aggressively worked to improve their efficiency ratios and expand their sources of non-interest revenue.
+Not surprisingly, these banks have experienced the most improvement in their returns on equity.
+The smaller banks have had a much more stable return on equity--at relatively high levels, I might add.
+A close examination of community bank performance reveals a wide range of efficiency ratios among traditional community banks, some of which have efficiency ratios under 50 percent.
+The changes in return on assets among various size categories offer a somewhat different twist.
+All else being equal, increases in capital will result in improved returns on assets.
+Indeed, the banks with the most significant increases in capital are also the banks that have realized the largest improvement in return on assets.
+Mortgage-related banking continues to be attractive, particularly in this interest rate environment.
+Although it has taken some toll on the value of mortgage-servicing rights, the recent boom in refinancings has provided a nice source of fee income.
+However, acquiring long-term, fixed-rate assets can also be a risky business, as we all know.
+Fortunately, bank and thrift managements have learned much from their experience of a decade or more ago, and financial innovation and advances in risk measurement have also helped.
+Financial institutions are much more aware of the complexities associated with mortgage-related activities than in earlier years and now have at their disposal better tools for measuring and managing their risks.
+We hope that interest rate risk will never again be the problem for depository institutions that it was for some in the 1980s.
+Asset quality remains an area for attention today, with nonperforming assets at 1.16 percent of loans and about 8 percent of tier 1 capital and reserves.
+These figures simply do not compare with those of 1992 but tend to attract a supervisor's eye.
+Even at community banks, which have not been affected so much by the recent spate of highly visible problem borrowers, problem assets have increased to nearly 1 percent of loans and 6 percent of their capital and reserves.
+Reserve coverage of problem loans also declined, to about 1.6 times problem loans compared with about 2.0 times for 2000.
+The number of problem smaller institutions has increased, and the costs of several recent bank failures raise the specter of a return to significant insurance premiums.
+While on the subject of the 1990s, I should note that bank lending to finance commercial real estate has grown rapidly in the last several years, especially among regional and community banks.
+As of June, community banks had about one-third of their loan portfolios in construction and nonfarm nonresidential lending, compared with about one-fifth ten years ago.
+Commercial real estate lending is, of course, a natural part of the community banking business.
+Although few institutions have yet encountered material problems in these portfolios, declining occupancy rates in some markets increases the risk.
+Underwriting practices have been much stronger than in the 1980s, but the level of concentration at regional and community banks is something that both supervisors and prudent bank managers should monitor closely.
+Let me also make a brief cautionary note about the importance of good internal controls, and the need for management attention to their upkeep.
+This is simply good business practice, of course, but it's more than that.
+You may recall that a provision of the FDIC Improvement Act of 1991 required that banks--including many community banks--have external auditors attest to the quality and integrity of internal controls, as part of their broader program of evaluating and testing these processes.
+Unfortunately, in several recent examinations, bank examiners were able to identify clear internal control weaknesses that neither the banks' own processes nor outside auditors had noted.
+Some of these weaknesses raised safety and soundness concerns.
+Much more progress needs to be made in this area, and we will be following this matter closely in the coming months.
+Overall, it is clear that U.S. depository institutions, including commercial banks, stock and mutual thrifts, remain sound, with still historically strong profitability, capital ratios, and loan portfolios.
+Without becoming complacent, the industry can take comfort, so far, that it has withstood the last decade, and the more recent economic weakness, quite well.
+That said, it will be important for bankers to stay on top of their asset quality and internal controls.
+The increased sophistication in technology and product development has actually increased the need for these controls.
+
+Certainly, the theme for today's session--"North American Monetary Policy"--ought to provoke some lively discussion.
+Let me start with the usual disclaimer--my remarks reflect my personal views and should not be taken as an official view of the Board of Governors or the Federal Reserve System.
+As you know, the FOMC last week chose to lower the target federal funds rate 50 basis points to a forty-year low of 1-1/4 percent and also indicated that it viewed the risks to the economy going forward as balanced.
+Of course, the macroeconomic developments over the last few years that have brought us to this point have been quite remarkable, and I'll offer some perspectives on some of those key developments in a moment.
+Over this same period, there have been some quite important developments in the art and science of central banking, and it seems useful to pause here at the outset to take stock of this evolution in central banking practice in the United States.
+Though barely a single page in length, last week's FOMC announcement embodied all of the key structural elements of the current monetary policy framework in the United States.
+The text of the announcement provided a rationale for the decision in terms of the FOMC's twin objectives--long-run price stability and sustainable economic growth.
+The policy decision itself involved a specific setting for the key monetary policy instrument--the target federal funds rate.
+And the goals of central bank transparency and accountability were served by a discussion of the Committee's views about the important forces impinging on the economy at the present time and its sense of the balance of risks to the economy in the future.
+All three of these key elements of the monetary policy framework--the FOMC's objectives, primary policy instrument, and emphasis on transparency--have undergone significant change in recent years.
+As indicated in the original version of the Federal Reserve Act in 1913, the Federal Reserve was founded "to furnish an elastic currency" and to promote "more effective supervision of banking."
+It wasn't until 1977 that the Congress amended the Federal Reserve Act to include very specific monetary policy objectives.
+Notably, the Congress established a so-called dual mandate for the Federal Reserve by directing it to foster conditions that would promote the goals of price stability and "maximum" employment.
+Over time, maximum employment is only possible when economic growth is sustainable--that is, when economic growth is sufficient to eventually eliminate any gap between level of aggregate demand and the economy's potential to produce.
+These dual objectives of price stability and sustainable output growth are the cornerstones of the U.S. monetary policy framework.
+The U.S. system of dual monetary policy objectives is sometimes regarded as quite distinct from the monetary policy frameworks adopted by many other countries in recent years that tend to emphasize price stability as the primary goal of monetary policy.
+My own view, though, is that the apparent differences between such frameworks and the U.S. system--while significant--may not be quite so large as commonly believed.
+For example, in addition to a price stability objective, many central bank charters include references to auxiliary objectives such as supporting the nation's general economic welfare or the stability of the financial system.
+The instruments of monetary policy have changed in significant ways as well.
+In the United States and some other countries, money and credit aggregates have played an especially important role as monetary policy instruments at times in the past.
+However, the use of such variables as reliable guides for policy became increasingly problematic over recent years as increased competition and innovation in the financial sector tended to undermine the historical linkages between money and credit aggregates and key macroeconomic variables such as nominal GDP.
+Partly as a result, many central banks, including the Federal Reserve, came to view setting a particular level for a short-term interest rate, rather than controlling the growth of money and credit aggregates, as the primary modus operandi of monetary policy.
+A final trend in central banking that was again implicit in last week's FOMC announcement is a movement toward greater transparency.
+Less than a decade ago, for example, the FOMC did not explicitly announce its policy decisions.
+Indeed, through much of the 1980s and early 1990s, the FOMC "signaled" its policy intentions to the market indirectly through a process involving technical distinctions among particular types of open market operations.
+In retrospect, while this procedure helped to support a cottage industry of Wall Street Fedwatchers, it increasingly came to be seen by the public and the Federal Reserve as unnecessary and even counterproductive.
+As a result, in 1994, the FOMC began explicitly announcing its policy decisions.
+In a bid to further increase transparency, the FOMC introduced a balance of risks assessment in early 2000 as part of its policy decisions.
+The balance of risks assessment was designed as a vehicle to communicate the Committee's sense of the economic outlook over the "foreseeable future."
+The foreseeable future is one of those wonderful phrases we central bankers get to use.
+It is not intended to refer to a specific time horizon, and indeed, when the FOMC introduced the balance of risks statement, it suggested that the time horizon encompassed by the foreseeable future might well vary depending on the economic circumstances.
+However, in contrast to the previous "bias" statement, the concept of the foreseeable future in the balance of risks statement was intended to extend well beyond the upcoming intermeeting period.
+The balance of risks statement is released to the public at the conclusion of each FOMC meeting.
+By contrast, prior to 1999, the "bias" statement was only made known to the public after a six-week lag in the release of the minutes for each FOMC meeting.
+This past March, the FOMC took a further step toward increased transparency by including the roll call of the vote on the federal funds rate target, as well as an indication of the preferred policy choice of any dissenters.
+Indeed, press coverage following the September FOMC meeting noted the two dissents in favor of a policy easing reported in the announcement following that meeting.
+So why have the Federal Reserve and many other central banks moved toward a policy framework involving greater transparency?
+The principle that central banks should be free of political interference in pursuing legally mandated objectives is now widely regarded as a key tenet supporting central bank credibility and effectiveness.
+However, democratic societies rightly should expect that central banks, as public institutions, should be publicly accountable for their actions, and greater transparency in central banking is an important factor in ensuring that this is the case.
+But central banks have found transparency useful for monetary policy purposes as well.
+By providing a clear rationale for their actions and an assessment of the economic outlook, central banks can reduce unnecessary uncertainties faced by market participants.
+Moreover, investors armed with a clearer understanding of the central bank's motives and views are better able to anticipate future monetary policy actions.
+This, in turn, helps to create a form of "automatic stabilizer" operating in financial markets; as the economy is buffeted by shocks, market participants anticipate how the central bank is likely to move short-term interest rates in the future, and these expectations are then immediately reflected in movements in long-term interest rates that help to counteract the effects of the shocks.
+Well, I hope by now I've convinced you that the FOMC's announcements--though sometimes criticized as terse or inscrutable--are in fact the embodiment of nearly every major change in the U.S. monetary policy framework in the last twenty-five years.
+Not bad for a one-page document.
+Having talked at some length about the broad conceptual framework underlying last week's FOMC announcement, I'd like to now turn to what it actually said.
+A key passage of the announcement read as follows: The Committee continues to believe that an accommodative stance of monetary policy, coupled with still-robust underlying growth in productivity, is providing important ongoing support to economic activity.
+However, incoming economic data have tended to confirm that greater uncertainty, in part attributable to heightened geopolitical risks, is currently inhibiting spending, production, and employment.
+Those two sentences succinctly summarize the important crosscurrents that the FOMC must take into account in the current environment.
+On the one hand, the current very low setting of the target funds rate is undoubtedly imparting considerable economic stimulus.
+Moreover, the U.S. economy has proven to be remarkably resilient in recent years, and underlying economic trends such as continued strong productivity growth bode well for economic prospects in the longer run.
+Indeed, the latest productivity data released just last week showed yet another very substantial increase in labor productivity in the third quarter.
+While some of the recent outsized increases in productivity may prove to be temporary, the recent data do suggest that underlying trend productivity growth remains quite buoyant, and that, in turn, should ultimately show through to stronger incomes for households and an improved profit outlook for businesses.
+On the other hand, the U.S. economy has been beset by a string of adverse shocks in the last two years, and the FOMC last week expressed its concerns that the lingering effects of those shocks and the uncertainty about the economic outlook were factors hindering the economic recovery.
+As noted in the minutes of several past FOMC meetings, that uncertainty seems to be attributable to a confluence of several factors.
+The high-profile cases of corporate accounting scandals in the United States over recent months undoubtedly are an important part of the story.
+Certainly, the direct costs of these episodes in terms of losses sustained by investors and employees in the affected firms have been very substantial.
+But even more pernicious from a macroeconomic perspective has been the ensuing widespread loss of investor confidence in the integrity of firms' financial statements more broadly.
+Unfortunately, the spectacular misdeeds that have come to light have made it perfectly rational for investors to question the veracity of data and other information disclosed by all businesses.
+And that mistrust, in turn, has almost certainly contributed to the downdraft in many firms' equity prices and an increase in borrowing costs over recent months.
+A related key source of uncertainty in the economic outlook is the prospect for a rebound in investment spending.
+To date, the Federal Reserve's easing actions have spurred the economy most visibly by increasing consumer demand for interest-sensitive items--particularly autos and new homes.
+Businesses, by contrast, have largely acted to shore up their frayed balance sheets by locking in longer-term funding at attractive rates and using the proceeds to pay down other forms of debt or to stockpile substantial holdings of liquid assets.
+To be sure, although it has yet to show any real signs of vigor, business fixed investment has at least seemed to stabilize.
+And business inventories currently seem lean in many industries, so there may be considerable scope for a pickup in inventory investment as the economy recovers.
+Still, for now, the pace of investment spending is tepid at best.
+Finally, of course, the world situation is yet another factor contributing to the overall uncertainty about near-term economic prospects.
+The potential for further terrorist attacks and the tense situation in the Mideast are obviously sources of concern.
+Moreover, Europe seems to be encountering a "soft spot" in economic activity similar to that evident in recent weeks in the United States.
+And, of course, the economic difficulties in Japan and South America are well known and seem unlikely to abate significantly over the near term.
+Despite the significant uncertainties, the FOMC retained an overall sense of confidence about prospects for the U.S. economy.
+Indeed, the FOMC statement also included the passage: [T]he Committee believes that today's additional monetary easing should prove helpful as the economy works its way through this current soft spot.
+

@@ -1,0 +1,239 @@
+These global financial markets, engendered by the rapid proliferation of cross-border financial flows and products, have developed a capability of transmitting mistakes at a far faster pace throughout the financial system in ways that were unknown a generation ago.
+Today's international financial system is sufficiently different, in so many respects, from its predecessors that it can reasonably be characterized as new, as distinct from being merely a continuing evolution from the past.
+As a consequence, it is urgent that we accelerate our efforts to develop a sophisticated understanding of how this high-tech financial system works.
+Specifically, we need such an understanding if we are to minimize the chances that we will experience a systemic disruption beyond our degree of comprehension or our ability to respond effectively.
+We need it if we are to continue to make progress in reducing settlement risk in foreign exchange markets and to ensure a sound infrastructure for payments and settlement systems generally.
+And we need it if we are to have confidence in our processes of supervision and regulation.
+In this regard, I intend to focus my remarks this morning on three related topics: I will start by examining the crises in Asia, which, along with the one in Mexico just a few years ago, provide the first evidence of how crises arise in the new system, especially the central role that banks play.
+I will note that, while the support provided to banks by public safety nets appears to be an element of stability in the new system, it has also been part of the process that engendered recent crises.
+Next, I will consider why, if the existence of safety nets can encourage crises, we continue to provide them.
+Finally, I will consider possible policy responses to some of the system's evident problems and tensions.
+Put differently, can we learn to stabilize our burgeoning, sometimes frenetic, new international financial system so that we can realize its full potential?
+*** Let me start with Asia.
+In hindsight, it is evident that those leveraged economies could not provide adequate profitable opportunities at reasonable risk in the 1990s to absorb the surge in capital inflows.
+That surge reflected in part the diversification of the western equity markets' huge capital gains to a sector of the world which was perceived as offering above average returns.
+Together with distortions caused by a long-entrenched government planning ethos, the flood of investment resulted--some would say inevitably--in massive deadweight losses.
+As activity slowed, burdened by fixed-cost obligations that were undertaken on the presumption of continuing growth, business losses and nonperforming bank loans surged.
+The capital of banks in Asian economies--especially when properly accounted for--eroded rapidly.
+As a consequence, funding sources dried up as fears of defaults rose dramatically.
+In an environment of weak financial systems, lax supervisory regimes, and vague assurances about depositor or creditor protections, the state of confidence so necessary to the functioning of any banking system was torn asunder.
+Bank runs occurred in several countries and reached crisis proportions in Indonesia.
+Uncertainty and retrenchment escalated.
+In short, the slowing in activity in Asia exposed the high fixed costs of a leveraged economy, especially one with fixed obligations in foreign currencies.
+Failures to make payments induced vicious cycles of contagious, ever rising, and reinforcing fears.
+It is quite difficult to anticipate such crises.
+Every borrower, whether a bank or a nonbank company, presumably structures its balance sheet to provide a sufficient buffer against the emergence of illiquidity or insolvency.
+The scramble by borrowers to protect their balance sheets when this buffer is unexpectedly breached can lead to a surge in the demand for liquidity that in turn produces a run on the financial system.
+At one moment, an economy appears stable, the next it is subject to an implosion of fear-induced contraction.
+In this context a preventive effort to lessen the probabilities of such crises arising--for example, by bolstering the financial system's buffer through more capital or improved bank supervision--may not in itself further insulate a country from crisis if financial institutions, now faced with a lower cost of capital or lower spread on their debt, leverage away the increased buffer.
+Indeed, one form of moral hazard is that an initially sound financial system that attracts low risk premia could merely induce a ratcheting up of the risks that a nation's borrowers choose to take on.
+This is not to disparage endeavors to bolster financial systems.
+But we should keep in mind that some of the advantages of such initiatives could be drained away by moral hazard.
+What is becoming increasingly clear, and what is particularly relevant to this conference, is that, in virtually all cases, what turns otherwise seemingly minor imbalances into a crisis is an actual or anticipated disruption to the liquidity or solvency of the banking system, or at least of its major participants.
+That fact is of critical importance for understanding both the Asian and the previous Latin American crises.
+Depending on circumstances, the original impulse for the crisis may begin in the banking system or it may begin elsewhere and cause a problem in the banking system that converts a troubling event into an implosive crisis.
+The aspects of the banking system that produce such outcomes are not particularly opaque.
+First, exceptionally high leverage has often been a symptom of excessive risk-taking that left financial systems and economies vulnerable to loss of confidence.
+It is not easy to imagine the cumulative cascading of debt instruments seeking safety in a crisis when assets are heavily funded with equity.
+Moreover, financial (as well as nonfinancial) businesses have employed high leverage to mask inadequate underlying profitability and did not have adequate capital cushions to match their volatile environments.
+Second, banks, when confronted with a generally rising yield curve, which is more often the case than not, have had a tendency to incur interest rate or liquidity risk by lending long and funding short.
+This has exposed banks, especially those that had inadequate capital to begin with, to a collapse of confidence when interest rates spiked and capital was eroded.
+In addition, when financial intermediaries, in an environment of fixed exchange rates, but still high inflation premiums and domestic currency interest rates, sought low-cost, unhedged, foreign currency funding, the dangers of depositor runs, following a fall in the domestic currency, escalated.
+Third, banks play a crucial role in the financial market infrastructure.
+A sound institution can fend off unexpected shocks.
+But when they are undercapitalized, have lax lending standards, and are subjected to weak supervision and regulation, they have become a source of systemic risk to both domestic and international financial systems.
+Fourth, recent adverse banking experiences have emphasized the problems that can arise if banks, especially vulnerable banks, are almost the sole source of intermediation.
+Their breakdown induces a marked weakening in economic growth.
+A wider range of nonbank institutions, including viable debt and equity markets, can provide important safeguards of economic activity when the banking system fails.
+Fifth, despite its importance for distributing savings to their most valued investment use, excessive short-term interbank funding, especially cross border, may turn out to be the Achilles' heel of an international financial system that is subject to wide variations in financial confidence.
+This phenomenon, which is all too common in our domestic experience, may be particularly dangerous in an international setting.
+I shall return to this issue later.
+Finally, an important contributor to past crises has been moral hazard, that is, a distortion of incentives that occurs when the party that determines the level of risk receives the gains from, but does not bear the full costs of, the risks taken.
+Interest rate and currency risk-taking, excess leverage, weak financial systems, and interbank funding have all been encouraged by the existence of a safety net.
+The expectation that national monetary authorities or international financial institutions will come to the rescue of failing financial systems and unsound investments clearly has engendered a significant element of excessive risk-taking.
+The dividing line between public and private liabilities, too often, has become blurred.
+*** Given that the existence of safety nets generates moral hazard, and moral hazard distorts incentives, why do we continue to provide safety nets to support our financial systems?
+It is important to remember that, notwithstanding the possibility of excessive leverage, many of the benefits banks provide modern societies derive from their willingness to take risks and from their use of a relatively high degree of financial leverage.
+Through leverage, in the form principally of taking deposits, banks perform a critical role in the financial intermediation process; they provide savers with additional investment choices and borrowers with a greater range of sources of credit, thereby facilitating a more sophisticated allocation of resources that appears to contribute importantly to greater economic growth.
+Indeed, it has been the evident value of intermediation and leverage that has shaped the development of our financial systems from the earliest times--certainly since Renaissance goldsmiths discovered that lending out deposited gold was both feasible and profitable.
+In addition, central bank provision of a mechanism for converting highly illiquid portfolios into liquid ones, in extraordinary circumstances, has led to a greater degree of leverage in banking than market forces alone would support.
+Traditionally this has been accomplished by making discount or Lombard facilities available, so that individual depositories could turn illiquid assets into liquid resources and not exacerbate unsettled market conditions by the forced selling of such assets or the calling of loans.
+More broadly, open market operations, in situations like that which followed the crash of stock markets around the world in 1987, satisfy marked increased needs for liquidity for the system as a whole that otherwise could feed cumulative, self-reinforcing, contractions across many financial markets.
+To be sure, we should recognize that if we choose to have the advantages of a leveraged system of financial intermediaries, the burden of managing risk in the financial system will not lie with the private sector alone.
+As I noted, with leveraging there will always exist a possibility, however remote, of a chain reaction, a cascading sequence of defaults that will culminate in financial implosion if it proceeds unchecked.
+Only a central bank, with its unlimited power to create money, can with a high probability thwart such a process before it becomes destructive.
+Hence, central banks will of necessity be drawn into becoming lenders of last resort.
+But implicit in the existence of such a role is that there will be some form of allocation between the public and private sectors of the burden of risk, with central banks responsible for managing the most extreme, that is the most systemically sensitive, outcomes.
+Thus, central banks have been led to provide what essentially amounts to catastrophic financial insurance coverage.
+Such a public subsidy should be reserved for only the rarest of disasters.
+If the owners or managers of private financial institutions were to anticipate being propped up frequently by government support, it would only encourage reckless and irresponsible practices.
+In theory, the allocation of responsibility for risk-bearing between the private sector and the central bank depends upon the private cost of capital.
+In order to attract, or at least retain, capital, a private financial institution must earn at minimum the overall economy's marginal cost of riskless capital, adjusted for firm-specific risk.
+In competitive financial markets, the greater the leverage, the higher the rate of return, before adjustment for risk.
+If private financial institutions have to absorb all financial risk, then the degree to which they can leverage will be restrained, the financial sector smaller, and its contribution to the economy more limited.
+On the other hand, if central banks effectively insulate private institutions from potential losses, however incurred, increased laxity could threaten a major drain on taxpayers or produce inflationary instability as a consequence of excess money creation.
+Once a private financial institution infers the amount of capital it must devote to ensure against, first, illiquidity and, finally, insolvency, the size of its balance sheet for maximum rate of return on equity, adjusted for risk, is determined.
+That inference depends on the institution's judgment of how much of the tail of its risk distribution requires a capital provision.
+The central bank is presumed to respond to the remainder of the risk tail by lending freely and reducing the danger of illiquidity.
+Protecting private financial institutions' solvency through guarantees of liabilities risks significant moral hazard.
+In practice, the policy choice of how much, if any, of the extreme market risk that government authorities should absorb is fraught with many complexities.
+Yet we central bankers make this decision every day, either explicitly or by default.
+Moreover, we can never know for sure whether the decisions we made were appropriate.
+The question is not whether our actions are seen to have been necessary in retrospect; the absence of a fire does not mean that we should not have paid for fire insurance.
+Rather, the question is whether, ex ante, the probability of a systemic collapse was sufficient to warrant intervention.
+Often, we cannot wait to see whether, in hindsight, the problem will be judged to have been an isolated event and largely benign.
+Thus, governments, including central banks, have been given certain responsibilities related to their banking and financial systems that must be balanced.
+We have the responsibility to prevent major financial market disruptions through development and enforcement of prudent regulatory standards and, if necessary in rare circumstances, through direct intervention in market events.
+But we also have the responsibility to ensure that private sector institutions have the capacity to take prudent and appropriate risks, even though such risks will sometimes result in unanticipated bank losses or even bank failures.
+Our goal as supervisors, therefore, should not be to prevent all bank failures, as I have suggested to this conference many times, but to maintain sufficient prudential standards so that banking problems that do occur do not become widespread.
+We try to achieve the proper balance through official regulations, as well as through formal and informal supervisory policies and procedures.
+To some extent, we do this over time by signalling to the market, through our actions, the kinds of circumstances in which we might be willing to intervene to quell financial turmoil, and conversely, what levels of difficulties we expect private institutions to resolve by themselves.
+The market, then, responds by adjusting the risk premium addition to the riskless cost of capital available to banks.
+*** To return to the question I raised at the beginning: Can we learn to stabilize our burgeoning, sometimes frenetic, new international financial system so that we can realize its full potential?
+What types of regulatory initiatives appear fruitful in achieving the benefits and minimizing the costs of the new system?
+In addressing those questions, I will confine myself again to issues related more narrowly to banks: in particular, to bank supervision and to possible ways in which the behavior of individual banks could be improved.
+I will not discuss the important issues concerning the need for efficient bankruptcy procedures or for alternative means for coordinating debtors and creditors, both in the domestic context in many countries and in the cross-border context, that may be required in our new system.
+While failures will inevitably occur in a dynamic market, the safety net--not to mention concerns over systemic risk--requires, to repeat, that regulators not be indifferent to how banks manage their risks.
+To avoid having to resort to numbing micromanagement, regulators have increasingly insisted that banks put in place systems that allow management to have both the information and procedures to be aware of their own true risk exposures on a global basis and to be able to manage such exposures.
+The better these risk information and control systems, the more risk a bank can prudently assume.
+In that context, an enhanced regime of market incentives, involving greater sensitivity to market signals and more information to make those signals more robust, is essential.
+In this rapidly expanding international financial system, the primary protection from adverse financial disturbances is effective counterparty surveillance and, hence, government regulation and supervision should seek to produce an environment in which counterparties can most effectively oversee the credit risks of potential transactions.
+Here a major improvement in transparency is essential.
+To be sure, counterparties often exchange otherwise confidential information as a condition of a transaction.
+But broader dissemination of detailed disclosures of governments, financial institutions, and firms is required if the risks inherent in our global financial structure are to be contained.
+A market system can approach an appropriate equilibrium only if the signals to which individual market participants respond are accurate and adequate to the needs of the adjustment process.
+Among the important signals are product and asset prices, interest rates, debt by maturity, and detailed accounts of central banks and private enterprises.
+I find it difficult to believe, for example, that the crises that arose in Thailand and Korea would have been nearly so virulent had their central banks published data prior to the crises on net reserves instead of the not very informative gross reserve positions only.
+Some inappropriate capital inflows would almost surely have been withheld and policymakers would have been forced to make difficult choices more promptly if earlier evidences of difficulty had emerged.
+Increased transparency can expose the prevalence of pending problems, but it cannot be expected to discourage all aberrant behavior.
+It has not prevented reliance on real estate for collateral from becoming problematic from time to time.
+East Asia has been no exception.
+When real estate values fall sharply, as they do from time to time, such collateral tends to become highly illiquid.
+Removal of legal impediments to more widespread forms of collateral and to prompt access to collateral would be helpful in dealing with these problems.
+It is increasingly evident that nonperforming loans should be dealt with expeditiously and not allowed to fester.
+The expected values of the losses on these loans are, of course, a subtraction from capital.
+But since these estimates are uncertain, they embody an additional risk premium that further reduces the market's best estimate of the size of effective equity capital.
+Funding becomes more difficult.
+Partly reflecting uncertainties with respect to their nonperforming loans, Japanese banks in London, for example, are currently required to pay about a 15 basis point add-on over what markets require for major western banks for short-term deposits denominated in yen.
+It is, hence, far better to remove these dubious assets and their associated risk premium from bank balance sheets, and dispose of them separately, preferably promptly.
+A predicate to addressing nonperforming loans expeditiously is better and more forceful supervision, which requires more knowledgeable bank examiners than, unfortunately, many economies enjoy.
+In all countries, we need independent bank examiners who understand banking and business risk, who could in effect, make sound loans themselves because they understand the process.
+Similarly, we need loan officers at banks that understand their customers' business--loan officers that could, in effect, step into the shoes of their customers.
+Lack of a cadre of loan officers who have experience in judging lending risk can produce debilitating losses even when lending is not directed by government inducement or the need to support members of an associated group of companies.
+Experienced bank supervision cannot fully substitute for poor lending procedures, but presumably it could encourage better practice.
+Apparently even that has been lacking in many economies.
+And training personnel and developing adequate supervisory systems will take time.
+I pointed earlier to cross-border interbank funding as potentially the Achilles' heel of the international financial system.
+Creditor banks expect claims on banks, especially banks in emerging economies, to be protected by a safety net and, consequently, consider them to be essentially sovereign claims.
+Unless those expectations are substantially altered--as when banks actually incur significant losses--governments can be faced with the choice either of validating those expectations or of risking serious disruption to payments systems and to financial markets in general.
+Arguably expectations of safety net support have increased the level of cross border interbank lending from that which would be supported by unsubsidized markets themselves.
+This would suggest resource misallocation.
+Accordingly, it might be useful to consider ways in which some added discipline could be imposed on the interbank market.
+Such discipline, in principle, could be imposed on either debtor or creditor banks.
+For example, capital requirements could be raised on borrowing banks by making the required level of capital dependent not just on the nature of the banks' assets but also on the nature of their funding.
+An increase in required capital can be thought of as providing a larger cushion for the sovereign guarantor in the event of a bank's failure.
+That is, it would shift more of the burden of the failure onto the private sector.
+Alternatively, the issue of moral hazard in interbank markets could be addressed by charging banks for the existence of the sovereign guarantee, particularly in more vulnerable countries where that guarantee is more likely to be called upon and whose cost might deter some aberrant borrowing.
+For example, sovereigns could charge an explicit premium, or could impose reserve requirements, earning low or even zero interest rates, on interbank liabilities.
+Increasing the capital charge on lending banks, instead of on borrowing banks, might also be effective.
+Under the Basle capital accord, short-term claims on banks from any country carry only a twenty percent risk weight.
+The higher cost to the lending banks associated with a higher risk weight would presumably be passed on to the borrowing banks.
+Borrowing banks, at the margin, might reduce their total borrowing or shift their borrowing to nonbank sources of funds, perhaps with the shift facilitated by the lending banks, who might advert to securitization of short-term interbank lending if regulatory capital charges exceeded internal requirements.
+In either case, there would tend to be a reduction in interbank exposures, a significant source of systemic risk.
+To be evaluated in any such initiative is whether such regulation would disrupt liquidity in the interbank market to a point where such costs exceed the benefits of reduced interbank exposure.
+*** We are interacting every day with an emerging new international financial structure, one with great potential for facilitating the creation of wealth and rising standards of living.
+Our understanding of the new system continues to improve, as does our ability to gauge and manage risks.
+
+There is lots of excitement about technological miracles that could revolutionize the way average people pay for the things they buy.
+Smart cards, home-banking, and ideas still on the drawing boards hold the promise of making payments quicker, cheaper, safer, and more convenient for payor and payee alike, and for banishing cumbersome paper and coin to museums and private collections forever.
+In this context, I'd like to focus my remarks close to home: on the U.S. small dollar or retail payments system, which has distinguished itself by proving extraordinarily resistant to change and persistently wedded to the paper check.
+The checkless society has been predicted at meetings like this one for several decades.
+But the number of checks Americans write is still increasing, albeit slowly, while total checks decline in almost all other industrial countries.
+Indeed, we appear to be the only industrial country in which the per capita number of checks written is still rising--despite rapid growth in payments by credit and debit cards or other electronic means.
+In an age when messages go around the world in seconds at minimal cost, American citizens and companies are still writing 66 billion payment messages on little pieces of paper, most of which are mechanically sorted, transported by truck or airplane and stored in drawers and shoeboxes.
+This anachronism is worthy of serious thought.
+Are Americans destined to continue our long love affair with the paper check for decades, or are we finally approaching the long-predicted dawn of the checkless society and the prospect of a rapid shift to all electronic retail payments?
+If so, what kind?
+What are the issues that need to be addressed by payments system providers and regulators (and the Federal Reserve is both) as we think together about how the U.S. can move to an efficient, convenient, and safe electronic payments system?
+Why is this the right moment to focus on this subject?
+In general, payments issues attract little attention.
+The payments system is the lifeblood of the economy.
+It carries the essential messages without which our complex economy would break down, just as the human body would cease to function if the circulatory system did not get the oxygen to the right place at the right time.
+But like the circulatory system, few people think about the payments system as long as it works.
+As long as the payments system is at least reasonably convenient, reliable and efficient, as it had been for decades in industrial countries, including our own, no one pays it much mind.
+The new focus on payments, however, does not arise out of a breakdown, but out of simultaneous opportunities.
+Changes in the structure of financial systems and markets offer opportunities for rethinking how payments should be made.
+In Europe, the advent of the euro not only forces revamping of existing payments systems to deal with a new currency, but provides an opportunity to modernize old systems that might have lumbered along unnoticed for quite a while.
+In the U.S., mergers are forcing financial institutions to combine their payments infrastructures.
+A merger may surface the fact that the new partners currently have different and possibly incompatible approaches to check processing, for example.
+The merger may provide an opportunity for designing a new approach to payments that would not otherwise have occurred, or not soon.
+A simultaneous reason for the payments vogue is that technology is suddenly offering us options for sending retail payments faster, cheaper and more conveniently than ever before.
+The rapid advance of computer and telecommunications technology has already revolutionized wholesale payments, enabling huge volumes of transactions to move almost instantly across vast distances.
+Now, as familiarity with computers spreads beyond geeks and techies to ordinary folks, the potential has arisen for making retail payments systems faster, cheaper, and more convenient as well.
+Why has the American system of retail payments been so resistant to change?
+There may be something about money that generates a special conservatism and fear of the unknown.
+The shift to the euro clearly has strong emotional overtones for many Europeans, especially older Europeans, who feel some important part of their heritage is disappearing with the franc, the mark, and the lire.
+The tangibility of paper may have some emotional appeal.
+It's not gold, but at least you can see it, touch it, lock it up and know where it is.
+But one does not have to appeal to the irrational to see reasons for the persistence of checks.
+Checks are easy to write, widely accepted and their legal status as proof of payment is clear.
+Moreover, they appear cheap to the user.
+In their eagerness to attract deposits, depository institutions have made checking accounts as attractive as possible, seldom charging per check fees, relying on minimum balance requirements or low interest rates on transaction balances to recoup costs.
+Broker-dealers and other seekers after the same funds have offered "free" checking to compete.
+Moreover, check users get the benefits of float.
+Thus, the check writer and the receiver perceive the costs of using checks as low and have little incentive to seek an alternative.
+Moreover, alternative electronic systems run straight into the network problem.
+The value of signing on to a new electronic payment network, such as electronic bill paying system or a smart card, depends on a lot of people and businesses being able and willing to accept the payment.
+At the same time, people and businesses are unwilling to invest in new payment processing equipment unless they are sure a lot of payors will use it.
+Electronic systems also exhibit huge economies of scale.
+Average costs plummet as volume rises, so small volume is a large handicap.
+This vicious cycle makes it hard for any new system to get off the ground and even harder when there are several competing systems each claiming to be the great wave of the future.
+The result is ferment and frustration in the financial services industry, coupled with fear that some outside force--usually a particularly successful and often demonized software vendor--will suddenly find a way to overcome the reluctance and inertia of banks and their customers and set up a whole new payments mechanism that wholly or mostly bypasses the institutions we now call "banks".
+Without strong leadership and active consensus building across the diverse institutions and constituencies that make up the users and providers of retail payments, we may be stuck in this dilemma for quite a while.
+As we think about how we can get out of this box and modernize the nation's retail payments system more rapidly, it is a mistake to structure the problem as a stark choice between "free market" solutions, on the one hand, and governmental or regulatory solutions, on the other.
+The retail payments system, like telephone service or electric power, clearly has some public utility aspects.
+There is a strong common interest in ensuring that the economy has a safe, reliable, accessible and efficient payments system, retail as well as wholesale.
+It was in part this strong common interest that prompted the Congress to create the Federal Reserve and to give it both operational and regulatory authority in the payments area.
+At the same time, the efficient delivery of retail payments is greatly enhanced by competition among providers and the technological and process innovation that results from that competition.
+The problem is that when the system is a network, relying on competition to move to the next generation of technology, without any attempt to build consensus or set standards, may retard change.
+It may result in under-investment, because no one knows which way to go, or balkanized systems may emerge that are not interoperable and can be made so later only at considerable expense.
+On the other hand, if choices are made too early, or standards set too soon, many of the benefits of competitive innovation may be lost.
+The challenge, and it is a big one, is to find a way for the participants in the payments system--users, providers, and regulators--to work together so that we continue to get the benefits of competition, but clear some of these hurdles and move on to the next generation of retail payments systems as rapidly as possible.
+Over a year ago, when I first came to the Fed, Chairman Greenspan asked me to chair a committee--composed of one of my fellow governors and two Federal Reserve Bank presidents--to consider the role of the Federal Reserve in the retail payments system, especially in the traditional areas of check and ACH and in the newly emerging electronic payments--some still just a gleam in some technical genius's eye--that might become important in the future.
+We didn't worry about cash because we assumed that as long as people want to use it, the Fed, as central bank, has to provide it.
+We didn't concern ourselves with wholesale payments systems like Fedwire, because they are not controversial.
+Wholesale payments and net settlements are essential functions of a central bank.
+But we did spend a lot of time and effort thinking about the check market (where the Fed processes about 1/3 of the interbank checks) and the ACH market (where we process about 80 percent of ACH payments).
+In both markets, the Federal Reserve differentially serves smaller depository institutions and more remote locations.
+We considered some drastic options--including getting out of the check and ACH processing markets altogether or selling our operations to a private entity.
+We drew heavily on Fed system staff and others for analysis, but the most interesting part of effort to me was getting out around the country to payments system forums held in all 12 Federal Reserve Districts to get input from participants in the payments system, including some in this room.
+Those forums were diverse and often lively.
+We learned a lot, but two themes emerged clearly: One was that most depository institutions, especially smaller ones, including community banks and credit unions, did not want to see the Fed exit the check clearing or the ACH businesses.
+They feared being dependent on a small number of large institutions, often their competitors.
+They envisioned more limited service and higher prices if the Fed left the market.
+A few big institutions seemed eager to absorb the business, but, surprisingly, not many.
+Most big banks are too busy with other opportunities to want to expand their correspondent relationships or invest heavily in the check clearing market--not obviously a future growth market.
+Another theme that ran through the forums was a call for more Federal Reserve leadership in helping the payments industry cope with change and emerging technology.
+Many institutions urged us to work more actively with them to help sort out the new technologies and figure out what some of the viable options are for the payments system (or systems) of the future.
+The report of the Committee, which was released in early January, strongly reflects the impact from those forums.
+We came to two general conclusions: One was that the Fed should remain a provider of check collection and ACH services with the explicit goal of enhancing the efficiency, effectiveness and convenience of both systems; while ensuring access for all depository institutions.
+Second, the Fed should play a more active leadership role, working closely and collaboratively with the providers and users, to enhance efficiency of check and ACH and to help evolve strategies for moving to the next generation of payments instruments.
+The first recommendation--not exiting--got the most attention.
+But the second is far more important--this was not a status quo report.
+The Committee believed that over the next few years, the payments system is likely to (and should) evolve rapidly, and that the Fed and the payments community need to think together about how this evolution can take place to everyone's advantage, especially the consumer.
+The Committee wants to explore how the Fed could play a constructive role, not operationally, but as convener of groups to try to chart new directions for the payments system and remove obstacles to its evolution.
+Specifically, the Committee--which now consists of myself, Governors Kelley and Ferguson, Presidents McDonough and Minehan--is exploring four major initiatives.
+We are considering whether additional steps need to be taken to level the playing field between the Fed and private check processors might increase competition and enhance the efficiency of check collection.
+In particular, would changes in Regulation CC (the same day settlement rule) enhance market competition?
+We are also focussing on the question of whether electronic check presentment (ECP), truncation and imaging--if more widely, or even universally, used--would enhance the efficiency of the check collection system.
+The Committee examined this question in preparing its January report.
+We concluded the jury was still out and that the Fed should work actively with the private sector to array experience and information.
+If wide use of ECP with truncation early in the check collection process would make the system as a whole more efficient, then it's worth mutual thought about what techniques and incentives would get us there faster.
+But we need to consider the possibility that ECP with truncation and imaging is an interim technology in a check market that might be disappearing.
+If so, investing in ECP could be a mistake that would delay the evolution of more cost effective future technologies.
+The Committee wants to focus attention on the usefulness and potential future role of ACH.
+We will be working with providers and users as well as with NACHA to explore how to make ACH services more user-friendly and to increase ACH use for direct deposit of payrolls, direct billing and other actual and potential payments.
+Finally, and most important, we want to interact with the financial services industry, vendors, and potential users to share information about emerging forms of retail electronic payments.
+What are the potential advantages and disadvantages of these new mechanisms?
+Is there a need for new standards, for security safeguards, or for legal changes to enhance the effectiveness of new forms of electronic payments.
+
