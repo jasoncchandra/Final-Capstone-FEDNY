@@ -5,6 +5,9 @@ import pandas as pd
 import plotly.express as px
 import nltk
 import string
+import lime
+from lime.lime_tabular import LimeTabularExplainer
+import xgboost as xgb
 import numpy as np
 import matplotlib.pyplot as plt
 from nltk.tokenize import WordPunctTokenizer
@@ -18,7 +21,6 @@ from corpusutils import CorpusPreProcess, Document, Corpus
 from featureutils import FeatureProcessor, find_closest
 import streamlit.components.v1 as components
 import tempfile
-
 # Download necessary NLTK data
 nltk.download('punkt')
 nltk.download('stopwords')
@@ -50,7 +52,7 @@ st.title('VIX Predictor via Text')
 
 # Sidebar for navigation
 st.sidebar.title('Navigation')
-page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'VIX Historical Data', 'Topic Modelling LDA Interaction', 'Historical Sentiment by Topic', 'FED Minutes Analysis', 'Feature Vectors'])
+page = st.sidebar.selectbox('Select a Page:', ['Introduction', 'Training Process', 'VIX Historical Data', 'Topic Modelling LDA Interaction', 'Historical Sentiment by Topic', 'FED Minutes Analysis', 'Feature Vectors', 'VIX Inference'])
 
 # Introduction Page
 if page == 'Introduction':
@@ -249,12 +251,12 @@ elif page == 'FED Minutes Analysis':
         tokenizer_settings = dict(is_split_into_words=True, max_length=350, padding='max_length', truncation=True, return_tensors="pt")
 
         document_feat = FeatureProcessor(latest_minutes,
-                                         transformer_model=transformer_model,
-                                         transformer_tokenizer=transformer_tokenizer,
-                                         tokenizer_settings=tokenizer_settings,
-                                         lda_model=lda_model,
-                                         lda_vec=vectorizer,
-                                         lda_topic_dict=topic_dict, batch_size=30)
+                                        transformer_model=transformer_model,
+                                        transformer_tokenizer=transformer_tokenizer,
+                                        tokenizer_settings=tokenizer_settings,
+                                        lda_model=lda_model,
+                                        lda_vec=vectorizer,
+                                        lda_topic_dict=topic_dict, batch_size=30)
 
         # Transform documents to get topic distributions
         transformed_docs = vectorizer.transform(latest_minutes)
@@ -411,7 +413,7 @@ elif page == 'Feature Vectors':
             try:
                 new_df['month'] = pd.to_datetime(new_df['file_id'], format='%Y%m%d').dt.to_period('M')
                 new_df.set_index(['month'], inplace=True)
-
+                
                 # Append new data to existing dataframe and display it
                 latest_stats_df = joblib.load(os.path.join(tempfile.gettempdir(), 'latest_stats_df.pkl'))
                 latest_stats_df = pd.concat([latest_stats_df, new_df])
@@ -420,3 +422,100 @@ elif page == 'Feature Vectors':
                 st.dataframe(latest_stats_df)
             except Exception as e:
                 st.error(f"Error converting file_id to datetime: {e}")
+
+# VIX Inference Page
+elif page == 'VIX Inference':
+    st.header('VIX Inference')
+
+    # Load the necessary files for inference
+    try:
+        bst = xgb.Booster()
+        bst.load_model('xgb_model.json')
+        scaler_topics = joblib.load('xgb_scaler_topics.pkl')
+        st.success("Model and scaler loaded successfully.")
+    except Exception as e:
+        st.error(f"Error loading model or scaler: {e}")
+
+    # Load the most recent feature vectors
+    try:
+        latest_stats_df = joblib.load(os.path.join(tempfile.gettempdir(), 'latest_stats_df.pkl'))
+        st.write("Latest Feature Vectors:")
+        st.dataframe(latest_stats_df)
+    except Exception as e:
+        st.error(f"Error loading recent feature vectors: {e}")
+
+    # Select the most recent row for lag features
+    if not latest_stats_df.empty:
+        last_row = latest_stats_df.iloc[-1]
+
+        # Input new data for inference
+        st.subheader('Input New Data for VIX Inference')
+
+        input_data = {
+            'file_id': st.text_input("Date (YYYYMMDD format)", value="20240128"),
+            'Quarterly Economic Performance': st.number_input("Quarterly Economic Performance", value=0.0),
+            'Committee Deliberations and Policies': st.number_input("Committee Deliberations and Policies", value=0.0),
+            'Inflation and Prices': st.number_input("Inflation and Prices", value=0.0),
+            'Economic Growth and Business Activity': st.number_input("Economic Growth and Business Activity", value=0.0),
+            'Credit Markets and Financial Conditions': st.number_input("Credit Markets and Financial Conditions", value=0.0),
+            'Economic Forecasts and Projections': st.number_input("Economic Forecasts and Projections", value=0.0)
+        }
+        if st.button("Predict VIX"):
+                # Allow the user to select which row to use for lagged features
+            st.subheader("Select a Feature Vector for Lagged Features")
+            selected_index = st.selectbox("Select the index of the feature vector to use for lagged features:", latest_stats_df.index)
+
+            # Create a DataFrame for the new data
+            new_data = pd.DataFrame([input_data])
+
+            # Prepare the input data for inference
+            def prepare_input_data(new_data, last_row):
+                # Create lagged features for each of the topic vectors
+                for column in new_data.columns[1:]:
+                    new_data[f'{column}_lag_1'] = last_row[column]
+                
+                # Scale the data
+                X_topics_scaled = scaler_topics.transform(new_data.iloc[:, 1:])
+                
+                return X_topics_scaled
+
+            # Select the specified row for lagged features
+            last_row = latest_stats_df.loc[selected_index]
+
+            X_topics_scaled = prepare_input_data(new_data, last_row)
+
+            # Convert to DMatrix
+            dtest = xgb.DMatrix(X_topics_scaled)
+
+            # Predict the VIX value
+            y_pred = bst.predict(dtest)
+
+            st.write(f'Predicted VIX: {y_pred[0]}')
+
+            # Confidence Interval Calculation
+            st.header('Confidence Interval')
+            y_preds = []
+            num_samples = 1000  # Number of bootstrap samples
+
+            for _ in range(num_samples):
+                bootstrap_sample = np.random.choice(X_topics_scaled.flatten(), size=X_topics_scaled.shape[1], replace=True)
+                dtest_bootstrap = xgb.DMatrix(bootstrap_sample.reshape(1, -1))
+                y_pred_bootstrap = bst.predict(dtest_bootstrap)
+                y_preds.append(y_pred_bootstrap[0])
+
+            lower_bound = np.percentile(y_preds, 2.5)
+            upper_bound = np.percentile(y_preds, 97.5)
+
+            st.write(f'95% Confidence Interval for Predicted VIX: [{lower_bound}, {upper_bound}]')
+
+            # Additional plots
+            st.header('Distribution of Predictions')
+            fig, ax = plt.subplots()
+            ax.hist(y_preds, bins=30, edgecolor='k', alpha=0.7)
+            ax.axvline(np.mean(y_preds), color='r', linestyle='--', label='Mean Prediction')
+            ax.axvline(lower_bound, color='g', linestyle='--', label='2.5th Percentile')
+            ax.axvline(upper_bound, color='b', linestyle='--', label='97.5th Percentile')
+            ax.set_xlabel('Predicted VIX')
+            ax.set_ylabel('Frequency')
+            ax.legend()
+            st.pyplot(fig)
